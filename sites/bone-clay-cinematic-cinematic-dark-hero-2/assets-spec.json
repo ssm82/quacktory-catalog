@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A cinematic editorial photograph of a classic rubber duck rendered in a dusty mauve lacquered finish, placed as a monumental centrepiece inside a dark cinematic void. Seamless backdrop in deep warm-black tone (#120D0A), unbroken, with no horizon line visible. Lighting is a single hard key light from camera-left, casting a long directional shadow across the floor, paired with a thin cool rim light from behind that carves the duck's silhouette in mauve highlight. The duck's surface is glossy and reflective, picking up the accent tone (#C9A2B8) and the surrounding darkness. Camera at a low three-quarter cinematic angle for gravitas. Plain oval pupils, no decorative glint. Mood is quiet, premium, futuristic — a tech-corporate void. Subtle warm amber micro-glow only at the rim line; no off-palette chromatic drift, no warm cast beyond the specified palette. The duck reads as a singular object suspended in black space, anchored only by its shadow.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A product photograph of a tiny classic rubber duck in a dusty mauve lacquered finish, approximately 5 centimetres tall, presented as a keychain. The duck has a small integrated keyring loop at the crown of its head. Seamless backdrop in deep warm-black tone (#120D0A), lit with soft diffused three-point studio lighting — soft key from upper-left, gentle fill from the right, subtle backlight to separate the silhouette. Camera front-facing, slightly elevated at 30 degrees, framing the duck centred. The rubber surface is gently glossy, showing the dusty mauve accent clearly against the dark background. Plain oval pupils, no decorative glint, no sparkle. Surface details — beak seam, body curve, webbed feet — are identical to the classic silhouette. No props except the metal keyring, no off-palette tint, no warm cast beyond the specified palette.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "A product photograph of a classic rubber duck, approximately 15 centimetres tall, finished in a dusty mauve lacquered surface. Seamless backdrop in deep warm-black tone (#120D0A), lit with soft diffused three-point studio lighting — soft key from upper-left, gentle fill from the right, subtle rim light behind to separate the silhouette. Camera front-facing, slightly elevated at 30 degrees, framing the duck centred in the square crop. The body shows the dusty mauve accent colour with a gentle satin sheen, picking up subtle reflections of the lighting. Plain oval pupils, no decorative glint. The classic duck silhouette is preserved exactly — rounded body, flat tail, muted plum beak matching the body tone, webbed feet. No props, no surface texture beyond smooth rubber, no off-palette tint, no warm cast beyond the specified palette.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A product photograph of a designer collaboration rubber duck, approximately 20 centimetres tall, finished in a deep dusty mauve lacquered surface with a high-gloss resin-like sheen. The duck is the same classic silhouette — rounded body, flat tail, webbed feet — with the body colour matching the accent palette tone (#C9A2B8). Seamless backdrop in deep warm-black tone (#120D0A), lit with soft diffused three-point studio lighting: soft key from upper-left, gentle fill from the right, subtle backlight to define the silhouette. Camera front-facing, slightly elevated at 30 degrees, centred framing. The lacquered surface shows fine highlights that suggest a premium collaboration edition. Plain oval pupils, no decorative glint, no sparkle. A subtle geometric facet pattern is etched along the flank as a designer edition detail, in the same muted plum tone. No off-palette tint, no warm cast beyond the specified palette.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A product photograph of a mega-size classic rubber duck, approximately 80 centimetres tall, finished in a dusty mauve lacquered surface. This is a photo-object — the duck fills most of the square frame and commands the composition. Seamless backdrop in deep warm-black tone (#120D0A) extending infinitely. Soft diffused three-point studio lighting — soft key from upper-left, gentle fill from the right, subtle backlight separating the silhouette. Camera front-facing, slightly elevated at 30 degrees, framed close to fill the square. The rubber surface has a satin sheen that catches soft highlights, body in the accent mauve tone (#C9A2B8). Plain oval pupils, no decorative glint. The classic silhouette is preserved exactly — no distortion, no stylisation. No props, no off-palette tint, no warm cast beyond the specified palette. The scale and finish read as a museum-quality collectible.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A product photograph of an architect-scale classic rubber duck, approximately 2 metres tall, presented as a statement installation. The duck stands as a monolithic object, finished in a dusty mauve lacquered surface, identical silhouette to the classic SKU but at architectural scale. Seamless backdrop in deep warm-black tone (#120D0A) suggesting a vast dark gallery space. Soft diffused three-point studio lighting — soft key from upper-left, gentle fill from the right, subtle backlight to define the monumental silhouette. Camera front-facing, slightly elevated at 30 degrees, framed to show the duck occupying most of the square. The lacquered surface picks up broad soft highlights along the body curve. Plain oval pupils, no decorative glint. No props, no surrounding context beyond the dark void, no off-palette tint, no warm cast beyond the specified palette. The duck reads as a sculpture rather than a toy.",
+    "aspect_ratio": "1:1"
+  }
+]

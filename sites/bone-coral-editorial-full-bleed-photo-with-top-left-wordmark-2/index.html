@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quacktory — Factory</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="theme-loco">
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="top" role="banner">
+    <a class="wm" href="#">Quacktory®</a>
+    <nav class="top__nav" aria-label="Main navigation">
+      <a href="#lineup">Range</a>
+      <a href="#about">Workshop</a>
+      <a href="#b2b">B2B</a>
+      <a href="#faq">Contacts</a>
+    </nav>
+    <a class="cta" href="#b2b">Request a quote <span class="cta__dot">×</span></a>
+  </header>
+
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-tag">
+      <h1 class="sr-only" id="hero-tag">Quacktory — digital manufacturing</h1>
+
+      <div class="hero__stage">
+        <div class="hero__lockup">
+          <span class="hero__tile" aria-hidden="true">MI/CL/DZ/MG/AR</span>
+          <h2 class="hero__title">Digital<br>duck manufacturing<span class="hero__ast">*</span></h2>
+        </div>
+        <figure class="hero__face">
+          <img src="./assets/hero-lifestyle.jpg" alt="A Quacktory duck on a red background">
+          <div class="hero__mosaic" aria-hidden="true"></div>
+        </figure>
+        <a class="hero__cta" href="#lineup">browse the lineup <span aria-hidden="true">→</span></a>
+      </div>
+    </section>
+
+    <section class="lineup" id="lineup" aria-label="Range">
+      <header class="lineup__head">
+        <span class="lineup__eyebrow">— 01 / Lineup</span>
+        <h2 class="lineup__title">Five scales</h2>
+      </header>
+      <ul class="lineup__list" role="list">
+        <li><button class="row row--m" data-id="micro"><span class="row__ab">MI</span><span class="row__line">Micro</span><span class="row__size">4–8 cm</span><span class="row__price">from $7</span></button></li>
+        <li><button class="row row--c" data-id="classic"><span class="row__ab">CL</span><span class="row__line">Classic</span><span class="row__size">10–25 cm</span><span class="row__price">mid</span></button></li>
+        <li><button class="row row--d" data-id="designer"><span class="row__ab">DZ</span><span class="row__line">Designer</span><span class="row__size">15–30 cm</span><span class="row__price">mid+</span></button></li>
+        <li><button class="row row--g" data-id="mega"><span class="row__ab">MG</span><span class="row__line">Mega</span><span class="row__size">50–120 cm</span><span class="row__price">premium</span></button></li>
+        <li><button class="row row--a" data-id="architect"><span class="row__ab">AR</span><span class="row__line">Architect</span><span class="row__size">1.5–3 m</span><span class="row__price">on request</span></button></li>
+      </ul>
+    </section>
+
+    <section class="b2b" id="b2b" aria-labelledby="b2b-title">
+      <header class="b2b__head">
+        <span class="b2b__eyebrow">— 02 / B2B</span>
+        <h2 class="b2b__title" id="b2b-title">Bespoke<br>development</h2>
+      </header>
+      <p class="b2b__copy">12 signature Pantone equivalents. Through-body pigment — not paint. Lead times 3 / 6 / 12 weeks. A custom Pantone is a separate quote line, +2 weeks, +15%.</p>
+      <a class="b2b__cta" href="mailto:hi@quacktory.space">Request a quote ↗</a>
+    </section>
+
+    <footer class="leg" aria-label="Footer">
+      <div class="leg__row">
+        <span class="leg__brand">QUACKTORY®</span>
+        <span class="leg__copy">© 2025 · Made in Moscow</span>
+        <span class="leg__count" id="share-count">Share 0 / 132</span>
+        <button class="leg__gear" id="settings-gear">⚙ share</button>
+      </div>
+    </footer>
+  </main>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+    <div class="modal__overlay" data-close></div>
+    <article class="modal__panel">
+      <button class="modal__close" data-close aria-label="Close">×</button>
+      <img class="modal__img" alt="">
+      <div class="modal__body">
+        <span class="modal__num"></span>
+        <h3 class="modal__title" id="modal-title"></h3>
+        <p class="modal__size"></p>
+        <p class="modal__desc"></p>
+        <p class="modal__price"></p>
+        <p class="modal__term"></p>
+      </div>
+    </article>
+  </div>
+  <script src="main.js" defer></script>
+</body>
+</html>

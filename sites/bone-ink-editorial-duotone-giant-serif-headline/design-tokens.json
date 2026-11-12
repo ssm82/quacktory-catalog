@@ -1,0 +1,20 @@
+{
+  "slug": "thefwa_gil-huybrecht",
+  "palette": {
+    "bg": "#0A0A0A",
+    "fg": "#F2F2F2",
+    "accent": "#F5F5F5",
+    "muted": "#9A9A9A",
+    "ink": "#000000",
+    "surface": "#1A1A1A"
+  },
+  "fonts": {
+    "display": "Space Grotesk",
+    "body": "Inter",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "See the work"
+}

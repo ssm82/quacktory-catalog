@@ -1,0 +1,20 @@
+{
+  "slug": "the-fabulous-cartier-journey",
+  "palette": {
+    "bg": "#f1dcbc",
+    "fg": "#ffffff",
+    "accent": "#9bb6c4",
+    "muted": "#a86852",
+    "ink": "#4a3a44",
+    "surface": "#e8e0d4"
+  },
+  "fonts": {
+    "display": "Italiana",
+    "body": "Cormorant Garamond",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Start your journey"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "Editorial product photography: five small rubber ducks in identical silhouette arranged in a precise ascending line from left (smallest, keychain-sized) to right (largest, monumental). They are evenly spaced on a pure white #FFFFFF seamless studio backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused three-point studio lighting, very subtle shadows. The colorway is restrained and editorial: matte charcoal, ivory bone, glossy graphite, warm taupe sand, and pale concrete grey. Front-facing camera, slightly elevated 30 degrees. Clean, museum-vitrine composition, no props. Minimal and high-end product catalog aesthetic."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Small rubber duck, keychain-sized, identical classic duck silhouette (round head, short beak, flat base). Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused three-point studio lighting. Finish: matte charcoal black rubber with subtle brushed texture, no gloss. Camera front-facing slightly elevated 30 degrees. Studio product shot, no props, ultra-clean editorial look. The duck is centered with generous negative space."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Classic rubber duck, medium-sized, identical classic duck silhouette (round head, short beak, flat base). Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused three-point studio lighting. Finish: smooth warm ivory bone with a faint satin sheen, neutral and editorial. Camera front-facing slightly elevated 30 degrees. Studio product shot, no props, ultra-clean editorial look. The duck is centered with generous negative space."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Designer edition rubber duck, medium-large, identical classic duck silhouette (round head, short beak, flat base). Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused three-point studio lighting. Finish: glossy graphite black with a tiny brushed brass accent ring at the neck, premium fashion-object look. Camera front-facing slightly elevated 30 degrees. Studio product shot, no props, ultra-clean editorial look. The duck is centered with generous negative space."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Large rubber duck, oversized format, identical classic duck silhouette (round head, short beak, flat base). Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused three-point studio lighting. Finish: warm taupe sand color, smooth satin matte rubber, calm monumental feel. Camera front-facing slightly elevated 30 degrees. Studio product shot, no props, ultra-clean editorial look. The duck is centered with generous negative space."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Monumental rubber duck, statement-piece scale, identical classic duck silhouette (round head, short beak, flat base). Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused three-point studio lighting. Finish: pale concrete grey, smooth and architectural, matte with a subtle plaster-like surface. Camera front-facing slightly elevated 30 degrees. Studio product shot, no props, ultra-clean editorial look. The duck is centered with generous negative space."
+  }
+]

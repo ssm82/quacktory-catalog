@@ -1,0 +1,20 @@
+{
+  "slug": "we-the-fans",
+  "palette": {
+    "bg": "#071A3D",
+    "fg": "#F4F5F2",
+    "accent": "#FF3B0A",
+    "muted": "#4A8CFF",
+    "ink": "#09245D",
+    "surface": "#0B2A61"
+  },
+  "fonts": {
+    "display": "Sigmar One",
+    "body": "Space Grotesk",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Enter the experience"
+}

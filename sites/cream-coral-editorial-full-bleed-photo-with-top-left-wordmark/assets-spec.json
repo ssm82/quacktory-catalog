@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "Editorial still-life of a classic rubber duck placed on a warm beige desk surface, styled as a curator's archive. The duck sits slightly left of center with a stack of white storage boxes at far left, white cotton gloves and a small brass watch at bottom right, echoing a portfolio desk. A strong diagonal shadow falls top-left to bottom-right across a warm off-white wall (#EEEAE2 tone, seamless backdrop, NOT tinted beyond palette). The duck is rendered in matte porcelain with a warm amber finish pulled from the accent palette (#E84A1D), reading as a calm, archival object rather than a toy. Soft daylight from a single window, no overlay type, no CTA, no graphic lockup. Front-facing, slightly elevated, three-quarter editorial angle. Plain oval pupils, NO decorative glint, no catchlight. Quiet, restrained, content-forward. 16:9 cinematic editorial frame, full-bleed composition with generous negative space above and below the duck.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Tiny classic rubber duck keychain edition, approximately 5cm tall, photographed as a small product specimen. Seamless warm off-white studio backdrop in #EEEAE2 tone, NOT warm amber finish, NOT tinted beyond palette. The duck has a warm amber matte porcelain finish in the accent family (#E84A1D), identical silhouette to the full-size SKU. Front-facing, slightly elevated, 30 degree product angle. Soft diffused studio three-point lighting, even falloff, no hard shadows, no specular highlights. Plain oval pupils, no sparkle, no heart, no star, no glint. Surface reads as smooth matte ceramic, not glossy plastic. No props, no text, no overlay graphics. Tight 1:1 crop, the duck fills roughly 60 percent of the frame, centered with balanced negative space on all sides. Editorial register, quiet and archival, like a museum catalogue plate.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Classic rubber duck workhorse edition, approximately 15cm tall, front-facing and slightly elevated at 30 degrees, centered in frame. Seamless warm off-white studio backdrop in #EEEAE2 tone, NOT warm amber finish, NOT tinted beyond palette. Warm amber matte porcelain finish pulled from the accent color (#E84A1D), identical silhouette across the range. Soft diffused three-point studio lighting with gentle falloff, no harsh shadow, no rim light. Plain oval pupils, no decorative glint, no sparkle, no heart, no star, no pixel. Surface appears smooth and matte, like fired ceramic, not lacquered resin. No props, no props, no overlay type. 1:1 product crop, duck occupies roughly 55 percent of frame, calm editorial catalogue feel, neutral and content-forward, identical body outline, beak and feet across the range.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Designer collaboration edition rubber duck, approximately 20cm tall, same classic silhouette as the rest of the range, treated with a single editorial design accent. Warm amber matte porcelain finish as the base, with a thin slate-blue wordmark line subtly painted along the flank echoing the muted accent of an editorial portfolio. Seamless warm off-white studio backdrop in #EEEAE2 tone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated, 30 degree product angle. Soft diffused three-point studio lighting, calm falloff, no rim. Plain oval pupils, no glint, no sparkle, no heart, no star. Surface reads as matte ceramic, not glossy resin. No overlay graphics, no CTA. 1:1 product crop, duck centered, occupies about 55 percent of the frame, restrained and typographic in feel, identical body outline to the classic SKU.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Mega rubber duck photo-object, approximately 80cm tall, presented as a monumental editorial still-life subject. Same classic rubber duck silhouette as the rest of the range, scaled up and rendered in warm amber matte porcelain finish pulled from the accent color (#E84A1D). Seamless warm off-white studio backdrop in #EEEAE2 tone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated, 30 degree angle, the duck filling most of the frame. Soft diffused three-point studio lighting with a single gentle window-light bias from the upper left, mild falloff, no hard specular, no rim light. Plain oval pupils, no glint, no sparkle, no heart, no star. Surface reads as smooth matte ceramic, like a museum-scale prop. No overlay type, no props competing. 1:1 square crop, the duck occupies roughly 75 percent of the frame, editorial and quiet, identical body outline to the classic SKU.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Architect-scale rubber duck statement installation, approximately 2 meters tall, presented as a single sculptural object in an empty editorial room. Same classic rubber duck silhouette as the rest of the range, scaled to installation size, warm amber matte porcelain finish in the accent family (#E84A1D). Seamless warm off-white studio backdrop in #EEEAE2 tone, NOT warm amber finish, NOT tinted beyond palette, with a faint floor shadow grounding the duck. Front-facing, slightly elevated, 30 degree product angle. Soft diffused three-point studio lighting, large soft source from above, calm falloff, no rim, no glare. Plain oval pupils, no glint, no sparkle, no heart, no star, no pixel. Surface reads as architectural matte ceramic, monumental and quiet. No overlay type, no props, no text lockup. 1:1 square crop, duck centered, occupies roughly 70 percent of the frame, identical body outline, beak and feet to every other SKU in the range.",
+    "aspect_ratio": "1:1"
+  }
+]

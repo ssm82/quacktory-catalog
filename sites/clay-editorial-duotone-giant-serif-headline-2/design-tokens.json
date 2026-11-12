@@ -1,0 +1,20 @@
+{
+  "slug": "spotify-astrology-club",
+  "palette": {
+    "bg": "#FFD079",
+    "fg": "#0B0B0B",
+    "accent": "#E84E2A",
+    "muted": "#FFC758",
+    "ink": "#0B0B0B",
+    "surface": "#4A2DD8"
+  },
+  "fonts": {
+    "display": "Archivo Black",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Tune in"
+}

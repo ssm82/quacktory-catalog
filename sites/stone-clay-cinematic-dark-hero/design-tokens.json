@@ -1,0 +1,20 @@
+{
+  "slug": "for-honor-scars",
+  "palette": {
+    "bg": "#090A08",
+    "fg": "#D8D0C2",
+    "accent": "#A88A55",
+    "muted": "#A49D8E",
+    "ink": "#11110F",
+    "surface": "#20211E"
+  },
+  "fonts": {
+    "display": "Cormorant Garamond",
+    "body": "Barlow Condensed",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Enter the arena"
+}

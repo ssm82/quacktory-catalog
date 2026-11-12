@@ -1,0 +1,504 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quacktory — Serious ducks for un-serious people</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;700;800;900&family=Manrope:wght@400;500;700;800;900&family=Inter:wght@400;500;600;700&family=Caveat:wght@400;700&family=Marck+Script&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- ====== TOP BAR ====== -->
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="Quacktory home">
+      <span class="brand__peak" aria-hidden="true">▲</span>
+      <span class="brand__name">Quacktory</span>
+    </a>
+    <nav class="pillnav" aria-label="Lineup">
+      <a class="pill" href="#size-Micro">Micro</a>
+      <a class="pill" href="#size-Classic">Classic</a>
+      <a class="pill pill--active" href="#size-Designer">Designer</a>
+      <a class="pill" href="#size-Mega">Mega</a>
+      <a class="pill" href="#size-Architect">Architect</a>
+      <a class="pill pill--accent" href="#b2b">B2B →</a>
+    </nav>
+    <div class="utility">
+      <button class="lang" aria-label="Language">EN ▾</button>
+      <a class="iconbtn" href="#" aria-label="Instagram">
+        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1.2" fill="currentColor" stroke="none"/></svg>
+      </a>
+      <a class="iconbtn" href="#" aria-label="Telegram">
+        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m22 2-7 20-4-9-9-4 20-7Z"/><path d="M22 2 11 13"/></svg>
+      </a>
+    </div>
+  </header>
+
+  <!-- ====== HERO ====== -->
+  <section class="hero" id="top">
+    <div class="hero__blobs" aria-hidden="true">
+      <div class="blob blob--1"></div>
+      <div class="blob blob--2"></div>
+      <div class="blob blob--3"></div>
+      <div class="blob blob--4"></div>
+    </div>
+
+    <div class="hero__copy">
+      <span class="hero__eyebrow">— collection 25 / 26</span>
+      <h1 class="hero__title">Serious<br>ducks for<br>un-serious<br>people.</h1>
+      <p class="hero__body">We make ducks you don't want to put in the bath — you want to put on a shelf. Small ones fit in a pocket. Big ones belong in the foyer. All of them belong in frame.</p>
+      <a class="cta" href="#sizes">Become a member <span class="cta__arrow">→</span></a>
+    </div>
+
+    <div class="hero__stage" aria-hidden="true">
+      <!-- Designer (top-left, cropped) -->
+      <button class="duck duck--designer" data-sku="Designer" aria-label="Open Designer">
+        <span class="duck__halo"></span>
+        <span class="duck__svg">
+          <svg viewBox="0 0 280 220" xmlns="http://www.w3.org/2000/svg">
+            <ellipse cx="140" cy="200" rx="105" ry="9" fill="rgba(17,17,17,0.18)"/>
+            <path d="M 30 130 Q 15 110, 28 88 Q 50 105, 58 130 Z" fill="#FFC93C"/>
+            <ellipse cx="135" cy="140" rx="110" ry="55" fill="#FFC93C"/>
+            <ellipse cx="135" cy="170" rx="100" ry="20" fill="rgba(0,0,0,0.15)"/>
+            <circle cx="220" cy="80" r="48" fill="#FFC93C"/>
+            <ellipse cx="220" cy="100" rx="42" ry="20" fill="rgba(0,0,0,0.15)"/>
+            <path d="M 258 80 L 285 90 L 285 100 L 258 105 Z" fill="#E63A82"/>
+            <path d="M 258 80 L 285 90 L 280 95 L 258 92 Z" fill="rgba(0,0,0,0.18)"/>
+            <circle cx="232" cy="68" r="6" fill="#1A1A1A"/>
+            <circle cx="234" cy="66" r="2" fill="#fff"/>
+            <path d="M 80 110 Q 110 90, 180 100 Q 195 130, 180 155 Q 110 165, 80 145 Q 70 125, 80 110 Z" fill="rgba(0,0,0,0.18)"/>
+            <path d="M 95 122 Q 130 118, 172 124" fill="none" stroke="rgba(0,0,0,0.25)" stroke-width="1.5"/>
+            <ellipse cx="120" cy="115" rx="50" ry="6" fill="rgba(255,255,255,0.4)"/>
+          </svg>
+        </span>
+      </button>
+
+      <!-- Architect (right, centerpiece) -->
+      <button class="duck duck--architect" data-sku="Architect" aria-label="Open Architect">
+        <span class="duck__halo"></span>
+        <span class="duck__label duck__label--hand">3 m<br>like a bear</span>
+        <span class="duck__svg">
+          <svg viewBox="0 0 280 220" xmlns="http://www.w3.org/2000/svg">
+            <ellipse cx="140" cy="200" rx="105" ry="9" fill="rgba(17,17,17,0.18)"/>
+            <path d="M 30 130 Q 15 110, 28 88 Q 50 105, 58 130 Z" fill="#FFC93C"/>
+            <ellipse cx="135" cy="140" rx="110" ry="55" fill="#FFC93C"/>
+            <ellipse cx="135" cy="170" rx="100" ry="20" fill="rgba(0,0,0,0.15)"/>
+            <circle cx="220" cy="80" r="48" fill="#FFC93C"/>
+            <ellipse cx="220" cy="100" rx="42" ry="20" fill="rgba(0,0,0,0.15)"/>
+            <path d="M 258 80 L 285 90 L 285 100 L 258 105 Z" fill="#E63A82"/>
+            <path d="M 258 80 L 285 90 L 280 95 L 258 92 Z" fill="rgba(0,0,0,0.18)"/>
+            <circle cx="232" cy="68" r="6" fill="#1A1A1A"/>
+            <circle cx="234" cy="66" r="2" fill="#fff"/>
+            <path d="M 80 110 Q 110 90, 180 100 Q 195 130, 180 155 Q 110 165, 80 145 Q 70 125, 80 110 Z" fill="rgba(0,0,0,0.18)"/>
+            <path d="M 95 122 Q 130 118, 172 124" fill="none" stroke="rgba(0,0,0,0.25)" stroke-width="1.5"/>
+            <ellipse cx="120" cy="115" rx="50" ry="6" fill="rgba(255,255,255,0.4)"/>
+          </svg>
+        </span>
+      </button>
+
+      <!-- Micro (center-bottom, small) -->
+      <button class="duck duck--micro" data-sku="Micro" aria-label="Open Micro">
+        <span class="duck__halo"></span>
+        <span class="duck__svg">
+          <svg viewBox="0 0 280 220" xmlns="http://www.w3.org/2000/svg">
+            <ellipse cx="140" cy="200" rx="105" ry="9" fill="rgba(17,17,17,0.18)"/>
+            <path d="M 30 130 Q 15 110, 28 88 Q 50 105, 58 130 Z" fill="#FFC93C"/>
+            <ellipse cx="135" cy="140" rx="110" ry="55" fill="#FFC93C"/>
+            <ellipse cx="135" cy="170" rx="100" ry="20" fill="rgba(0,0,0,0.15)"/>
+            <circle cx="220" cy="80" r="48" fill="#FFC93C"/>
+            <ellipse cx="220" cy="100" rx="42" ry="20" fill="rgba(0,0,0,0.15)"/>
+            <path d="M 258 80 L 285 90 L 285 100 L 258 105 Z" fill="#E63A82"/>
+            <path d="M 258 80 L 285 90 L 280 95 L 258 92 Z" fill="rgba(0,0,0,0.18)"/>
+            <circle cx="232" cy="68" r="6" fill="#1A1A1A"/>
+            <circle cx="234" cy="66" r="2" fill="#fff"/>
+            <path d="M 80 110 Q 110 90, 180 100 Q 195 130, 180 155 Q 110 165, 80 145 Q 70 125, 80 110 Z" fill="rgba(0,0,0,0.18)"/>
+            <ellipse cx="120" cy="115" rx="50" ry="6" fill="rgba(255,255,255,0.4)"/>
+          </svg>
+        </span>
+      </button>
+
+      <!-- Classic (bottom-left, cropped) -->
+      <button class="duck duck--classic" data-sku="Classic" aria-label="Open Classic">
+        <span class="duck__halo"></span>
+        <span class="duck__svg">
+          <svg viewBox="0 0 280 220" xmlns="http://www.w3.org/2000/svg">
+            <ellipse cx="140" cy="200" rx="105" ry="9" fill="rgba(17,17,17,0.18)"/>
+            <path d="M 30 130 Q 15 110, 28 88 Q 50 105, 58 130 Z" fill="#FFC93C"/>
+            <ellipse cx="135" cy="140" rx="110" ry="55" fill="#FFC93C"/>
+            <ellipse cx="135" cy="170" rx="100" ry="20" fill="rgba(0,0,0,0.15)"/>
+            <circle cx="220" cy="80" r="48" fill="#FFC93C"/>
+            <ellipse cx="220" cy="100" rx="42" ry="20" fill="rgba(0,0,0,0.15)"/>
+            <path d="M 258 80 L 285 90 L 285 100 L 258 105 Z" fill="#E63A82"/>
+            <path d="M 258 80 L 285 90 L 280 95 L 258 92 Z" fill="rgba(0,0,0,0.18)"/>
+            <circle cx="232" cy="68" r="6" fill="#1A1A1A"/>
+            <circle cx="234" cy="66" r="2" fill="#fff"/>
+            <path d="M 80 110 Q 110 90, 180 100 Q 195 130, 180 155 Q 110 165, 80 145 Q 70 125, 80 110 Z" fill="rgba(0,0,0,0.18)"/>
+            <ellipse cx="120" cy="115" rx="50" ry="6" fill="rgba(255,255,255,0.4)"/>
+          </svg>
+        </span>
+      </button>
+
+      <!-- Mega (right-bottom, cropped) -->
+      <button class="duck duck--mega" data-sku="Mega" aria-label="Open Mega">
+        <span class="duck__halo"></span>
+        <span class="duck__svg">
+          <svg viewBox="0 0 280 220" xmlns="http://www.w3.org/2000/svg">
+            <ellipse cx="140" cy="200" rx="105" ry="9" fill="rgba(17,17,17,0.18)"/>
+            <path d="M 30 130 Q 15 110, 28 88 Q 50 105, 58 130 Z" fill="#FFC93C"/>
+            <ellipse cx="135" cy="140" rx="110" ry="55" fill="#FFC93C"/>
+            <ellipse cx="135" cy="170" rx="100" ry="20" fill="rgba(0,0,0,0.15)"/>
+            <circle cx="220" cy="80" r="48" fill="#FFC93C"/>
+            <ellipse cx="220" cy="100" rx="42" ry="20" fill="rgba(0,0,0,0.15)"/>
+            <path d="M 258 80 L 285 90 L 285 100 L 258 105 Z" fill="#E63A82"/>
+            <path d="M 258 80 L 285 90 L 280 95 L 258 92 Z" fill="rgba(0,0,0,0.18)"/>
+            <circle cx="232" cy="68" r="6" fill="#1A1A1A"/>
+            <circle cx="234" cy="66" r="2" fill="#fff"/>
+            <path d="M 80 110 Q 110 90, 180 100 Q 195 130, 180 155 Q 110 165, 80 145 Q 70 125, 80 110 Z" fill="rgba(0,0,0,0.18)"/>
+            <ellipse cx="120" cy="115" rx="50" ry="6" fill="rgba(255,255,255,0.4)"/>
+          </svg>
+        </span>
+      </button>
+    </div>
+
+    <div class="hero__shipping" aria-hidden="true">
+      <span class="hero__shipping-text">Shipping to the world<br>in cardboard &amp;<br>wooden crates.</span>
+    </div>
+  </section>
+
+  <!-- ====== SIZES (fan of 5 cards) ====== -->
+  <section class="sizes" id="sizes">
+    <header class="sizes__header">
+      <span class="section__eyebrow">— lineup</span>
+      <h2 class="section__title">Five sizes.<br>One silhouette.</h2>
+      <p class="sizes__sub">Consider us your professional duck curator — from a 4 cm keychain to a 3 m installation.</p>
+    </header>
+
+    <div class="fan">
+      <article class="card card--micro" id="size-Micro" data-sku="Micro">
+        <span class="card__num">01</span>
+        <div class="card__art">
+          <span class="card__halo"></span>
+          <svg class="card__duck" viewBox="0 0 280 220" xmlns="http://www.w3.org/2000/svg">
+            <ellipse cx="140" cy="200" rx="100" ry="8" fill="rgba(17,17,17,0.18)"/>
+            <ellipse cx="135" cy="140" rx="100" ry="50" fill="#FFC93C"/>
+            <circle cx="215" cy="80" r="42" fill="#FFC93C"/>
+            <path d="M 250 80 L 275 90 L 275 100 L 250 105 Z" fill="#E63A82"/>
+            <circle cx="225" cy="70" r="5" fill="#1A1A1A"/>
+            <path d="M 80 115 Q 110 100, 170 110 Q 185 135, 170 155 Q 110 160, 80 145 Q 72 130, 80 115 Z" fill="rgba(0,0,0,0.18)"/>
+          </svg>
+        </div>
+        <h3 class="card__title">Micro</h3>
+        <p class="card__size">4–8 cm</p>
+        <p class="card__compare">like a thumb</p>
+        <p class="card__body">Keychains, merch, gifts up to $7. Injection molding, steel mold, 8 cavities, ~45 sec/cycle.</p>
+        <p class="card__meta">from $3.50 / pc · today · 6+ · choking hazard</p>
+      </article>
+
+      <article class="card card--classic" id="size-Classic" data-sku="Classic">
+        <span class="card__num">02</span>
+        <div class="card__art">
+          <span class="card__halo"></span>
+          <svg class="card__duck" viewBox="0 0 280 220" xmlns="http://www.w3.org/2000/svg">
+            <ellipse cx="140" cy="200" rx="100" ry="8" fill="rgba(17,17,17,0.18)"/>
+            <ellipse cx="135" cy="140" rx="105" ry="52" fill="#FFC93C"/>
+            <circle cx="218" cy="82" r="44" fill="#FFC93C"/>
+            <path d="M 254 82 L 280 92 L 280 102 L 254 107 Z" fill="#E63A82"/>
+            <circle cx="229" cy="72" r="5" fill="#1A1A1A"/>
+            <path d="M 75 110 Q 108 95, 175 105 Q 190 132, 175 152 Q 108 158, 75 142 Q 68 128, 75 110 Z" fill="rgba(0,0,0,0.18)"/>
+          </svg>
+        </div>
+        <h3 class="card__title">Classic</h3>
+        <p class="card__size">10–25 cm</p>
+        <p class="card__compare">like a cat</p>
+        <p class="card__body">Kids, bath, office. Compression molding, aluminum mold, ~3 min/cycle.</p>
+        <p class="card__meta">from $12 / pc · 3 weeks · 3+ · incl. domestic shipping</p>
+      </article>
+
+      <article class="card card--designer" id="size-Designer" data-sku="Designer">
+        <span class="card__num">03</span>
+        <div class="card__art">
+          <span class="card__halo"></span>
+          <svg class="card__duck" viewBox="0 0 280 220" xmlns="http://www.w3.org/2000/svg">
+            <ellipse cx="140" cy="200" rx="100" ry="8" fill="rgba(17,17,17,0.22)"/>
+            <ellipse cx="135" cy="140" rx="108" ry="54" fill="#FFC93C"/>
+            <ellipse cx="135" cy="170" rx="95" ry="18" fill="rgba(0,0,0,0.2)"/>
+            <circle cx="218" cy="80" r="46" fill="#FFC93C"/>
+            <ellipse cx="218" cy="100" rx="38" ry="18" fill="rgba(0,0,0,0.18)"/>
+            <path d="M 256 80 L 282 90 L 282 100 L 256 105 Z" fill="#E63A82"/>
+            <path d="M 256 80 L 282 90 L 277 95 L 256 92 Z" fill="rgba(0,0,0,0.2)"/>
+            <circle cx="230" cy="68" r="5.5" fill="#1A1A1A"/>
+            <circle cx="231.5" cy="66.5" r="1.8" fill="#fff"/>
+            <path d="M 75 108 Q 108 92, 175 102 Q 192 132, 175 155 Q 108 162, 75 145 Q 65 128, 75 108 Z" fill="rgba(0,0,0,0.22)"/>
+            <path d="M 90 120 Q 130 116, 168 122" fill="none" stroke="rgba(0,0,0,0.25)" stroke-width="1.5"/>
+            <ellipse cx="118" cy="115" rx="46" ry="5" fill="rgba(255,255,255,0.45)"/>
+          </svg>
+        </div>
+        <h3 class="card__title">Designer</h3>
+        <p class="card__size">15–30 cm</p>
+        <p class="card__compare">collab with an illustrator</p>
+        <p class="card__body">Collaborations with illustrators, limited editions. Hand-poured silicone mold ≤300 pcs, runs >300 — compression.</p>
+        <p class="card__meta">from $35 / pc · 6 weeks · 6+ · collectible object</p>
+      </article>
+
+      <article class="card card--mega" id="size-Mega" data-sku="Mega">
+        <span class="card__num">04</span>
+        <div class="card__art">
+          <span class="card__halo"></span>
+          <svg class="card__duck" viewBox="0 0 280 220" xmlns="http://www.w3.org/2000/svg">
+            <ellipse cx="140" cy="200" rx="105" ry="9" fill="rgba(17,17,17,0.18)"/>
+            <ellipse cx="135" cy="140" rx="110" ry="55" fill="#FFC93C"/>
+            <ellipse cx="135" cy="170" rx="98" ry="20" fill="rgba(0,0,0,0.15)"/>
+            <circle cx="220" cy="80" r="48" fill="#FFC93C"/>
+            <ellipse cx="220" cy="100" rx="42" ry="20" fill="rgba(0,0,0,0.15)"/>
+            <path d="M 258 80 L 285 90 L 285 100 L 258 105 Z" fill="#E63A82"/>
+            <circle cx="232" cy="68" r="6" fill="#1A1A1A"/>
+            <path d="M 75 108 Q 110 90, 180 100 Q 195 130, 180 155 Q 110 165, 75 145 Q 65 125, 75 108 Z" fill="rgba(0,0,0,0.18)"/>
+          </svg>
+        </div>
+        <h3 class="card__title">Mega</h3>
+        <p class="card__size">50–120 cm</p>
+        <p class="card__compare">like a child</p>
+        <p class="card__body">Photo objects, window displays, gift-experiences. Rotational molding, steel split mold, ~2 h/cycle + 8 h cooling.</p>
+        <p class="card__meta">price on request · 6 weeks · not a toy, decor</p>
+      </article>
+
+      <article class="card card--architect" id="size-Architect" data-sku="Architect">
+        <span class="card__num">05</span>
+        <div class="card__art">
+          <span class="card__halo"></span>
+          <svg class="card__duck" viewBox="0 0 280 220" xmlns="http://www.w3.org/2000/svg">
+            <ellipse cx="140" cy="200" rx="108" ry="10" fill="rgba(17,17,17,0.2)"/>
+            <path d="M 25 130 Q 8 110, 22 82 Q 48 102, 56 130 Z" fill="#FFC93C"/>
+            <ellipse cx="135" cy="140" rx="112" ry="56" fill="#FFC93C"/>
+            <ellipse cx="135" cy="172" rx="100" ry="22" fill="rgba(0,0,0,0.18)"/>
+            <circle cx="222" cy="78" r="50" fill="#FFC93C"/>
+            <ellipse cx="222" cy="102" rx="44" ry="22" fill="rgba(0,0,0,0.18)"/>
+            <path d="M 262 78 L 290 88 L 290 100 L 262 106 Z" fill="#E63A82"/>
+            <path d="M 262 78 L 290 88 L 284 94 L 262 90 Z" fill="rgba(0,0,0,0.2)"/>
+            <circle cx="234" cy="66" r="6.5" fill="#1A1A1A"/>
+            <circle cx="236" cy="64" r="2" fill="#fff"/>
+            <path d="M 72 106 Q 108 88, 184 98 Q 198 132, 184 158 Q 108 168, 72 148 Q 60 126, 72 106 Z" fill="rgba(0,0,0,0.2)"/>
+            <path d="M 88 120 Q 132 116, 178 124" fill="none" stroke="rgba(0,0,0,0.3)" stroke-width="1.5"/>
+            <ellipse cx="118" cy="115" rx="50" ry="6" fill="rgba(255,255,255,0.5)"/>
+          </svg>
+        </div>
+        <h3 class="card__title">Architect</h3>
+        <p class="card__size">1.5–3 m</p>
+        <p class="card__compare">like a bear</p>
+        <p class="card__body">Installations, events, weddings, branded spaces. Sculptural cast from a master model, 2–4 weeks per duck.</p>
+        <p class="card__meta">product passport · 12 weeks · installation</p>
+      </article>
+    </div>
+
+    <!-- scale bar — physical size from 4 cm to 3 m -->
+    <div class="scalebar" aria-label="Size scale from 4 cm to 3 m">
+      <div class="scalebar__end">
+        <span class="scalebar__duck scalebar__duck--micro" aria-hidden="true"></span>
+        <div class="scalebar__text">
+          <strong>Micro</strong>
+          <span>4 cm · thumb</span>
+        </div>
+      </div>
+      <div class="scalebar__track" aria-hidden="true">
+        <span class="scalebar__tick" style="left:0%; background:#3FD9D7"></span>
+        <span class="scalebar__tick" style="left:25%; background:#FFD93D"></span>
+        <span class="scalebar__tick" style="left:50%; background:#E91FB8"></span>
+        <span class="scalebar__tick" style="left:75%; background:#F39C2C"></span>
+        <span class="scalebar__tick" style="left:100%; background:#A084DC"></span>
+      </div>
+      <div class="scalebar__end">
+        <div class="scalebar__text scalebar__text--r">
+          <strong>Architect</strong>
+          <span>3 m · bear</span>
+        </div>
+        <span class="scalebar__duck scalebar__duck--architect" aria-hidden="true"></span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ====== PRODUCTION ====== -->
+  <section class="production" id="production">
+    <div class="production__head">
+      <span class="section__eyebrow section__eyebrow--light">— production</span>
+      <h2 class="section__title section__title--light">How we make our ducks.</h2>
+      <p class="production__sub">Single-piece cast from vulcanized rubber. No plastic inserts, no metal inside, no glued seams. Eyes are paint, not stickers.</p>
+    </div>
+
+    <div class="production__grid">
+      <div class="prodcard">
+        <span class="prodcard__num">01</span>
+        <h3 class="prodcard__title">Casting by size</h3>
+        <p class="prodcard__body">Food-grade silicone for Micro and Classic. Natural rubber with EPDM additives for Designer, Mega, and Architect. Each SKU has its own tooling and its own cycle.</p>
+      </div>
+      <div class="prodcard">
+        <span class="prodcard__num">02</span>
+        <h3 class="prodcard__title">Eyes as a signature</h3>
+        <p class="prodcard__body">The base mold relief is invariant. Pigment is applied by hand after vulcanization, using food-grade silicone dye that's UV- and water-resistant.</p>
+      </div>
+      <div class="prodcard">
+        <span class="prodcard__num">03</span>
+        <h3 class="prodcard__title">5 QC checks</h3>
+        <p class="prodcard__body">Visual, geometry ±2%, 5 drops from 1 m, odor test, gravimetry ±3%. For Architect — ultrasonic frame check and photo installation protocol.</p>
+      </div>
+      <div class="prodcard">
+        <span class="prodcard__num">04</span>
+        <h3 class="prodcard__title">Compliance</h3>
+        <p class="prodcard__body">GOST 25779-83, EN 71-3, REACH. Free of phthalates and bisphenol A. Indoor only. Operating range −20 °C … +60 °C.</p>
+      </div>
+      <div class="prodcard">
+        <span class="prodcard__num">05</span>
+        <h3 class="prodcard__title">Packaging</h3>
+        <p class="prodcard__body">Recycled cardboard for small SKUs, corrugated box with insert for Mega, wooden crate with climate control for Architect.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ====== B2B ====== -->
+  <section class="b2b" id="b2b">
+    <div class="b2b__head">
+      <span class="section__eyebrow">— B2B / custom</span>
+      <h2 class="section__title">Custom color<br>from our palette.</h2>
+      <p class="b2b__sub">12 signature Pantone equivalents — TPM, the Quacktory Pigment Menu. Pigment goes through the body BEFORE casting — not a surface paint, but a mass coloration. Durable, predictable pricing, clear timelines.</p>
+    </div>
+
+    <div class="pigments" aria-label="TPM — Quacktory Pigment Menu">
+      <div class="pigment"><span class="pigment__swatch" style="background:#E63A82"></span><span class="pigment__name">Quack Magenta</span><span class="pigment__code">TPM-01</span></div>
+      <div class="pigment"><span class="pigment__swatch" style="background:#F2B632"></span><span class="pigment__name">Marigold</span><span class="pigment__code">TPM-02</span></div>
+      <div class="pigment"><span class="pigment__swatch" style="background:#FFD93D"></span><span class="pigment__name">Sun Yellow</span><span class="pigment__code">TPM-03</span></div>
+      <div class="pigment"><span class="pigment__swatch" style="background:#F39C2C"></span><span class="pigment__name">Coral</span><span class="pigment__code">TPM-04</span></div>
+      <div class="pigment"><span class="pigment__swatch" style="background:#E84B30"></span><span class="pigment__name">Tomato</span><span class="pigment__code">TPM-05</span></div>
+      <div class="pigment"><span class="pigment__swatch" style="background:#8C1E2A"></span><span class="pigment__name">Brick</span><span class="pigment__code">TPM-06</span></div>
+      <div class="pigment"><span class="pigment__swatch" style="background:#5B1E3A"></span><span class="pigment__name">Wine</span><span class="pigment__code">TPM-07</span></div>
+      <div class="pigment"><span class="pigment__swatch" style="background:#6B4FB8"></span><span class="pigment__name">Plum</span><span class="pigment__code">TPM-08</span></div>
+      <div class="pigment"><span class="pigment__swatch" style="background:#A084DC"></span><span class="pigment__name">Lavender</span><span class="pigment__code">TPM-09</span></div>
+      <div class="pigment"><span class="pigment__swatch" style="background:#3FD9D7"></span><span class="pigment__name">Mint</span><span class="pigment__code">TPM-10</span></div>
+      <div class="pigment"><span class="pigment__swatch" style="background:#2A8E92"></span><span class="pigment__name">Deep Cyan</span><span class="pigment__code">TPM-11</span></div>
+      <div class="pigment"><span class="pigment__swatch" style="background:#8A8E3C"></span><span class="pigment__name">Olive</span><span class="pigment__code">TPM-12</span></div>
+    </div>
+
+    <div class="b2b__form">
+      <form>
+        <label><span>Name</span><input type="text" name="name" placeholder="Anna Petrova"></label>
+        <label><span>Company</span><input type="text" name="company" placeholder="LLC 'Daisy'"></label>
+        <label><span>Lineup</span>
+          <select name="line">
+            <option>Micro</option>
+            <option>Classic</option>
+            <option>Designer</option>
+            <option>Mega</option>
+            <option>Architect</option>
+          </select>
+        </label>
+        <label><span>Pigment</span>
+          <select name="pigment">
+            <option>Any of the 12 TPM</option>
+            <option>Quack Magenta (TPM-01)</option>
+            <option>Marigold (TPM-02)</option>
+            <option>Sun Yellow (TPM-03)</option>
+            <option>Custom Pantone — formula development (+15%, +2 weeks)</option>
+          </select>
+        </label>
+        <label class="full"><span>Quantity</span><input type="text" name="qty" placeholder="from 50 pcs"></label>
+        <label class="full"><span>RFQ notes</span><textarea name="note" rows="3" placeholder="tell us about the use case — window display, event, brand zone, wedding"></textarea></label>
+        <button type="submit" class="cta cta--wide">Request a quote →</button>
+      </form>
+
+      <aside class="b2b__side">
+        <h3>Lead times</h3>
+        <ul>
+          <li><b>Micro / Classic</b><span>3 weeks</span></li>
+          <li><b>Designer</b><span>6 weeks</span></li>
+          <li><b>Mega</b><span>6 weeks</span></li>
+          <li><b>Architect</b><span>12 weeks + installation</span></li>
+        </ul>
+        <h3>Custom geometry</h3>
+        <p>A new duck shape, a branded mascot figure — discussed individually. CNC-cut polystyrene master model, fiberglass mold, separate line in the quote.</p>
+        <h3>Logistics</h3>
+        <p>Courier for small SKUs, pallet delivery for Mega, climate-controlled special transport for Architect. A care card and QR for instructions in every box.</p>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ====== FOOTER ====== -->
+  <footer class="footer">
+    <div class="footer__brand">
+      <a class="brand" href="#top"><span class="brand__peak" aria-hidden="true">▲</span><span class="brand__name">Quacktory</span></a>
+      <p>Serious ducks<br>for not-so-serious people.</p>
+    </div>
+    <div class="footer__col">
+      <h4>Lineup</h4>
+      <a href="#size-Micro">Micro</a>
+      <a href="#size-Classic">Classic</a>
+      <a href="#size-Designer">Designer</a>
+      <a href="#size-Mega">Mega</a>
+      <a href="#size-Architect">Architect</a>
+    </div>
+    <div class="footer__col">
+      <h4>For customers</h4>
+      <a href="#production">How we make them</a>
+      <a href="#b2b">B2B / Custom</a>
+      <a href="#">Duck care</a>
+      <a href="#">Compliance</a>
+    </div>
+    <div class="footer__col">
+      <h4>Contacts</h4>
+      <a href="mailto:hello@quacktory.space">hello@quacktory.space</a>
+      <a href="tel:+74950000000">+7 495 000-00-00</a>
+      <a>Moscow, Bolshaya<br>Novodmitrovskaya 36/4</a>
+    </div>
+    <div class="footer__legal">
+      <span>© 2025 Quacktory. All ducks are accounted for.</span>
+      <span>GOST 25779-83 · EN 71-3 · REACH</span>
+    </div>
+  </footer>
+
+  <!-- ====== MODAL ====== -->
+  <div class="modal" id="duckModal" aria-hidden="true" role="dialog" aria-labelledby="modalTitle">
+    <div class="modal__inner">
+      <button class="modal__close" aria-label="Close">✕</button>
+      <div class="modal__visual" id="modalVisual">
+        <svg class="modal__duck" viewBox="0 0 280 220" xmlns="http://www.w3.org/2000/svg" id="modalDuckSvg">
+          <ellipse cx="140" cy="200" rx="108" ry="10" fill="rgba(17,17,17,0.2)"/>
+          <path d="M 25 130 Q 8 110, 22 82 Q 48 102, 56 130 Z" fill="#FFC93C"/>
+          <ellipse cx="135" cy="140" rx="112" ry="56" fill="#FFC93C"/>
+          <ellipse cx="135" cy="172" rx="100" ry="22" fill="rgba(0,0,0,0.18)"/>
+          <circle cx="222" cy="78" r="50" fill="#FFC93C"/>
+          <ellipse cx="222" cy="102" rx="44" ry="22" fill="rgba(0,0,0,0.18)"/>
+          <path d="M 262 78 L 290 88 L 290 100 L 262 106 Z" fill="#E63A82"/>
+          <path d="M 262 78 L 290 88 L 284 94 L 262 90 Z" fill="rgba(0,0,0,0.2)"/>
+          <circle cx="234" cy="66" r="6.5" fill="#1A1A1A"/>
+          <circle cx="236" cy="64" r="2" fill="#fff"/>
+          <path d="M 72 106 Q 108 88, 184 98 Q 198 132, 184 158 Q 108 168, 72 148 Q 60 126, 72 106 Z" fill="rgba(0,0,0,0.2)"/>
+          <path d="M 88 120 Q 132 116, 178 124" fill="none" stroke="rgba(0,0,0,0.3)" stroke-width="1.5"/>
+          <ellipse cx="118" cy="115" rx="50" ry="6" fill="rgba(255,255,255,0.5)"/>
+        </svg>
+      </div>
+      <div class="modal__copy">
+        <p class="modal__sku" id="modalSku">— SKU —</p>
+        <h2 class="modal__title" id="modalTitle">— Size —</h2>
+        <p class="modal__size" id="modalSizeHand">— comparison —</p>
+        <p class="modal__body" id="modalBody">— description —</p>
+        <dl class="modal__spec" id="modalSpec">
+          <div><dt>Price</dt><dd>—</dd></div>
+          <div><dt>Lead time</dt><dd>—</dd></div>
+          <div><dt>Age</dt><dd>—</dd></div>
+          <div><dt>Packaging</dt><dd>—</dd></div>
+        </dl>
+        <button class="cta cta--wide">Add to cart →</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ====== FAB (settings) ====== -->
+  <button class="fab" aria-label="Settings and font">
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="3"/>
+      <path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1Z"/>
+    </svg>
+  </button>
+
+  <script src="main.js" defer></script>
+</body>
+</html>

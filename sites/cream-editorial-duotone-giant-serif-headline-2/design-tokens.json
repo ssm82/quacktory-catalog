@@ -1,0 +1,20 @@
+{
+  "slug": "silencio-digital-products",
+  "palette": {
+    "bg": "#F0EEEA",
+    "fg": "#1A1A1A",
+    "accent": "#111111",
+    "muted": "#C9C7C3",
+    "ink": "#111111",
+    "surface": "#EFEDE8"
+  },
+  "fonts": {
+    "display": "Archivo Narrow",
+    "body": "Archivo",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Open the studio"
+}

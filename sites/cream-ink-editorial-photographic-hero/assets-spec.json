@@ -1,0 +1,20 @@
+[
+  {"filename": "hero-lifestyle.jpg",
+   "prompt": "Lifestyle scene: a single rubber duck in matte olive-green finish wearing a tiny leaf collar, sitting on a terracotta clay dish surrounded by real dried leaves and soil, warm forest green atmosphere, botanical atelier aesthetic. Soft diffused window light, moody greenhouse. Camera: front-facing, slightly elevated 30 degrees.",
+   "aspect_ratio": "16:9"},
+  {"filename": "product-micro.jpg",
+   "prompt": "Small rubber duck in matte olive-green finish with a tiny leaf collar, keychain-sized, botanical atelier aesthetic. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-classic.jpg",
+   "prompt": "Classic 15cm rubber duck in warm walnut-brown matte finish with a single dried leaf tucked at the beak, botanical atelier aesthetic. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-designer.jpg",
+   "prompt": "Designer 20cm rubber duck in rust-terracotta matte finish with a small botanical sprig collar, limited edition botanical atelier piece. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-mega.jpg",
+   "prompt": "Large 50cm rubber duck in warm tan matte finish with a leaf-vest prop, monumental botanical atelier showpiece. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-architect.jpg",
+   "prompt": "Monumental 1.5m rubber duck sculpture in deep forest green matte finish with a botanical wreath collar, statement greenhouse piece, botanical atelier aesthetic. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees, slightly more pulled-back to capture the scale.",
+   "aspect_ratio": "1:1"}
+]

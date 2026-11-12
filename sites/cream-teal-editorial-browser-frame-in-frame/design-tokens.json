@@ -1,0 +1,22 @@
+{
+  "slug": "floema",
+  "palette": {
+    "bg": "#EDE6DC",
+    "fg": "#0E0E0E",
+    "accent": "#5E7A3B",
+    "muted": "#A89E8E",
+    "ink": "#1A1A1A",
+    "surface": "#F4F1EC",
+    "flora": "#6B8A4A",
+    "ochre": "#F2D24A"
+  },
+  "fonts": {
+    "display": "Manrope",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "B",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Get in touch"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A classic rubber duck in a warm pink finish (#F4B6C8) presented as a framed installation, sitting monumentally inside a large rounded rectangular frame that floats against a seamless backdrop in muted teal (#7CB8A6) watercolor wash — not yellow, not tinted beyond palette. Editorial register: matte porcelain surface, soft window light from upper left, low cinematic angle for monumentality. Two delicate painterly limb shapes — one peach (#D4A78A), one green (#7FBF6E) — reach into the frame from opposite corners, deliberately breaking the rounded rectangle. Inside the frame, a soft sky-to-water gradient (#D9E8EE to #F2F7F9) sits behind the duck. A few floating petal shapes in pink (#F4B6C8) drift at the edges with watercolor bleed. Plain oval pupil on the duck, no decorative glint. Cool base warmed only by the duck and the two limbs. The duck is the calm central anchor of a dreamy, painterly, framed world."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Tiny classic rubber duck, keychain size (4–8 cm), in warm pink finish (#F4B4C8 family), front-facing slightly elevated 30°. Seamless backdrop in muted teal (#7CB8A6) tone, not yellow, not tinted beyond palette. Editorial register: matte porcelain surface, soft diffused three-point studio lighting with gentle window light from camera left. The miniature duck rests on a pale surface (#F2F7F9) with a small silver keyring through its head loop. A single soft pink petal accent (#F4B6C8) sits to the side as quiet scale reference. Plain oval pupil, no decorative glint. Identical silhouette to the larger SKUs — only apparent size, surface finish, and keychain context differ. Soft contrast, painterly mood, generous negative space, dreamy and contained."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The workhorse classic rubber duck (10–25 cm) in warm pink finish (#F4B6C8), front-facing slightly elevated 30°. Seamless backdrop in muted teal (#7CB8A6) tone, not yellow, not tinted beyond palette. Editorial register: matte porcelain surface, soft diffused three-point studio, soft window light from upper left giving porcelain-like calm. The duck sits on a pale porcelain surface (#F2F7F9) with one subtle floating petal shape in pale blue (#D9E8EE) near the foot. Plain oval pupil, no decorative glint. Identical silhouette to all other SKUs in the line. Cool base warmed gently by the pink duck. The product reads as the calm center of a painterly, framed, dreamy composition with premium negative space."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Collaboration edition classic rubber duck (15–30 cm) in warm pink base finish (#F4B6C8) with a per-direction painterly treatment: a thin lavender brushstroke (#A38AC2) sweeping along the back, a small mauve mark near the wing, and a faint warm earth accent (#8A6A4A) at the tail — hand-painted, watercolor quality. Front-facing slightly elevated 30°. Seamless backdrop in muted teal (#7CB8A6) tone, not yellow, not tinted beyond palette. Editorial register: matte porcelain surface, soft diffused three-point studio. Two or three floating petals in pink (#F4B6C8) and pale blue (#D9E8EE) softly frame the duck. Plain oval pupil, no decorative glint. Identical silhouette. Dreamy, painterly, framed, playful mood with the lavender-green inside the duck echoing the cool palette base."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Large photo-object classic rubber duck (50–120 cm) in warm pink finish (#F4B6C8), front-facing slightly elevated 30° to capture its mass. Seamless backdrop in muted teal (#7CB8A6) tone, not yellow, not tinted beyond palette, treated as a soft watercolor wash that fades into pale surface (#D9E8EE to #F2F7F9) at the floor line. Editorial register: matte porcelain surface, soft diffused three-point studio with a slight cinematic side light to model the form. The duck rests on a pale low platform with a soft diffuse shadow. A few scattered petals in pink (#F4B6C8) and pale blue (#D9E8EE) sit near the base. Plain oval pupil, no decorative glint. Identical silhouette. Painterly, dreamy, framed, monumental-yet-gentle mood."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Statement-installation classic rubber duck (1.5–3 m) in warm pink finish (#F4B6C8), photographed front-facing with a slightly elevated 30° camera tilted up to read the monumentality. Seamless backdrop in muted teal (#7CB8A6) tone, not yellow, not tinted beyond palette, rendered as a soft watercolor wash. Editorial register: matte porcelain surface, soft window light from above and three-point fill, no harsh specular. The giant duck sits on a pale platform (#F2F7F9) with a long soft shadow. A small human-scale reference — just a single shoe edge or foot at the lower corner — provides scale without dominating. A few floating petal shapes in pink (#F4B6C8) and pale blue (#D9E8EE) drift nearby. Plain oval pupil, no decorative glint. Identical silhouette. Dreamy, painterly, framed, quiet monument."
+  }
+]

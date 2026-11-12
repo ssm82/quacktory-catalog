@@ -1,0 +1,2941 @@
+{
+  "summary": {
+    "count": 154,
+    "generated_at": "2026-11-12T07:32:00Z"
+  },
+  "entries": [
+    {
+      "slug": "bone-clay-cinematic-cinematic-dark-hero",
+      "title": "bone + clay · cinematic · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#2D3744",
+        "#FFFFFF",
+        "#F4B81E"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Source Sans 3"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #2D3744, #FFFFFF, #F4B81E. Typography pairs Anton (display) with Source Sans 3 (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption.…",
+      "site_url": "./sites/bone-clay-cinematic-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/bone-clay-cinematic-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-clay-cinematic-cinematic-dark-hero-2",
+      "title": "bone + clay · cinematic · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#120D0A",
+        "#FFFFFF",
+        "#C9A2B8"
+      ],
+      "fonts": {
+        "display": "Inter",
+        "body": "Inter"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #120D0A, #FFFFFF, #C9A2B8. Typography pairs Inter (display) with Inter (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption. Register leans…",
+      "site_url": "./sites/bone-clay-cinematic-cinematic-dark-hero-2/index.html",
+      "thumb": "thumbs/bone-clay-cinematic-cinematic-dark-hero-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-clay-cool-photographic-hero",
+      "title": "bone + clay · cool · photographic hero",
+      "hero_pattern": "P",
+      "palette": [
+        "#525a63",
+        "#ffffff",
+        "#d4c8a0"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "mono": "JetBrains Mono"
+      },
+      "register": "cool",
+      "excerpt": "Palette anchors on #525a63, #ffffff, #d4c8a0. Typography leads with Cormorant Garamond. Hero treatment is a photographic hero — a real-image-led composition. Register leans cool. Motion is restrained, palette drives mood, and type does the…",
+      "site_url": "./sites/bone-clay-cool-photographic-hero/index.html",
+      "thumb": "thumbs/bone-clay-cool-photographic-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-clay-dark-editorial-illustration-hero",
+      "title": "bone + clay · dark · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#1d2f37",
+        "#ffffff",
+        "#f5d76e"
+      ],
+      "fonts": {},
+      "register": "dark",
+      "excerpt": "Palette anchors on #1d2f37, #ffffff, #f5d76e. Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG illustration. Register leans dark. Motion is restrained, palette…",
+      "site_url": "./sites/bone-clay-dark-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/bone-clay-dark-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-clay-editorial-cinematic-dark-hero",
+      "title": "bone + clay · editorial · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#f1dcbc",
+        "#ffffff",
+        "#9bb6c4"
+      ],
+      "fonts": {
+        "display": "Italiana",
+        "body": "Cormorant Garamond"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #f1dcbc, #ffffff, #9bb6c4. Typography pairs Italiana (display) with Cormorant Garamond (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption.…",
+      "site_url": "./sites/bone-clay-editorial-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/bone-clay-editorial-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-clay-editorial-duotone-giant-serif-headline",
+      "title": "bone + clay · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#1a1a1a",
+        "#ECECEC",
+        "#C8923C"
+      ],
+      "fonts": {
+        "display": "Bebas Neue",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #1a1a1a, #ECECEC, #C8923C. Typography pairs Bebas Neue (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop. Register…",
+      "site_url": "./sites/bone-clay-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/bone-clay-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-clay-editorial-illustration-hero",
+      "title": "bone + clay · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#F1F1EF",
+        "#111111",
+        "#F2BE00"
+      ],
+      "fonts": {
+        "display": "Space Grotesk",
+        "body": "Inter"
+      },
+      "register": "pop",
+      "excerpt": "Palette anchors on #F1F1EF, #111111, #F2BE00. Typography pairs Space Grotesk (display) with Inter (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/bone-clay-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/bone-clay-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-clay-editorial-pill-nav-centered-hero",
+      "title": "bone + clay · editorial · pill-nav centered hero",
+      "hero_pattern": "F",
+      "palette": [
+        "#0A0A0A",
+        "#F2F2F2",
+        "#C9A26A"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "A dark, editorial-style event microsite built around a serif wordmark, a warm-metal ribbon motif, a small anniversary glyph, and a finely engraved city map — formal, ceremonial, restrained, and unmistakably oriented as a printed invitation…",
+      "site_url": "./sites/bone-clay-editorial-pill-nav-centered-hero/index.html",
+      "thumb": "thumbs/bone-clay-editorial-pill-nav-centered-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-clay-friendly-duotone-giant-serif-headline",
+      "title": "bone + clay · friendly · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#7DD3F0",
+        "#FFFFFF",
+        "#F2C13B"
+      ],
+      "fonts": {
+        "display": "Fredoka",
+        "body": "Nunito"
+      },
+      "register": "friendly",
+      "excerpt": "Palette anchors on #7DD3F0, #FFFFFF, #F2C13B. Typography pairs Fredoka (display) with Nunito (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop. Register…",
+      "site_url": "./sites/bone-clay-friendly-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/bone-clay-friendly-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-cobalt-cinematic-cinematic-dark-hero",
+      "title": "bone + cobalt · cinematic · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#0A0E14",
+        "#FFFFFF",
+        "#0F62FE"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Inter"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #0A0E14, #FFFFFF, #0F62FE. Typography pairs Cormorant Garamond (display) with Inter (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption.…",
+      "site_url": "./sites/bone-cobalt-cinematic-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/bone-cobalt-cinematic-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-cobalt-duotone-giant-serif-headline",
+      "title": "bone + cobalt · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#FFFFFF",
+        "#737780",
+        "#4285F4"
+      ],
+      "fonts": {
+        "display": "Manrope",
+        "body": "Manrope"
+      },
+      "register": "technical",
+      "excerpt": "Palette anchors on #FFFFFF, #737780, #4285F4. Typography pairs Manrope (display) with Manrope (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop. Register…",
+      "site_url": "./sites/bone-cobalt-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/bone-cobalt-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-cobalt-editorial-browser-frame-in-frame",
+      "title": "bone + cobalt · editorial · browser frame-in-frame",
+      "hero_pattern": "B",
+      "palette": [
+        "#ECECEC",
+        "#111111",
+        "#2A52E8"
+      ],
+      "fonts": {
+        "display": "Space Grotesk",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #ECECEC, #111111, #2A52E8. Typography pairs Space Grotesk (display) with Inter (body). Hero treatment is a browser frame-in-frame — a centered white rounded frame with a 3-dot bar, containing a giant wordmark and an…",
+      "site_url": "./sites/bone-cobalt-editorial-browser-frame-in-frame/index.html",
+      "thumb": "thumbs/bone-cobalt-editorial-browser-frame-in-frame.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-cobalt-editorial-full-bleed-photo-with-top-left-wordmark",
+      "title": "bone + cobalt · editorial · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#FFFFFF",
+        "#1F3D5C",
+        "#2C4A6B"
+      ],
+      "fonts": {
+        "display": "Jost",
+        "body": "Jost"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #FFFFFF, #1F3D5C, #2C4A6B. Typography pairs Jost (display) with Jost (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans editorial. Motion is restrained,…",
+      "site_url": "./sites/bone-cobalt-editorial-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/bone-cobalt-editorial-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-cobalt-full-bleed-photo-with-top-left-wordmark",
+      "title": "bone + cobalt · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#101010",
+        "#FFFFFF",
+        "#0875D1"
+      ],
+      "fonts": {
+        "display": "Bebas Neue",
+        "body": "Archivo"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #101010, #FFFFFF, #0875D1. Typography pairs Bebas Neue (display) with Archivo (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans editorial. Motion is…",
+      "site_url": "./sites/bone-cobalt-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/bone-cobalt-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-cobalt-kawaii-editorial-illustration-hero",
+      "title": "bone + cobalt · kawaii · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#EAD8DD",
+        "#0E0E0E",
+        "#B5B3DC"
+      ],
+      "fonts": {
+        "display": "Plus Jakarta Sans",
+        "body": "Plus Jakarta Sans"
+      },
+      "register": "kawaii",
+      "excerpt": "Palette anchors on #EAD8DD, #0E0E0E, #B5B3DC. Typography pairs Plus Jakarta Sans (display) with Plus Jakarta Sans (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an…",
+      "site_url": "./sites/bone-cobalt-kawaii-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/bone-cobalt-kawaii-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-cobalt-technical-full-bleed-photo-with-top-left-wordmark",
+      "title": "bone + cobalt · technical · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#05080E",
+        "#FFFFFF",
+        "#1E6BFF"
+      ],
+      "fonts": {
+        "display": "Inter",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "register": "technical",
+      "excerpt": "Palette anchors on #05080E, #FFFFFF, #1E6BFF. Typography pairs Inter (display) with Inter (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans technical. Motion is restrained,…",
+      "site_url": "./sites/bone-cobalt-technical-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/bone-cobalt-technical-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-cinematic-cinematic-dark-hero",
+      "title": "bone + coral · cinematic · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#0A0A0A",
+        "#FFFFFF",
+        "#E63946"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Inter"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #0A0A0A, #FFFFFF, #E63946. Typography pairs Anton (display) with Inter (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption. Register leans…",
+      "site_url": "./sites/bone-coral-cinematic-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/bone-coral-cinematic-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-cinematic-dark-hero",
+      "title": "bone + coral · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#071A38",
+        "#FFFFFF",
+        "#FF2788"
+      ],
+      "fonts": {
+        "display": "Manrope",
+        "body": "Inter"
+      },
+      "register": "pop",
+      "excerpt": "Palette anchors on #071A38, #FFFFFF, #FF2788. Typography pairs Manrope (display) with Inter (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption. Register…",
+      "site_url": "./sites/bone-coral-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/bone-coral-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-cinematic-editorial-illustration-hero",
+      "title": "bone + coral · cinematic · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#0E1620",
+        "#FFFFFF",
+        "#C8202A"
+      ],
+      "fonts": {
+        "display": "Space Grotesk",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "register": "cinematic",
+      "excerpt": "A cinematic, editorial-tech interface built on a dark modular mosaic of media panels, governed by strict orthogonal geometry, oversized geometric type treated as a compositional object, and slow mask-reveal motion that reads like camera…",
+      "site_url": "./sites/bone-coral-cinematic-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/bone-coral-cinematic-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-dark-cinematic-dark-hero",
+      "title": "bone + coral · dark · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#000000",
+        "#ffffff",
+        "#ff0000"
+      ],
+      "fonts": {
+        "mono": "JetBrains Mono"
+      },
+      "register": "dark",
+      "excerpt": "Palette anchors on #000000, #ffffff, #ff0000. Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption. Register leans dark. Motion is restrained, palette drives mood, and…",
+      "site_url": "./sites/bone-coral-dark-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/bone-coral-dark-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-editorial-browser-frame-in-frame",
+      "title": "bone + coral · editorial · browser frame-in-frame",
+      "hero_pattern": "B",
+      "palette": [
+        "#FF6A33",
+        "#FFFFFF",
+        "#3DD66B"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #FF6A33, #FFFFFF, #3DD66B. Typography pairs Anton (display) with Inter (body). Hero treatment is a browser frame-in-frame — a centered white rounded frame with a 3-dot bar, containing a giant wordmark and an italic serif…",
+      "site_url": "./sites/bone-coral-editorial-browser-frame-in-frame/index.html",
+      "thumb": "thumbs/bone-coral-editorial-browser-frame-in-frame.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-editorial-browser-frame-in-frame-2",
+      "title": "bone + coral · editorial · browser frame-in-frame",
+      "hero_pattern": "B",
+      "palette": [
+        "#F5F4EE",
+        "#0E0E0E",
+        "#E23B2C"
+      ],
+      "fonts": {
+        "display": "Space Grotesk",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "register": "editorial",
+      "excerpt": "One-liner — an editorial, high-contrast, single-accent interface system built on a strict typographic grid that earns its drama from one expressive organic shape per screen, framed by a theatrical dark environment that focuses attention…",
+      "site_url": "./sites/bone-coral-editorial-browser-frame-in-frame-2/index.html",
+      "thumb": "thumbs/bone-coral-editorial-browser-frame-in-frame-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-editorial-cinematic-dark-hero",
+      "title": "bone + coral · editorial · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#0A0A0A",
+        "#FFFFFF",
+        "#E83A2E"
+      ],
+      "fonts": {
+        "display": "Inter",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "This is a restrained, editorial, gallery-style interface built on a strict modular grid, a near-monochrome palette, and a single saturated accent. The overall gestalt is \"quiet dark room with one bright object on a plinth\" — calm,…",
+      "site_url": "./sites/bone-coral-editorial-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/bone-coral-editorial-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-editorial-duotone-giant-serif-headline",
+      "title": "bone + coral · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#FF5544",
+        "#FFFFFF",
+        "#0A0A0A"
+      ],
+      "fonts": {
+        "display": "Inter",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #FF5544, #FFFFFF, #0A0A0A. Typography pairs Inter (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop. Register…",
+      "site_url": "./sites/bone-coral-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/bone-coral-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-editorial-duotone-giant-serif-headline-2",
+      "title": "bone + coral · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#F1F1F1",
+        "#1A1A1A",
+        "#E5202A"
+      ],
+      "fonts": {
+        "display": "Italiana",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #F1F1F1, #1A1A1A, #E5202A. Typography pairs Italiana (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop. Register…",
+      "site_url": "./sites/bone-coral-editorial-duotone-giant-serif-headline-2/index.html",
+      "thumb": "thumbs/bone-coral-editorial-duotone-giant-serif-headline-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-editorial-duotone-giant-serif-headline-3",
+      "title": "bone + coral · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#FFFFFF",
+        "#0A0A0A",
+        "#C8102E"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Playfair Display"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #FFFFFF, #0A0A0A, #C8102E. Typography pairs Anton (display) with Playfair Display (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop.…",
+      "site_url": "./sites/bone-coral-editorial-duotone-giant-serif-headline-3/index.html",
+      "thumb": "thumbs/bone-coral-editorial-duotone-giant-serif-headline-3.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-editorial-editorial-illustration-hero",
+      "title": "bone + coral · editorial · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#16132A",
+        "#FFFFFF",
+        "#6EEA6E"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #16132A, #FFFFFF, #6EEA6E. Typography pairs Anton (display) with Inter (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/bone-coral-editorial-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/bone-coral-editorial-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-editorial-editorial-illustration-hero-2",
+      "title": "bone + coral · editorial · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#0A0A0A",
+        "#EDEDED",
+        "#EA5A1F"
+      ],
+      "fonts": {
+        "display": "Inter",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #0A0A0A, #EDEDED, #EA5A1F. Typography pairs Inter (display) with Inter (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/bone-coral-editorial-editorial-illustration-hero-2/index.html",
+      "thumb": "thumbs/bone-coral-editorial-editorial-illustration-hero-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-editorial-editorial-illustration-hero-3",
+      "title": "bone + coral · editorial · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#D4E6EE",
+        "#0F5C7E",
+        "#E94B3C"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #D4E6EE, #0F5C7E, #E94B3C. Typography pairs Playfair Display (display) with Inter (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/bone-coral-editorial-editorial-illustration-hero-3/index.html",
+      "thumb": "thumbs/bone-coral-editorial-editorial-illustration-hero-3.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-editorial-full-bleed-photo-with-top-left-wordmark",
+      "title": "bone + coral · editorial · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#FFFFFF",
+        "#000000",
+        "#E84A1A"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #FFFFFF, #000000, #E84A1A. Typography pairs Anton (display) with Inter (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans editorial. Motion is restrained,…",
+      "site_url": "./sites/bone-coral-editorial-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/bone-coral-editorial-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-editorial-full-bleed-photo-with-top-left-wordmark-2",
+      "title": "bone + coral · editorial · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#E50E1E",
+        "#FFFFFF",
+        "#3CC9DC"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #E50E1E, #FFFFFF, #3CC9DC. Typography pairs Playfair Display (display) with Inter (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans editorial. Motion is…",
+      "site_url": "./sites/bone-coral-editorial-full-bleed-photo-with-top-left-wordmark-2/index.html",
+      "thumb": "thumbs/bone-coral-editorial-full-bleed-photo-with-top-left-wordmark-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-editorial-full-bleed-photo-with-top-left-wordmark-3",
+      "title": "bone + coral · editorial · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#1F3A2E",
+        "#FFFFFF",
+        "#FF2A8C"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #1F3A2E, #FFFFFF, #FF2A8C. Typography pairs Playfair Display (display) with Inter (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans editorial. Motion is…",
+      "site_url": "./sites/bone-coral-editorial-full-bleed-photo-with-top-left-wordmark-3/index.html",
+      "thumb": "thumbs/bone-coral-editorial-full-bleed-photo-with-top-left-wordmark-3.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-editorial-illustration-hero",
+      "title": "bone + coral · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#080808",
+        "#F2F2F2",
+        "#E53935"
+      ],
+      "fonts": {
+        "display": "Archivo",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #080808, #F2F2F2, #E53935. Typography pairs Archivo (display) with Inter (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/bone-coral-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/bone-coral-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-editorial-illustration-hero-2",
+      "title": "bone + coral · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#090A1B",
+        "#F5F3F3",
+        "#F10A12"
+      ],
+      "fonts": {
+        "display": "Bebas Neue",
+        "body": "Archivo",
+        "mono": "JetBrains Mono"
+      },
+      "register": "technical",
+      "excerpt": "Palette anchors on #090A1B, #F5F3F3, #F10A12. Typography pairs Bebas Neue (display) with Archivo (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/bone-coral-editorial-illustration-hero-2/index.html",
+      "thumb": "thumbs/bone-coral-editorial-illustration-hero-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-full-bleed-photo-with-top-left-wordmark",
+      "title": "bone + coral · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#C9E4EF",
+        "#FFFFFF",
+        "#F03A45"
+      ],
+      "fonts": {
+        "display": "Inter",
+        "body": "Inter"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #C9E4EF, #FFFFFF, #F03A45. Typography pairs Inter (display) with Inter (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans cinematic. Motion is restrained,…",
+      "site_url": "./sites/bone-coral-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/bone-coral-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-kawaii-editorial-illustration-hero",
+      "title": "bone + coral · kawaii · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#EEF2DD",
+        "#2B2A29",
+        "#E60012"
+      ],
+      "fonts": {
+        "display": "Fredoka",
+        "body": "Quicksand"
+      },
+      "register": "kawaii",
+      "excerpt": "Palette anchors on #EEF2DD, #2B2A29, #E60012. Typography pairs Fredoka (display) with Quicksand (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/bone-coral-kawaii-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/bone-coral-kawaii-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-pop-editorial-illustration-hero",
+      "title": "bone + coral · pop · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#7C7BD9",
+        "#FFFFFF",
+        "#FF8A1F"
+      ],
+      "fonts": {
+        "display": "Unbounded",
+        "body": "Unbounded"
+      },
+      "register": "pop",
+      "excerpt": "Palette anchors on #7C7BD9, #FFFFFF, #FF8A1F. Typography pairs Unbounded (display) with Unbounded (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/bone-coral-pop-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/bone-coral-pop-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-technical-editorial-illustration-hero",
+      "title": "bone + coral · technical · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#0B0B0B",
+        "#FFFFFF",
+        "#E63946"
+      ],
+      "fonts": {
+        "display": "Archivo",
+        "body": "Archivo",
+        "mono": "JetBrains Mono"
+      },
+      "register": "technical",
+      "excerpt": "Palette anchors on #0B0B0B, #FFFFFF, #E63946. Typography pairs Archivo (display) with Archivo (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/bone-coral-technical-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/bone-coral-technical-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-warm-full-bleed-photo-with-top-left-wordmark",
+      "title": "bone + coral · warm · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#5a3d35",
+        "#ffffff",
+        "#c0392b"
+      ],
+      "fonts": {
+        "display": "JetBrains Mono",
+        "body": "JetBrains Mono",
+        "mono": "JetBrains Mono"
+      },
+      "register": "warm",
+      "excerpt": "Palette anchors on #5a3d35, #ffffff, #c0392b. Typography pairs JetBrains Mono (display) with JetBrains Mono (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans warm. Motion is…",
+      "site_url": "./sites/bone-coral-warm-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/bone-coral-warm-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-coral-warm-photographic-hero",
+      "title": "bone + coral · warm · photographic hero",
+      "hero_pattern": "P",
+      "palette": [
+        "#ffffff",
+        "#000000",
+        "#e87a3e"
+      ],
+      "fonts": {},
+      "register": "warm",
+      "excerpt": "Palette anchors on #ffffff, #000000, #e87a3e. Hero treatment is a photographic hero — a real-image-led composition. Register leans warm. Motion is restrained, palette drives mood, and type does the work.",
+      "site_url": "./sites/bone-coral-warm-photographic-hero/index.html",
+      "thumb": "thumbs/bone-coral-warm-photographic-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-cream-cinematic-cinematic-dark-hero",
+      "title": "bone + cream · cinematic · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#05060B",
+        "#FFFFFF",
+        "#D45FB0"
+      ],
+      "fonts": {
+        "display": "Unbounded",
+        "body": "Manrope",
+        "mono": "JetBrains Mono"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #05060B, #FFFFFF, #D45FB0. Typography pairs Unbounded (display) with Manrope (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption. Register…",
+      "site_url": "./sites/bone-cream-cinematic-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/bone-cream-cinematic-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-cream-cinematic-cinematic-dark-hero-2",
+      "title": "bone + cream · cinematic · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#9DA0A3",
+        "#FFFFFF",
+        "#D8E4EC"
+      ],
+      "fonts": {
+        "display": "JetBrains Mono",
+        "body": "JetBrains Mono",
+        "mono": "JetBrains Mono"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #9DA0A3, #FFFFFF, #D8E4EC. Typography pairs JetBrains Mono (display) with JetBrains Mono (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked…",
+      "site_url": "./sites/bone-cream-cinematic-cinematic-dark-hero-2/index.html",
+      "thumb": "thumbs/bone-cream-cinematic-cinematic-dark-hero-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-cream-cinematic-dark-hero",
+      "title": "bone + cream · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#274E2B",
+        "#FFFFFF",
+        "#6E9147"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Inter"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #274E2B, #FFFFFF, #6E9147. Typography pairs Anton (display) with Inter (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption. Register leans…",
+      "site_url": "./sites/bone-cream-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/bone-cream-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-cream-editorial-browser-frame-in-frame",
+      "title": "bone + cream · editorial · browser frame-in-frame",
+      "hero_pattern": "B",
+      "palette": [
+        "#E6E0D8",
+        "#0E0E0E",
+        "#A89580"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Playfair Display"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #E6E0D8, #0E0E0E, #A89580. Typography pairs Playfair Display (display) with Playfair Display (body). Hero treatment is a browser frame-in-frame — a centered white rounded frame with a 3-dot bar, containing a giant…",
+      "site_url": "./sites/bone-cream-editorial-browser-frame-in-frame/index.html",
+      "thumb": "thumbs/bone-cream-editorial-browser-frame-in-frame.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-cream-editorial-duotone-giant-serif-headline",
+      "title": "bone + cream · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#FFFFFF",
+        "#000000",
+        "#000000"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "One-liner: An editorial, poster-driven interface where a single oversized display headline acts as both content and architectural backdrop, anchored by a centered grayscale image and finished with thin top and bottom metadata rails that…",
+      "site_url": "./sites/bone-cream-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/bone-cream-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-cream-editorial-full-bleed-photo-with-top-left-wordmark",
+      "title": "bone + cream · editorial · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#F2F0EB",
+        "#0A0A0A",
+        "#1A1A1A"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "An editorial monochrome system that alternates between a quiet, full-bleed photographic canvas and a stark dark field where oversized serif typography becomes the primary visual object, with selective rotation breaking an otherwise strict…",
+      "site_url": "./sites/bone-cream-editorial-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/bone-cream-editorial-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-cream-warm-pill-nav-centered-hero",
+      "title": "bone + cream · warm · pill-nav centered hero",
+      "hero_pattern": "F",
+      "palette": [
+        "#c9a04a",
+        "#f4e7cc",
+        "#ffffff"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "register": "warm",
+      "excerpt": "Palette anchors on #c9a04a, #f4e7cc, #ffffff. Typography pairs Cormorant Garamond (display) with Inter (body). Hero treatment is a pill-nav centered hero — a translucent rounded top nav above a single display headline. Register leans warm.…",
+      "site_url": "./sites/bone-cream-warm-pill-nav-centered-hero/index.html",
+      "thumb": "thumbs/bone-cream-warm-pill-nav-centered-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-crimson-editorial-cinematic-dark-hero",
+      "title": "bone + crimson · editorial · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#0a0a0a",
+        "#ffffff",
+        "#8a5a3a"
+      ],
+      "fonts": {
+        "display": "Space Grotesk",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "A restrained, editorial, cinematic visual system built on dark monochrome fields, generous negative space, and quiet typographic scaffolding that treats every interface as a single curated viewing moment. The direction is contemplative and…",
+      "site_url": "./sites/bone-crimson-editorial-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/bone-crimson-editorial-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-crimson-editorial-illustration-hero",
+      "title": "bone + crimson · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#E7E5E4",
+        "#171717",
+        "#8E1539"
+      ],
+      "fonts": {
+        "display": "Space Grotesk",
+        "body": "Space Grotesk"
+      },
+      "register": "technical",
+      "excerpt": "Palette anchors on #E7E5E4, #171717, #8E1539. Typography pairs Space Grotesk (display) with Space Grotesk (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline…",
+      "site_url": "./sites/bone-crimson-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/bone-crimson-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-crimson-photographic-hero",
+      "title": "bone + crimson · photographic hero",
+      "hero_pattern": "P",
+      "palette": [
+        "#B5001F",
+        "#FFFFFF",
+        "#E8DCE6"
+      ],
+      "fonts": {
+        "display": "Archivo",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "register": "",
+      "excerpt": "Palette anchors on #B5001F, #FFFFFF, #E8DCE6. Typography pairs Archivo (display) with Inter (body). Hero treatment is a photographic hero — a real-image-led composition. Motion is restrained, palette drives mood, and type does the work.",
+      "site_url": "./sites/bone-crimson-photographic-hero/index.html",
+      "thumb": "thumbs/bone-crimson-photographic-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-editorial-duotone-giant-serif-headline",
+      "title": "bone · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#ECECEC",
+        "#0A0A0A",
+        "#000000"
+      ],
+      "fonts": {
+        "display": "Inter",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #ECECEC, #0A0A0A, #000000. Typography pairs Inter (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop. Register…",
+      "site_url": "./sites/bone-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/bone-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-editorial-duotone-giant-serif-headline-2",
+      "title": "bone · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#F4F4F2",
+        "#FFFFFF",
+        "#0A0A0A"
+      ],
+      "fonts": {
+        "display": "Unbounded",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "A structured, editorial-tech interface anchored by a two-zone light/dark composition, oversized geometric display typography treated as a structural object, and a near-monochrome palette that reserves its single accent for the call to…",
+      "site_url": "./sites/bone-editorial-duotone-giant-serif-headline-2/index.html",
+      "thumb": "thumbs/bone-editorial-duotone-giant-serif-headline-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-ink-brutalist-duotone-giant-serif-headline",
+      "title": "bone + ink · brutalist · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#FFFFFF",
+        "#000000",
+        "#000000"
+      ],
+      "fonts": {
+        "display": "Inter",
+        "body": "Inter"
+      },
+      "register": "brutalist",
+      "excerpt": "Palette anchors on #FFFFFF, #000000, #000000. Typography pairs Inter (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop. Register…",
+      "site_url": "./sites/bone-ink-brutalist-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/bone-ink-brutalist-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-ink-cinematic-dark-hero",
+      "title": "bone + ink · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#050505",
+        "#F5F5F5",
+        "#F5F5F5"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Inter"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #050505, #F5F5F5, #F5F5F5. Typography pairs Cormorant Garamond (display) with Inter (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption.…",
+      "site_url": "./sites/bone-ink-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/bone-ink-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-ink-editorial-duotone-giant-serif-headline",
+      "title": "bone + ink · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#0A0A0A",
+        "#F2F2F2",
+        "#F5F5F5"
+      ],
+      "fonts": {
+        "display": "Space Grotesk",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #0A0A0A, #F2F2F2, #F5F5F5. Typography pairs Space Grotesk (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop.…",
+      "site_url": "./sites/bone-ink-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/bone-ink-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-ink-editorial-pill-nav-centered-hero",
+      "title": "bone + ink · editorial · pill-nav centered hero",
+      "hero_pattern": "F",
+      "palette": [
+        "#ecebe9",
+        "#000000",
+        "#000000"
+      ],
+      "fonts": {
+        "display": "Inter",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #ecebe9, #000000, #000000. Typography pairs Inter (display) with Inter (body). Hero treatment is a pill-nav centered hero — a translucent rounded top nav above a single display headline. Register leans editorial. Motion…",
+      "site_url": "./sites/bone-ink-editorial-pill-nav-centered-hero/index.html",
+      "thumb": "thumbs/bone-ink-editorial-pill-nav-centered-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-navy-duotone-giant-serif-headline",
+      "title": "bone + navy · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#FAFAFA",
+        "#FFFFFF",
+        "#A9A4E8"
+      ],
+      "fonts": {
+        "display": "Nunito",
+        "body": "Nunito Sans"
+      },
+      "register": "friendly",
+      "excerpt": "Palette anchors on #FAFAFA, #FFFFFF, #A9A4E8. Typography pairs Nunito (display) with Nunito Sans (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop.…",
+      "site_url": "./sites/bone-navy-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/bone-navy-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-ochre-cinematic-duotone-giant-serif-headline",
+      "title": "bone + ochre · cinematic · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#0A0A0A",
+        "#E8E8EC",
+        "#F5E020"
+      ],
+      "fonts": {
+        "display": "Space Grotesk",
+        "body": "Inter"
+      },
+      "register": "cinematic",
+      "excerpt": "One-liner. A high-contrast, dark-mode hero composed as a centered editorial statement, where a single saturated accent on a near-black field does the heavy lifting and everything else is restrained negative space, wide-tracked typography,…",
+      "site_url": "./sites/bone-ochre-cinematic-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/bone-ochre-cinematic-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-ochre-editorial-editorial-illustration-hero",
+      "title": "bone + ochre · editorial · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#F4EFE7",
+        "#1B1B1B",
+        "#E94B9B"
+      ],
+      "fonts": {
+        "display": "Unbounded",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #F4EFE7, #1B1B1B, #E94B9B. Typography pairs Unbounded (display) with Inter (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/bone-ochre-editorial-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/bone-ochre-editorial-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-ochre-technical-editorial-illustration-hero",
+      "title": "bone + ochre · technical · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#0A0A0A",
+        "#FFFFFF",
+        "#E8E600"
+      ],
+      "fonts": {
+        "display": "Space Grotesk",
+        "body": "Inter"
+      },
+      "register": "technical",
+      "excerpt": "A dark, technical, editorial interface built on a single-accent discipline — restrained, precise, and confident in its restraint, with one bright saturated color doing all the emotional work against a near-black canvas. The direction is…",
+      "site_url": "./sites/bone-ochre-technical-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/bone-ochre-technical-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-sage-editorial-duotone-giant-serif-headline",
+      "title": "bone + sage · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#0A0B0D",
+        "#FFFFFF",
+        "#D8E94A"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #0A0B0D, #FFFFFF, #D8E94A. Typography pairs Anton (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop. Register…",
+      "site_url": "./sites/bone-sage-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/bone-sage-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-sage-editorial-duotone-giant-serif-headline-2",
+      "title": "bone + sage · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#F2F2F0",
+        "#111111",
+        "#7CFAB1"
+      ],
+      "fonts": {
+        "display": "Manrope",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "An editorial, modular, high-contrast interface built on a strict grid of flat rectangular bands, an achromatic palette, and a single mint-green accent, anchored in oversized typography, halftone texture, and rhythmic alternation of dark…",
+      "site_url": "./sites/bone-sage-editorial-duotone-giant-serif-headline-2/index.html",
+      "thumb": "thumbs/bone-sage-editorial-duotone-giant-serif-headline-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-sapphire-editorial-editorial-illustration-hero",
+      "title": "bone + sapphire · editorial · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#0F0F12",
+        "#C9BEE0",
+        "#7E63B3"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "A single dark-mode editorial spread built around a centered physical artifact card, with a labeled headline to its left and a citation plus call-to-action to its right, all wrapped in a quiet gallery-like atmosphere. The direction is…",
+      "site_url": "./sites/bone-sapphire-editorial-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/bone-sapphire-editorial-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-stone-duotone-giant-serif-headline",
+      "title": "bone + stone · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#FFFFFF",
+        "#080A0A",
+        "#9EB3C0"
+      ],
+      "fonts": {
+        "display": "Archivo",
+        "body": "Archivo"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #FFFFFF, #080A0A, #9EB3C0. Typography pairs Archivo (display) with Archivo (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop. Register…",
+      "site_url": "./sites/bone-stone-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/bone-stone-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-stone-editorial-browser-frame-in-frame",
+      "title": "bone + stone · editorial · browser frame-in-frame",
+      "hero_pattern": "B",
+      "palette": [
+        "#0A0A0A",
+        "#FFFFFF",
+        "#B08A6E"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "A restrained, editorial, premium high-contrast system where oversized display type carries the entire visual identity and a single luminous accent earns attention only by being rare. The direction is one of dramatic stillness, quiet…",
+      "site_url": "./sites/bone-stone-editorial-browser-frame-in-frame/index.html",
+      "thumb": "thumbs/bone-stone-editorial-browser-frame-in-frame.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-stone-editorial-duotone-giant-serif-headline",
+      "title": "bone + stone · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#C9D8DD",
+        "#111111",
+        "#6E7378"
+      ],
+      "fonts": {
+        "display": "Archivo",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "A centered white surface card on a softly blurred photographic backdrop, dominated by a stacked three-line all-caps headline and a dated list in which a single entry is held in full ink while the rest recede to muted gray, with one small…",
+      "site_url": "./sites/bone-stone-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/bone-stone-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-teal-cinematic-cinematic-dark-hero",
+      "title": "bone + teal · cinematic · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#0B0B0C",
+        "#FFFFFF",
+        "#9BCB32"
+      ],
+      "fonts": {
+        "display": "Bebas Neue",
+        "body": "Inter"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #0B0B0C, #FFFFFF, #9BCB32. Typography pairs Bebas Neue (display) with Inter (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption. Register…",
+      "site_url": "./sites/bone-teal-cinematic-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/bone-teal-cinematic-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-teal-cinematic-editorial-illustration-hero",
+      "title": "bone + teal · cinematic · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#0A1F24",
+        "#FFFFFF",
+        "#5BE9FF"
+      ],
+      "fonts": {
+        "display": "Orbitron",
+        "body": "Space Grotesk",
+        "mono": "JetBrains Mono"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #0A1F24, #FFFFFF, #5BE9FF. Typography pairs Orbitron (display) with Space Grotesk (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/bone-teal-cinematic-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/bone-teal-cinematic-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-teal-editorial-cinematic-dark-hero",
+      "title": "bone + teal · editorial · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#111111",
+        "#FFFFFF",
+        "#D4E817"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #111111, #FFFFFF, #D4E817. Typography pairs Playfair Display (display) with Inter (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption.…",
+      "site_url": "./sites/bone-teal-editorial-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/bone-teal-editorial-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-teal-editorial-duotone-giant-serif-headline",
+      "title": "bone + teal · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#0A0A0A",
+        "#FFFFFF",
+        "#00FF3C"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #0A0A0A, #FFFFFF, #00FF3C. Typography pairs Anton (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop. Register…",
+      "site_url": "./sites/bone-teal-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/bone-teal-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "bone-teal-editorial-illustration-hero",
+      "title": "bone + teal · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#050506",
+        "#F4F4F4",
+        "#00D5FF"
+      ],
+      "fonts": {
+        "display": "Manrope",
+        "body": "Manrope"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #050506, #F4F4F4, #00D5FF. Typography pairs Manrope (display) with Manrope (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/bone-teal-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/bone-teal-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "clay-coral-editorial-cinematic-dark-hero",
+      "title": "clay + coral · editorial · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#0E1A2C",
+        "#E8D5A8",
+        "#F2A979"
+      ],
+      "fonts": {
+        "display": "Archivo",
+        "body": "Manrope",
+        "mono": "JetBrains Mono"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #0E1A2C, #E8D5A8, #F2A979. Typography pairs Archivo (display) with Manrope (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption. Register…",
+      "site_url": "./sites/clay-coral-editorial-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/clay-coral-editorial-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "clay-coral-editorial-editorial-illustration-hero",
+      "title": "clay + coral · editorial · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#0B0B0B",
+        "#B8804A",
+        "#FFD24A"
+      ],
+      "fonts": {
+        "display": "JetBrains Mono",
+        "body": "JetBrains Mono"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #0B0B0B, #B8804A, #FFD24A. Typography pairs JetBrains Mono (display) with JetBrains Mono (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an…",
+      "site_url": "./sites/clay-coral-editorial-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/clay-coral-editorial-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "clay-coral-editorial-editorial-illustration-hero-2",
+      "title": "clay + coral · editorial · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#6FA3B8",
+        "#E8DFC9",
+        "#D94A2A"
+      ],
+      "fonts": {
+        "display": "Bebas Neue",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #6FA3B8, #E8DFC9, #D94A2A. Typography pairs Bebas Neue (display) with Inter (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/clay-coral-editorial-editorial-illustration-hero-2/index.html",
+      "thumb": "thumbs/clay-coral-editorial-editorial-illustration-hero-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "clay-editorial-cinematic-dark-hero",
+      "title": "clay · editorial · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#120E0B",
+        "#E8DCC8",
+        "#E2A85F"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #120E0B, #E8DCC8, #E2A85F. Typography pairs Anton (display) with Inter (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption. Register leans…",
+      "site_url": "./sites/clay-editorial-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/clay-editorial-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "clay-editorial-duotone-giant-serif-headline",
+      "title": "clay · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#0E0B08",
+        "#C4A574",
+        "#D6BE8C"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #0E0B08, #C4A574, #D6BE8C. Typography pairs Playfair Display (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop.…",
+      "site_url": "./sites/clay-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/clay-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "clay-editorial-duotone-giant-serif-headline-2",
+      "title": "clay · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#FFD079",
+        "#0B0B0B",
+        "#E84E2A"
+      ],
+      "fonts": {
+        "display": "Archivo Black",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #FFD079, #0B0B0B, #E84E2A. Typography pairs Archivo Black (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop.…",
+      "site_url": "./sites/clay-editorial-duotone-giant-serif-headline-2/index.html",
+      "thumb": "thumbs/clay-editorial-duotone-giant-serif-headline-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cobalt-coral-cinematic-editorial-illustration-hero",
+      "title": "cobalt + coral · cinematic · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#06070B",
+        "#F0E64A",
+        "#FF2D8C"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #06070B, #F0E64A, #FF2D8C. Typography pairs Anton (display) with Inter (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/cobalt-coral-cinematic-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/cobalt-coral-cinematic-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "coral-cobalt-editorial-full-bleed-photo-with-top-left-wordmark",
+      "title": "coral + cobalt · editorial · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#D9C2B8",
+        "#111111",
+        "#B8CFE2"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #D9C2B8, #111111, #B8CFE2. Typography pairs Playfair Display (display) with Inter (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans editorial. Motion is…",
+      "site_url": "./sites/coral-cobalt-editorial-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/coral-cobalt-editorial-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "coral-ochre-editorial-browser-frame-in-frame",
+      "title": "coral + ochre · editorial · browser frame-in-frame",
+      "hero_pattern": "B",
+      "palette": [
+        "#F4DA00",
+        "#1B2A1E",
+        "#E94B3C"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #F4DA00, #1B2A1E, #E94B3C. Typography pairs Playfair Display (display) with Inter (body). Hero treatment is a browser frame-in-frame — a centered white rounded frame with a 3-dot bar, containing a giant wordmark and an…",
+      "site_url": "./sites/coral-ochre-editorial-browser-frame-in-frame/index.html",
+      "thumb": "thumbs/coral-ochre-editorial-browser-frame-in-frame.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "coral-warm-browser-frame-in-frame",
+      "title": "coral · warm · browser frame-in-frame",
+      "hero_pattern": "B",
+      "palette": [
+        "#f3c4b3",
+        "#1f1612",
+        "#e63946"
+      ],
+      "fonts": {
+        "display": "Inter",
+        "body": "Inter"
+      },
+      "register": "warm",
+      "excerpt": "Palette anchors on #f3c4b3, #1f1612, #e63946. Typography pairs Inter (display) with Inter (body). Hero treatment is a browser frame-in-frame — a centered white rounded frame with a 3-dot bar, containing a giant wordmark and an italic serif…",
+      "site_url": "./sites/coral-warm-browser-frame-in-frame/index.html",
+      "thumb": "thumbs/coral-warm-browser-frame-in-frame.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-burgundy-editorial-full-bleed-photo-with-top-left-wordmark",
+      "title": "cream + burgundy · editorial · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#102A1E",
+        "#E8E2D0",
+        "#9B6A2A"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Cormorant Garamond"
+      },
+      "register": "editorial",
+      "excerpt": "A single full-bleed photographic subject, photographed from below, set on a deep desaturated ground, with one centered serif headline crossing the densest part of the image and a right-aligned body paragraph tucked into the lower negative…",
+      "site_url": "./sites/cream-burgundy-editorial-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/cream-burgundy-editorial-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-cinematic-dark-hero",
+      "title": "cream · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#050505",
+        "#F7F8FA",
+        "#E21D32"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Archivo"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #050505, #F7F8FA, #E21D32. Typography pairs Anton (display) with Archivo (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption. Register…",
+      "site_url": "./sites/cream-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-clay-brutalist-duotone-giant-serif-headline",
+      "title": "cream + clay · brutalist · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#E8B547",
+        "#3E2818",
+        "#C56A2C"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "JetBrains Mono",
+        "mono": "JetBrains Mono"
+      },
+      "register": "brutalist",
+      "excerpt": "Palette anchors on #E8B547, #3E2818, #C56A2C. Typography pairs Anton (display) with JetBrains Mono (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop.…",
+      "site_url": "./sites/cream-clay-brutalist-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/cream-clay-brutalist-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-clay-cinematic-cinematic-dark-hero",
+      "title": "cream + clay · cinematic · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#0E1530",
+        "#E8E2D5",
+        "#E2A93B"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Cormorant Garamond"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #0E1530, #E8E2D5, #E2A93B. Typography pairs Playfair Display (display) with Cormorant Garamond (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked…",
+      "site_url": "./sites/cream-clay-cinematic-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-clay-cinematic-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-clay-cinematic-dark-hero",
+      "title": "cream + clay · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#0B0B0B",
+        "#F7F5EF",
+        "#F2C500"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #0B0B0B, #F7F5EF, #F2C500. Typography pairs Playfair Display (display) with Inter (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption.…",
+      "site_url": "./sites/cream-clay-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-clay-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-clay-cinematic-full-bleed-photo-with-top-left-wordmark",
+      "title": "cream + clay · cinematic · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#C2A983",
+        "#F2EBDD",
+        "#A8914C"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #C2A983, #F2EBDD, #A8914C. Typography pairs Playfair Display (display) with Inter (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans cinematic. Motion is…",
+      "site_url": "./sites/cream-clay-cinematic-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/cream-clay-cinematic-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-clay-dark-duotone-giant-serif-headline",
+      "title": "cream + clay · dark · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#0a1410",
+        "#f0e6d0",
+        "#f5b800"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond"
+      },
+      "register": "dark",
+      "excerpt": "Palette anchors on #0a1410, #f0e6d0, #f5b800. Typography leads with Cormorant Garamond. Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop. Register leans dark.…",
+      "site_url": "./sites/cream-clay-dark-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/cream-clay-dark-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-clay-editorial-browser-frame-in-frame",
+      "title": "cream + clay · editorial · browser frame-in-frame",
+      "hero_pattern": "B",
+      "palette": [
+        "#8B8B6F",
+        "#F4EFE6",
+        "#1A1A1A"
+      ],
+      "fonts": {
+        "display": "Inter",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #8B8B6F, #F4EFE6, #1A1A1A. Typography pairs Inter (display) with Inter (body). Hero treatment is a browser frame-in-frame — a centered white rounded frame with a 3-dot bar, containing a giant wordmark and an italic serif…",
+      "site_url": "./sites/cream-clay-editorial-browser-frame-in-frame/index.html",
+      "thumb": "thumbs/cream-clay-editorial-browser-frame-in-frame.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-clay-editorial-duotone-giant-serif-headline",
+      "title": "cream + clay · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#E8A14A",
+        "#111111",
+        "#EDA248"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Playfair Display",
+        "mono": "JetBrains Mono"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #E8A14A, #111111, #EDA248. Typography pairs Anton (display) with Playfair Display (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop.…",
+      "site_url": "./sites/cream-clay-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/cream-clay-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-clay-editorial-editorial-illustration-hero",
+      "title": "cream + clay · editorial · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#FBE9D6",
+        "#111111",
+        "#E63A82"
+      ],
+      "fonts": {
+        "display": "Unbounded",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #FBE9D6, #111111, #E63A82. Typography pairs Unbounded (display) with Inter (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/cream-clay-editorial-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/cream-clay-editorial-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-clay-editorial-editorial-illustration-hero-2",
+      "title": "cream + clay · editorial · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#8B5A3C",
+        "#F2E8D5",
+        "#2C3A2A"
+      ],
+      "fonts": {
+        "display": "Alfa Slab One",
+        "body": "Playfair Display"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #8B5A3C, #F2E8D5, #2C3A2A. Typography pairs Alfa Slab One (display) with Playfair Display (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an…",
+      "site_url": "./sites/cream-clay-editorial-editorial-illustration-hero-2/index.html",
+      "thumb": "thumbs/cream-clay-editorial-editorial-illustration-hero-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-clay-editorial-editorial-illustration-hero-3",
+      "title": "cream + clay · editorial · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#E8E2D5",
+        "#141414",
+        "#E8C547"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Cormorant Garamond"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #E8E2D5, #141414, #E8C547. Typography pairs Playfair Display (display) with Cormorant Garamond (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an…",
+      "site_url": "./sites/cream-clay-editorial-editorial-illustration-hero-3/index.html",
+      "thumb": "thumbs/cream-clay-editorial-editorial-illustration-hero-3.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-clay-editorial-full-bleed-photo-with-top-left-wordmark",
+      "title": "cream + clay · editorial · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#E8D9BE",
+        "#F4ECD9",
+        "#8C6E45"
+      ],
+      "fonts": {
+        "display": "Bodoni Moda",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #E8D9BE, #F4ECD9, #8C6E45. Typography pairs Bodoni Moda (display) with Inter (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans editorial. Motion is…",
+      "site_url": "./sites/cream-clay-editorial-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/cream-clay-editorial-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-clay-pop-editorial-illustration-hero",
+      "title": "cream + clay · pop · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#1FA968",
+        "#F8C8DC",
+        "#F26B1E"
+      ],
+      "fonts": {
+        "display": "Bowlby One SC",
+        "body": "Inter"
+      },
+      "register": "pop",
+      "excerpt": "Palette anchors on #1FA968, #F8C8DC, #F26B1E. Typography pairs Bowlby One SC (display) with Inter (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/cream-clay-pop-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/cream-clay-pop-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-cobalt-cinematic-dark-hero",
+      "title": "cream + cobalt · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#050711",
+        "#E2E3EC",
+        "#A8B8FF"
+      ],
+      "fonts": {
+        "display": "Space Grotesk",
+        "body": "Space Grotesk"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #050711, #E2E3EC, #A8B8FF. Typography pairs Space Grotesk (display) with Space Grotesk (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption.…",
+      "site_url": "./sites/cream-cobalt-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-cobalt-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-cobalt-cinematic-dark-hero-2",
+      "title": "cream + cobalt · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#2F3E4B",
+        "#F7F8FA",
+        "#0047AB"
+      ],
+      "fonts": {
+        "display": "Bebas Neue",
+        "body": "Archivo"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #2F3E4B, #F7F8FA, #0047AB. Typography pairs Bebas Neue (display) with Archivo (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption. Register…",
+      "site_url": "./sites/cream-cobalt-cinematic-dark-hero-2/index.html",
+      "thumb": "thumbs/cream-cobalt-cinematic-dark-hero-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-cobalt-editorial-browser-frame-in-frame",
+      "title": "cream + cobalt · editorial · browser frame-in-frame",
+      "hero_pattern": "B",
+      "palette": [
+        "#EFEAE4",
+        "#1E2A52",
+        "#0061FE"
+      ],
+      "fonts": {
+        "display": "Inter",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #EFEAE4, #1E2A52, #0061FE. Typography pairs Inter (display) with Inter (body). Hero treatment is a browser frame-in-frame — a centered white rounded frame with a 3-dot bar, containing a giant wordmark and an italic serif…",
+      "site_url": "./sites/cream-cobalt-editorial-browser-frame-in-frame/index.html",
+      "thumb": "thumbs/cream-cobalt-editorial-browser-frame-in-frame.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-cobalt-editorial-cinematic-dark-hero",
+      "title": "cream + cobalt · editorial · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#0A0A0A",
+        "#F5EFE6",
+        "#1B2A4E"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Cormorant Garamond"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #0A0A0A, #F5EFE6, #1B2A4E. Typography pairs Playfair Display (display) with Cormorant Garamond (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked…",
+      "site_url": "./sites/cream-cobalt-editorial-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-cobalt-editorial-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-cobalt-editorial-duotone-giant-serif-headline",
+      "title": "cream + cobalt · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#7BA3D3",
+        "#1F2A44",
+        "#C9A8AE"
+      ],
+      "fonts": {
+        "display": "Manrope",
+        "body": "Manrope",
+        "mono": "JetBrains Mono"
+      },
+      "register": "editorial",
+      "excerpt": "A single-screen interface that reads like a calm, curated field of small, deliberate widgets — restrained, airy, and editorial-leaning, built on one dominant cool hue and a strict but soft surface language. The direction is contemplative…",
+      "site_url": "./sites/cream-cobalt-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/cream-cobalt-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-cinematic-dark-hero",
+      "title": "cream + coral · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#101225",
+        "#F2F0EE",
+        "#E7194D"
+      ],
+      "fonts": {
+        "display": "JetBrains Mono",
+        "body": "JetBrains Mono",
+        "mono": "JetBrains Mono"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #101225, #F2F0EE, #E7194D. Typography pairs JetBrains Mono (display) with JetBrains Mono (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked…",
+      "site_url": "./sites/cream-coral-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-coral-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-cinematic-dark-hero-2",
+      "title": "cream + coral · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#26305C",
+        "#F1F0E9",
+        "#D52C64"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Cormorant Garamond"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #26305C, #F1F0E9, #D52C64. Typography pairs Cormorant Garamond (display) with Cormorant Garamond (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left…",
+      "site_url": "./sites/cream-coral-cinematic-dark-hero-2/index.html",
+      "thumb": "thumbs/cream-coral-cinematic-dark-hero-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-cinematic-dark-hero-3",
+      "title": "cream + coral · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#071A3D",
+        "#F4F5F2",
+        "#FF3B0A"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Space Grotesk"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #071A3D, #F4F5F2, #FF3B0A. Typography pairs Anton (display) with Space Grotesk (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption.…",
+      "site_url": "./sites/cream-coral-cinematic-dark-hero-3/index.html",
+      "thumb": "thumbs/cream-coral-cinematic-dark-hero-3.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-dark-cinematic-dark-hero",
+      "title": "cream + coral · dark · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#14181a",
+        "#ede2cd",
+        "#b87038"
+      ],
+      "fonts": {},
+      "register": "dark",
+      "excerpt": "Palette anchors on #14181a, #ede2cd, #b87038. Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption. Register leans dark. Motion is restrained, palette drives mood, and…",
+      "site_url": "./sites/cream-coral-dark-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-coral-dark-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-duotone-giant-serif-headline",
+      "title": "cream + coral · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#DDDCD3",
+        "#F7F7F3",
+        "#F2B39B"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #DDDCD3, #F7F7F3, #F2B39B. Typography pairs Playfair Display (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop.…",
+      "site_url": "./sites/cream-coral-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/cream-coral-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-editorial-browser-frame-in-frame",
+      "title": "cream + coral · editorial · browser frame-in-frame",
+      "hero_pattern": "B",
+      "palette": [
+        "#7CB8A6",
+        "#1F2226",
+        "#F4B6C8"
+      ],
+      "fonts": {
+        "display": "Manrope",
+        "body": "Manrope"
+      },
+      "register": "editorial",
+      "excerpt": "A soft, painterly, single-screen landing composition built on a contained rounded frame floating over a watercolor background, anchored by a single centered lowercase wordmark and a single dark pill button. The design is trying to produce…",
+      "site_url": "./sites/cream-coral-editorial-browser-frame-in-frame/index.html",
+      "thumb": "thumbs/cream-coral-editorial-browser-frame-in-frame.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-editorial-browser-frame-in-frame-2",
+      "title": "cream + coral · editorial · browser frame-in-frame",
+      "hero_pattern": "B",
+      "palette": [
+        "#0f0e0c",
+        "#f5ede0",
+        "#e6461e"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #0f0e0c, #f5ede0, #e6461e. Typography pairs Cormorant Garamond (display) with Inter (body). Hero treatment is a browser frame-in-frame — a centered white rounded frame with a 3-dot bar, containing a giant wordmark and an…",
+      "site_url": "./sites/cream-coral-editorial-browser-frame-in-frame-2/index.html",
+      "thumb": "thumbs/cream-coral-editorial-browser-frame-in-frame-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-editorial-cinematic-dark-hero",
+      "title": "cream + coral · editorial · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#0A0A0A",
+        "#F2EDE3",
+        "#B86A3A"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #0A0A0A, #F2EDE3, #B86A3A. Typography pairs Playfair Display (display) with Inter (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption.…",
+      "site_url": "./sites/cream-coral-editorial-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-coral-editorial-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-editorial-duotone-giant-serif-headline",
+      "title": "cream + coral · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#2a3520",
+        "#f0e6d0",
+        "#b04a28"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Cormorant Garamond"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #2a3520, #f0e6d0, #b04a28. Typography pairs Cormorant Garamond (display) with Cormorant Garamond (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a…",
+      "site_url": "./sites/cream-coral-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/cream-coral-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-editorial-duotone-giant-serif-headline-2",
+      "title": "cream + coral · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#1d3a3a",
+        "#f5efe6",
+        "#c87238"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #1d3a3a, #f5efe6, #c87238. Typography pairs Cormorant Garamond (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop.…",
+      "site_url": "./sites/cream-coral-editorial-duotone-giant-serif-headline-2/index.html",
+      "thumb": "thumbs/cream-coral-editorial-duotone-giant-serif-headline-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-editorial-duotone-giant-serif-headline-3",
+      "title": "cream + coral · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#ecd1cc",
+        "#1a1410",
+        "#d04a1f"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #ecd1cc, #1a1410, #d04a1f. Typography pairs Cormorant Garamond (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop.…",
+      "site_url": "./sites/cream-coral-editorial-duotone-giant-serif-headline-3/index.html",
+      "thumb": "thumbs/cream-coral-editorial-duotone-giant-serif-headline-3.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-editorial-duotone-giant-serif-headline-4",
+      "title": "cream + coral · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#1B1B1B",
+        "#0E0E0E",
+        "#E73327"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #1B1B1B, #0E0E0E, #E73327. Typography pairs Anton (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop. Register…",
+      "site_url": "./sites/cream-coral-editorial-duotone-giant-serif-headline-4/index.html",
+      "thumb": "thumbs/cream-coral-editorial-duotone-giant-serif-headline-4.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-editorial-editorial-illustration-hero",
+      "title": "cream + coral · editorial · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#0A0A12",
+        "#EDEAE6",
+        "#FF5A2C"
+      ],
+      "fonts": {
+        "display": "Unbounded",
+        "body": "Manrope"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #0A0A12, #EDEAE6, #FF5A2C. Typography pairs Unbounded (display) with Manrope (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/cream-coral-editorial-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/cream-coral-editorial-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-editorial-full-bleed-photo-with-top-left-wordmark",
+      "title": "cream + coral · editorial · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#EEEAE2",
+        "#101828",
+        "#E84A1D"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #EEEAE2, #101828, #E84A1D. Typography pairs Anton (display) with Inter (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans editorial. Motion is restrained,…",
+      "site_url": "./sites/cream-coral-editorial-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/cream-coral-editorial-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-editorial-full-bleed-photo-with-top-left-wordmark-2",
+      "title": "cream + coral · editorial · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#2E4A36",
+        "#F4E5C6",
+        "#D8742A"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Playfair Display"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #2E4A36, #F4E5C6, #D8742A. Typography pairs Anton (display) with Playfair Display (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans editorial. Motion is…",
+      "site_url": "./sites/cream-coral-editorial-full-bleed-photo-with-top-left-wordmark-2/index.html",
+      "thumb": "thumbs/cream-coral-editorial-full-bleed-photo-with-top-left-wordmark-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-kawaii-editorial-illustration-hero",
+      "title": "cream + coral · kawaii · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#B7D2CC",
+        "#1F4FB8",
+        "#E8652A"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Manrope"
+      },
+      "register": "kawaii",
+      "excerpt": "Palette anchors on #B7D2CC, #1F4FB8, #E8652A. Typography pairs Anton (display) with Manrope (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/cream-coral-kawaii-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/cream-coral-kawaii-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-pop-editorial-illustration-hero",
+      "title": "cream + coral · pop · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#E8A878",
+        "#F1D5E2",
+        "#B8383A"
+      ],
+      "fonts": {
+        "display": "Montserrat",
+        "body": "Nunito"
+      },
+      "register": "pop",
+      "excerpt": "Palette anchors on #E8A878, #F1D5E2, #B8383A. Typography pairs Montserrat (display) with Nunito (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/cream-coral-pop-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/cream-coral-pop-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-coral-warm-pill-nav-centered-hero",
+      "title": "cream + coral · warm · pill-nav centered hero",
+      "hero_pattern": "F",
+      "palette": [
+        "#f5c8c0",
+        "#1a1a1a",
+        "#f5a8c8"
+      ],
+      "fonts": {
+        "body": "Inter"
+      },
+      "register": "warm",
+      "excerpt": "Palette anchors on #f5c8c0, #1a1a1a, #f5a8c8. Hero treatment is a pill-nav centered hero — a translucent rounded top nav above a single display headline. Register leans warm. Motion is restrained, palette drives mood, and type does the…",
+      "site_url": "./sites/cream-coral-warm-pill-nav-centered-hero/index.html",
+      "thumb": "thumbs/cream-coral-warm-pill-nav-centered-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-crimson-editorial-full-bleed-photo-with-top-left-wordmark",
+      "title": "cream + crimson · editorial · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#1A1A1A",
+        "#F2EADC",
+        "#B8924A"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #1A1A1A, #F2EADC, #B8924A. Typography pairs Playfair Display (display) with Inter (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans editorial. Motion is…",
+      "site_url": "./sites/cream-crimson-editorial-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/cream-crimson-editorial-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-crimson-editorial-illustration-hero",
+      "title": "cream + crimson · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#020A13",
+        "#F3F0E5",
+        "#760B20"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Cormorant Garamond"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #020A13, #F3F0E5, #760B20. Typography pairs Cormorant Garamond (display) with Cormorant Garamond (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over…",
+      "site_url": "./sites/cream-crimson-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/cream-crimson-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-editorial-browser-frame-in-frame",
+      "title": "cream · editorial · browser frame-in-frame",
+      "hero_pattern": "B",
+      "palette": [
+        "#6B6843",
+        "#EFE4CC",
+        "#7A8A47"
+      ],
+      "fonts": {
+        "display": "Italiana",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #6B6843, #EFE4CC, #7A8A47. Typography pairs Italiana (display) with Inter (body). Hero treatment is a browser frame-in-frame — a centered white rounded frame with a 3-dot bar, containing a giant wordmark and an italic…",
+      "site_url": "./sites/cream-editorial-browser-frame-in-frame/index.html",
+      "thumb": "thumbs/cream-editorial-browser-frame-in-frame.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-editorial-cinematic-dark-hero",
+      "title": "cream · editorial · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#0E0B08",
+        "#F2EBDC",
+        "#C9A26A"
+      ],
+      "fonts": {
+        "display": "Bebas Neue",
+        "body": "Oswald"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #0E0B08, #F2EBDC, #C9A26A. Typography pairs Bebas Neue (display) with Oswald (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption. Register…",
+      "site_url": "./sites/cream-editorial-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-editorial-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-editorial-duotone-giant-serif-headline",
+      "title": "cream · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#14110d",
+        "#ebe3d2",
+        "#f5efe2"
+      ],
+      "fonts": {},
+      "register": "editorial",
+      "excerpt": "Palette anchors on #14110d, #ebe3d2, #f5efe2. Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop. Register leans editorial. Motion is restrained, palette drives…",
+      "site_url": "./sites/cream-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/cream-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-editorial-duotone-giant-serif-headline-2",
+      "title": "cream · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#F0EEEA",
+        "#1A1A1A",
+        "#111111"
+      ],
+      "fonts": {
+        "display": "Bebas Neue",
+        "body": "Archivo"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #F0EEEA, #1A1A1A, #111111. Typography pairs Bebas Neue (display) with Archivo (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop.…",
+      "site_url": "./sites/cream-editorial-duotone-giant-serif-headline-2/index.html",
+      "thumb": "thumbs/cream-editorial-duotone-giant-serif-headline-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-ink-cinematic-dark-hero",
+      "title": "cream + ink · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#001F20",
+        "#EAF4F3",
+        "#00D9B5"
+      ],
+      "fonts": {
+        "display": "Space Grotesk",
+        "body": "Space Grotesk"
+      },
+      "register": "technical",
+      "excerpt": "Palette anchors on #001F20, #EAF4F3, #00D9B5. Typography pairs Space Grotesk (display) with Space Grotesk (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption.…",
+      "site_url": "./sites/cream-ink-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-ink-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-ink-dark-pill-nav-centered-hero",
+      "title": "cream + ink · dark · pill-nav centered hero",
+      "hero_pattern": "F",
+      "palette": [
+        "#0e1310",
+        "#ebe4d3",
+        "#1f2422"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Inter"
+      },
+      "register": "dark",
+      "excerpt": "Palette anchors on #0e1310, #ebe4d3, #1f2422. Typography pairs Cormorant Garamond (display) with Inter (body). Hero treatment is a pill-nav centered hero — a translucent rounded top nav above a single display headline. Register leans dark.…",
+      "site_url": "./sites/cream-ink-dark-pill-nav-centered-hero/index.html",
+      "thumb": "thumbs/cream-ink-dark-pill-nav-centered-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-ink-editorial-editorial-illustration-hero",
+      "title": "cream + ink · editorial · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#F4F0E8",
+        "#141414",
+        "#7E8756"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "EB Garamond"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #F4F0E8, #141414, #7E8756. Typography pairs Cormorant Garamond (display) with EB Garamond (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an…",
+      "site_url": "./sites/cream-ink-editorial-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/cream-ink-editorial-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-ink-editorial-photographic-hero",
+      "title": "cream + ink · editorial · photographic hero",
+      "hero_pattern": "P",
+      "palette": [
+        "#103a2e",
+        "#f3e7d2",
+        "#d9b48a"
+      ],
+      "fonts": {
+        "display": "DM Serif Display",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #103a2e, #f3e7d2, #d9b48a. Typography pairs DM Serif Display (display) with Inter (body). Hero treatment is a photographic hero — a real-image-led composition. Register leans editorial. Motion is restrained, palette…",
+      "site_url": "./sites/cream-ink-editorial-photographic-hero/index.html",
+      "thumb": "thumbs/cream-ink-editorial-photographic-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-ink-warm-cinematic-dark-hero",
+      "title": "cream + ink · warm · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#1a0f08",
+        "#ebe0c8",
+        "#c8a378"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Inter"
+      },
+      "register": "warm",
+      "excerpt": "Palette anchors on #1a0f08, #ebe0c8, #c8a378. Typography pairs Cormorant Garamond (display) with Inter (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption.…",
+      "site_url": "./sites/cream-ink-warm-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-ink-warm-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-ink-warm-full-bleed-photo-with-top-left-wordmark",
+      "title": "cream + ink · warm · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#1a0a05",
+        "#ede8df",
+        "#c97a3a"
+      ],
+      "fonts": {},
+      "register": "warm",
+      "excerpt": "Palette anchors on #1a0a05, #ede8df, #c97a3a. Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans warm. Motion is restrained, palette drives mood, and type does the work.",
+      "site_url": "./sites/cream-ink-warm-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/cream-ink-warm-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-ink-warm-full-bleed-photo-with-top-left-wordmark-2",
+      "title": "cream + ink · warm · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#1d140a",
+        "#f3e8d0",
+        "#8a6a3a"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Inter"
+      },
+      "register": "warm",
+      "excerpt": "Palette anchors on #1d140a, #f3e8d0, #8a6a3a. Typography pairs Cormorant Garamond (display) with Inter (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans warm. Motion is…",
+      "site_url": "./sites/cream-ink-warm-full-bleed-photo-with-top-left-wordmark-2/index.html",
+      "thumb": "thumbs/cream-ink-warm-full-bleed-photo-with-top-left-wordmark-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-ochre-editorial-duotone-giant-serif-headline",
+      "title": "cream + ochre · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#F4F1EA",
+        "#1A1A1A",
+        "#F5D93A"
+      ],
+      "fonts": {
+        "display": "Inter",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #F4F1EA, #1A1A1A, #F5D93A. Typography pairs Inter (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop. Register…",
+      "site_url": "./sites/cream-ochre-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/cream-ochre-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-sage-editorial-editorial-illustration-hero",
+      "title": "cream + sage · editorial · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#F2EEE2",
+        "#000000",
+        "#1AFF66"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #F2EEE2, #000000, #1AFF66. Typography pairs Anton (display) with Inter (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/cream-sage-editorial-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/cream-sage-editorial-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-sage-minimal-editorial-illustration-hero",
+      "title": "cream + sage · minimal · editorial illustration hero",
+      "hero_pattern": "D",
+      "palette": [
+        "#0e2a1a",
+        "#f0efe9",
+        "#3edc7c"
+      ],
+      "fonts": {
+        "display": "Manrope",
+        "body": "Inter"
+      },
+      "register": "minimal",
+      "excerpt": "Palette anchors on #0e2a1a, #f0efe9, #3edc7c. Typography pairs Manrope (display) with Inter (body). Hero treatment is an editorial illustration hero — a 3-color framed section with a centered display title set over an inline SVG…",
+      "site_url": "./sites/cream-sage-minimal-editorial-illustration-hero/index.html",
+      "thumb": "thumbs/cream-sage-minimal-editorial-illustration-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-sapphire-cinematic-dark-hero",
+      "title": "cream + sapphire · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#241044",
+        "#F2F0F5",
+        "#C83F9D"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #241044, #F2F0F5, #C83F9D. Typography pairs Playfair Display (display) with Inter (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption.…",
+      "site_url": "./sites/cream-sapphire-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-sapphire-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-stone-dark-cinematic-dark-hero",
+      "title": "cream + stone · dark · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#0a0a0a",
+        "#f0ebe0",
+        "#c8b89a"
+      ],
+      "fonts": {},
+      "register": "dark",
+      "excerpt": "Palette anchors on #0a0a0a, #f0ebe0, #c8b89a. Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption. Register leans dark. Motion is restrained, palette drives mood, and…",
+      "site_url": "./sites/cream-stone-dark-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-stone-dark-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-stone-duotone-giant-serif-headline",
+      "title": "cream + stone · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#E7E5E0",
+        "#242C2B",
+        "#CDD6DA"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Cormorant Garamond"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #E7E5E0, #242C2B, #CDD6DA. Typography pairs Playfair Display (display) with Cormorant Garamond (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color…",
+      "site_url": "./sites/cream-stone-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/cream-stone-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-stone-full-bleed-photo-with-top-left-wordmark",
+      "title": "cream + stone · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#151A18",
+        "#E9E6DE",
+        "#AE8F81"
+      ],
+      "fonts": {
+        "display": "Space Grotesk",
+        "body": "Inter"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #151A18, #E9E6DE, #AE8F81. Typography pairs Space Grotesk (display) with Inter (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans cinematic. Motion is…",
+      "site_url": "./sites/cream-stone-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/cream-stone-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-taupe-editorial-cinematic-dark-hero",
+      "title": "cream + taupe · editorial · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#0A0A0A",
+        "#F2EFE9",
+        "#A88A6A"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #0A0A0A, #F2EFE9, #A88A6A. Typography pairs Playfair Display (display) with Inter (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption.…",
+      "site_url": "./sites/cream-taupe-editorial-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-taupe-editorial-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-teal-cinematic-cinematic-dark-hero",
+      "title": "cream + teal · cinematic · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#1f1812",
+        "#f4e9d0",
+        "#00ff88"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #1f1812, #f4e9d0, #00ff88. Typography pairs Playfair Display (display) with Inter (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption.…",
+      "site_url": "./sites/cream-teal-cinematic-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-teal-cinematic-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-teal-cinematic-dark-hero",
+      "title": "cream + teal · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#030A12",
+        "#DCE4EA",
+        "#29B8E5"
+      ],
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Archivo"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #030A12, #DCE4EA, #29B8E5. Typography pairs Playfair Display (display) with Archivo (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption.…",
+      "site_url": "./sites/cream-teal-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-teal-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-teal-dark-duotone-giant-serif-headline",
+      "title": "cream + teal · dark · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#143a4a",
+        "#ede8d6",
+        "#ede8d6"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Inter"
+      },
+      "register": "dark",
+      "excerpt": "Palette anchors on #143a4a, #ede8d6, #ede8d6. Typography pairs Cormorant Garamond (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop.…",
+      "site_url": "./sites/cream-teal-dark-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/cream-teal-dark-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-teal-editorial-browser-frame-in-frame",
+      "title": "cream + teal · editorial · browser frame-in-frame",
+      "hero_pattern": "B",
+      "palette": [
+        "#EDE6DC",
+        "#0E0E0E",
+        "#5E7A3B"
+      ],
+      "fonts": {
+        "display": "Manrope",
+        "body": "Inter"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #EDE6DC, #0E0E0E, #5E7A3B. Typography pairs Manrope (display) with Inter (body). Hero treatment is a browser frame-in-frame — a centered white rounded frame with a 3-dot bar, containing a giant wordmark and an italic…",
+      "site_url": "./sites/cream-teal-editorial-browser-frame-in-frame/index.html",
+      "thumb": "thumbs/cream-teal-editorial-browser-frame-in-frame.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-teal-editorial-cinematic-dark-hero",
+      "title": "cream + teal · editorial · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#7d8f74",
+        "#1f2a1a",
+        "#3fa55f"
+      ],
+      "fonts": {
+        "display": "Space Grotesk",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "register": "editorial",
+      "excerpt": "A single full-bleed canvas with a centered typographic object floating in a halo of negative space, framed by a four-corner HUD of restrained translucent chrome — that is the whole gestalt in one breath. The direction is editorial,…",
+      "site_url": "./sites/cream-teal-editorial-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/cream-teal-editorial-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-teal-editorial-cinematic-dark-hero-2",
+      "title": "cream + teal · editorial · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#7E8A98",
+        "#E8E4D6",
+        "#A6D6D2"
+      ],
+      "fonts": {
+        "display": "Cinzel",
+        "body": "Cormorant Garamond"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #7E8A98, #E8E4D6, #A6D6D2. Typography pairs Cinzel (display) with Cormorant Garamond (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption.…",
+      "site_url": "./sites/cream-teal-editorial-cinematic-dark-hero-2/index.html",
+      "thumb": "thumbs/cream-teal-editorial-cinematic-dark-hero-2.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-teal-editorial-duotone-giant-serif-headline",
+      "title": "cream + teal · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#ebe5d3",
+        "#2a8b94",
+        "#0a0a0a"
+      ],
+      "fonts": {
+        "display": "Druk Wide",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #ebe5d3, #2a8b94, #0a0a0a. Typography pairs Druk Wide (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop. Register…",
+      "site_url": "./sites/cream-teal-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/cream-teal-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "cream-teal-editorial-full-bleed-photo-with-top-left-wordmark",
+      "title": "cream + teal · editorial · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#1F2A36",
+        "#F5F2EC",
+        "#5DBCE4"
+      ],
+      "fonts": {
+        "display": "JetBrains Mono",
+        "body": "JetBrains Mono",
+        "mono": "JetBrains Mono"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #1F2A36, #F5F2EC, #5DBCE4. Typography pairs JetBrains Mono (display) with JetBrains Mono (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans editorial.…",
+      "site_url": "./sites/cream-teal-editorial-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/cream-teal-editorial-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "serious-ducks-for-un-serious-people",
+      "title": "Serious ducks for un-serious people.",
+      "hero_pattern": "C",
+      "palette": [
+        "#101514",
+        "#F7F7F4",
+        "#B4A800"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Archivo"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #101514, #F7F7F4, #B4A800. Typography pairs Anton (display) with Archivo (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans cinematic. Motion is restrained,…",
+      "site_url": "./sites/serious-ducks-for-un-serious-people/index.html",
+      "thumb": "thumbs/serious-ducks-for-un-serious-people.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "stone-clay-cinematic-dark-hero",
+      "title": "stone + clay · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#090A08",
+        "#D8D0C2",
+        "#A88A55"
+      ],
+      "fonts": {
+        "display": "Cormorant Garamond",
+        "body": "Barlow Condensed"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #090A08, #D8D0C2, #A88A55. Typography pairs Cormorant Garamond (display) with Barlow Condensed (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked…",
+      "site_url": "./sites/stone-clay-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/stone-clay-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "stone-clay-editorial-duotone-giant-serif-headline",
+      "title": "stone + clay · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#F4C95C",
+        "#1F1F1F",
+        "#E8743B"
+      ],
+      "fonts": {
+        "display": "Archivo Black",
+        "body": "Caveat"
+      },
+      "register": "editorial",
+      "excerpt": "A single one-shot editorial graphic rendered as a flat-vector illustrated poster on a saturated mustard ground, built to read as a scrapbook-style listicle header rather than as a navigable interface, where the whole composition can be…",
+      "site_url": "./sites/stone-clay-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/stone-clay-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "stone-coral-cinematic-full-bleed-photo-with-top-left-wordmark",
+      "title": "stone + coral · cinematic · full-bleed photo with top-left wordmark",
+      "hero_pattern": "C",
+      "palette": [
+        "#C9C2B6",
+        "#FF4D4D",
+        "#D8514A"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Inter"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #C9C2B6, #FF4D4D, #D8514A. Typography pairs Anton (display) with Inter (body). Hero treatment is a full-bleed photo with a top-left wordmark and a bottom-left scroll cue. Register leans cinematic. Motion is restrained,…",
+      "site_url": "./sites/stone-coral-cinematic-full-bleed-photo-with-top-left-wordmark/index.html",
+      "thumb": "thumbs/stone-coral-cinematic-full-bleed-photo-with-top-left-wordmark.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "stone-editorial-duotone-giant-serif-headline",
+      "title": "stone · editorial · duotone giant-serif headline",
+      "hero_pattern": "A",
+      "palette": [
+        "#D9D4C5",
+        "#0A0A0A",
+        "#B58A98"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "register": "editorial",
+      "excerpt": "Palette anchors on #D9D4C5, #0A0A0A, #B58A98. Typography pairs Anton (display) with Inter (body). Hero treatment is a duotone giant-serif headline — a single display word or two stacked words centered on a two-color backdrop. Register…",
+      "site_url": "./sites/stone-editorial-duotone-giant-serif-headline/index.html",
+      "thumb": "thumbs/stone-editorial-duotone-giant-serif-headline.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "stone-teal-dark-cinematic-dark-hero",
+      "title": "stone + teal · dark · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#0d1010",
+        "#d0d0d0",
+        "#2dd46a"
+      ],
+      "fonts": {
+        "display": "Anton",
+        "mono": "JetBrains Mono"
+      },
+      "register": "dark",
+      "excerpt": "Palette anchors on #0d1010, #d0d0d0, #2dd46a. Typography leads with Anton. Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption. Register leans dark. Motion is…",
+      "site_url": "./sites/stone-teal-dark-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/stone-teal-dark-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    },
+    {
+      "slug": "teal-ink-cinematic-dark-hero",
+      "title": "teal + ink · cinematic dark hero",
+      "hero_pattern": "E",
+      "palette": [
+        "#06131D",
+        "#B7C1C7",
+        "#A9F1F4"
+      ],
+      "fonts": {
+        "display": "Bebas Neue",
+        "body": "Inter"
+      },
+      "register": "cinematic",
+      "excerpt": "Palette anchors on #06131D, #B7C1C7, #A9F1F4. Typography pairs Bebas Neue (display) with Inter (body). Hero treatment is a cinematic dark hero — a near-black backdrop with a central object area and a bottom-left tracked caption. Register…",
+      "site_url": "./sites/teal-ink-cinematic-dark-hero/index.html",
+      "thumb": "thumbs/teal-ink-cinematic-dark-hero.jpg",
+      "added_at": "2026-11-12T07:32:00Z"
+    }
+  ]
+}

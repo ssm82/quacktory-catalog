@@ -1,0 +1,20 @@
+{
+  "slug": "2021-virtual-webbys",
+  "palette": {
+    "bg": "#F2EEE2",
+    "fg": "#000000",
+    "accent": "#1AFF66",
+    "muted": "#D9D6CC",
+    "ink": "#222222",
+    "surface": "#EAEAE5"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Watch the show"
+}

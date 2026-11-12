@@ -1,0 +1,20 @@
+{
+  "slug": "immersive-garden-website",
+  "palette": {
+    "bg": "#0A0A0A",
+    "fg": "#F5EFE6",
+    "accent": "#1B2A4E",
+    "muted": "#8A8378",
+    "ink": "#050505",
+    "surface": "#F0EEEA"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Cormorant Garamond",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "View the work"
+}

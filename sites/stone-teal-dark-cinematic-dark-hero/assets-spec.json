@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A classic rubber duck with a matte porcelain finish in muted forest green tone (#2F4A3A), posed on location in a moody editorial environment. The duck sits on a slab of warm cream paper (#F0ECE3) that catches soft window light from the upper left, surrounded by deep shadow on a seamless backdrop in #0C0E0D tone — NOT warm amber finish, NOT tinted beyond the palette. Plain oval pupil, no decorative glint. Editorial fashion-magazine framing, slightly off-center composition with the duck as a small but iconic subject, 16:9 cinematic crop. Hard key light, soft fill, subtle rim. The surface reads as unglazed porcelain — chalky, matte, no specular highlight. Cinematic depth of field, 35mm look. The composition evokes an art-directed still life: a small porcelain duck as a quiet manifesto object against a near-black void, the warm cream plane acting as the only break in the dark.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A small classic rubber duck at 4–8 cm scale with a keychain loop detail, matte porcelain finish in muted forest green tone (#2F4A3A), plain oval pupil, no decorative glint. Front-facing, slightly elevated, 30° angle. Seamless backdrop in #0C0E0D tone — NOT warm amber finish, NOT tinted beyond the palette. Soft diffused studio, three-point lighting, no harsh shadow, no specular highlight. The duck is the entire subject, centered, with a subtle warm cream (#F0ECE3) surface hint at the base to echo the brand surface tone. Editorial register: matte porcelain, no glossy lacquer, no resin shine. The silhouette is identical to the rest of the range — same body outline, beak, feet — only the apparent scale and keychain accessory differ.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "A medium classic rubber duck, 10–25 cm, the workhorse SKU, matte porcelain finish in muted forest green tone (#2F4A3A), plain oval pupil, no decorative glint. Front-facing, slightly elevated, 30° angle. Seamless backdrop in #0C0E0D tone — NOT warm amber finish, NOT tinted beyond the palette. Soft diffused studio, three-point lighting, no specular highlight, surface reads as unglazed chalky porcelain. A thin warm cream (#F0ECE3) edge or surface plane at the periphery anchors the brand surface tone. Editorial register throughout. Silhouette is identical to the rest of the range — same body outline, beak, feet — only the apparent scale and the matte colourway vary. The duck sits clean and centered as the most-photographed SKU.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A 15–30 cm classic rubber duck in a collaboration-edition treatment: matte porcelain finish in muted forest green tone (#2F4A3A) with a single warm cream (#F0ECE3) accent — a thin band around the body or a small monogram patch — reading like an editorial fashion collaboration. Plain oval pupil, no decorative glint. Front-facing, slightly elevated, 30° angle. Seamless backdrop in #0C0E0D tone — NOT warm amber finish, NOT tinted beyond the palette. Soft diffused studio, three-point lighting, matte chalky porcelain surface, no lacquer, no resin shine. Silhouette is identical to the rest of the range — same body outline, beak, feet — variation sits only in the cream accent detail and apparent size.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A 50–120 cm classic rubber duck as a photo-object, matte porcelain finish in muted forest green tone (#2F4A3A), plain oval pupil, no decorative glint. Front-facing, slightly elevated, 30° angle. Seamless backdrop in #0C0E0D tone — NOT warm amber finish, NOT tinted beyond the palette. Soft diffused studio, three-point lighting, no specular highlight, surface reads as unglazed chalky porcelain. A subtle warm cream (#F0ECE3) ground or pedestal at the base echoes the brand surface. Editorial mood — the duck dominates the frame, sculptural, monumental, almost architectural in its presence. Silhouette is identical to the rest of the range — same body outline, beak, feet — only the apparent scale and the photo-object framing differ.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A 1.5–3 m classic rubber duck as a statement installation, matte porcelain finish in muted forest green tone (#2F4A3A), plain oval pupil, no decorative glint. Slightly low angle to convey scale, the duck photographed on location in a moody editorial environment — a dark gallery-like void with a single warm cream (#F0ECE3) paper or fabric plane catching soft window light. Seamless backdrop in #0C0E0D tone — NOT warm amber finish, NOT tinted beyond the palette. Hard key light from the upper left, soft fill, subtle rim. Matte unglazed porcelain surface, no lacquer, no resin shine. The duck reads as sculpture, an editorial manifesto object. Silhouette is identical to the rest of the range — same body outline, beak, feet — only the monumental apparent scale and the on-location environment differ.",
+    "aspect_ratio": "1:1"
+  }
+]

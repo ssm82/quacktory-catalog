@@ -1,0 +1,20 @@
+{
+  "slug": "rainforest-foods-interactive-journey",
+  "palette": {
+    "bg": "#274E2B",
+    "fg": "#FFFFFF",
+    "accent": "#6E9147",
+    "muted": "#E8D2A0",
+    "ink": "#172C1D",
+    "surface": "#F2DFC1"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Enter the rainforest"
+}

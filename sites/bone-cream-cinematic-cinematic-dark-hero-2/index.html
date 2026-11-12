@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quacktory — Archive</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="theme-igloo">
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero__scene" aria-hidden="true">
+        <div class="hero__sky"></div>
+        <div class="hero__peaks hero__peaks--far"></div>
+        <div class="hero__peaks hero__peaks--near"></div>
+        <div class="hero__fog"></div>
+        <div class="hero__ground"></div>
+        <div class="hero__seal"><img src="./assets/hero-lifestyle.jpg" alt=""></div>
+        <div class="hero__grain"></div>
+      </div>
+
+      <div class="hero__axis" aria-hidden="true">
+        <span class="hero__crosshair">[ + ]</span>
+      </div>
+
+      <header class="corner corner--tl" role="banner">
+        <h1 class="corner__brand" id="hero-title">QUACKTORY//</h1>
+        <div class="corner__meta">v2.0 · 2025<br>© Archive Series</div>
+      </header>
+
+      <div class="corner corner--tr" role="complementary">
+        <div class="corner__eyebrow">/////// Manifesto</div>
+        <p class="corner__body">A series of ducks that are never put in water. From a 4-cm keychain to a 3-meter installation. One silhouette, different scales. Cold cast, warm pigment in the mass.</p>
+      </div>
+
+      <div class="corner corner--bl">
+        <button class="corner__link" id="scroll-cue">↓ Scroll down</button>
+        <button class="corner__link" id="sound-toggle">[sound: off]</button>
+      </div>
+
+      <div class="corner corner--br">
+        <nav class="corner__nav" aria-label="Social links">
+          <a href="#" aria-label="Telegram">[TG] ↗</a>
+          <a href="#" aria-label="VK">[VK] ↗</a>
+          <a href="#" aria-label="YouTube">[YT] ↗</a>
+        </nav>
+      </div>
+    </section>
+
+    <section class="grid" aria-label="Collection">
+      <div class="grid__head">
+        <span class="grid__eyebrow">/// 01 / Lineup</span>
+        <h2 class="grid__title">Catalog</h2>
+      </div>
+      <ul class="grid__list" role="list">
+        <li><button class="tile" data-id="micro"><span class="tile__num">[01]</span><span class="tile__name">Micro</span><span class="tile__size">4–8 cm</span></button></li>
+        <li><button class="tile" data-id="classic"><span class="tile__num">[02]</span><span class="tile__name">Classic</span><span class="tile__size">10–25 cm</span></button></li>
+        <li><button class="tile" data-id="designer"><span class="tile__num">[03]</span><span class="tile__name">Designer</span><span class="tile__size">15–30 cm</span></button></li>
+        <li><button class="tile" data-id="mega"><span class="tile__num">[04]</span><span class="tile__name">Mega</span><span class="tile__size">50–120 cm</span></button></li>
+        <li><button class="tile" data-id="architect"><span class="tile__num">[05]</span><span class="tile__name">Architect</span><span class="tile__size">1.5–3 m</span></button></li>
+      </ul>
+    </section>
+
+    <section class="b2b" aria-labelledby="b2b-title">
+      <span class="b2b__eyebrow">/// 02 / B2B</span>
+      <h2 class="b2b__title" id="b2b-title">Bespoke development</h2>
+      <p class="b2b__copy">12 signature Pantone equivalents in our TPM palette. Through-body pigment — not paint. A custom Pantone is a separate line, +2 weeks, +15%. Lead times from 3 to 12 weeks. Architect installation is handled by a certified crew.</p>
+      <a class="b2b__cta" href="mailto:hi@quacktory.space">[ request a quote ] ↗</a>
+    </section>
+
+    <footer class="legal">
+      <div class="legal__row">
+        <span>© 2025 · Quacktory</span>
+        <span>GOST 25779-83 · EN 71-3 · REACH</span>
+      </div>
+    </footer>
+  </main>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+    <div class="modal__overlay" data-close></div>
+    <article class="modal__panel">
+      <button class="modal__close" data-close aria-label="Close">[ × ]</button>
+      <img class="modal__img" alt="">
+      <div class="modal__body">
+        <span class="modal__num"></span>
+        <h3 class="modal__title" id="modal-title"></h3>
+        <p class="modal__size"></p>
+        <p class="modal__desc"></p>
+        <p class="modal__price"></p>
+        <p class="modal__term"></p>
+      </div>
+    </article>
+  </div>
+  <script src="main.js" defer></script>
+</body>
+</html>

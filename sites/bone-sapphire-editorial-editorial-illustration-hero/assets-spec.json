@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "Editorial 16:9 hero composition. A monumental classic rubber duck silhouette occupies roughly sixty percent of the frame as the singular centrepiece, posed on a flat matte plinth in a quiet gallery-like space. Surface finish is matte porcelain in muted lavender-purple #7E63B3 with a warm amber accent stripe tracing the wing seam. Seamless backdrop in deep near-black #0F0F12 tone, NOT yellow, NOT tinted beyond palette. Soft window light from camera left with gentle falloff to the right, no harsh specular hot spots. Plain oval pupil, no decorative glint. A single tiny white pinpoint dot hovers to the duck's left as a quiet connector. Faint pale lavender #C9BEE0 type ghosting lingers in the deep background. Camera at low angle fifteen degrees to convey monumentality, slight upward tilt. Overall mood is editorial, minimalist, restrained, museum-still."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Studio 1:1 product shot of a small classic rubber duck silhouette at keychain scale, four to eight centimetres apparent, front-facing slightly elevated thirty degrees. Matte porcelain finish in muted lavender-purple #7E63B3 as the dominant body colour, with a thin warm amber accent tracing the underside of the beak and around the tail. Seamless backdrop in deep near-black #0F0F12 tone, NOT yellow, NOT tinted beyond palette. Soft diffused three-point studio lighting, even illumination, no hot spots or rim flare. Plain oval pupil, no decorative glint. Suspended from a slim matte black carabiner clip above the beak. Editorial restraint, single object on a seamless sweep, subtle floor reflection catching the plinth. Sharp focus across the entire duck. Mood is quiet, gallery-grade, presentation-led."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Studio 1:1 product shot of the classic rubber duck silhouette at workhorse scale, ten to twenty-five centimetres apparent, front-facing slightly elevated thirty degrees. Matte porcelain finish in muted lavender-purple #7E63B3 as the dominant body colour, with a warm amber accent piping along the wing seam, tail base, and belly line. Seamless backdrop in deep near-black #0F0F12 tone, NOT yellow, NOT tinted beyond palette. Soft diffused three-point studio lighting, even wash from above, no harsh specular. Plain oval pupil, no decorative glint. The duck sits centred with generous breathing room; negative space dominates the frame. Editorial mood, porcelain skin reads cool and tactile. Subtle tonal gradient on the backdrop from upper to lower field, no horizon line. Catalogue-grade stillness, no props, no shadows beyond soft contact."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Studio 1:1 product shot of the classic rubber duck silhouette at designer collaboration scale, fifteen to thirty centimetres apparent, front-facing slightly elevated thirty degrees. Matte porcelain finish in muted lavender-purple #7E63B3 as the base body, with a warm amber accent shoulder panel, a slim pale lavender #C9BEE0 belly band, and a tonal signature line engraved into the wing as a quiet mark. Seamless backdrop in deep near-black #0F0F12 tone, NOT yellow, NOT tinted beyond palette. Soft diffused three-point studio lighting, no harsh rim. Plain oval pupil, no decorative glint. The duck is presented as a museum-piece collaboration object, single on the seamless. Editorial restraint, considered colour-blocking, no props. Focus is sharp across beak, eye, and body; soft contact shadow beneath feet only."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Studio 1:1 product shot of the classic rubber duck silhouette at mega photo-object scale, fifty to one hundred twenty centimetres apparent, front-facing slightly elevated thirty degrees. Matte porcelain finish in muted lavender-purple #7E63B3 as the dominant body colour, with a warm amber accent along the beak ridge and a soft pale lavender #C9BEE0 underbelly plane. Seamless backdrop in deep near-black #0F0F12 tone, NOT yellow, NOT tinted beyond palette. Soft diffused three-point studio lighting, gentle falloff toward the frame edges, no hot spots. Plain oval pupil, no decorative glint. The duck fills the frame as a quiet monolith, almost architectural in proportion. Subtle floor seam visible at the base where backdrop meets the implied ground. Editorial mood, catalogue-presentation, restrained."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Studio 1:1 product shot of the classic rubber duck silhouette at architect installation scale, one-and-a-half to three metres apparent, front-facing slightly elevated thirty degrees. Matte porcelain finish in muted lavender-purple #7E63B3 as the dominant body colour, with a warm amber accent crown stripe running over the head, and a pale lavender #C9BEE0 chest plane reading as a tonal block. Seamless backdrop in deep near-black #0F0F12 tone, NOT yellow, NOT tinted beyond palette. Soft diffused three-point studio lighting, even wash across the full form, no harsh shadows, no rim flare. Plain oval pupil, no decorative glint. The duck towers within the seamless void, museum-installation scale. A faint horizontal datum line marks the implied plinth. Editorial mood, gallery-led, monumental but quiet."
+  }
+]

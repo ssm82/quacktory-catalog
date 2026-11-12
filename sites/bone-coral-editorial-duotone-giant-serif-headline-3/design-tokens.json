@@ -1,0 +1,20 @@
+{
+  "slug": "watson",
+  "palette": {
+    "bg": "#FFFFFF",
+    "fg": "#0A0A0A",
+    "accent": "#C8102E",
+    "muted": "#9A9A9A",
+    "ink": "#000000",
+    "surface": "#E6E6E6"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "Playfair Display",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "See the work"
+}

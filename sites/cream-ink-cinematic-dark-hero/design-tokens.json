@@ -1,0 +1,20 @@
+{
+  "slug": "solarin",
+  "palette": {
+    "bg": "#001F20",
+    "fg": "#EAF4F3",
+    "accent": "#00D9B5",
+    "muted": "#8CA3A1",
+    "ink": "#001F20",
+    "surface": "#062E2D"
+  },
+  "fonts": {
+    "display": "Space Grotesk",
+    "body": "Space Grotesk",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "technical",
+  "duck_eye_decor": "none",
+  "cta_register": "Explore the system"
+}

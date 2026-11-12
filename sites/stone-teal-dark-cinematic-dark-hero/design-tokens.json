@@ -1,0 +1,20 @@
+{
+  "slug": "53198839343862011",
+  "palette": {
+    "bg": "#0C0E0D",
+    "fg": "#FFFFFF",
+    "accent": "#2F4A3A",
+    "muted": "#1A1A1A",
+    "ink": "#0C0E0D",
+    "surface": "#F0ECE3"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "Inter",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "C",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Open the manifesto"
+}

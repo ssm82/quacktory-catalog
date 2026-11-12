@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "Editorial hero treatment of a monumental classic rubber duck as a sculptural centrepiece, occupying roughly the 65% horizontal axis of the frame on a seamless backdrop in warm cream #F2EEE2 tone with a soft, paper-like quality. The duck has a matte porcelain surface with a warm amber and pale neon green tint — a creamy, muted take on the brand's saturated accent rather than a loud finish. Plain oval pupils, no decorative glint. Lighting is soft window light from the upper left, mimicking natural daylight on editorial paper, with gentle falloff shadows, not studio strobes. The duck faces forward with slight elevation, monumental and still, like a magazine cover subject. Generous negative space surrounds it on warm cream paper, no props, no clutter, no headline typography in-frame. The composition is type-driven and restrained, with the duck functioning as the lead object. Aspect 16:9, cinematic scale, editorial-tech hybrid mood evoking a Druk-style wordmark cover.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Studio product still life of a micro classic rubber duck, approximately 4-8cm, sized for a keychain attachment with a small metal loop visible at the crown. The duck is centered on a seamless backdrop in warm cream #F2EEE2 tone, paper-like and matte. Surface is matte porcelain with warm amber and pale neon green tint, no glossy lacquer finish. Plain oval pupils, no decorative glint. Camera is front-facing, slightly elevated at 30°, with the duck occupying the lower-center of the frame surrounded by generous editorial negative space. Soft diffused studio three-point lighting, even and gentle, with no hard shadow. The duck reads as a typographic object on cream paper — restrained, minimal, designed rather than photographed. No props, no chrome, no distractions; the small scale is implied through the surrounding emptiness. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Studio product still life of the classic rubber duck, 10-25cm, the workhorse SKU. The duck is centered on a seamless backdrop in warm cream #F2EEE2 tone, paper-like and matte, with the same silhouette across the range. Surface is matte porcelain with warm amber and pale neon green tint, no glossy lacquer finish. Plain oval pupils, no decorative glint. Camera is front-facing, slightly elevated at 30°. Soft diffused studio three-point lighting with gentle shadow falloff, even and editorial. The duck sits within generous negative space, reading as a typographic object on cream paper — restrained, minimal, the most-photographed SKU. No props, no chrome, no distractions. The matte surface catches light softly, no specular highlights. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Studio product still life of a designer collaboration rubber duck, 15-30cm, referencing the Webby Awards' binary spiral motif. The duck is centered on a seamless backdrop in warm cream #F2EEE2 tone, paper-like and matte. Surface is matte porcelain with warm amber and pale neon green tint, with a restrained typographic detail: small repeating '0' and '1' glyphs printed along the body in dark ink #222222, evenly spaced like a barcode of binary code. Plain oval pupils, no decorative glint. Camera is front-facing, slightly elevated at 30°. Soft diffused studio three-point lighting, even and editorial. The duck reads as a typographic object on cream paper — restrained, minimal, the binary detail subtle rather than loud. No props. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Studio product still life of a mega rubber duck, 50-120cm, the photo-object SKU. The duck is centered on a seamless backdrop in warm cream #F2EEE2 tone, paper-like and matte, the cream paper stretching into the distance. Surface is matte porcelain with warm amber and pale neon green tint, no glossy lacquer. Plain oval pupils, no decorative glint. Camera is front-facing, slightly elevated at 30°, the duck filling the frame to suggest monumental scale. Soft diffused studio three-point lighting, even and gentle, with soft falloff shadows anchoring the duck. The duck reads as a sculptural artifact in a museum-style editorial still life — restrained, monumental, the matte surface catching light softly. Generous negative space preserved. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Studio product still life of an architect-scale rubber duck, 1.5-3m, the statement installation SKU. The duck is centered on a seamless backdrop in warm cream #F2EEE2 tone, paper-like and matte, with the cream paper feeling infinite. Surface is matte porcelain with warm amber and pale neon green tint, no glossy lacquer. Plain oval pupils, no decorative glint. Camera is front-facing, slightly elevated at 30° but tilted up to suggest the duck's monumental scale, filling the frame. Soft diffused studio three-point lighting, even and editorial, with the duck dominating the composition as an installation-grade sculptural piece. The duck reads as a typographic object on cream paper — restrained, monumental, like an exhibit in a design museum. No props, no chrome. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  }
+]

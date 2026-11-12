@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck with a lacquered warm coral-red finish (#D8514A) standing as a sculptural centrepiece on a worn honey-amber vanity top, set within a backstage dressing room environment. The duck is the unmistakable focal point, posed on location in the scene and lit with a hard cinematic key light from the upper right and a cool rim catching its curved silhouette against a seamless backdrop in #C9C2B6 warm concrete grey tone, NOT warm amber finish, NOT tinted beyond palette. A six-panel door in muted red (#D8514A) sits mid-ground right with a stenciled star detail, a concrete wall with a partial 'STAGE' stencil looms behind, scuffed baseboards and exposed conduit ground the space. Captured from a slightly low cinematic angle that lets the duck preside over the dressing room like an altar piece. Plain oval pupil, no decorative glint. Shallow depth, lacquered specular highlights, an industrial ceiling lamp glowing warm. Atmosphere is backstage gritty, the duck commanding the room. 16:9.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A 6cm classic rubber duck keychain with a lacquered warm coral-red finish (#D8514A), identical silhouette to the full-size range, photographed front-facing, slightly elevated at 30°. Plain oval pupil, no decorative glint. Soft diffused studio three-point lighting with a faint cinematic rim to honour the register, against a seamless backdrop in #C9C2B6 warm concrete grey tone, NOT warm amber finish, NOT tinted beyond palette. A tiny chrome keychain ring attaches to a small molded loop on the head, casting a tight contact shadow. The duck sits centred on a subtly scuffed honey-amber wood plinth that reads as a dressing-table edge. Specular highlights are tight, bright and hard-edged — surface reads as molded resin, lacquered and pristine, with a single key-light hot spot on the crown of the head. A whisper of the muted red (#D8514A) reflects on the chrome ring, tying keychain to the wider range. 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "A 15cm classic rubber duck with a lacquered warm coral-red finish (#D8514A), the workhorse SKU, identical silhouette to the rest of the range, photographed front-facing, slightly elevated at 30°. Plain oval pupil, no decorative glint. Soft diffused studio three-point lighting with a controlled single key, against a seamless backdrop in #C9C2B6 warm concrete grey tone, NOT warm amber finish, NOT tinted beyond palette. The duck stands centred on an invisible plinth, lacquered specular highlights catching a single hard rim on the right cheek and a soft fill on the left. Surface reads as molded resin, pristine and tactile. A faint warm concrete grey scuff at the base suggests the backstage dressing room without distracting from the product. Camera angle is product-strict, eye-line at the duck's beak, no props other than a single muted-red (#D8514A) star decal out of focus far behind, reading as set dressing. 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A 22cm classic rubber duck in the Adobe × Bowie collaboration edition, silhouette identical to the rest of the range but with a per-direction Bowie design treatment: lacquered warm coral-red (#D8514A) base with a single hand-painted lightning-bolt slash in saturated accent red (#FF4D4D) running diagonally from the forehead across the beak, and three thin vertical Ziggy-stardust stripes down the chest. Photographed front-facing, slightly elevated at 30°, plain oval pupil with no decorative glint. Soft diffused three-point studio lighting with a single cinematic key, seamless backdrop in #C9C2B6 warm concrete grey tone, NOT warm amber finish, NOT tinted beyond palette. Specular highlights are tight and lacquered; the bolt gloss is brighter than the body gloss, reading as over-printed enamel. A tiny stenciled 'Z' sits below the wing line, the eyebrow of the piece. 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "An 80cm classic rubber duck, mega SKU, silhouette identical to the rest of the range but at photo-object scale, lacquered warm coral-red finish (#D8514A), photographed front-facing, slightly elevated at 30°, plain oval pupil with no decorative glint. Treated as a sculptural object in a cinematic backstage space: hard key from the upper left, a hot rim along the right silhouette, soft fill from below. Seamless backdrop in #C9C2B6 warm concrete grey tone, NOT warm amber finish, NOT tinted beyond palette, with a graded darker zone at the floor in the muted surface tone (#2B2522). The duck casts a long, deliberate shadow. A partial six-panel red door (#D8514A) is visible blurred in the deep background, reading as dressing-room context. Surface is highly lacquered, specular catchlights sharp, the duck is the photo-object. 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A 2.4-metre classic rubber duck, architect-scale statement installation, silhouette identical to the rest of the range but at monumental scale, lacquered warm coral-red finish (#D8514A), photographed front-facing, slightly elevated at 30°, with a cinematic angle that flattens perspective to emphasise mass. Plain oval pupil, no decorative glint. Hard cinematic key light from above and slightly right, a hot rim catching the curvature, the rest in deep muted surface tone (#2B2522) shadow. Seamless backdrop in #C9C2B6 warm concrete grey tone, NOT warm amber finish, NOT tinted beyond palette, fading to near-black at the edges. The duck reads as a Bowie-era pop installation: a single star decal at its base, a stenciled 'BOWIE' mark on the floor in front, no other props. Surface is highly lacquered, the catchlight on the crown is a hard rectangular studio softbox. 1:1.",
+    "aspect_ratio": "1:1"
+  }
+]

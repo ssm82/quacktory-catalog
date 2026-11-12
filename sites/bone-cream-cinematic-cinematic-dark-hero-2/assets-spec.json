@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A monumental classic rubber duck sits centered in a dark cinematic void, occupying roughly 40% of the frame width. Camera angle is slightly low and front-facing to amplify scale, giving the duck a sculptural, museum-piece presence. Single hard key light from upper right sculpts deep shadows on the left side; a cool blue-white rim light traces the silhouette, creating sharp edge separation against the haze. The seamless backdrop is a cool gray #9DA0A3 tone that falls off into deeper charcoal at the corners through atmospheric fog — NOT warm amber finish, NOT tinted beyond palette. The duck's surface is lacquered in a cool icy near-white #D8E4EC finish with subtle subsurface translucency suggesting frozen resin. Plain oval pupil with no decorative glint. A faint cool glow seems to leak from beneath the beak, echoing an internal-light motif. Fine dust motes float in the air, adding depth. The overall mood is hushed, premium, gallery-like — the duck as a quiet monument in a cold cinematic space, monumental yet restrained."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product shot, 1:1, of a micro classic rubber duck at keychain scale (approx 6 cm apparent), front-facing, slightly elevated, 30° camera. Soft diffused three-point studio lighting: key from upper left, fill from right, gentle rim from behind to lift the silhouette. The duck has a matte cool icy near-white #D8E4EC finish, with a small integrated stainless split-ring keychain loop fixed at the top of the head. Plain oval pupil with no decorative glint. The seamless backdrop is a clean cool gray #9DA0A3 tone, NOT warm amber finish, NOT tinted beyond palette. The duck occupies roughly 55% of the frame width, centered. Surface texture is smooth and slightly chalky-matte, suggesting a frosted soft-touch rubber. A faint drop shadow grounds the duck on the surface. The image is technical, crisp, and quiet — the duck reads as a small cold artifact, perfectly framed for product display with cinematic restraint."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product shot, 1:1, of a classic rubber duck (approx 18 cm apparent), front-facing, slightly elevated, 30° camera. Soft diffused three-point studio lighting: balanced key and fill with a gentle rim light catching the upper edge of the head. The duck wears a standard glossy lacquered finish in cool icy near-white #D8E4EC, the surface catching crisp studio highlights along the curve of the head, back, and tail. Plain oval pupil with no decorative glint. The seamless backdrop is a clean cool gray #9DA0A3 tone, NOT warm amber finish, NOT tinted beyond palette. The duck occupies roughly 65% of the frame width, centered and grounded with a soft contact shadow. The silhouette is the canonical rubber duck — rounded body, upturned tail, classic beak, two webbed feet. The lacquered surface reads clean and premium, evoking a frosted-glass cold finish. The image is quiet, technical, and contemplative — the workhorse SKU presented with restraint."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product shot, 1:1, of a designer collaboration rubber duck (approx 22 cm apparent), front-facing, slightly elevated, 30° camera. Soft diffused three-point studio lighting with a slightly cooler key to support the glacial palette. The duck carries a frosted ice-block treatment: its body is rendered in cool icy near-white #D8E4EC with a subtly fractured, semi-translucent surface that mimics carved glacial ice, including faint internal seam lines and a delicate subsurface glow suggesting cool light trapped within the form. Plain oval pupil with no decorative glint. The seamless backdrop is a clean cool gray #9DA0A3 tone, NOT warm amber finish, NOT tinted beyond palette. The duck occupies roughly 70% of the frame width, centered, with a soft cool contact shadow. The silhouette remains the canonical rubber duck form; the design treatment is expressed purely through material finish. The image reads as a premium collaboration piece — quiet, architectural, evocative of carved ice and frosted resin."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product shot, 1:1, of a mega rubber duck (approx 80 cm apparent), front-facing, slightly elevated, 30° camera. Soft diffused three-point studio lighting with a stronger key to handle the larger form, and gentle fill to preserve tonal depth in the cool palette. The duck has a soft matte sculptural finish in cool icy near-white #D8E4EC, the surface lightly textured like fine sand-blasted resin, reading as a gallery-scale object rather than a bath toy. Plain oval pupil with no decorative glint. The seamless backdrop is a cool gray #9DA0A3 tone with a subtle gradient toward #7E8185 muted at the lower edges, NOT warm amber finish, NOT tinted beyond palette. The duck occupies roughly 85% of the frame width, monumental but contained. A broad soft shadow anchors it to the surface. Surface variation is subtle but present, catching the key light as soft highlights along the curve of the head, beak, and back. The image feels museum-like."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product shot, 1:1, of an architect-scale rubber duck installation (approx 2 m apparent, monumental), front-facing, slightly elevated, 30° camera. Soft diffused three-point studio lighting scaled for the larger form, with even fill to avoid blowing out the cool tones. The duck is rendered in a polished concrete-like matte finish in cool icy near-white #D8E4EC, with subtle tonal variation and a faint cool subsurface glow visible along the lower belly — an internal-light echo referencing the igloo's glow. Plain oval pupil with no decorative glint. The seamless backdrop is a cool gray #9DA0A3 tone that extends to a deeper #5E6772 ink at the lower edge for atmospheric grounding, NOT warm amber finish, NOT tinted beyond palette. The duck fills the frame nearly edge to edge, with the beak and tail just contained within the borders. A broad soft ground shadow anchors the form. The image reads as a permanent public-art statement — cold, monumental, architectural, gallery-grade."
+  }
+]

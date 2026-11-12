@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "Editorial fashion-magazine hero still life. Five sculptural rubber ducks of varying sizes (tiny, small, medium, large, monumental) arranged in a museum-vitrine composition on a warm amber seamless backdrop, soft diffused three-point studio light, gentle film grain, low-contrast lighting, no hard specular highlights. A single stone-grey sculptural egg shape placed near the medium duck. Front-facing camera, slightly elevated 30 degrees. Warm palette of sand, amber, taupe, ivory. Composition is asymmetrical, large monumental duck on the right, smaller ducks cascading to the left. Cinematic, sculptural, calm. NOT yellow, NOT saturated. Soft vintage editorial mood.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Product studio photograph of a tiny 4 cm rubber duck (keychain sized), warm amber / sandstone matte porcelain finish, sitting centered on pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused three-point studio light, gentle shadow. Front-facing camera, slightly elevated 30 degrees. The duck has minimalist editorial styling, subtle ivory beak, single small dark pupil dot eye. Identical duck silhouette across the product line. Studio e-commerce photo, clean negative space.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Product studio photograph of a 15 cm rubber duck (classic size), warm amber / sandstone matte porcelain finish, sitting centered on pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused three-point studio light, gentle shadow. Front-facing camera, slightly elevated 30 degrees. The duck has minimalist editorial styling, subtle ivory beak, single small dark pupil dot eye. Identical duck silhouette to the rest of the product line. Studio e-commerce photo, clean negative space.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Product studio photograph of a 20 cm rubber duck (designer edition), warm taupe / clay-colored matte porcelain finish with a single hand-painted cool grey stone accent stripe along the back, sitting centered on pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused three-point studio light, gentle shadow. Front-facing camera, slightly elevated 30 degrees. The duck has minimalist editorial styling, subtle ivory beak, single small dark pupil dot eye. Identical duck silhouette to the rest of the product line. Studio e-commerce photo, clean negative space.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Product studio photograph of a 50 cm rubber duck (mega size), warm amber / sandstone matte porcelain finish, sitting centered on pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused three-point studio light, gentle shadow. Front-facing camera, slightly elevated 30 degrees. The duck has minimalist editorial styling, subtle ivory beak, single small dark pupil dot eye. Identical duck silhouette to the rest of the product line. Studio e-commerce photo, clean negative space.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Product studio photograph of a monumental 1.5 meter rubber duck (architect size), warm amber / sandstone matte porcelain finish, sitting centered on pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused three-point studio light, gentle shadow. Front-facing camera, slightly elevated 30 degrees looking slightly up to convey monumentality. The duck has minimalist editorial styling, subtle ivory beak, single small dark pupil dot eye. Identical duck silhouette to the rest of the product line. Studio e-commerce photo, clean negative space.",
+    "aspect_ratio": "1:1"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "slug": "b-d-r-jams",
+  "palette": {
+    "bg": "#0E1A2C",
+    "fg": "#E8D5A8",
+    "accent": "#F2A979",
+    "muted": "#4F73A2",
+    "ink": "#0D1A2A",
+    "surface": "#2C4055"
+  },
+  "fonts": {
+    "display": "Archivo",
+    "body": "Manrope",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "E",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Press play"
+}

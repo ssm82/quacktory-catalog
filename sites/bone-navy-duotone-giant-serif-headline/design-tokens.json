@@ -1,0 +1,20 @@
+{
+  "slug": "paper-planes",
+  "palette": {
+    "bg": "#FAFAFA",
+    "fg": "#FFFFFF",
+    "accent": "#A9A4E8",
+    "muted": "#F2D5EE",
+    "ink": "#A9A4E8",
+    "surface": "#DE9AE8"
+  },
+  "fonts": {
+    "display": "Nunito",
+    "body": "Nunito Sans",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "friendly",
+  "duck_eye_decor": "none",
+  "cta_register": "Take flight"
+}

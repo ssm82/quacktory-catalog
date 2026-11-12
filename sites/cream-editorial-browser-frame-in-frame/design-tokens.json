@@ -1,0 +1,20 @@
+{
+  "slug": "pasqua-wines",
+  "palette": {
+    "bg": "#6B6843",
+    "fg": "#EFE4CC",
+    "accent": "#7A8A47",
+    "muted": "#D9CFB6",
+    "ink": "#0F0F0E",
+    "surface": "#E8E1CC"
+  },
+  "fonts": {
+    "display": "Italiana",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "B",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Open the chapter"
+}

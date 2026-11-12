@@ -1,0 +1,20 @@
+{
+  "slug": "kriss-ai",
+  "palette": {
+    "bg": "#EAD8DD",
+    "fg": "#0E0E0E",
+    "accent": "#B5B3DC",
+    "muted": "#9FB6D6",
+    "ink": "#0E0E0E",
+    "surface": "#FFFFFF"
+  },
+  "fonts": {
+    "display": "Plus Jakarta Sans",
+    "body": "Plus Jakarta Sans",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "kawaii",
+  "duck_eye_decor": "sparkle",
+  "cta_register": "Meet Kriss"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A classic rubber duck with a warm amber porcelain finish, standing monumental at the center of a surreal architectural scene. Setting: a sun-bleached Mediterranean courtyard with a low plaster arch, smooth taupe stone steps, a single bone-white sphere mid-ground, and a shallow reflecting pool of lavender-tinted water in the foreground. A pale cornflower sky reveals through the arch. Soft window light from camera-left casts long gentle shadows. The duck is treated as a contemplative object within the environment — a small symbolic anchor against the architecture. Matte porcelain surface, no gloss. Plain oval pupils, no decorative glint. Front-facing, slightly elevated 30° camera, centered against the seamless warm dusty rose (#D9C2B8) wall backdrop and cool cornflower sky beyond. Editorial fashion-magazine mood, restrained and quiet. Single CG-render feel, soft global illumination, slight chromatic aberration at arch edges. No people, no text."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A miniature classic rubber duck, approximately 5 cm, finished in a cool pale cornflower (#B8CFE2) matte porcelain. Plain oval pupils, no decorative glint. The duck sits centered on a seamless warm dusty rose (#D9C2B8) backdrop, lit with soft diffused studio three-point lighting — soft window key from camera-left, gentle fill right, hairline rim. Surface has a flat matte chalk-paint quality, no lacquer or gloss. A small bone-white porcelain keychain ring loops through the head, sitting flat. The composition is restrained and editorial, like a still life in a quiet magazine spread. Front-facing, slightly elevated 30° camera. Cool duck against warm backdrop creates a quiet complementary tension. A single hairline shadow grounds the form. No props, no people, no text."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A classic rubber duck, approximately 15 cm, the workhorse silhouette, finished in a cool pale cornflower (#B8CFE2) matte porcelain. Plain oval pupils, no decorative glint. The duck sits centered on a seamless warm dusty rose (#D9C2B8) studio backdrop, lit with soft diffused studio three-point lighting — soft window key from camera-left, gentle fill right, hairline rim. The surface has a flat matte chalk-paint finish, no gloss, no lacquer. Beak, feet, and body share the same cool tone with subtle tonal variation. Editorial register: quiet, restrained, fashion-magazine stillness. A single soft shadow grounds the duck. The composition reads as a typographic object on a warm paper field. Front-facing, slightly elevated 30° camera. No props, no people, no text."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A classic rubber duck, approximately 20 cm, in a collaboration-edition designer treatment. Body finished in matte cool bone (#C9C2BC) porcelain, with a single warm taupe (#A89482) hand-painted vertical stripe bisecting the chest from beak to base, like a minimalist editorial motif. Plain oval pupils, no decorative glint. The duck sits beside a small bone-white porcelain sphere on a seamless warm dusty rose (#D9C2B8) backdrop. Soft diffused studio three-point lighting, editorial register, soft window key. Matte chalk-paint surface throughout, no gloss. Front-facing, slightly elevated 30° camera. The composition is gallery-like and restrained — the duck as a curated object on a quiet paper field. No people, no text, no props beyond the small sphere."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A classic rubber duck, approximately 80 cm, the mega photo-object. Body finished in matte pale cornflower (#B8CFE2) porcelain, monumental in scale, photographed as a quiet sculptural anchor. Plain oval pupils, no decorative glint. The duck sits centered against a seamless warm dusty rose (#D9C2B8) studio backdrop that falls off into soft shadow at the edges. Soft diffused studio three-point lighting, editorial register with a single soft window key from camera-left, gentle fill, hairline rim. Surface has a flat matte chalk-paint quality, no lacquer. The duck reads as a large photo-object — fashion-magazine scale, contemplative stillness. Front-facing, slightly elevated 30° camera, the duck occupying roughly 60% of frame height. A single long soft shadow grounds the form. No props, no people, no text."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A classic rubber duck, approximately 2 meters, the architect statement installation. Body finished in matte cool bone (#C9C2BC) porcelain, monumental, photographed as a gallery installation piece. Plain oval pupils, no decorative glint. The duck is positioned on a low warm taupe (#A89482) stone plinth, set within a minimal architectural vignette — a single smooth plaster archway behind, a shallow lavender-tinted reflecting pool in the foreground, pale cornflower (#B8CFE2) sky above. The backdrop reads as the seamless warm dusty rose (#D9C2B8) wall tone from the palette, extended as a continuous environment. Soft diffused studio three-point lighting with a soft window key from camera-left, editorial register. Matte chalk-paint surface, no gloss. Front-facing, slightly elevated 30° camera, the duck occupying roughly 50% of frame height. The composition feels like a surreal architectural render — quiet, restrained, museum-like. No people, no text, no props beyond the installation architecture."
+  }
+]

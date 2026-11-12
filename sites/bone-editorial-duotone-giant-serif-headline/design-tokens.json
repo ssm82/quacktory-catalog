@@ -1,0 +1,20 @@
+{
+  "slug": "grids",
+  "palette": {
+    "bg": "#ECECEC",
+    "fg": "#0A0A0A",
+    "accent": "#000000",
+    "muted": "#0A0A0A",
+    "ink": "#000000",
+    "surface": "#FFFFFF"
+  },
+  "fonts": {
+    "display": "Inter",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Read now"
+}

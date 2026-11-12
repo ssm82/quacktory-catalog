@@ -1,0 +1,20 @@
+{
+  "slug": "427701295881928189",
+  "palette": {
+    "bg": "#102A1E",
+    "fg": "#E8E2D0",
+    "accent": "#9B6A2A",
+    "muted": "#2E5440",
+    "ink": "#1B3324",
+    "surface": "#5A4A2A"
+  },
+  "fonts": {
+    "display": "Cormorant Garamond",
+    "body": "Cormorant Garamond",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Turn the page"
+}

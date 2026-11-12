@@ -1,0 +1,20 @@
+[
+  {"filename": "hero-lifestyle.jpg",
+   "prompt": "Antique apothecary scene: a single heritage rubber duck in aged ivory cream finish with a small brass oval cartouche label on its chest, standing on a dark walnut apothecary shelf surrounded by glass bottles, dried botanicals, and warm candlelight. Soft chiaroscuro lighting, oil-painting atmosphere, moody museum vitrine. Pure white seamless backdrop is NOT used - instead dark moody ambiance. Camera: front-facing, slightly elevated 30 degrees.",
+   "aspect_ratio": "16:9"},
+  {"filename": "product-micro.jpg",
+   "prompt": "Small rubber duck in aged ivory cream finish with a tiny brass oval cartouche medallion on its chest, 4cm keychain-sized, antique apothecary aesthetic, warm cream ceramic with subtle patina. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-classic.jpg",
+   "prompt": "Classic 15cm rubber duck in aged ivory cream finish with a brass oval cartouche medallion on its chest, museum-piece quality, antique apothecary aesthetic. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-designer.jpg",
+   "prompt": "Designer 20cm rubber duck in aged ivory cream finish with an ornate engraved brass oval cartouche frame on its chest featuring classical scrollwork, antique apothecary limited edition. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-mega.jpg",
+   "prompt": "Large 50cm rubber duck in aged ivory cream finish with a prominent brass oval cartouche label on its chest, monumental apothecary showpiece, antique feel. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-architect.jpg",
+   "prompt": "Monumental 1.5m rubber duck sculpture in aged ivory cream finish with a giant brass oval cartouche emblem on its chest, apothecary museum piece, polished but antique aesthetic. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees, slightly more pulled-back to capture the scale.",
+   "aspect_ratio": "1:1"}
+]

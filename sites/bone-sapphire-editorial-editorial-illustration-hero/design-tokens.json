@@ -1,0 +1,20 @@
+{
+  "slug": "74450200085478258",
+  "palette": {
+    "bg": "#0F0F12",
+    "fg": "#C9BEE0",
+    "accent": "#7E63B3",
+    "muted": "#8A8A8A",
+    "ink": "#FFFFFF",
+    "surface": "#1F1F1F"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Visit the work"
+}

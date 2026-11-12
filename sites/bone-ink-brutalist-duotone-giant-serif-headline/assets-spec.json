@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck with a deep matte black finish stands as the sole centrepiece against a seamless pure white backdrop in #FFFFFF tone, NOT warm amber finish, NOT tinted beyond the monochrome palette. The duck is enormous in scale, occupying the full 16:9 cinematic frame, viewed from a low frontal angle that emphasises its typographic monumentality — like a Constructivist sculpture on a plinth. The silhouette is identical to the product line: rounded body, short neck, flat tail, small beak, two flat webbed feet, plain oval black pupil with NO decorative glint. A single hard key light from the upper left casts a crisp geometric shadow on the white floor, with a subtle fill to keep the matte black body readable. No props, no ornament — only black mass and white field. The composition reads as a printed avant-garde monograph cover, brutalist in restraint, austere and institutional. Aspect ratio 16:9, shallow depth of field, razor-sharp on the duck.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Classic rubber duck miniature, 4–8 cm keychain scale, in a deep matte black finish against a seamless pure white backdrop in #FFFFFF tone, NOT warm amber finish, NOT tinted. Front-facing camera, slightly elevated 30° angle, identical silhouette to the larger SKUs: rounded body, short neck, flat tail, small beak, two flat webbed feet, plain oval black pupil with NO decorative glint. Soft diffused studio three-point lighting — even, shadowless, clinical. No props, no styling, no colour variation. The miniature is photographed to the same scale logic as the full line, the matte black surface absorbs light cleanly so the contours read as a single geometric glyph on a white field. Brutalist minimalism executed in rubber: the product as typographic object, austere and institutional. Aspect ratio 1:1, tack-sharp, isolated object, e-commerce clean.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Classic rubber duck, 10–25 cm workhorse SKU, in a deep matte black finish against a seamless pure white backdrop in #FFFFFF tone, NOT warm amber finish, NOT tinted. Front-facing camera, slightly elevated 30° angle, identical silhouette to all SKUs: rounded body, short neck, flat tail, small beak, two flat webbed feet, plain oval black pupil with NO decorative glint. Soft diffused studio three-point lighting — gentle key, fill, and rim to define the matte black contour against the white field. No props, no stylised scene, no chromatic drift. The duck reads as a typographic mark, a single black glyph set in white space. Brutalist product photography: clinical, institutional, the object as letterform. Aspect ratio 1:1, product-isolated, crisp edges, low noise.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Classic rubber duck, 15–30 cm collaboration edition, in a deep matte black finish with a single hairline white construction line etched along its body seam — a Constructivist graphic device — against a seamless pure white backdrop in #FFFFFF tone, NOT warm amber finish, NOT tinted. Front-facing camera, slightly elevated 30° angle, identical silhouette: rounded body, short neck, flat tail, small beak, two flat webbed feet, plain oval black pupil with NO decorative glint. Soft diffused studio three-point lighting, flat and even. The etched hairline reads as a print-mark, as if the duck were lifted directly from a Swiss monograph spread. No props, no colour, no ornament beyond the single graphic stroke. Brutalist designer edition: typographic, austere, the object as diagram. Aspect ratio 1:1, isolated, razor-sharp.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Classic rubber duck, 50–120 cm photo-object scale, in a deep matte black finish against a seamless pure white backdrop in #FFFFFF tone, NOT warm amber finish, NOT tinted. The mega duck is large enough to dominate the 1:1 frame, front-facing camera, slightly elevated 30° angle, identical silhouette to all SKUs: rounded body, short neck, flat tail, small beak, two flat webbed feet, plain oval black pupil with NO decorative glint. Soft diffused studio three-point lighting with a controlled floor reflection to ground the mass. No props, no scene — the object as a single bold black glyph in white space. The matte black absorbs light uniformly so the contours read as a Constructivist silhouette. Brutalist photo-object: massive, austere, institutional. Aspect ratio 1:1, sharp, low noise.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Classic rubber duck, 1.5–3 m statement installation scale, in a deep matte black finish against a seamless pure white cyclorama backdrop in #FFFFFF tone, NOT warm amber finish, NOT tinted. The architect duck towers as a monumental sculpture, identical silhouette to all SKUs — rounded body, short neck, flat tail, small beak, two flat webbed feet, plain oval black pupil with NO decorative glint — but rendered at architectural scale. Front-facing camera, slightly elevated 30° angle to capture the full mass. Single hard key light from above with a soft fill, creating a crisp geometric shadow on the white floor. No props, no setting, no ornament. The installation reads as a Constructivist monument in a white-cube gallery. Brutalist architect edition: monumental, typographic, austere. Aspect ratio 1:1, clinical, sharp.",
+    "aspect_ratio": "1:1"
+  }
+]

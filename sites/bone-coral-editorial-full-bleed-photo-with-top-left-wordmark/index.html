@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quacktory — Serious ducks for not-so-serious people.</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="main.js" defer></script>
+</head>
+<body>
+  <header class="header">
+    <a class="header-brand" href="#top">Quacktory</a>
+    <nav class="header-nav" aria-label="Quacktory"><a class="nav-link active-link" href="#top">Manifesto</a><a class="nav-link" href="#lineup">Size lineup</a><a class="nav-link" href="#production">Production</a><a class="nav-link" href="#b2b">B2B</a></nav>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <img class="hero-image" src="./assets/hero-lifestyle.jpg" alt="Scale from 4 cm to 3 m">
+      <div class="hero-wordmark">Quacktory</div>
+      <div class="hero-copy"><p class="hero-range">from 4 cm to 3 m</p><h1 class="hero-title" id="hero-title">Serious ducks<br>for not-so-serious people.</h1><p class="hero-manifest">We make ducks you don't want to drop in water but want to put on a shelf. Small ones go in your pocket. Big ones go in the lobby. All of them go on camera.</p></div>
+      <div class="hero-stack" aria-hidden="true"><span>Micro</span><span>Classic</span><span>Designer</span><span>Mega</span><span>Architect</span></div>
+    </section>
+
+    <section class="lineup" id="lineup" aria-labelledby="lineup-title">
+      <header class="lineup-header"><h2 class="lineup-title" id="lineup-title">Size lineup</h2><p class="lineup-meta">Product range · from 4 cm to 3 m</p></header>
+      <div class="name-axis" aria-hidden="true"><span class="axis-word">Quacktory</span><span class="axis-mark">&</span><span class="axis-word">Quacktory</span></div>
+      <div class="work-grid">
+        <button class="work-item item-micro" type="button" data-product="micro"><span class="work-index">001</span><img class="work-image" src="./assets/product-micro.jpg" alt="Micro 4–8 cm"><span class="work-caption"><strong class="work-name">Micro</strong><small class="work-size">4–8 cm</small></span><span class="tooltip-pill">Open</span></button>
+        <button class="work-item item-classic" type="button" data-product="classic"><span class="work-index">002</span><img class="work-image" src="./assets/product-classic.jpg" alt="Classic 10–25 cm"><span class="work-caption"><strong class="work-name">Classic</strong><small class="work-size">10–25 cm</small></span><span class="tooltip-pill">Open</span></button>
+        <button class="work-item item-designer" type="button" data-product="designer"><span class="work-index">003</span><img class="work-image" src="./assets/product-designer.jpg" alt="Designer 15–30 cm"><span class="work-caption"><strong class="work-name">Designer</strong><small class="work-size">15–30 cm</small></span><span class="tooltip-pill">Open</span></button>
+        <button class="work-item item-mega" type="button" data-product="mega"><span class="work-index">004</span><img class="work-image" src="./assets/product-mega.jpg" alt="Mega 50–120 cm"><span class="work-caption"><strong class="work-name">Mega</strong><small class="work-size">50–120 cm</small></span><span class="tooltip-pill">Open</span></button>
+        <button class="work-item item-architect" type="button" data-product="architect"><span class="work-index">005</span><img class="work-image" src="./assets/product-architect.jpg" alt="Architect 1.5–3 m"><span class="work-caption"><strong class="work-name">Architect</strong><small class="work-size">1.5–3 m</small></span><span class="tooltip-pill">Open</span></button>
+      </div>
+      <nav class="timeline" aria-label="Size lineup"><span class="timeline-edge">4 cm</span><div class="timeline-track"><button class="timeline-node" type="button" data-product="micro"><span class="node-dot"></span><span class="node-label">001</span></button><button class="timeline-node" type="button" data-product="classic"><span class="node-dot"></span><span class="node-label">002</span></button><button class="timeline-node" type="button" data-product="designer"><span class="node-dot"></span><span class="node-label">003</span></button><button class="timeline-node" type="button" data-product="mega"><span class="node-dot"></span><span class="node-label">004</span></button><button class="timeline-node" type="button" data-product="architect"><span class="node-dot"></span><span class="node-label">005</span></button></div><span class="timeline-edge">3 m</span></nav>
+    </section>
+
+    <section class="production" id="production" aria-labelledby="production-title">
+      <div class="production-wall" aria-hidden="true">5</div>
+      <div class="production-copy"><p class="section-label">How we make ducks — production</p><h2 class="production-title" id="production-title">Every duck passes 5 checks</h2><p class="production-text">Duck body: single-piece cast from vulcanized rubber. No plastic inserts, no metal inside, no glued seams.</p><div class="production-grid"><span class="production-item">Visual inspection</span><span class="production-item">Geometry</span><span class="production-item">Drop test</span><span class="production-item">Smell test</span><span class="production-item">Gravimetry</span></div></div>
+    </section>
+
+    <section class="b2b" id="b2b" aria-labelledby="b2b-title"><div class="b2b-title-wrap"><p class="section-label">B2B / Custom development</p><h2 class="b2b-title" id="b2b-title">Custom = choose from a branded palette.</h2></div><div class="b2b-info"><p class="b2b-text">12 signature Pantone equivalents, blended into the mass BEFORE molding. Pigment throughout the body.</p><p class="b2b-time">Micro / Classic — 3 weeks · Designer — 6 weeks · Mega — 6 weeks · Architect — 12 weeks</p><a class="b2b-link" href="#footer">Request a quote</a></div></section>
+  </main>
+
+  <footer class="footer" id="footer"><span class="footer-brand">Quacktory</span><span class="footer-item">contacts</span><span class="footer-item">payment</span><span class="footer-item">social</span><span class="footer-item">legal</span></footer>
+
+  <div class="modal" aria-hidden="true"><button class="modal-overlay" type="button" aria-label="Close"></button><section class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title"><button class="modal-close" type="button" aria-label="Close">×</button><span class="modal-rule"></span><p class="modal-size"></p><h2 class="modal-title" id="modal-title"></h2><p class="modal-description"></p><dl class="modal-facts"><div class="modal-fact"><dt>Audience</dt><dd class="modal-audience"></dd></div><div class="modal-fact"><dt>Price positioning</dt><dd class="modal-price"></dd></div><div class="modal-fact"><dt>Age</dt><dd class="modal-age"></dd></div></dl></section></div>
+</body>
+</html>

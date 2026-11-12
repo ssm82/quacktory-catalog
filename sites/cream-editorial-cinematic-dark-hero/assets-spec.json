@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck standing in a dark cinematic void, lit by a single soft tungsten key from camera-left with a gentle window-light fill from camera-right. The duck has a warm amber finish with a matte porcelain surface that catches the light like fired clay, never glossy. The seamless backdrop is a deep near-black warm umber tone (#0E0B08), with a subtle floor reflection fading into darkness. The duck is positioned just right of optical center, head turned slightly toward camera, beak catching the highlight. No props, no scrim, no warm tint beyond palette — just the duck as the lone subject in reverent, art-house stillness. A faint vertical lamp-glow falls across the left third of the frame, echoing a 35mm film still. Soft grain, shallow depth, cinematic 16:9 framing. Plain oval pupils, no decorative glint.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A tiny 6cm classic rubber duck, keychain-sized, photographed centered on a seamless backdrop in a deep near-black warm umber tone (#0E0B08). The duck has a warm amber finish with a matte porcelain surface that reads as fired clay, not plastic. Soft diffused studio three-point lighting wraps the silhouette — broad softbox key from upper-left, gentle fill from camera-right, and a hairline rim along the back contour. A subtle contact shadow anchors the figure to the dark floor. Front-facing, slightly elevated, 30° camera. Plain oval pupils, no decorative glint. No glossy highlights, no resin shine, no props, no warm-tinted backdrop bleed — the duck sits quiet and archival in the dark editorial space, like a tiny museum object lit by a single window. Same classic silhouette as the rest of the lineup.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The workhorse 18cm classic rubber duck centered on a seamless backdrop in a deep near-black warm umber tone (#0E0B08). Warm amber finish, matte porcelain surface with the soft sheen of unglazed ceramic. Soft diffused studio three-point lighting: a key from upper-left, a gentle fill from camera-right, and a hairline rim along the back contour that lifts the silhouette from the dark field. A soft contact shadow grounds the base. Front-facing, slightly elevated, 30° camera. Plain oval pupils, no decorative glint. No glossy highlights, no plastic shine. The duck reads as a museum object rather than a bath toy — reverent, archival, editorial. Identical classic silhouette across the lineup; variation is in scale, not shape. The body outline, beak, and feet match every other SKU in the range exactly.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A 22cm collaboration-edition classic rubber duck with a warm amber finish and matte porcelain surface. Around the lower body runs a delicate hand-painted filmstrip motif — thin ivory lines (#F4E7C8) suggesting sprocket holes and frame divisions, treated like a printed contact-sheet label wrapped around the duck. Seamless backdrop in a deep near-black warm umber tone (#0E0B08). Soft diffused studio three-point lighting with a gentle window-light wash from camera-left and a soft rim from camera-right. Front-facing, slightly elevated, 30° camera. Plain oval pupils, no decorative glint. The matte finish keeps the painted detail quiet and archival, never glossy. No resin shine, no warm-tinted backdrop bleed. The duck sits as a curated edition piece — reverent, editorial, the same classic silhouette dressed in a film-foundation treatment.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A 75cm classic rubber duck as a photo-object, seated centered on a seamless backdrop in a deep near-black warm umber tone (#0E0B08). Warm amber finish, matte porcelain surface, sculptural in scale. Soft diffused studio three-point lighting — a broad softbox key from upper-left, a gentle fill from camera-right, and a hairline rim that traces the back of the head, neck, and tail, lifting the silhouette from the dark field. The matte finish reads as fired stoneware, never glossy. Front-facing, slightly elevated, 30° camera. Plain oval pupils, no decorative glint. A soft contact shadow under the body anchors it. The duck dominates the frame like a gallery sculpture — reverent, archival, editorial. Same classic silhouette as the smaller SKUs; only the scale has changed. The body outline, beak, and feet are identical to the rest of the lineup.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A monumental 2.2m classic rubber duck as a statement installation, photographed on a seamless backdrop in a deep near-black warm umber tone (#0E0B08). Warm amber finish, matte porcelain surface scaled to architectural mass. Soft diffused studio three-point lighting with a long-throw key from camera-left and a broad fill from camera-right to keep shadow detail readable across the large form. The duck is cropped just above the feet to emphasize scale, the head nearly brushing the upper third of the frame. Front-facing, slightly elevated, 30° camera. Plain oval pupils, no decorative glint. Reverent, archival, editorial — the duck as a typographic object in negative space, quiet, monumental, like a film-still subject isolated against a void. Same classic silhouette as the rest of the lineup, only scaled up. No props, no glossy resin, no warm-tinted backdrop bleed.",
+    "aspect_ratio": "1:1"
+  }
+]

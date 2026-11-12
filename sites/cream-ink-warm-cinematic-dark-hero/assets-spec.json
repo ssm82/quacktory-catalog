@@ -1,0 +1,20 @@
+[
+  {"filename": "hero-lifestyle.jpg",
+   "prompt": "Lifestyle scene: a single small rubber duck in warm amber-ivory finish sitting on a smooth river stone inside a dim steam-room, with a soft stream of warm water droplets falling over it, candle-lit warm brown atmosphere, eucalyptus leaf leaning against the stone, spa bathhouse aesthetic. Soft diffused studio light with warm candlelight fill, three-point setup. Camera: front-facing, slightly elevated 30 degrees. Cinematic, warm, moody. NOT yellow, NOT saturated.",
+   "aspect_ratio": "16:9"},
+  {"filename": "product-micro.jpg",
+   "prompt": "Tiny 4cm rubber duck in warm amber-ivory satin finish, keychain-sized, spa bathhouse aesthetic. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-classic.jpg",
+   "prompt": "Classic 15cm rubber duck in warm walnut-brown satin finish, our house duck, spa bathhouse aesthetic. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-designer.jpg",
+   "prompt": "Designer 20cm rubber duck in deep bronze-terracotta satin finish with a small carved eucalyptus collar, limited spa edition, bathhouse aesthetic. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-mega.jpg",
+   "prompt": "Large 50cm rubber duck in warm taupe-stone matte finish, monumental spa room piece, bathhouse aesthetic. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees, slightly more pulled-back to capture the scale.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-architect.jpg",
+   "prompt": "Monumental 1.5m rubber duck sculpture in deep umber-wood satin finish with a eucalyptus wreath collar, statement spa bathhouse centerpiece. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees, slightly more pulled-back to capture the scale.",
+   "aspect_ratio": "1:1"}
+]

@@ -1,0 +1,20 @@
+{
+  "slug": "robin-mastromarino-portfolio-1",
+  "palette": {
+    "bg": "#101010",
+    "fg": "#FFFFFF",
+    "accent": "#0875D1",
+    "muted": "#F0EFED",
+    "ink": "#1B251E",
+    "surface": "#24452E"
+  },
+  "fonts": {
+    "display": "Bebas Neue",
+    "body": "Archivo",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Explore the archive"
+}

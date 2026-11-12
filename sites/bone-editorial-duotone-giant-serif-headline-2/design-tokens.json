@@ -1,0 +1,20 @@
+{
+  "slug": "united-carriers",
+  "palette": {
+    "bg": "#F4F4F2",
+    "fg": "#FFFFFF",
+    "accent": "#0A0A0A",
+    "muted": "#8C8C8C",
+    "ink": "#0A0A0A",
+    "surface": "#E2E2E0"
+  },
+  "fonts": {
+    "display": "Jost",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Get a quote"
+}

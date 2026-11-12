@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck standing as a sculptural centrepiece, occupying roughly sixty percent of the frame height in a 16:9 cinematic widescreen composition, the classic rubber duck silhouette rendered in deep matte black porcelain finish that reads like a printed plate, seamless pure white backdrop in #FFFFFF tone, NOT yellow, NOT tinted beyond palette, editorial poster aesthetic with a heavy halftone grain texture across the entire image, single hard key light from the upper left carving a sharp rim along the silhouette and casting a long solid floor shadow, the duck reads as a typographic weight object on a printed page, orthogonal layout, theatrical and weighty mood, plain oval pupil with no decorative glint, no props, no glow, no transparency, hard orthogonal edges, brutalist-leaning scale relationship between figure and white field",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A small classic rubber duck in the four to eight centimetre range, identical classic rubber duck silhouette in deep matte black porcelain finish, front-facing slightly elevated thirty degree camera angle, soft diffused studio three point lighting, seamless pure white backdrop in #FFFFFF tone, NOT yellow, NOT tinted beyond palette, plain oval pupil with no decorative glint, a slim chrome keychain ring threaded through the crown of the head to communicate the micro SKU scale, the duck occupies roughly forty percent of the frame, a single thin hairline ground shadow, no props beyond the ring, no glow, no transparency, no chromatic accent, editorial matte surface reading like fired porcelain, the negative space around the figure is generous and quiet, restrained printed catalogue feel, 1:1 square crop",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The workhorse classic rubber duck at ten to twenty five centimetres apparent size, the most photographed SKU, identical classic rubber duck silhouette in deep matte black porcelain finish, front-facing slightly elevated thirty degree camera angle, soft diffused studio three point lighting with a clean key, soft fill, and gentle rim, seamless pure white backdrop in #FFFFFF tone, NOT yellow, NOT tinted beyond palette, plain oval pupil with no decorative glint, the duck centred on the optical centre occupying roughly fifty five percent of the frame, a thin hairline ground shadow anchoring the figure, no props, no glow, no transparency, no chromatic accent, editorial matte surface reading like fired porcelain on warm paper, large negative space, restrained printed catalogue feel, 1:1 square crop",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A fifteen to thirty centimetre classic rubber duck collaboration edition, identical classic rubber duck silhouette, the duck body finished in deep matte black porcelain overlaid with a high contrast graphic treatment that follows the site's editorial poster logic, a giant halftone dot field covering the lower body and a solid black upper body split by a hard horizontal rule across the beak line, front-facing slightly elevated thirty degree camera angle, soft diffused studio three point lighting, seamless pure white backdrop in #FFFFFF tone, NOT yellow, NOT tinted beyond palette, plain oval pupil with no decorative glint, the duck occupies roughly sixty percent of the frame, a thin hairline ground shadow, no props, no glow, no transparency, no rounded chrome bokeh, brutalist typographic decoration applied as a surface graphic, 1:1 square crop",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A massive classic rubber duck at fifty to one hundred and twenty centimetres apparent scale, identical classic rubber duck silhouette in deep matte black porcelain finish, front-facing slightly elevated thirty degree camera angle, soft diffused studio three point lighting, seamless pure white backdrop in #FFFFFF tone, NOT yellow, NOT tinted beyond palette, plain oval pupil with no decorative glint, the duck fills the frame nearly edge to edge at roughly ninety percent coverage, the curvature of the body extending past the square edges to imply monumental photo object scale, a thin hairline ground shadow, no props, no glow, no transparency, no chromatic accent, the surface reads like a printed newsprint plate with subtle halftone grain, editorial monumental feel, 1:1 square crop",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A monumental one and a half to three metre classic rubber duck, statement installation scale, identical classic rubber duck silhouette in deep matte black porcelain finish, the duck photographed at a slight distance with a small distant human silhouette implied at the lower edge as a scale reference, front-facing slightly elevated thirty degree camera angle, soft diffused studio three point lighting, seamless pure white backdrop in #FFFFFF tone reading as a brutalist gallery wall, NOT yellow, NOT tinted beyond palette, plain oval pupil with no decorative glint, the duck occupies roughly seventy five percent of the frame height, a thin long ground shadow extending toward the camera, no glow, no transparency, no chromatic accent, hard orthogonal architecture around the figure, editorial monumental installation feel, 1:1 square crop",
+    "aspect_ratio": "1:1"
+  }
+]

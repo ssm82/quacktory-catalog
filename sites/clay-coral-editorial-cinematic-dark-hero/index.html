@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quacktory — Serious ducks for not-so-serious people.</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="main.js" defer></script>
+</head>
+<body>
+  <header class="header">
+    <a class="header-side" href="#top">Quacktory</a>
+    <a class="header-center" href="#lineup">Size lineup</a>
+    <a class="header-side header-right" href="#notes">Notes</a>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-field" aria-hidden="true"></div>
+      <div class="hero-bands">
+        <div class="hero-band band-peach"><span class="hero-crop"></span></div>
+        <div class="hero-band band-blue"><span class="hero-crop"></span></div>
+        <div class="hero-band band-sage"><span class="hero-crop"></span></div>
+        <div class="hero-photo">
+          <img class="hero-image" src="./assets/hero-lifestyle.jpg" alt="A duck standing alone in a dark navy studio">
+          <div class="hero-credit" id="notes">
+            <p class="hero-index">(S-000) 132</p>
+            <h1 class="hero-title" id="hero-title">Quacktory Jams</h1>
+            <p class="hero-tagline">Serious ducks for not-so-serious people.</p>
+          </div>
+          <p class="hero-stat">5 sizes, 1 shelf</p>
+        </div>
+      </div>
+      <a class="hero-arrow" href="#lineup" aria-label="Open">→</a>
+      <span class="hero-badge" aria-hidden="true">Q</span>
+    </section>
+
+    <section class="lineup" id="lineup" aria-labelledby="lineup-title">
+      <header class="lineup-header"><span class="lineup-meta">Product range</span><h2 class="lineup-title" id="lineup-title">Size lineup</h2><span class="lineup-meta right-meta">5</span></header>
+      <div class="stepped-stack">
+        <button class="product-band product-micro" type="button" data-product="micro"><span class="band-swatch"></span><img class="band-image" src="./assets/product-micro.jpg" alt="Micro 4–8 cm"><span class="band-overlay"></span><span class="band-index">(S-001)</span><span class="band-name">Micro</span><span class="band-size">4–8 cm</span><span class="tooltip-pill">Open</span></button>
+        <button class="product-band product-classic" type="button" data-product="classic"><span class="band-swatch"></span><img class="band-image" src="./assets/product-classic.jpg" alt="Classic 10–25 cm"><span class="band-overlay"></span><span class="band-index">(S-002)</span><span class="band-name">Classic</span><span class="band-size">10–25 cm</span><span class="tooltip-pill">Open</span></button>
+        <button class="product-band product-designer" type="button" data-product="designer"><span class="band-swatch"></span><img class="band-image" src="./assets/product-designer.jpg" alt="Designer 15–30 cm"><span class="band-overlay"></span><span class="band-index">(S-003)</span><span class="band-name">Designer</span><span class="band-size">15–30 cm</span><span class="tooltip-pill">Open</span></button>
+        <button class="product-band product-mega" type="button" data-product="mega"><span class="band-swatch"></span><img class="band-image" src="./assets/product-mega.jpg" alt="Mega 50–120 cm"><span class="band-overlay"></span><span class="band-index">(S-004)</span><span class="band-name">Mega</span><span class="band-size">50–120 cm</span><span class="tooltip-pill">Open</span></button>
+        <button class="product-band product-architect" type="button" data-product="architect"><span class="band-swatch"></span><img class="band-image" src="./assets/product-architect.jpg" alt="Architect 1.5–3 m"><span class="band-overlay"></span><span class="band-index">(S-005)</span><span class="band-name">Architect</span><span class="band-size">1.5–3 m</span><span class="tooltip-pill">Open</span></button>
+      </div>
+      <nav class="timeline" aria-label="Size lineup"><span class="timeline-edge">4 cm</span><div class="timeline-track"><button class="timeline-node" type="button" data-product="micro"><span class="node-dot"></span><span class="node-label">Micro</span></button><button class="timeline-node" type="button" data-product="classic"><span class="node-dot"></span><span class="node-label">Classic</span></button><button class="timeline-node" type="button" data-product="designer"><span class="node-dot"></span><span class="node-label">Designer</span></button><button class="timeline-node" type="button" data-product="mega"><span class="node-dot"></span><span class="node-label">Mega</span></button><button class="timeline-node" type="button" data-product="architect"><span class="node-dot"></span><span class="node-label">Architect</span></button></div><span class="timeline-edge">3 m</span></nav>
+    </section>
+
+    <section class="production" aria-labelledby="production-title">
+      <div class="production-heading"><p class="section-label">How we make ducks — production</p><h2 class="production-title" id="production-title">Every duck passes 5 checks</h2></div>
+      <div class="production-list"><article class="production-card"><span class="card-number">01</span><h3 class="card-title">Visual inspection</h3><p class="card-text">no pores, no streaks, no underfills.</p></article><article class="production-card"><span class="card-number">02</span><h3 class="card-title">Geometry</h3><p class="card-text">beak/eyes/feet in place, proportions within ±2%.</p></article><article class="production-card"><span class="card-number">03</span><h3 class="card-title">Drop test</h3><p class="card-text">5 drops from 1 m onto concrete without cracks.</p></article><article class="production-card"><span class="card-number">04</span><h3 class="card-title">Smell test</h3><p class="card-text">no "rubber" odor.</p></article><article class="production-card"><span class="card-number">05</span><h3 class="card-title">Gravimetry</h3><p class="card-text">weight within ±3% of reference.</p></article></div>
+    </section>
+
+    <section class="b2b" aria-labelledby="b2b-title"><div class="b2b-swatch swatch-peach"></div><div class="b2b-swatch swatch-blue"></div><div class="b2b-swatch swatch-sage"></div><div class="b2b-copy"><p class="section-label">B2B / Custom development</p><h2 class="b2b-title" id="b2b-title">Custom = choose from a branded palette.</h2><p class="b2b-text">12 signature Pantone equivalents. Pigment throughout the body.</p><a class="b2b-link" href="#footer">Request a quote →</a></div></section>
+  </main>
+
+  <footer class="footer" id="footer"><span class="footer-brand">Quacktory</span><span class="footer-item">contacts</span><span class="footer-item">payment</span><span class="footer-item">social</span><span class="footer-item">legal</span></footer>
+
+  <div class="modal" aria-hidden="true"><button class="modal-overlay" type="button" aria-label="Close"></button><section class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title"><button class="modal-close" type="button" aria-label="Close">×</button><span class="modal-stripe"></span><p class="modal-size"></p><h2 class="modal-title" id="modal-title"></h2><p class="modal-description"></p><dl class="modal-facts"><div class="modal-fact"><dt>Audience</dt><dd class="modal-audience"></dd></div><div class="modal-fact"><dt>Price positioning</dt><dd class="modal-price"></dd></div><div class="modal-fact"><dt>Age</dt><dd class="modal-age"></dd></div></dl></section></div>
+</body>
+</html>

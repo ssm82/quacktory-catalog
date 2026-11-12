@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck standing as a single sculptural centrepiece against a seamless backdrop in warm marigold tone (#FFD079), treated as a printed editorial spread on warm uncoated paper. The duck has a matte porcelain-like surface in a warm burnt-orange finish (a deep vermillion #E84E2A), soft and chalky rather than glossy, like a hand-painted ceramic object lit by a north-facing window. The composition is symmetrical and frontal, the duck occupying roughly sixty percent of the frame height, head held straight, shot at a slightly elevated thirty-degree camera angle, body grounded on an invisible plinth. A faint oversized typographic watermark reading 'ASTROLOGY' sits low in the frame as a backplate, blurred and out of focus, the same warm marigold hue at slightly reduced luminance. A few four-point sparkle confetti marks float in the negative space, printed in the same warm orange and a single deep indigo violet (#4A2DD8). Plain oval pupil, no decorative glint. No props, no surface texture, no shadow other than a soft contact shade. The mood is playful, occult, and confidently loud — a printed zine cover where the duck is the only figure.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A tiny classic rubber duck, five centimetre scale, fitted with a small brushed-brass keychain ring through a metal eye-loop set into the crown of its head. The duck has the identical body outline, beak, and webbed feet as the workhorse SKU — silhouette must be perfectly consistent across the range. Surface is a warm burnt-orange matte porcelain finish (#E84E2A), no gloss, no decals, no patterns. Plain oval pupil in near-black ink, no glint, no sparkle, no heart shape. The duck sits centred on a seamless backdrop in warm marigold tone (#FFD079), the same hue as the page ground, treated as warm uncoated paper. Soft diffused three-point studio lighting, no hard shadow, a faint contact shade beneath the feet. Camera is front-facing, slightly elevated thirty degrees, square one-to-one crop. Editorial register: the object reads as a small printed object on warm paper, tactile and matte, with all the calm of a museum catalogue plate.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The classic rubber duck, eighteen centimetre scale, the workhorse SKU and most-photographed variant in the range. Identical body outline, beak, and webbed feet as every other SKU in the line. Surface finish is a warm burnt-orange matte porcelain (#E84E2A) — a deep terracotta-vermillion, soft and chalky, not glossy, treated like a hand-painted ceramic object. No decals, no patterns, no printed ornament. Plain oval pupil in near-black ink, no glint, no heart, no star, no pixel, no sparkle catchlight. The duck is centred on a seamless backdrop in warm marigold tone (#FFD079), the same hue as the site ground, reading as warm uncoated paper. Soft diffused three-point studio lighting, no hard shadow, a very faint contact shade directly under the feet. Camera front-facing, slightly elevated thirty degrees, square one-to-one crop. Editorial register: matte porcelain on warm paper, museum catalogue calm.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A twenty-two centimetre designer-edition classic rubber duck — a collaboration release tied to the astrology theme. Identical body outline, beak, and webbed feet to the rest of the line; the silhouette does not change. Surface is a warm burnt-orange matte porcelain base (#E84E2A), finished with a fine hand-illustrated sun-glyph printed in soft marigold (#FFD24A) on the duck's flank, and a thin near-black ink border line running around the lower belly, recalling a tarot card frame. The eye is a plain oval pupil in #0B0B0B ink — no glint, no heart, no star, no pixel, no sparkle catchlight. The duck sits centred on a seamless backdrop in warm marigold tone (#FFD079), treated as warm uncoated paper. Soft diffused three-point studio lighting, even and gentle, with a faint contact shade. Camera front-facing, slightly elevated thirty degrees, square one-to-one crop. Editorial register: matte porcelain on warm paper, the duck as a printed zine object.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A seventy-five centimetre mega-scale classic rubber duck — a photo-object, not a bath toy. The body outline, beak, and webbed feet are identical to every other SKU in the range; only the apparent scale and the way the camera frames it change. The surface is a warm burnt-orange matte porcelain finish (#E84E2A), chalky and tactile, treated like a fired-ceramic sculpture rather than vinyl. No decals, no printed ornament, no gloss. Plain oval pupil in near-black ink, no glint, no heart, no star, no pixel, no sparkle catchlight. The duck fills roughly seventy percent of the frame on a seamless backdrop in warm marigold tone (#FFD079), the same hue as the site ground, reading as warm uncoated paper. Soft diffused three-point studio lighting, even and calm, a single soft contact shade under the body. Camera front-facing, slightly elevated thirty degrees, square one-to-one crop. Editorial register: the duck as a printed catalogue plate at architectural scale.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A two-metre architect-scale classic rubber duck, presented as a statement installation object. The body outline, beak, and webbed feet are identical to every other SKU in the range — silhouette does not change. Surface is a warm burnt-orange matte porcelain finish (#E84E2A), treated like a fired-ceramic sculpture or cast resin object, soft and chalky, no gloss. Plain oval pupil in near-black ink, no glint, no heart, no star, no pixel, no sparkle catchlight. The duck is photographed front-facing, slightly elevated thirty degrees, square one-to-one crop framing the body to suggest architecture rather than portraiture. Seamless backdrop in warm marigold tone (#FFD079), the same hue as the site ground, reading as warm uncoated paper. Soft diffused three-point studio lighting, calm and even, a soft contact shade beneath the form. Editorial register: the duck as a typographic, monumental object on a printed page.",
+    "aspect_ratio": "1:1"
+  }
+]

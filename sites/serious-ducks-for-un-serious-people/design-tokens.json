@@ -1,0 +1,20 @@
+{
+  "slug": "a-world-with-no-heroes",
+  "palette": {
+    "bg": "#101514",
+    "fg": "#F7F7F4",
+    "accent": "#B4A800",
+    "muted": "#8A815B",
+    "ink": "#101514",
+    "surface": "#1D2321"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "Archivo",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Choose your route"
+}

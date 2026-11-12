@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>QUACKTORY — Serious ducks for not-so-serious people</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main class="stage">
+
+  <header class="bar" role="banner">
+    <a class="logo" href="#" aria-label="Quacktory — home">
+      <span class="logo__word">QUACKTORY</span>
+      <span class="logo__dot" aria-hidden="true"></span>
+    </a>
+    <nav class="bar__nav" aria-label="Product lines">
+      <a href="#micro" class="bar__link" data-line="Micro">Micro</a>
+      <a href="#classic" class="bar__link" data-line="Classic">Classic</a>
+      <a href="#designer" class="bar__link" data-line="Designer">Designer</a>
+      <a href="#mega" class="bar__link" data-line="Mega">Mega</a>
+      <a href="#architect" class="bar__link" data-line="Architect">Architect</a>
+    </nav>
+    <div class="bar__meta">
+      <span>4 CM <em class="dim">→</em> 3 M</span>
+      <span class="bar__sep">/</span>
+      <span>MOSCOW <em class="dim">·</em> STUDIO</span>
+    </div>
+  </header>
+
+  <section class="hero" aria-label="Hero">
+    <div class="hero__media" aria-hidden="true">
+      <img class="hero__photo" src="./assets/hero-lifestyle.jpg" alt="">
+      <div class="hero__shade"></div>
+      <div class="hero__vignette"></div>
+      <div class="hero__grain"></div>
+      <div class="hero__curve"></div>
+    </div>
+    <div class="hero__floater hero__floater--l" aria-hidden="true">
+      <div class="orb orb--amber"></div>
+    </div>
+    <div class="hero__floater hero__floater--r" aria-hidden="true">
+      <div class="orb orb--red"></div>
+    </div>
+    <div class="hero__plate">
+      <p class="hero__kicker"><span class="kicker__dot"></span>№ 001 / SERIOUS DUCKS FOR NOT-SO-SERIOUS PEOPLE</p>
+      <h1 class="hero__title">
+        <span>Serious</span>
+        <span>ducks</span>
+        <span class="hero__title--accent">for not-so-serious.</span>
+      </h1>
+      <div class="hero__cta">
+        <a class="btn btn--primary" href="#b2b" data-cta="book">
+          <span>Book a session</span>
+          <span class="btn__arrow" aria-hidden="true">→</span>
+        </a>
+        <p class="hero__tag">
+          <span class="tag__dot" aria-hidden="true"></span>
+          manifesto&nbsp;·&nbsp;collabs&nbsp;·&nbsp;B2B — all below
+        </p>
+      </div>
+    </div>
+    <div class="hero__scroll" aria-hidden="true">
+      <span class="hero__scroll-word">SCROLL</span>
+      <span class="hero__scroll-line"></span>
+    </div>
+  </section>
+
+  <section class="manifesto" aria-label="Manifesto">
+    <p class="eyebrow">§ 00 — MANIFESTO</p>
+    <p class="manifesto__text">We make ducks you don't want to put in the bath — you want to put on a shelf. <em>Small ones fit in a pocket.</em> <em>Big ones belong in the foyer.</em> <em>All of them belong in frame.</em></p>
+  </section>
+
+  <section class="scale" id="scale" aria-label="Size scale">
+    <header class="section__head">
+      <p class="eyebrow">§ 01 — SCALE</p>
+      <h2 class="section-title">One&nbsp;duck.<br><em>Five&nbsp;scales.</em></h2>
+      <p class="section-lede">The silhouette is invariant. Only the scene it lands in changes. From a 4 cm keychain to a 3 m installation — click a node to open its passport.</p>
+    </header>
+    <ol class="rail" role="list">
+      <li class="node" id="micro" data-line="Micro" data-num="M / 01" data-size="4–8 cm — thumb" data-aud="keychain · merch · gift up to ~$7" data-price="from $4 / pc" data-ship="today" data-age="6+" data-img="./assets/product-micro.jpg" data-glow="#c9915a" tabindex="0">
+        <div class="node__art">
+          <div class="node__photo"><img src="./assets/product-micro.jpg" alt=""></div>
+          <div class="node__glow node__glow--m"></div>
+          <div class="node__tag">M / 01</div>
+          <div class="node__hint">open →</div>
+        </div>
+        <div class="node__body">
+          <h3 class="node__name">Micro</h3>
+          <p class="node__size">4–8 cm <span class="dim">— thumb</span></p>
+          <p class="node__aud">keychain · merch · gift</p>
+          <div class="node__foot">
+            <span class="node__price">from $4<span class="dim"> / pc</span></span>
+            <span class="node__ship">today</span>
+          </div>
+        </div>
+      </li>
+      <li class="node" id="classic" data-line="Classic" data-num="C / 02" data-size="10–25 cm — like a palm" data-aud="kids · bath · office" data-price="from $12 / pc" data-ship="3 weeks" data-age="3+" data-img="./assets/product-classic.jpg" data-glow="#d4a04a" tabindex="0">
+        <div class="node__art">
+          <div class="node__photo"><img src="./assets/product-classic.jpg" alt=""></div>
+          <div class="node__glow node__glow--c"></div>
+          <div class="node__tag">C / 02</div>
+          <div class="node__hint">open →</div>
+        </div>
+        <div class="node__body">
+          <h3 class="node__name">Classic</h3>
+          <p class="node__size">10–25 cm <span class="dim">— like a palm</span></p>
+          <p class="node__aud">kids · bath · office</p>
+          <div class="node__foot">
+            <span class="node__price">from $12<span class="dim"> / pc</span></span>
+            <span class="node__ship">3 weeks</span>
+          </div>
+        </div>
+      </li>
+      <li class="node" id="designer" data-line="Designer" data-num="D / 03" data-size="15–30 cm — like a cat" data-aud="collabs · limited · collection" data-price="from $35 / pc" data-ship="6 weeks" data-age="6+ (collectible object)" data-img="./assets/product-designer.jpg" data-glow="#5fb4d4" tabindex="0">
+        <div class="node__art">
+          <div class="node__photo"><img src="./assets/product-designer.jpg" alt=""></div>
+          <div class="node__glow node__glow--d"></div>
+          <div class="node__tag">D / 03</div>
+          <div class="node__hint">open →</div>
+        </div>
+        <div class="node__body">
+          <h3 class="node__name">Designer</h3>
+          <p class="node__size">15–30 cm <span class="dim">— like a cat</span></p>
+          <p class="node__aud">collabs · limited · collection</p>
+          <div class="node__foot">
+            <span class="node__price">from $35<span class="dim"> / pc</span></span>
+            <span class="node__ship">6 weeks</span>
+          </div>
+        </div>
+      </li>
+      <li class="node" id="mega" data-line="Mega" data-num="MG / 04" data-size="50–120 cm — like a child" data-aud="photo object · window display · gift-experience" data-price="from $250 / pc" data-ship="6 weeks" data-age="not a toy, decorative object" data-img="./assets/product-mega.jpg" data-glow="#b85fb8" tabindex="0">
+        <div class="node__art">
+          <div class="node__photo"><img src="./assets/product-mega.jpg" alt=""></div>
+          <div class="node__glow node__glow--mg"></div>
+          <div class="node__tag">MG / 04</div>
+          <div class="node__hint">open →</div>
+        </div>
+        <div class="node__body">
+          <h3 class="node__name">Mega</h3>
+          <p class="node__size">50–120 cm <span class="dim">— like a child</span></p>
+          <p class="node__aud">photo object · window display · gift-experience</p>
+          <div class="node__foot">
+            <span class="node__price">from $250<span class="dim"> / pc</span></span>
+            <span class="node__ship">6 weeks</span>
+          </div>
+        </div>
+      </li>
+      <li class="node" id="architect" data-line="Architect" data-num="A / 05" data-size="1.5–3 m — like a bear" data-aud="installation · event · wedding · branded space" data-price="price on request / product passport" data-ship="12 weeks" data-age="installation, mounted by certified crew" data-img="./assets/product-architect.jpg" data-glow="#E63946" tabindex="0">
+        <div class="node__art">
+          <div class="node__photo"><img src="./assets/product-architect.jpg" alt=""></div>
+          <div class="node__glow node__glow--a"></div>
+          <div class="node__tag">A / 05</div>
+          <div class="node__hint">open →</div>
+        </div>
+        <div class="node__body">
+          <h3 class="node__name">Architect</h3>
+          <p class="node__size">1.5–3 m <span class="dim">— like a bear</span></p>
+          <p class="node__aud">installation · event · wedding · branded space</p>
+          <div class="node__foot">
+            <span class="node__price">on request</span>
+            <span class="node__ship">12 weeks</span>
+          </div>
+        </div>
+      </li>
+    </ol>
+  </section>
+
+  <section class="process" aria-label="How we make our ducks">
+    <header class="section__head">
+      <p class="eyebrow">§ 02 — PRODUCTION</p>
+      <h2 class="section-title">Single-piece&nbsp;cast.<br><em>No&nbsp;seams,&nbsp;no&nbsp;inserts.</em></h2>
+    </header>
+    <ol class="steps" role="list">
+      <li class="step">
+        <span class="step__num">01 / RUBBER</span>
+        <h3 class="step__title">Not plastic.</h3>
+        <p class="step__body">Food-grade silicone (Micro / Classic) or natural rubber with EPDM (Designer / Mega / Architect). Single-piece casting — no glued seams, no metal inside, no plastic parts.</p>
+      </li>
+      <li class="step">
+        <span class="step__num">02 / EYES</span>
+        <h3 class="step__title">Pigment, not inserts.</h3>
+        <p class="step__body">Pigment is applied by hand after vulcanization, using food-grade silicone dye that's UV- and water-resistant. Base decor — circle; sparkle, heart, square — per crit choice.</p>
+      </li>
+      <li class="step">
+        <span class="step__num">03 / QC</span>
+        <h3 class="step__title">5 checks.</h3>
+        <p class="step__body">Visual inspection, geometry ±2%, 1 m drop test (5 times), odor test, gravimetry ±3%. For Architect — ultrasonic frame check and photo installation protocol.</p>
+      </li>
+      <li class="step">
+        <span class="step__num">04 / COMPLIANCE</span>
+        <h3 class="step__title">GOST · EN 71-3 · REACH.</h3>
+        <p class="step__body">Free of phthalates and bisphenol A. Operating range −20…+60 °C. Indoor only. Care instructions are included in every box + a QR to /care.</p>
+      </li>
+    </ol>
+  </section>
+
+  <section class="b2b" id="b2b" aria-label="Custom and B2B">
+    <div class="b2b__plate">
+      <p class="eyebrow">§ 03 — B2B / CUSTOM</p>
+      <h2 class="section-title">Your&nbsp;color.<br><em>Not&nbsp;paint — mass&nbsp;pigment.</em></h2>
+      <p class="b2b__lede">12 signature Pantone equivalents (TPM — Quacktory Pigment Menu). Mass coloration BEFORE casting — durable and predictable pricing. Third-party Pantone is discussed separately: +2 weeks to lead time, +15% to price.</p>
+      <form class="b2b__form" onsubmit="return false">
+        <label class="field">
+          <span class="field__label">Lineup</span>
+          <select class="field__input" name="line">
+            <option>Micro</option>
+            <option>Classic</option>
+            <option>Designer</option>
+            <option>Mega</option>
+            <option>Architect</option>
+          </select>
+        </label>
+        <label class="field">
+          <span class="field__label">Color from TPM</span>
+          <select class="field__input" name="color">
+            <option>01 — Carbon Black</option>
+            <option>02 — Bone White</option>
+            <option>03 — Mustard</option>
+            <option>04 — Cinnabar</option>
+            <option>05 — Vermillion</option>
+            <option>06 — Sage</option>
+            <option>07 — Petrol</option>
+            <option>08 — Ink Blue</option>
+            <option>09 — Plum</option>
+            <option>10 — Concrete</option>
+            <option>11 — Champagne</option>
+            <option>12 — Quacktory Red</option>
+          </select>
+        </label>
+        <label class="field field--wide">
+          <span class="field__label">Project brief</span>
+          <textarea class="field__input field__input--area" name="brief" rows="2" placeholder="Event / window / mascot / limited edition..."></textarea>
+        </label>
+        <button type="submit" class="btn btn--primary btn--block" data-cta="b2b">
+          <span>Request a quote</span>
+          <span class="btn__arrow" aria-hidden="true">→</span>
+        </button>
+        <p class="b2b__terms">Micro / Classic — 3 weeks · Designer / Mega — 6 weeks · Architect — 12 weeks (with survey and installation). Invoice for legal entities, contract, act.</p>
+      </form>
+    </div>
+    <aside class="b2b__side" aria-label="Scenes we make the duck for">
+      <p class="eyebrow">SCENE</p>
+      <ul class="b2b__list">
+        <li><span>·</span>Weddings and events — Architect 1.5–3 m in the foyer</li>
+        <li><span>·</span>Boutique hotels and retail — Mega by reception</li>
+        <li><span>·</span>Branded spaces — custom mascot from a master model</li>
+        <li><span>·</span>Limited editions — Designer with an illustrator (≤300 pcs)</li>
+        <li><span>·</span>Corporate merch — Micro in a branded box</li>
+      </ul>
+      <a class="b2b__more" href="#">All use cases →</a>
+    </aside>
+  </section>
+
+  <footer class="foot" role="contentinfo">
+    <div class="foot__brand">
+      <span class="logo__word">QUACKTORY</span>
+      <span class="logo__dot" aria-hidden="true"></span>
+      <p class="foot__cred">Serious ducks for not-so-serious people.</p>
+    </div>
+    <div class="foot__cols">
+      <div class="foot__col">
+        <p class="foot__h">Contacts</p>
+        <a class="foot__link" href="mailto:hi@quacktory.space">hi@quacktory.space</a>
+        <a class="foot__link" href="tel:+74950000000">+7 495 000 00 00</a>
+        <p class="foot__addr">Moscow, Berezhkovskaya nab., 20<br>By appointment — Mon–Fri</p>
+      </div>
+      <div class="foot__col">
+        <p class="foot__h">Payment</p>
+        <p class="foot__line">Invoice for legal entities</p>
+        <p class="foot__line">Card / SBP</p>
+        <p class="foot__line">B2B contract</p>
+        <p class="foot__line">incl. domestic shipping</p>
+      </div>
+      <div class="foot__col">
+        <p class="foot__h">Social</p>
+        <a class="foot__link" href="#">Instagram</a>
+        <a class="foot__link" href="#">Telegram</a>
+        <a class="foot__link" href="#">YouTube</a>
+        <a class="foot__link" href="#">Behance</a>
+      </div>
+      <div class="foot__col">
+        <p class="foot__h">Legal</p>
+        <a class="foot__link" href="#">/production</a>
+        <a class="foot__link" href="#">/care</a>
+        <a class="foot__link" href="#">/compliance</a>
+        <a class="foot__link" href="#">Privacy policy</a>
+      </div>
+    </div>
+    <div class="foot__bottom">
+      <span>© 2024 Quacktory Studio</span>
+      <span class="dim">GOST 25779-83 · EN 71-3 · REACH</span>
+      <span>Built in dark mode</span>
+    </div>
+  </footer>
+
+</main>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-hidden="true" aria-labelledby="modal-name">
+  <div class="modal__back" data-close></div>
+  <div class="modal__panel">
+    <button class="modal__close" data-close aria-label="Close">×</button>
+    <div class="modal__art">
+      <img class="modal__photo" src="" alt="">
+      <div class="modal__glow"></div>
+    </div>
+    <div class="modal__body">
+      <span class="modal__num"></span>
+      <h3 class="modal__name" id="modal-name"></h3>
+      <p class="modal__size"></p>
+      <p class="modal__desc"></p>
+      <div class="modal__meta">
+        <div><span class="dim">Price</span><span class="modal__price"></span></div>
+        <div><span class="dim">Lead time</span><span class="modal__ship"></span></div>
+        <div><span class="dim">Age</span><span class="modal__age"></span></div>
+      </div>
+      <a class="btn btn--primary" href="#b2b">
+        <span>Request a quote</span>
+        <span class="btn__arrow" aria-hidden="true">→</span>
+      </a>
+    </div>
+  </div>
+</div>
+<script src="main.js" defer></script>
+</body>
+</html>

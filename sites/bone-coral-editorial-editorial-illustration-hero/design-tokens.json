@@ -1,0 +1,20 @@
+{
+  "slug": "kpr",
+  "palette": {
+    "bg": "#16132A",
+    "fg": "#FFFFFF",
+    "accent": "#6EEA6E",
+    "muted": "#E84A8A",
+    "ink": "#2A1640",
+    "surface": "#2A1F47"
+  },
+  "fonts": {
+    "display": "Archivo",
+    "body": "Inter",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "D",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Open the manifesto"
+}

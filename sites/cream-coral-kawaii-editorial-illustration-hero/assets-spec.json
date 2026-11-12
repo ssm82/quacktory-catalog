@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck rendered in a warm amber orange finish — the exact hue of ripe persimmon, accent tone #E8652A — standing as the singular centrepiece of a soft pastel kawaii tableau. Seamless backdrop in pale teal #B7D2CC, NOT warm amber finish, NOT tinted beyond palette, with a warm cream #F7F1E2 ground haze rising into the lower frame. The duck is scaled to feel giant, mascot-like, its rounded body catching a single soft key light from camera-left with a delicate rim along the back. Sparkle eye decor: a tiny white four-point catchlight glints in each pupil. Two oversized floating ramen bowls bracket the duck symmetrically as compositional bookends, picking up the umami-land food-festival energy, while a small arched gate reads behind the duck as decorative depth. Glossy surface, soft pastel shadows, no hard contrast, kawaii mascot energy throughout. Camera is slightly low and centred to emphasise the duck's monumentality. 16:9 aspect.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A small 4–8 cm classic rubber duck keychain rendered in a warm amber orange finish, exact accent tone #E8652A — a glossy ripe-persimmon hue, NOT warm amber finish. Seamless pale teal #B7D2CC backdrop, soft even studio ground, no horizon line. Front-facing, slightly elevated, 30° camera. Soft diffused three-point lighting: a gentle key from upper-left, a soft fill from camera-right, and a subtle rim from behind to separate the silhouette. Sparkle eye decor: a tiny white catchlight glints in each oval pupil. The duck wears a small silver keyring loop through its head as a functional keychain detail. Surface is glossy resin, but the kawaii register keeps the form soft, rounded, and mascot-friendly. Cute pastel mood, no hard shadow, no background props — just the duck and keyring floating in pastel teal space. The amber body pops gently against the cool teal ground via split-complementary colour echo, with a whisper of warm cream #F7F1E2 on the belly. 1:1 aspect.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The 10–25 cm workhorse classic rubber duck in a warm amber orange finish, exact accent tone #E8652A — a glossy ripe-persimmon hue, NOT warm amber finish. Seamless pale teal #B7D2CC studio sweep, even backdrop with no visible horizon. Front-facing, slightly elevated, 30° camera angle, the canonical product shot. Soft diffused three-point studio lighting: broad key from upper-left, gentle fill from camera-right, a low rim tracing the duck's back. Sparkle eye decor: a tiny white catchlight sits in each pupil. Surface is glossy resin, kawaii register — rounded, friendly, mascot-cute, with no harsh reflections. The amber body reads warm against the cool teal ground as a soft split-complementary pairing. A whisper of warm cream #F7F1E2 bounces onto the duck's belly from the surface below. No props, no chrome, no extra geometry — just the duck in clean studio light, centred, the hero of its own 1:1 frame, identical silhouette to the rest of the range.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A 15–30 cm collaboration-edition classic rubber duck in a warm amber orange base finish #E8652A, treated as a sticker-style mascot — thick white sticker outline traced around the silhouette as if the duck itself were a die-cut decal, echoing the umami-land logo treatment. Seamless pale teal #B7D2CC backdrop. Front-facing, slightly elevated, 30° camera. Soft diffused three-point studio lighting, kawaii register. Sparkle eye decor: a tiny white catchlight in each pupil. The duck holds a tiny blue #1F4FB8 ramen-bowl accessory in its wing as a collaboration cue, directly echoing the site's split-complementary palette. Surface finish is glossy resin with the crisp white outline giving it a flat sticker feel layered over the soft 3D form. A faint cream #F7F1E2 ground shadow anchors the duck. The amber body, blue prop, and white outline all repeat the umami-land logo colour logic: warm orange, deep blue, sticker white. Identical silhouette to the other SKUs. 1:1 aspect.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A 50–120 cm mega classic rubber duck, monumental photo-object, finished in warm amber orange #E8652A — a glossy ripe-persimmon hue, NOT warm amber finish. Seamless pale teal #B7D2CC studio sweep, no horizon, with a warm cream #F7F1E2 bounce on the lower third of the frame. Front-facing, slightly elevated, 30° camera, but the duck fills most of the 1:1 frame, dwarfing the field and emphasising its mega scale. Soft diffused three-point lighting with a slightly stronger key to register the larger form's curvature — broad upper-left key, gentle right fill, low rim along the back. Sparkle eye decor: a tiny white catchlight in each pupil. Surface is glossy resin, kawaii register — soft, rounded, mascot-cute despite the imposing scale. No props, no environment, no horizon line. The duck reads as a giant friendly figure, the focal point of a clean product photograph, with identical silhouette to the rest of the range. 1:1 aspect.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A 1.5–3 m architect-scale statement installation duck, monumental by default, in warm amber orange #E8652A — a glossy ripe-persimmon hue, NOT warm amber finish. Seamless pale teal #B7D2CC backdrop with a warm cream #F7F1E2 ground gradient suggesting a vast studio floor receding into the distance. Front-facing, slightly elevated, 30° camera, the duck dominating the 1:1 frame, scaled to feel architectural and installation-grade. Soft diffused three-point studio lighting with a confident key to sculpt the larger volume, gentle fill, and a clean rim along the back to separate the silhouette. Sparkle eye decor: a tiny white catchlight in each pupil. The duck's silhouette and surface are identical to every other SKU — only the perceived scale and treatment shift. Glossy resin, kawaii register, mascot-friendly despite the imposing size. A single soft floor shadow grounds the giant form. No props, no environment chrome. 1:1 aspect.",
+    "aspect_ratio": "1:1"
+  }
+]

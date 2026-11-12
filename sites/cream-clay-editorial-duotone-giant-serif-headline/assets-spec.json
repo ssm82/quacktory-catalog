@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck in warm amber #EDA248 finish standing as the singular centrepiece on a seamless backdrop in warm orange #E8A14A tone, NOT warm amber finish, NOT tinted beyond palette. Editorial register: matte porcelain surface, soft window light raking from camera-left at a low angle, gentle long shadow falling to the right. Duck faces front, slightly elevated 30° camera, occupying the lower-centre of the frame with generous warm orange negative space above as if breathing on a fine-art monograph cover. Plain oval pupil, no sparkle, no heart, no decorative glint. Subtle paper-grain texture across the backdrop reads as print stock rather than cyclorama. Mood: museum title-spread, sculptural stillness, two-tone palette discipline — warm amber duck against warm orange field, near-black pupil as the only deep note. No props, no text, no chrome, no other objects in frame. 16:9 cinematic crop.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A miniature classic rubber duck in warm amber #EDA248 finish, matte porcelain surface, posed on a seamless backdrop in warm orange #E8A14A tone, NOT warm amber finish, NOT tinted beyond palette. Editorial register: soft diffused studio, three-point lighting with key from upper-left, fill from right, low rim from behind. Front-facing, slightly elevated 30° camera. Identical silhouette across the range — rounded body, flat tail, flat feet, short triangular beak. Plain oval pupil, no sparkle, no heart, no glint. Keychain 4–8cm scale implied through centred product framing and generous breathing room. Subtle paper-grain surface across the backdrop. Two-tone palette: warm amber body against warm orange field, near-black pupil as the only deep note. No props, no text, no chrome. Aspect 1:1, square crop.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The classic workhorse classic rubber duck in warm amber #EDA248 finish, matte porcelain surface, centered on a seamless backdrop in warm orange #E8A14A tone, NOT warm amber finish, NOT tinted beyond palette. Editorial register: soft diffused studio, three-point lighting, key from upper-left, fill from right, low rim from behind. Front-facing, slightly elevated 30° camera. Identical silhouette — rounded body, flat tail, flat feet, short triangular beak. Plain oval pupil with no decorative glint of any kind. 10–25cm workhorse scale implied by centred product framing and generous breathing room. Subtle paper-grain surface on the backdrop reads as fine-art print stock. Two-tone palette: warm amber duck against warm orange field, near-black pupil for the only deep note. No props, no text, no chrome. Aspect 1:1, square crop.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A collaboration-edition classic rubber duck in warm amber #EDA248 finish with a faint single thin near-black architectural sketch motif traced lightly across the body as the only surface treatment, matte porcelain surface, posed on a seamless backdrop in warm orange #E8A14A tone, NOT warm amber finish, NOT tinted beyond palette. Editorial register: soft diffused studio, three-point lighting, key from upper-left, fill from right, low rim from behind. Front-facing, slightly elevated 30° camera. Identical silhouette — rounded body, flat tail, flat feet, short triangular beak. Plain oval pupil, no sparkle, no heart, no glint. 15–30cm designer scale implied by centred product framing. The thin line on the duck body reads as honest process-sketch, not finished ornament. Subtle paper-grain texture across the backdrop. Two-tone discipline: warm amber duck against warm orange field. No props, no text. Aspect 1:1, square crop.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A monumental 50–120cm classic rubber duck in warm amber #EDA248 finish, matte porcelain surface, centered on a seamless backdrop in warm orange #E8A14A tone, NOT warm amber finish, NOT tinted beyond palette. Editorial register: soft diffused studio, three-point lighting, key from upper-left, fill from right, low rim from behind, with a long shadow falling to the right giving the form weight. Front-facing, slightly elevated 30° camera. Identical silhouette to the rest of the range — rounded body, flat tail, flat feet, short triangular beak. Plain oval pupil, no sparkle, no heart, no decorative glint. Photo-object scale implied by the long cast shadow and the generous frame around the body. Subtle paper-grain texture across the backdrop. Two-tone palette: warm amber duck against warm orange field, near-black pupil. No props, no text. Aspect 1:1, square crop.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A 1.5–3m statement-installation classic rubber duck in warm amber #EDA248 finish, matte porcelain surface, photographed as if seen in a gallery installation on a seamless backdrop in warm orange #E8A14A tone, NOT warm amber finish, NOT tinted beyond palette. Editorial register: soft diffused studio, three-point lighting, key from upper-left, fill from right, low rim from behind, the body filling most of the frame but with enough breathing room to read as architectural scale. Front-facing, slightly elevated 30° camera. Identical silhouette — rounded body, flat tail, flat feet, short triangular beak. Plain oval pupil, no sparkle, no heart, no glint. Subtle paper-grain surface on the backdrop reads as fine-art print stock. Two-tone discipline: warm amber duck against warm orange field, near-black pupil as the only deep note. No props, no text, no chrome. Aspect 1:1, square crop.",
+    "aspect_ratio": "1:1"
+  }
+]

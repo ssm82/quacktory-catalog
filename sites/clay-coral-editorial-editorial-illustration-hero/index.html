@@ -1,0 +1,531 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>QUACKTORY — Spectral Field · Serious ducks for un-serious people</title>
+  <meta name="description" content="Rubber ducks from 4 cm to 3 m. Design objects, collaborations, installations. Quacktory Pigment Menu — 12 signature Pantone equivalents.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <span class="corner corner--tl" aria-hidden="true"></span>
+  <span class="corner corner--tr" aria-hidden="true"></span>
+  <span class="corner corner--bl" aria-hidden="true"></span>
+  <span class="corner corner--br" aria-hidden="true"></span>
+
+  <header class="topbar">
+    <a class="topbar__brand" href="#top">
+      <span class="topbar__brand-mark">QUACKTORY</span>
+      <span class="topbar__brand-sub">— SPECTRAL FIELD</span>
+    </a>
+    <nav class="topbar__nav" aria-label="Top metadata">
+      <span class="topbar__meta">EST 2022</span>
+      <span class="topbar__sep" aria-hidden="true">/</span>
+      <span class="topbar__meta">FIELD 05</span>
+      <span class="topbar__sep" aria-hidden="true">/</span>
+      <span class="topbar__meta">RU · EN</span>
+    </nav>
+  </header>
+
+  <main id="top" class="stage">
+
+    <!-- ========== HERO ========== -->
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero__vignette" aria-hidden="true"></div>
+
+      <div class="hero__object" aria-label="Sculptural duck silhouette — the field's main subject">
+        <div class="hero__rings" aria-hidden="true">
+          <span class="ring ring--1"></span>
+          <span class="ring ring--2"></span>
+          <span class="ring ring--3"></span>
+          <span class="ring ring--4"></span>
+          <span class="ring ring--pulse"></span>
+        </div>
+
+        <div class="hero__form">
+          <svg viewBox="0 0 500 400" xmlns="http://www.w3.org/2000/svg" class="hero__duck" role="img" aria-label="Quacktory duck silhouette">
+            <defs>
+              <radialGradient id="heroDuckFill" cx="40%" cy="30%" r="70%">
+                <stop offset="0%" stop-color="#E61E2A"/>
+                <stop offset="45%" stop-color="#C8102E"/>
+                <stop offset="78%" stop-color="#8E0F22"/>
+                <stop offset="100%" stop-color="#4A0912"/>
+              </radialGradient>
+              <radialGradient id="heroDuckGloss" cx="34%" cy="24%" r="20%">
+                <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.28"/>
+                <stop offset="60%" stop-color="#FFFFFF" stop-opacity="0.04"/>
+                <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+              </radialGradient>
+              <linearGradient id="heroDuckBeak" x1="0%" y1="0%" x2="100%" y2="50%">
+                <stop offset="0%" stop-color="#D86A2C"/>
+                <stop offset="100%" stop-color="#8A3A14"/>
+              </linearGradient>
+            </defs>
+            <ellipse cx="220" cy="245" rx="170" ry="110" fill="url(#heroDuckFill)"/>
+            <ellipse cx="295" cy="170" rx="100" ry="85" fill="url(#heroDuckFill)"/>
+            <path d="M 388 175 L 445 188 L 445 205 L 388 200 Z" fill="url(#heroDuckBeak)"/>
+            <circle cx="325" cy="155" r="5.5" fill="#0B0B0B"/>
+            <circle cx="326.5" cy="153.5" r="1.8" fill="#C9C9C9" opacity="0.6"/>
+            <ellipse cx="265" cy="145" rx="45" ry="30" fill="url(#heroDuckGloss)"/>
+            <ellipse cx="225" cy="358" rx="160" ry="8" fill="#0B0B0B" opacity="0.55"/>
+          </svg>
+        </div>
+
+        <div class="hero__marks" aria-hidden="true">
+          <span class="mark mark--tl">λ = 580 nm</span>
+          <span class="mark mark--tr">ε / 75× scale</span>
+          <span class="mark mark--bl">04 cm → 3 m</span>
+          <span class="mark mark--br">σ = one silhouette</span>
+        </div>
+      </div>
+
+      <span class="hero__eyebrow">— A spectral field of one duck —</span>
+      <h1 class="hero__title" id="hero-title">QUACKTORY</h1>
+      <p class="hero__manifest">
+        We make ducks you want to keep on a shelf, not launch into water.<br>
+        Small ones — in your pocket. Big ones — in the lobby.<br>
+        All of them — in the frame.
+      </p>
+      <a class="hero__cta" href="#field" data-cta>Open the field ›</a>
+      <p class="hero__credo">Serious ducks for un-serious people.</p>
+
+      <ul class="hero__platforms" aria-label="Social and channels">
+        <li><a href="#">telegram</a></li>
+        <li><a href="#">instagram</a></li>
+        <li><a href="#">youtube</a></li>
+        <li><a href="#">soundcloud</a></li>
+        <li><a href="#">spotify</a></li>
+      </ul>
+    </section>
+
+    <!-- ========== FIELD (size scale) ========== -->
+    <section class="field" id="field" aria-labelledby="field-title">
+      <header class="field__head">
+        <span class="eyebrow">/ 01 — The Field</span>
+        <h2 class="field__title" id="field-title">Size is a design choice.</h2>
+        <p class="field__lede">
+          Five product lines, one silhouette. On the left — a 4 cm keychain; on the right — a 3 m installation.
+          Click a duck to open its product passport.
+        </p>
+      </header>
+
+      <ol class="field__scale" role="list">
+        <li class="sku sku--micro" data-sku="micro" tabindex="0" role="button" aria-label="Open Micro passport">
+          <div class="sku__visual">
+            <div class="sku__ruler" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+            <div class="sku__form">
+              <svg viewBox="0 0 100 100" class="sku__duck"><use href="#miniDuck"/></svg>
+            </div>
+            <div class="sku__shadow"></div>
+            <div class="sku__glow"></div>
+          </div>
+          <div class="sku__meta">
+            <span class="sku__line">04–08 cm</span>
+            <span class="sku__name">Micro</span>
+            <span class="sku__hint">thumb-sized</span>
+            <span class="sku__price">from&nbsp;$4 · today</span>
+          </div>
+          <span class="sku__pill">open passport ›</span>
+        </li>
+
+        <li class="sku sku--classic" data-sku="classic" tabindex="0" role="button" aria-label="Open Classic passport">
+          <div class="sku__visual">
+            <div class="sku__ruler" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i></div>
+            <div class="sku__form">
+              <svg viewBox="0 0 100 100" class="sku__duck"><use href="#miniDuck"/></svg>
+            </div>
+            <div class="sku__shadow"></div>
+            <div class="sku__glow"></div>
+          </div>
+          <div class="sku__meta">
+            <span class="sku__line">10–25 cm</span>
+            <span class="sku__name">Classic</span>
+            <span class="sku__hint">palm-sized</span>
+            <span class="sku__price">from&nbsp;$16 · 3&nbsp;wks</span>
+          </div>
+          <span class="sku__pill">open passport ›</span>
+        </li>
+
+        <li class="sku sku--designer" data-sku="designer" tabindex="0" role="button" aria-label="Open Designer passport">
+          <div class="sku__visual">
+            <div class="sku__ruler" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+            <div class="sku__form">
+              <svg viewBox="0 0 100 100" class="sku__duck"><use href="#miniDuck"/></svg>
+            </div>
+            <div class="sku__shadow"></div>
+            <div class="sku__glow"></div>
+          </div>
+          <div class="sku__meta">
+            <span class="sku__line">15–30 cm</span>
+            <span class="sku__name">Designer</span>
+            <span class="sku__hint">cat-sized</span>
+            <span class="sku__price">from&nbsp;$60 · 6&nbsp;wks</span>
+          </div>
+          <span class="sku__pill">open passport ›</span>
+        </li>
+
+        <li class="sku sku--mega" data-sku="mega" tabindex="0" role="button" aria-label="Open Mega passport">
+          <div class="sku__visual">
+            <div class="sku__ruler" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+            <div class="sku__form">
+              <svg viewBox="0 0 100 100" class="sku__duck"><use href="#miniDuck"/></svg>
+            </div>
+            <div class="sku__shadow"></div>
+            <div class="sku__glow"></div>
+          </div>
+          <div class="sku__meta">
+            <span class="sku__line">50–120 cm</span>
+            <span class="sku__name">Mega</span>
+            <span class="sku__hint">child-sized</span>
+            <span class="sku__price">from&nbsp;$480 · 6&nbsp;wks</span>
+          </div>
+          <span class="sku__pill">open passport ›</span>
+        </li>
+
+        <li class="sku sku--architect" data-sku="architect" tabindex="0" role="button" aria-label="Open Architect passport">
+          <div class="sku__visual">
+            <div class="sku__ruler" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+            <div class="sku__form">
+              <svg viewBox="0 0 100 100" class="sku__duck"><use href="#miniDuck"/></svg>
+            </div>
+            <div class="sku__shadow"></div>
+            <div class="sku__glow"></div>
+          </div>
+          <div class="sku__meta">
+            <span class="sku__line">1.5–3 m</span>
+            <span class="sku__name">Architect</span>
+            <span class="sku__hint">bear-sized</span>
+            <span class="sku__price">price on&nbsp;request · 12&nbsp;wks</span>
+          </div>
+          <span class="sku__pill">open passport ›</span>
+        </li>
+      </ol>
+
+      <div class="field__rail" aria-hidden="true">
+        <span class="field__rail-tick field__rail-tick--a"></span>
+        <span class="field__rail-tick field__rail-tick--b"></span>
+        <span class="field__rail-tick field__rail-tick--c"></span>
+        <span class="field__rail-tick field__rail-tick--d"></span>
+        <span class="field__rail-tick field__rail-tick--e"></span>
+        <span class="field__rail-label field__rail-label--start">04 cm · keychain</span>
+        <span class="field__rail-label field__rail-label--mid">× 75</span>
+        <span class="field__rail-label field__rail-label--end">3 m · installation</span>
+      </div>
+
+      <div class="field__legend">
+        <span class="field__legend-item"><i class="dot dot--micro"></i>A · impulse</span>
+        <span class="field__legend-item"><i class="dot dot--classic"></i>B · parent</span>
+        <span class="field__legend-item"><i class="dot dot--designer"></i>C · collector</span>
+        <span class="field__legend-item"><i class="dot dot--mega"></i>C+ · photo object</span>
+        <span class="field__legend-item"><i class="dot dot--architect"></i>D · B2B / event</span>
+      </div>
+    </section>
+
+    <!-- ========== PRODUCTION ========== -->
+    <section class="production" aria-labelledby="production-title">
+      <header class="production__head">
+        <span class="eyebrow">/ 02 — Production</span>
+        <h2 class="production__title" id="production-title">How we make ducks.</h2>
+        <p class="production__lede">
+          Facts, not marketing. Solid cast, hand-painted eyes, five QC stages
+          on&nbsp;every duck. Architect&nbsp;— an extended protocol with ultrasonic frame inspection.
+        </p>
+      </header>
+
+      <div class="production__grid">
+        <article class="card">
+          <span class="card__num">01</span>
+          <h3 class="card__title">Material</h3>
+          <p class="card__body">
+            Solid cast from vulcanized rubber. Food-grade silicone compound for&nbsp;Micro/Classic,
+            natural rubber with&nbsp;EPDM additives for&nbsp;Designer/Mega/Architect.
+          </p>
+          <ul class="card__meta">
+            <li>no plastic inserts</li>
+            <li>no metal inside</li>
+            <li>no glued seams</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <span class="card__num">02</span>
+          <h3 class="card__title">Eyes</h3>
+          <p class="card__body">
+            Painted, not inset. Pigment is applied by hand after vulcanization, with a food-grade silicone paint
+            that's resistant to&nbsp;UV and&nbsp;water.
+          </p>
+          <ul class="card__meta">
+            <li>black pupil + white sclera</li>
+            <li>UV- and water-resistant</li>
+            <li>one mold-relief across all&nbsp;SKUs</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <span class="card__num">03</span>
+          <h3 class="card__title">5-step QC</h3>
+          <p class="card__body">
+            Every duck goes through five checks. For Architect&nbsp;— an extended protocol
+            with&nbsp;ultrasonic inspection of frame welds and&nbsp;a photo-logged install.
+          </p>
+          <ul class="card__meta">
+            <li>visual inspection</li>
+            <li>geometry ±2%</li>
+            <li>drop test from&nbsp;1&nbsp;m</li>
+            <li>smell test</li>
+            <li>gravimetry ±3%</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <span class="card__num">04</span>
+          <h3 class="card__title">Compliance</h3>
+          <p class="card__body">
+            Certified for&nbsp;RU and&nbsp;EU markets. Phthalate- and&nbsp;BPA-free.
+            Age marking on&nbsp;packaging is mandatory.
+          </p>
+          <ul class="card__meta">
+            <li>GOST 25779-83</li>
+            <li>EN 71-3</li>
+            <li>REACH</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <span class="card__num">05</span>
+          <h3 class="card__title">Care</h3>
+          <p class="card__body">
+            Warm water, mild soap. Indoor only. Temperature range −20&nbsp;°C&nbsp;…&nbsp;+60&nbsp;°C.
+            Protect from&nbsp;direct UV and&nbsp;from oils/solvents.
+          </p>
+          <ul class="card__meta">
+            <li>no abrasives, no&nbsp;alcohols</li>
+            <li>−25&nbsp;°C&nbsp;— embrittlement</li>
+            <li>+70&nbsp;°C&nbsp;— deformation</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <!-- ========== B2B / CUSTOM ========== -->
+    <section class="b2b" id="b2b" aria-labelledby="b2b-title">
+      <header class="b2b__head">
+        <span class="eyebrow">/ 03 — B2B / Custom</span>
+        <h2 class="b2b__title" id="b2b-title">From 12 colors in our palette.</h2>
+        <p class="b2b__lede">
+          TPM&nbsp;— Quacktory Pigment Menu. Pigment runs through the body&nbsp;BEFORE casting, not a surface paint.
+          A custom Pantone outside the palette is a separate conversation&nbsp;— +2&nbsp;weeks, +15% on&nbsp;price.
+          Custom geometry&nbsp;— a separate project with&nbsp;a master model.
+        </p>
+      </header>
+
+      <div class="b2b__palette" role="list" aria-label="Quacktory Pigment Menu">
+        <div class="chip" style="--c: #1A0F08;" role="listitem"><span class="chip__sw"></span><span class="chip__name">SOOT</span><span class="chip__code">TPM-01</span></div>
+        <div class="chip" style="--c: #3A2515;" role="listitem"><span class="chip__sw"></span><span class="chip__name">COFFEE</span><span class="chip__code">TPM-02</span></div>
+        <div class="chip" style="--c: #5A3520;" role="listitem"><span class="chip__sw"></span><span class="chip__name">CHESTNUT</span><span class="chip__code">TPM-03</span></div>
+        <div class="chip" style="--c: #7A4530;" role="listitem"><span class="chip__sw"></span><span class="chip__name">WALNUT</span><span class="chip__code">TPM-04</span></div>
+        <div class="chip" style="--c: #8A4A2A;" role="listitem"><span class="chip__sw"></span><span class="chip__name">TERRACOTTA</span><span class="chip__code">TPM-05</span></div>
+        <div class="chip" style="--c: #A85820;" role="listitem"><span class="chip__sw"></span><span class="chip__name">RUST</span><span class="chip__code">TPM-06</span></div>
+        <div class="chip" style="--c: #C45410;" role="listitem"><span class="chip__sw"></span><span class="chip__name">AMBER</span><span class="chip__code">TPM-07</span></div>
+        <div class="chip" style="--c: #D67830;" role="listitem"><span class="chip__sw"></span><span class="chip__name">BURNT</span><span class="chip__code">TPM-08</span></div>
+        <div class="chip" style="--c: #E8954A;" role="listitem"><span class="chip__sw"></span><span class="chip__name">OCHRE</span><span class="chip__code">TPM-09</span></div>
+        <div class="chip" style="--c: #F0A858;" role="listitem"><span class="chip__sw"></span><span class="chip__name">TAN</span><span class="chip__code">TPM-10</span></div>
+        <div class="chip" style="--c: #F5C460;" role="listitem"><span class="chip__sw"></span><span class="chip__name">MUSTARD</span><span class="chip__code">TPM-11</span></div>
+        <div class="chip" style="--c: #FFD24A;" role="listitem"><span class="chip__sw"></span><span class="chip__name">YELLOW</span><span class="chip__code">TPM-12</span></div>
+      </div>
+
+      <div class="b2b__specs">
+        <div class="spec">
+          <span class="spec__label">Micro / Classic</span>
+          <span class="spec__value">3 weeks</span>
+          <span class="spec__note">card · sbp · invoice</span>
+        </div>
+        <div class="spec">
+          <span class="spec__label">Designer</span>
+          <span class="spec__value">6 weeks</span>
+          <span class="spec__note">coordination with&nbsp;the collab author</span>
+        </div>
+        <div class="spec">
+          <span class="spec__label">Mega</span>
+          <span class="spec__value">6 weeks</span>
+          <span class="spec__note">pallet shipping</span>
+        </div>
+        <div class="spec">
+          <span class="spec__label">Architect</span>
+          <span class="spec__value">12 weeks</span>
+          <span class="spec__note">site survey + install on&nbsp;location</span>
+        </div>
+      </div>
+
+      <div class="b2b__cta-row">
+        <a class="b2b__cta" href="mailto:b2b@quacktory.space">Request quote ›</a>
+        <a class="b2b__cta b2b__cta--ghost" href="mailto:b2b@quacktory.space">b2b@quacktory.space</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer__top">
+      <span class="footer__brand">QUACKTORY</span>
+      <span class="footer__sep" aria-hidden="true">·</span>
+      <span class="footer__tag">SPECTRAL FIELD 05</span>
+    </div>
+
+    <div class="footer__mid">
+      <div class="footer__col">
+        <span class="footer__label">Contact</span>
+        <a href="mailto:hi@quacktory.space">hi@quacktory.space</a>
+        <a href="tel:+70000000000">+7 (000) 000-00-00</a>
+        <span>Moscow, indoor only</span>
+      </div>
+      <div class="footer__col">
+        <span class="footer__label">For business</span>
+        <a href="mailto:b2b@quacktory.space">b2b@quacktory.space</a>
+        <a href="#b2b">/ 03 — B2B / Custom</a>
+        <a href="#field">/ 01 — The Field</a>
+      </div>
+      <div class="footer__col">
+        <span class="footer__label">Audiences</span>
+        <span>A · impulse buyer</span>
+        <span>B · parent</span>
+        <span>C · collector</span>
+        <span>D · B2B / event</span>
+      </div>
+      <div class="footer__col">
+        <span class="footer__label">Pay & ship</span>
+        <span>card · sbp · invoice&nbsp;(B2B)</span>
+        <span>CDEK · Post&nbsp;RU · pallet</span>
+        <span>shipping across&nbsp;RU and&nbsp;CIS</span>
+      </div>
+    </div>
+
+    <div class="footer__bot">
+      <span>© 2022–2026 Quacktory</span>
+      <span>GOST 25779-83 · EN 71-3 · REACH</span>
+      <span>Made in&nbsp;Moscow</span>
+    </div>
+  </footer>
+
+  <!-- ========== SVG SPRITE ========== -->
+  <svg width="0" height="0" class="sprite" aria-hidden="true" focusable="false">
+    <defs>
+      <symbol id="miniDuck" viewBox="0 0 100 100">
+        <ellipse cx="44" cy="62" rx="36" ry="26" fill="currentColor"/>
+        <ellipse cx="60" cy="40" rx="22" ry="20" fill="currentColor"/>
+        <path d="M 80 42 L 96 46 L 96 52 L 80 54 Z" fill="currentColor" opacity="0.7"/>
+        <circle cx="68" cy="36" r="1.8" fill="#0B0B0B"/>
+      </symbol>
+    </defs>
+  </svg>
+
+  <!-- ========== MODALS — one per SKU ========== -->
+  <div class="modal" id="modal-micro" data-modal="micro" aria-hidden="true" role="dialog" aria-labelledby="modal-micro-title">
+    <div class="modal__backdrop" data-modal-close></div>
+    <div class="modal__panel modal__panel--micro" style="--c: #FFD24A;">
+      <button class="modal__close" data-modal-close aria-label="Close passport">×</button>
+      <span class="modal__eyebrow">/ 01.1 — Line card · TPM-12</span>
+      <h3 class="modal__title" id="modal-micro-title">Micro</h3>
+<p class="modal__sub">keychain · merch · gift under&nbsp;~$7</p>
+        <img class="modal__img" src="./assets/product-micro.jpg" alt="Quacktory Micro rubber duck 4–8 cm">
+        <dl class="modal__specs">
+          <div class="modal__row"><dt>Size</dt><dd>4–8&nbsp;cm (thumb-sized)</dd></div>
+          <div class="modal__row"><dt>Audience</dt><dd>A · impulse buyer</dd></div>
+          <div class="modal__row"><dt>Price</dt><dd>from&nbsp;$4 per&nbsp;piece · shipping&nbsp;included</dd></div>
+          <div class="modal__row"><dt>Lead</dt><dd>today</dd></div>
+          <div class="modal__row"><dt>Age</dt><dd>6+ · not&nbsp;for children under&nbsp;3, small part</dd></div>
+          <div class="modal__row"><dt>Casting</dt><dd>injection, steel 8-cavity mold, ~45&nbsp;sec/cycle</dd></div>
+          <div class="modal__row"><dt>Packaging</dt><dd>recycled cardboard, no&nbsp;polyethylene · 12×12×6&nbsp;cm</dd></div>
+        </dl>
+        <a class="modal__cta" href="#">Add to&nbsp;cart ›</a>
+    </div>
+  </div>
+
+  <div class="modal" id="modal-classic" data-modal="classic" aria-hidden="true" role="dialog" aria-labelledby="modal-classic-title">
+    <div class="modal__backdrop" data-modal-close></div>
+    <div class="modal__panel modal__panel--classic" style="--c: #F0A858;">
+      <button class="modal__close" data-modal-close aria-label="Close passport">×</button>
+      <span class="modal__eyebrow">/ 01.2 — Line card · TPM-10</span>
+      <h3 class="modal__title" id="modal-classic-title">Classic</h3>
+<p class="modal__sub">bath · desk · no-reason gift</p>
+        <img class="modal__img" src="./assets/product-classic.jpg" alt="Quacktory Classic rubber duck 10–25 cm">
+        <dl class="modal__specs">
+          <div class="modal__row"><dt>Size</dt><dd>10–25&nbsp;cm (palm-sized)</dd></div>
+          <div class="modal__row"><dt>Audience</dt><dd>B · parent + A · impulse</dd></div>
+          <div class="modal__row"><dt>Price</dt><dd>from&nbsp;$16 per&nbsp;piece · shipping&nbsp;included</dd></div>
+          <div class="modal__row"><dt>Lead</dt><dd>3&nbsp;weeks</dd></div>
+          <div class="modal__row"><dt>Age</dt><dd>3+</dd></div>
+          <div class="modal__row"><dt>Casting</dt><dd>compression molding, aluminum 1–2-cavity mold, ~3&nbsp;min/cycle</dd></div>
+          <div class="modal__row"><dt>Packaging</dt><dd>cardboard + paper-pulp insert · 26×16×14&nbsp;cm</dd></div>
+        </dl>
+        <a class="modal__cta" href="#">Add to&nbsp;cart ›</a>
+    </div>
+  </div>
+
+  <div class="modal" id="modal-designer" data-modal="designer" aria-hidden="true" role="dialog" aria-labelledby="modal-designer-title">
+    <div class="modal__backdrop" data-modal-close></div>
+    <div class="modal__panel modal__panel--designer" style="--c: #E08030;">
+      <button class="modal__close" data-modal-close aria-label="Close passport">×</button>
+      <span class="modal__eyebrow">/ 01.3 — Line card · TPM-08</span>
+      <h3 class="modal__title" id="modal-designer-title">Designer</h3>
+<p class="modal__sub">illustrator collabs · limited drops</p>
+        <img class="modal__img" src="./assets/product-designer.jpg" alt="Quacktory Designer rubber duck 15–30 cm">
+        <dl class="modal__specs">
+          <div class="modal__row"><dt>Size</dt><dd>15–30&nbsp;cm (cat-sized)</dd></div>
+          <div class="modal__row"><dt>Audience</dt><dd>C · design-object collector</dd></div>
+          <div class="modal__row"><dt>Price</dt><dd>from&nbsp;$60 per&nbsp;piece · run&nbsp;≤300</dd></div>
+          <div class="modal__row"><dt>Lead</dt><dd>6&nbsp;weeks (author sign-off)</dd></div>
+          <div class="modal__row"><dt>Age</dt><dd>6+ · collectible object, not&nbsp;a toy</dd></div>
+          <div class="modal__row"><dt>Casting</dt><dd>hand-laid silicone-mold forming (≤300) or&nbsp;compression (&gt;300)</dd></div>
+          <div class="modal__row"><dt>Packaging</dt><dd>embossed cardboard + paper certificate · 32×22×18&nbsp;cm</dd></div>
+        </dl>
+        <a class="modal__cta" href="#">Add to&nbsp;cart ›</a>
+    </div>
+  </div>
+
+  <div class="modal" id="modal-mega" data-modal="mega" aria-hidden="true" role="dialog" aria-labelledby="modal-mega-title">
+    <div class="modal__backdrop" data-modal-close></div>
+    <div class="modal__panel modal__panel--mega" style="--c: #C45410;">
+      <button class="modal__close" data-modal-close aria-label="Close passport">×</button>
+      <span class="modal__eyebrow">/ 01.4 — Line card · TPM-07</span>
+      <h3 class="modal__title" id="modal-mega-title">Mega</h3>
+<p class="modal__sub">photo object · window display · statement gift</p>
+        <img class="modal__img" src="./assets/product-mega.jpg" alt="Quacktory Mega rubber duck 50–120 cm">
+        <dl class="modal__specs">
+          <div class="modal__row"><dt>Size</dt><dd>50–120&nbsp;cm (child-sized)</dd></div>
+          <div class="modal__row"><dt>Audience</dt><dd>C+ · photo object, window display</dd></div>
+          <div class="modal__row"><dt>Price</dt><dd>from&nbsp;$480 per&nbsp;piece</dd></div>
+          <div class="modal__row"><dt>Lead</dt><dd>6&nbsp;weeks</dd></div>
+          <div class="modal__row"><dt>Age</dt><dd>not&nbsp;a toy · decorative object</dd></div>
+          <div class="modal__row"><dt>Casting</dt><dd>rotational molding, split steel mold, internal fiberglass-reinforced frame, ~2&nbsp;h/cycle + 8&nbsp;h cool-down</dd></div>
+          <div class="modal__row"><dt>Packaging</dt><dd>corrugated crate + foam insert · pallet shipping</dd></div>
+        </dl>
+        <a class="modal__cta" href="#">Add to&nbsp;cart ›</a>
+    </div>
+  </div>
+
+  <div class="modal" id="modal-architect" data-modal="architect" aria-hidden="true" role="dialog" aria-labelledby="modal-architect-title">
+    <div class="modal__backdrop" data-modal-close></div>
+    <div class="modal__panel modal__panel--architect" style="--c: #8A3A0A;">
+      <button class="modal__close" data-modal-close aria-label="Close passport">×</button>
+      <span class="modal__eyebrow">/ 01.5 — Line card · TPM-05</span>
+      <h3 class="modal__title" id="modal-architect-title">Architect</h3>
+<p class="modal__sub">installation · event · wedding · branded space</p>
+        <img class="modal__img" src="./assets/product-architect.jpg" alt="Quacktory Architect rubber duck 1.5–3 m">
+        <dl class="modal__specs">
+          <div class="modal__row"><dt>Size</dt><dd>1.5–3&nbsp;m (bear-sized)</dd></div>
+          <div class="modal__row"><dt>Audience</dt><dd>D · B2B / event</dd></div>
+          <div class="modal__row"><dt>Price</dt><dd>on&nbsp;request · product passport</dd></div>
+          <div class="modal__row"><dt>Lead</dt><dd>12&nbsp;weeks (including site survey and&nbsp;install)</dd></div>
+          <div class="modal__row"><dt>Age</dt><dd>installation · installed by a certified crew</dd></div>
+          <div class="modal__row"><dt>Casting</dt><dd>sculptural pour from&nbsp;a master model, fiberglass mold, internal steel frame with stiffening ribs, 2–4&nbsp;weeks per&nbsp;duck</dd></div>
+          <div class="modal__row"><dt>Packaging</dt><dd>wooden crate + climate control · specialist transport</dd></div>
+        </dl>
+        <a class="modal__cta" href="mailto:b2b@quacktory.space">Request product passport ›</a>
+    </div>
+  </div>
+<script src="main.js" defer></script>
+</body>
+</html>

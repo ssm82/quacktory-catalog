@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quacktory — Serious Ducks</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="theme-hape">
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="top-bar" role="banner">
+    <a class="pill pill--ghost" href="#trailer">▶ Trailer</a>
+    <nav class="socials" aria-label="Social links">
+      <a href="#" aria-label="Telegram">[TG]</a>
+      <a href="#" aria-label="VK">[VK]</a>
+      <a href="#" aria-label="YouTube">[YT]</a>
+    </nav>
+    <a class="pill pill--ghost" href="#b2b">Buy token ↗</a>
+  </header>
+
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-tag">
+      <div class="hero__wordmark" aria-hidden="true">QUACKTORY</div>
+      <h1 class="sr-only" id="hero-tag">A collection of rubber ducks</h1>
+      <div class="hero__stage">
+        <img src="./assets/hero-lifestyle.jpg" alt="Quacktory Classic duck in focus, soft tone, top-left lighting" loading="eager">
+      </div>
+      <div class="hero__rule" aria-hidden="true"></div>
+      <div class="hero__caption">
+        <p class="hero__cell">Solid cast from vulcanized rubber. Pigment in the mass — no stickers, no metal inside.</p>
+        <p class="hero__cell">Five scales — from a 4 cm keychain to a 3 m installation. One silhouette, different roles.</p>
+      </div>
+    </section>
+
+    <section class="action-bar" aria-label="Actions">
+      <a class="action-link" href="#b2b">Our Roadmap</a>
+      <span class="action-sep" aria-hidden="true">·</span>
+      <a class="action-link" href="#trailer">Press</a>
+      <a class="pill pill--accent action-pill" href="#b2b">HAPEBAR</a>
+      <a class="action-link" href="#b2b">Fashion Index ↗</a>
+    </section>
+
+    <section class="lineup" aria-label="Collection">
+      <header class="lineup__head">
+        <span class="eyebrow">// 01 / Drop</span>
+        <h2 class="lineup__title">Our lineup</h2>
+        <p class="lineup__lead">We make ducks you don't want to put in water — you want to put on a shelf. Small ones go in your pocket. Big ones go in the lobby. All of them end up in the shot.</p>
+      </header>
+      <ul class="lineup__grid" role="list">
+        <li><button class="card" data-id="micro"><span class="card__glow"></span><img src="./assets/product-micro.jpg" alt=""><div class="card__meta"><span class="card__line">Micro</span><span class="card__size">4–8 cm</span><span class="card__compare">thumb-sized</span><span class="card__price">from $7<small>per piece</small></span><span class="card__term">today</span></div></button></li>
+        <li><button class="card" data-id="classic"><span class="card__glow"></span><img src="./assets/product-classic.jpg" alt=""><div class="card__meta"><span class="card__line">Classic</span><span class="card__size">10–25 cm</span><span class="card__compare">cat-sized</span><span class="card__price">mid<small>shipping included</small></span><span class="card__term">3 weeks</span></div></button></li>
+        <li><button class="card" data-id="designer"><span class="card__glow"></span><img src="./assets/product-designer.jpg" alt=""><div class="card__meta"><span class="card__line">Designer</span><span class="card__size">15–30 cm</span><span class="card__compare">collab</span><span class="card__price">mid+<small>edition ≤300</small></span><span class="card__term">6 weeks</span></div></button></li>
+        <li><button class="card" data-id="mega"><span class="card__glow"></span><img src="./assets/product-mega.jpg" alt=""><div class="card__meta"><span class="card__line">Mega</span><span class="card__size">50–120 cm</span><span class="card__compare">child-sized</span><span class="card__price">premium<small>art object</small></span><span class="card__term">6 weeks</span></div></button></li>
+        <li><button class="card" data-id="architect"><span class="card__glow"></span><img src="./assets/product-architect.jpg" alt=""><div class="card__meta"><span class="card__line">Architect</span><span class="card__size">1.5–3 m</span><span class="card__compare">bear-sized</span><span class="card__price">on request<small>passport</small></span><span class="card__term">12 weeks</span></div></button></li>
+      </ul>
+    </section>
+
+    <section class="manifesto" aria-label="Manifesto">
+      <p class="manifesto__line">We make ducks you don't want to put in water — you want to put on a shelf.</p>
+      <p class="manifesto__line">Small ones go in your pocket.</p>
+      <p class="manifesto__line">Big ones go in the lobby.</p>
+      <p class="manifesto__line">All of them end up in the shot.</p>
+    </section>
+
+    <section class="b2b" id="b2b" aria-labelledby="b2b-title">
+      <h2 class="b2b__title" id="b2b-title">B2B / Custom</h2>
+      <p class="b2b__lead">12 signature Pantone equivalents. Through-body pigment — not a surface paint. Lead times from 3 weeks (Micro) to 12 weeks (Architect). A custom Pantone is a separate quote line, +2 weeks, +15% to the price.</p>
+      <a class="pill pill--accent" href="mailto:hi@quacktory.space">Request a quote</a>
+    </section>
+
+    <section class="footer" aria-label="Footer">
+      <div class="footer__row">
+        <span class="footer__brand">QUACKTORY®</span>
+        <span class="footer__credit">© 2025 • Drop 04</span>
+      </div>
+    </section>
+  </main>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+    <div class="modal__overlay" data-close></div>
+    <div class="modal__panel">
+      <button class="modal__close" data-close aria-label="Close">×</button>
+      <img class="modal__img" alt="">
+      <div class="modal__body">
+        <span class="modal__line"></span>
+        <h3 class="modal__title" id="modal-title"></h3>
+        <p class="modal__size"></p>
+        <p class="modal__desc"></p>
+        <p class="modal__price"></p>
+        <p class="modal__term"></p>
+      </div>
+    </div>
+  </div>
+  <script src="main.js" defer></script>
+</body>
+</html>

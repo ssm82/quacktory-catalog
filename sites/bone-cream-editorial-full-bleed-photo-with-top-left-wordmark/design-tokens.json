@@ -1,0 +1,20 @@
+{
+  "slug": "kononenko-architectural-bureau",
+  "palette": {
+    "bg": "#F2F0EB",
+    "fg": "#0A0A0A",
+    "accent": "#1A1A1A",
+    "muted": "#6B6660",
+    "ink": "#0A0A0A",
+    "surface": "#FFFFFF"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "View portfolio"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "aspen-search",
+  "palette": {
+    "bg": "#F2F2F0",
+    "fg": "#111111",
+    "accent": "#7CFAB1",
+    "muted": "#7A7A7A",
+    "ink": "#0A0A0A",
+    "surface": "#1F2A55"
+  },
+  "fonts": {
+    "display": "Manrope",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Get in touch"
+}

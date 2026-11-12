@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "Editorial lifestyle photograph of a classic rubber duck standing in profile-three-quarter on a damp forest floor path, full 16:9 composition in the mood of a sustainably-minded lifestyle brand spread. The duck is a monumental, quiet presence amid a hushed woodland: muted evergreen trunks, low ferns, a soft morning mist dissolving into a warm cream haze that reads exactly like the off-white of printed editorial paper. The duck's body has a deep warm espresso-brown matte porcelain finish, the colour of dark forest soil and bark, with the identical iconic round body, small upturned tail, flat oval beak and two flat webbed feet. Eyes are simple painted oval pupils, no sparkle, no glint. Soft window light from the upper left casts a long gentle shadow across the moss. A faint gravel road curves away behind the duck into the haze, echoing the For:Human aerial hero language. Backdrop and figure share the same cream-and-espresso palette: seamless backdrop in #EFE9DD tone, NOT warm amber finish, NOT tinted beyond palette. Fine film grain, low contrast, matte porcelain on warm paper. No props around the duck, no text."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Studio product shot of a micro classic rubber duck at 4-8cm keychain scale, front-facing slightly elevated 30 degree angle, dead-centre in a 1:1 square. Body is a deep warm espresso-brown matte porcelain finish, the same iconic silhouette across the line: round body, small upturned tail, flat oval beak, two flat webbed feet. Eyes are simple painted oval pupils, no sparkle, no decorative glint. A fine cord loop at the crown hints at its keychain scale without props. Seamless backdrop in warm cream tone matching editorial paper, exactly #EFE9DD, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio, three-point lighting, even gentle falloff, no hard shadow, faint contact shadow grounding the small form. The duck occupies roughly a quarter of the frame, leaving generous negative space for the considered, quiet editorial mood of a sustainably-minded catalogue plate. Matte porcelain on warm paper, refined and recessive. No text, no clutter, no other objects."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Studio product shot of a classic rubber duck at 10-25cm, the workhorse hero SKU, front-facing slightly elevated 30 degree angle, centred in a 1:1 square. Body is a deep warm espresso-brown matte porcelain finish, the same iconic silhouette across the range: round body, small upturned tail, flat oval beak, two flat webbed feet. Eyes are simple painted oval pupils, no sparkle, no decorative glint, just two quiet dark ovals. Seamless backdrop in warm cream tone, exactly #EFE9DD, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio, three-point lighting, broad and even, with a soft contact shadow grounding the form. The duck occupies roughly 45 percent of the frame, generous negative space giving the image a quiet, considered editorial feel like a printed catalogue plate on warm paper. No props, no text, no pattern, no clutter. Matte porcelain surface, refined, sustainability-luxury tone."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Studio product shot of a designer collaboration rubber duck at 15-30cm, the limited collaboration edition with per-direction design treatment, front-facing slightly elevated 30 degree angle, centred in a 1:1 square. Body is a deep warm espresso-brown matte porcelain finish, identical iconic silhouette: round body, small upturned tail, flat oval beak, two flat webbed feet. Eyes are simple painted oval pupils, no sparkle, no decorative glint. The unique collaboration treatment: a single hairline band painted around the duck's neck like a delicate collar, plus a fine hand-applied parchment-cream wash across the back panel only, reading as a subtle numbered-edition marker without breaking the silhouette. Seamless backdrop in warm cream tone, exactly #EFE9DD, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio, three-point lighting, even gentle falloff. Matte porcelain on warm paper, considered editorial mood, like a numbered art-toy catalogue plate. No props, no text."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Studio product shot of a mega classic rubber duck at 50-120cm, the photo-object edition, front-facing slightly elevated 30 degree angle, centred in a 1:1 square. Body is a deep warm espresso-brown matte porcelain finish, the same iconic silhouette across the line: round body, small upturned tail, flat oval beak, two flat webbed feet. Eyes are simple painted oval pupils, no sparkle, no decorative glint. Seamless backdrop in warm cream tone, exactly #EFE9DD, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio, three-point lighting, broad and even, with a wide soft contact shadow anchoring the large monumental form. The duck fills roughly 60 percent of the frame to convey its photo-object scale, generous negative space, considered editorial mood of a printed catalogue plate. Matte porcelain on warm paper, museum-quiet. Faint implied pedestal plane, no actual pedestal drawn, no text, no people, no props."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Studio product shot of an architect-scale classic rubber duck at 1.5-3m, the statement installation edition, front-facing slightly elevated 30 degree angle, centred in a 1:1 square. Body is a deep warm espresso-brown matte porcelain finish, identical iconic silhouette: round body, small upturned tail, flat oval beak, two flat webbed feet. Eyes are simple painted oval pupils, no sparkle, no decorative glint. Seamless backdrop in warm cream tone, exactly #EFE9DD, NOT warm amber finish, NOT tinted beyond palette, reading as a gallery wall. Soft diffused studio, three-point lighting, broad and even, with a wide soft contact shadow grounding the monumental form. The duck fills the frame to convey installation scale, the surrounding cream paper-tone backdrop reads as gallery wall, considered and editorial, matte porcelain on warm paper, like a museum catalogue plate. Faint implied plinth plane, no actual plinth drawn, no people, no text, no props."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A monumental hot pink classic rubber duck, lacquered magenta surface in #FF2D8C accent tone, standing as the single centrepiece in an empty dark cinematic void. A hard key light rakes from the upper left at roughly 45°, throwing a long sharp shadow across the seamless backdrop in deep #06070B near-black tone, NOT warm amber finish, NOT tinted beyond palette. A bright rim light traces the right edge of the duck's silhouette, picking out the curve of the head, the beak, and the small wing detail. Subtle atmospheric haze catches the rim glow. The lacquered finish mirrors the key light as one continuous hot highlight running down the crown of the head. Plain oval pupils with no decorative glint, no sparkle, no heart, no star, no pixel. Identical body outline, beak, and feet to every other shot in the lineup. Slight low-angle perspective, the duck towering as an installation-scale object. Cinematic depth of field, anamorphic bokeh in the deep background. No props, no copy, no UI."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 4 to 8 cm keychain-scale classic rubber duck, centered in frame, front-facing, slightly elevated 30° viewing angle. Lacquered body in hot pink #FF2D8C accent tone, identical silhouette to the rest of the lineup — same rounded body, same small wing detail, same webbed feet, same gently curved beak. Soft diffused three-point studio lighting: a broad key, a soft fill, and a back rim catching the top of the head. A tiny chrome split-ring keychain attachment loops through the top of the head. Seamless backdrop in #06070B near-black tone, NOT warm amber finish, NOT tinted beyond palette. A subtle contact shadow anchors the duck to the seamless surface. Plain oval pupils, no sparkle, no heart, no star, no pixel — just clean oval pupils matching the brand DNA. Glossy lacquered resin finish reflecting three soft white catchlights. Tightly cropped, every detail crisp at handheld scale. No props beyond the keychain hardware."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The workhorse 10 to 25 cm classic rubber duck, centered in frame, front-facing, slightly elevated 30° viewing angle. Lacquered body in hot pink #FF2D8C accent tone, identical silhouette to every other shot in the lineup. Soft diffused three-point studio lighting: a broad key, a soft fill, and a back rim catching the top of the head and the curve of the back. Seamless backdrop in #06070B near-black tone, NOT warm amber finish, NOT tinted beyond palette. A subtle contact shadow anchors the duck to the seamless surface. Plain oval pupils with no decorative glint, no sparkle, no heart, no star, no pixel. Glossy lacquered resin finish reflecting three soft white catchlights. This is the most-photographed SKU, presented clean and retail-grade — centered, full body visible, simple, recognizable. No props, no copy, no UI. Studio product render feel."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 15 to 30 cm collaboration-edition classic rubber duck, front-facing, slightly elevated 30° viewing angle, in a designer two-tone colorway. Lacquered body in deep #170B2E surface indigo with hot pink #FF2D8C accents on the beak, the wing detail, and the webbed feet — a glitched, split-color treatment referencing the site's chromatic aberration aesthetic. Identical silhouette to the rest of the lineup. Soft diffused three-point studio lighting: a broad key, a soft fill, and a back rim. Seamless backdrop in #06070B near-black tone, NOT warm amber finish, NOT tinted beyond palette. A subtle contact shadow anchors the duck. Plain oval pupils, no sparkle, no heart, no star, no pixel, no glint. Glossy lacquered resin finish reflecting three soft white catchlights across both color zones. Centered, full body visible, no props, no copy, no UI."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 50 to 120 cm photo-object scale classic rubber duck, centered, front-facing, slightly elevated 30° viewing angle. Lacquered body in hot pink #FF2D8C accent tone, identical silhouette to the rest of the lineup. Soft diffused three-point studio lighting — a broad key, a soft fill, and a back rim — but with a wider, more dramatic spread to hint at the larger scale. Seamless backdrop in #06070B near-black tone, NOT warm amber finish, NOT tinted beyond palette. A subtle floor reflection appears beneath the feet, more pronounced than the smaller SKUs, hinting at the oversized scale. Plain oval pupils, no sparkle, no heart, no star, no pixel, no glint. Glossy lacquered resin finish reflecting three soft white catchlights. The duck fills more of the frame than the classic shot, presence and weight clearly communicated. Centered, monumental product render. No props, no copy, no UI."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 1.5 to 3 m statement-installation scale classic rubber duck, front-facing, slightly elevated 30° viewing angle. Lacquered body in hot pink #FF2D8C accent tone, identical silhouette to the rest of the lineup. Soft diffused three-point studio lighting with the broadest possible spread, the softboxes implied as faint glows in the deep distance. Seamless backdrop in #06070B near-black tone, NOT warm amber finish, NOT tinted beyond palette, with a barely perceptible gradient toward a slightly lighter center to imply vast negative space. A small, distant human silhouette in muted dark gray stands far to the right at scale-referencing distance. A pronounced floor reflection stretches beneath the duck. Plain oval pupils, no sparkle, no heart, no star, no pixel, no glint. Glossy lacquered resin finish, three soft white catchlights. The duck dominates the frame as monumental architecture. No copy, no UI, only scale and presence."
+  }
+]

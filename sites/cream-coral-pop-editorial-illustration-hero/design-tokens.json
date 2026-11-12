@@ -1,0 +1,20 @@
+{
+  "slug": "brunos-portfolio",
+  "palette": {
+    "bg": "#E8A878",
+    "fg": "#F1D5E2",
+    "accent": "#B8383A",
+    "muted": "#A47A95",
+    "ink": "#2F7E8C",
+    "surface": "#E54A8E"
+  },
+  "fonts": {
+    "display": "Montserrat",
+    "body": "Nunito",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "pop",
+  "duck_eye_decor": "none",
+  "cta_register": "Enter the world"
+}

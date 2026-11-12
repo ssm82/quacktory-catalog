@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "Navy steel-blue classic rubber duck (#2C4A6B) with matte porcelain finish and plain oval pupils, no decorative glint, placed as a small contemplative figure on a pristine alpine snowfield. The duck sits in the lower-left third of the frame, dwarfed by a towering central mountain peak rising through soft fog. Editorial soft window light from the upper right, with a single warm amber rim light catching the duck's curved back and the mountain's east ridge - the only warm note in the composition. The seamless white snow backdrop dissolves from #FFFFFF in the brightest fog areas into cool blue-grey shadow gradations (#9FA8B0, #DDE2E6, #C9D0D5) toward the foreground. Cinematic depth of field with sharp focus on the duck. Generous negative space in the upper sky reads as quiet, contemplative, alpine-luxury. 16:9 aspect, slightly elevated camera angle. No warm amber finish tint, no props, no logos. The duck silhouette is the same as every other SKU in the line."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Tiny 5cm micro classic rubber duck keychain, deep steel-blue body (#2C4A6B) with a chalky matte porcelain finish and plain oval pupils, no decorative glint. A small brushed steel keyring loop is integrated through the top of the head. Front-facing, slightly elevated, 30° product shot on a seamless pure white backdrop (#FFFFFF tone). Soft diffused three-point studio lighting with no hard shadows - the duck reads as a small typographic object on a luminous plane. The cool shadow side of the duck carries a faint slate-blue undertone, never warm. Generous negative space around the subject, centered composition. The duck silhouette is identical to the classic, designer, mega, and architect pieces - variation lives in apparent scale and finish. Editorial register, restrained alpine-luxury mood, no horizon line, no surface texture, no props beyond the keyring. Cool, quiet, contemplative."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Mid-size 18cm classic rubber duck, the workhorse SKU, deep steel-blue body (#2C4A6B) with a uniform matte porcelain finish and plain oval pupils, no decorative glint. Front-facing, slightly elevated, 30°. Seamless pure white backdrop (#FFFFFF tone) with editorial soft window light from the upper left, casting a gentle cool shadow on the right side of the body. Soft diffused three-point studio lighting produces a soft, even gradation across the duck's curved back, head, and tail. The matte surface has a chalky warm-paper quality with no gloss and no reflections. Cool blue undertone in the deepest shadows, never warm. Generous negative space surrounds the subject; the duck reads as a sculptural object on a luminous white plane. Silhouette is identical to the micro, designer, mega, and architect pieces. No props, no horizon line, no logos - the most-photographed SKU treated as quiet luxury."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "22cm designer collaboration classic rubber duck, deep ink-blue body (#1F3D5C ink) with a collaboration hairline treatment: a single 1px white seam running along the latitudinal midline of the body and a faint tonal split where the upper hemisphere reads as a slightly lighter muted steel-blue (#3F5872) and the lower hemisphere holds the deep ink. Matte porcelain finish, plain oval pupils, no decorative glint. Front-facing, slightly elevated, 30°. Seamless pure white backdrop (#FFFFFF tone) with editorial soft window light from the upper left. Soft diffused three-point studio lighting. The collaboration mark is the only graphic on the duck - no logos, no patterns, no ornaments. Cool blue undertone throughout, never warm. Generous negative space, centered composition. Silhouette is identical to the micro, classic, mega, and architect pieces. Alpine-luxury editorial register, restrained and architectural."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "80cm mega classic rubber duck, deep steel-blue body (#2C4A6B) with a uniform matte porcelain finish and plain oval pupils, no decorative glint. Front-facing, slightly elevated, 30° at scale. Seamless pure white backdrop (#FFFFFF tone) with editorial soft window light. Soft diffused three-point studio lighting scaled to the larger subject, producing a soft even gradation across the monumental form. The mega duck reads as a sculptural photo-object - alpine-monolithic, occupying roughly 55-60% of the frame. Subtle cool shadow gradation on the lower body where it meets the floor; a faint slate-blue undertone in the deepest shadows, never warm. The matte surface has a chalky, paper-like quality with no gloss and no reflections. Silhouette is identical to the micro, classic, designer, and architect pieces. Generous negative space preserved above and around. No props, no logos, no human figures for scale. Cold, contemplative luxury."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "2.5m architect classic rubber duck installation, deep steel-blue body (#2C4A6B) with a uniform matte porcelain finish and plain oval pupils, no decorative glint. Front-facing, slightly elevated, 30° from a low viewpoint to capture the monumental scale. Seamless pure white backdrop (#FFFFFF tone) with editorial soft window light streaming from the upper left, creating a soft cool wash across the towering form. Soft diffused three-point studio lighting at architectural scale. The monumental duck fills the frame as a typographic sculpture in an alpine cathedral of white space. A subtle floor shadow and faint contact reflection anchor the piece. Cool blue undertone throughout, never warm. The matte porcelain surface has a uniform chalky quality with no gloss. Silhouette is identical to the micro, classic, designer, and mega pieces. No props, no human figures, no horizon line. Cold, monumental, contemplative alpine-luxury statement installation."
+  }
+]

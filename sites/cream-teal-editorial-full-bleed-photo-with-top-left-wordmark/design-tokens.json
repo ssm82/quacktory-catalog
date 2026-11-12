@@ -1,0 +1,20 @@
+{
+  "slug": "inkfish",
+  "palette": {
+    "bg": "#1F2A36",
+    "fg": "#F5F2EC",
+    "accent": "#5DBCE4",
+    "muted": "#8E5A3F",
+    "ink": "#0E1620",
+    "surface": "#C99478"
+  },
+  "fonts": {
+    "display": "JetBrains Mono",
+    "body": "JetBrains Mono",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "C",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "View the reel"
+}

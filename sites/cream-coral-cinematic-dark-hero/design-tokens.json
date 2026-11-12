@@ -1,0 +1,20 @@
+{
+  "slug": "foosball-world-cup-18",
+  "palette": {
+    "bg": "#101225",
+    "fg": "#F2F0EE",
+    "accent": "#E7194D",
+    "muted": "#C6C6CF",
+    "ink": "#101225",
+    "surface": "#6B2635"
+  },
+  "fonts": {
+    "display": "JetBrains Mono",
+    "body": "JetBrains Mono",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Enter the arena"
+}

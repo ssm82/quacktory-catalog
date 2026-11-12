@@ -1,0 +1,20 @@
+{
+  "slug": "umami-land",
+  "palette": {
+    "bg": "#B7D2CC",
+    "fg": "#1F4FB8",
+    "accent": "#E8652A",
+    "muted": "#D9E4D6",
+    "ink": "#1F4FB8",
+    "surface": "#F7F1E2"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "Manrope",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "kawaii",
+  "duck_eye_decor": "sparkle",
+  "cta_register": "Start the trip"
+}

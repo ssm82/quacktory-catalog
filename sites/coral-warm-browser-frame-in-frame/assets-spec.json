@@ -1,0 +1,20 @@
+[
+  {"filename": "hero-lifestyle.jpg",
+   "prompt": "Lifestyle scene: a single rubber duck wearing a tiny white chef's collar, matte tomato-red finish, sitting on a ceramic plate surrounded by fresh basil leaves, cucumber slices, and a small drizzle of sauce, soft warm peach-gradient backdrop. Editorial food-photography lighting, warm and appetizing. NOT a real cooked dish — the duck is the hero. Camera: front-facing, slightly elevated 30°.",
+   "aspect_ratio": "16:9"},
+  {"filename": "product-micro.jpg",
+   "prompt": "Small rubber duck in matte tomato-red finish with a tiny white chef's collar and a single basil leaf at its beak, keychain-sized, kitchen aesthetic. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30°.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-classic.jpg",
+   "prompt": "Classic 15cm rubber duck in warm egg-yolk-orange matte finish with a small white chef's collar and a cucumber slice as a hat, kitchen showpiece. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30°.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-designer.jpg",
+   "prompt": "Designer 20cm rubber duck in basil-green matte finish with a tiny white chef's apron prop and a sprig of rosemary tucked at the beak, limited edition culinary piece. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30°.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-mega.jpg",
+   "prompt": "Large 50cm rubber duck in warm terracotta-orange matte finish with a wide chef's collar and a herb wreath prop, monumental kitchen showpiece. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30°.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-architect.jpg",
+   "prompt": "Monumental 1.5m rubber duck sculpture in deep bowl-navy matte finish with a giant chef's hat prop and a rosemary garland, statement kitchen installation, plated like a centerpiece. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30°, slightly more pulled-back to capture the scale.",
+   "aspect_ratio": "1:1"}
+]

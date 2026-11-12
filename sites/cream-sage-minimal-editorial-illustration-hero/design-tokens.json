@@ -1,0 +1,20 @@
+{
+  "slug": "css_design_awards_zeroz-brand-site-49725",
+  "palette": {
+    "bg": "#0e2a1a",
+    "fg": "#f0efe9",
+    "accent": "#3edc7c",
+    "muted": "#2f8a55",
+    "ink": "#0a0a0a",
+    "surface": "#1d4a2e"
+  },
+  "fonts": {
+    "display": "Manrope",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "minimal",
+  "duck_eye_decor": "none",
+  "cta_register": "Shop now"
+}

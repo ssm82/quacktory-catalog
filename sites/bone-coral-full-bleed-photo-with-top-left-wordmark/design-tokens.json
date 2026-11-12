@@ -1,0 +1,20 @@
+{
+  "slug": "the-new-mobile-workforce-4",
+  "palette": {
+    "bg": "#C9E4EF",
+    "fg": "#FFFFFF",
+    "accent": "#F03A45",
+    "muted": "#9AA8B2",
+    "ink": "#111820",
+    "surface": "#1D2933"
+  },
+  "fonts": {
+    "display": "Inter",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Explore the story"
+}

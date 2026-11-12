@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck, scaled as a towering centrepiece, occupies the dead centre of a saturated pop-art composition. The duck body carries a warm amber finish in deep #FF8A1F tone, surface rendered as glossy candy-resin with wet specular highlights, lacquered and ultra-reflective. Camera is set low and slightly tilted up, exaggerating the duck's monumental scale against a seamless backdrop in periwinkle #7C7BD9 tone, NOT warm amber finish, NOT tinted beyond palette. The duck stands in a confident upright pose with feet visible and beak forward, identical silhouette to the product line. Pupil is a plain oval with a single tiny white sparkle catchlight. Lighting is a hard single key from upper right with a saturated teal rim grazing the back and beak, evoking comic-book pop drama. Faint orange dust speckles drift through the lavender negative space. Title safe area is reserved at top-centre. 16:9 cinematic framing, single focal hero.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A miniature classic rubber duck, roughly 6cm scale as a keychain, photographed front-facing slightly elevated at 30°. The duck body carries a warm amber finish in #FF8A1F, surface treated as high-gloss resin with crisp catchlights and a candy-coated lacquered sheen. A tiny silver keyring loop is fixed to the back of the head. Pupil is a plain oval with one tiny white sparkle catchlight. Soft diffused studio three-point lighting, clean white reflections along the head dome and beak ridge. Seamless backdrop in periwinkle #7C7BD9 tone, NOT warm amber finish, NOT tinted beyond palette, with a subtle radial vignette to focus the eye. The duck stands upright, feet visible, no props, no text, identical silhouette to the rest of the range. 1:1 square format, product centred, tack-sharp across the full silhouette, palette restricted to amber, periwinkle, white and a whisper of pink #F4A4C7 from a soft floor reflection.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The signature classic rubber duck at workhorse 18cm scale, photographed front-facing slightly elevated at 30°. Body carries a warm amber finish in #FF8A1F, surface rendered as glossy high-shine resin with wet candy-lacquer highlights, broad white catchlight sweeping across the head dome. Pupil is a plain oval with a single tiny white sparkle catchlight. Soft diffused three-point studio lighting, no harsh shadows, gentle warm cream fill on the cheek from the surface tone. Seamless backdrop in periwinkle #7C7BD9 tone, NOT warm amber finish, NOT tinted beyond palette, with a soft cream #F1E7CC circular glow behind the duck as a subtle product halo. The duck stands upright, feet visible, symmetrical, identical silhouette to the rest of the family. No props, no text, no people. 1:1 square crop, tack-sharp across the entire silhouette, palette anchored to amber, periwinkle and cream.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "The collaboration-edition classic rubber duck, 22cm scale, photographed front-facing slightly elevated at 30°. The duck body carries a warm amber finish in #FF8A1F, surface rendered as glossy resin overlaid with a delicate scatter of pink #F4A4C7 confetti speckles and dust flecks for a hand-painted pop-art treatment. A fine black 2px contour outline traces the silhouette in cartoon ink-line fashion. Pupil is a plain oval with a tiny white sparkle catchlight. Soft diffused three-point studio lighting with a magenta gel accent on the rim light to add comic-book pop. Seamless backdrop in periwinkle #7C7BD9 tone, NOT warm amber finish, NOT tinted beyond palette, dusted with the same pink speckle motif. The duck stands upright, feet visible, hero-still pose, identical silhouette to the rest of the line. No text, no props. 1:1 square crop, palette restricted to amber, pink, periwinkle and a touch of cream.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A giant classic rubber duck, roughly 80cm scale, presented as a glossy photo-object, photographed front-facing slightly elevated at 30°. Body is warm amber #FF8A1F, surface treated as a deep candy-lacquered resin with strong wet highlights and a deep specular sweep across the head dome. The duck's monumental round form dominates the frame, identical silhouette to the rest of the family. Pupil is a plain oval with a single tiny white sparkle catchlight. Soft diffused three-point studio lighting with a subtle teal bounce off the lavender backdrop, plus a saturated key light from upper right. Seamless backdrop in periwinkle #7C7BD9 tone, NOT warm amber finish, NOT tinted beyond palette, sweeping up behind the duck as an unbroken cyclorama. A small cream #F1E7CC plinth disc is implied under the feet as a stage cue. No text, no people. 1:1 square crop, full silhouette contained within the frame.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A monumental classic rubber duck at architectural installation scale, approximately 2 metres tall, photographed as a statement piece. Camera is front-facing, slightly elevated at 30°, pulled back to read the full silhouette with a thin margin of breathing room. The duck body carries a warm amber #FF8A1F finish, surface rendered as high-gloss lacquered resin with sweeping candy highlights and a crisp rim light, identical silhouette to the rest of the line. Pupil is a plain oval with a tiny white sparkle catchlight. Three-point studio lighting scaled up, with a hard key from upper right and a saturated pink #F4A4C7 fill bouncing off the lavender backdrop. Seamless backdrop in periwinkle #7C7BD9 tone, NOT warm amber finish, NOT tinted beyond palette, treated as a vast cyclorama curving up from the floor. The duck stands centred, feet visible, posed as a public art object. No people, no text, no props. 1:1 square crop.",
+    "aspect_ratio": "1:1"
+  }
+]

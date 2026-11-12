@@ -1,0 +1,20 @@
+{
+  "slug": "aten7",
+  "palette": {
+    "bg": "#0A0B0D",
+    "fg": "#FFFFFF",
+    "accent": "#D8E94A",
+    "muted": "#B5B395",
+    "ink": "#000000",
+    "surface": "#1A1B1F"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Enter the archive"
+}

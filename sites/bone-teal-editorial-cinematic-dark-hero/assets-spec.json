@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck with a matte porcelain finish in highlighter chartreuse (#D4E817) with black topographic swirl contour lines wrapping its body like contour maps, floating in a dark cinematic void. Plain oval pupil, no glint, no decorative catchlight. Single soft key light from upper-left with a faint rim on the right cheek, editorial soft window light reading as museum-object presentation. Seamless backdrop in #111111 near-black tone, NOT warm amber finish, NOT tinted beyond palette, with barely-there topographic line work in muted olive (#3A3C1C) at 10–15% opacity rhyming with the pattern on the duck. The duck occupies about 45% of frame width, positioned slightly left of the vertical axis, with generous breathing room. 16:9 landscape format, premium editorial product hero mood, same classic rubber duck silhouette, no other objects, no props, presented like a museum hero asset on a dark editorial field.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Small classic rubber duck keychain, 4–8cm scale, matte porcelain finish in highlighter chartreuse (#D4E817) with a subtle hint of black topographic contour line detail wrapping the body. A small silver-toned split ring and short chain loop attach to the top of the head, visible at front-facing slightly elevated 30° angle. Plain oval pupil, no glint, no decorative catchlight. Soft diffused studio three-point lighting with editorial soft window light quality. Seamless backdrop in #111111 near-black tone, NOT warm amber finish, NOT tinted beyond palette, with barely-perceptible topographic line work in muted olive (#3A3C1C) at very low opacity. The duck is centred in frame, 1:1 square format, classic product photography on a dark editorial field, reading as a premium collector's keychain object with quiet restraint.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Classic rubber duck, 10–25cm scale workhorse product, matte porcelain finish in highlighter chartreuse (#D4E817) with black topographic swirl contour lines wrapping the body in a medium-density pattern. Plain oval pupil, no glint, no decorative catchlight. Front-facing slightly elevated 30° angle, three-point soft diffused studio lighting with editorial soft window light quality, single soft key from upper-left and faint rim on the right cheek. Seamless backdrop in #111111 near-black tone, NOT warm amber finish, NOT tinted beyond palette, with very subtle topographic line work in muted olive (#3A3C1C) at 10–15% opacity echoing the pattern on the duck. The duck is centred in frame, 1:1 square format, premium product photography reading as a museum object on a dark editorial field, matte surface, two-tone discipline of black lines on chartreuse body.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Designer collaboration edition classic rubber duck, 15–30cm scale, matte porcelain finish in highlighter chartreuse (#D4E817) with dense black topographic contour swirl pattern across the full body, mimicking a racing helmet graphic style. The high-contrast black pattern wraps the entire silhouette. Plain oval pupil, no glint, no decorative catchlight. Front-facing slightly elevated 30° angle, three-point soft diffused studio lighting with editorial premium mood. Seamless backdrop in #111111 near-black tone, NOT warm amber finish, NOT tinted beyond palette, with barely-perceptible topographic line work in muted olive (#3A3C1C) at low opacity, providing pattern rhyme with the duck. 1:1 square format, the duck centred in frame with negative space around it, presented as a high-end collector's edition on a dark editorial field, matte surface, no gloss, museum-piece presentation.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Large-scale classic rubber duck, 50–120cm photo-object, matte porcelain finish in highlighter chartreuse (#D4E817) with bold black topographic contour swirl lines wrapping the body in a dense graphic pattern. Plain oval pupil, no glint, no decorative catchlight. Front-facing slightly elevated 30° angle, three-point soft diffused studio lighting with editorial soft window light quality, single soft key from upper-left creating a subtle specular highlight along the crown, faint rim on the right cheek. Seamless backdrop in #111111 near-black tone, NOT warm amber finish, NOT tinted beyond palette, with subtle topographic line work in muted olive (#3A3C1C) at low opacity. 1:1 square format, the duck occupies a significant portion of the frame, presented as a museum photo-object on a dark editorial field, generous negative space, premium hero scale.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Monumental classic rubber duck, 1.5–3m scale statement installation, matte porcelain finish in highlighter chartreuse (#D4E817) with bold black topographic contour line pattern wrapping the full body in dense graphic coverage. Plain oval pupil, no glint, no decorative catchlight. Photographed at human-scale height, three-point soft diffused studio lighting with editorial soft window light quality reading as a sculptural installation piece. Seamless backdrop in #111111 near-black tone, NOT warm amber finish, NOT tinted beyond palette, with very subtle topographic line work in muted olive (#3A3C1C) at 10–15% opacity echoing the duck's pattern. 1:1 square format, the duck fills the frame as a monumental centrepiece, presented like a museum sculpture on a dark editorial field, matte surface, premium installation object, generous breathing room around the silhouette.",
+    "aspect_ratio": "1:1"
+  }
+]

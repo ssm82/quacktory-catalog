@@ -1,0 +1,20 @@
+{
+  "slug": "orano",
+  "palette": {
+    "bg": "#0A0A0A",
+    "fg": "#FFFFFF",
+    "accent": "#E8E600",
+    "muted": "#9A9A9A",
+    "ink": "#FFFFFF",
+    "surface": "#141414"
+  },
+  "fonts": {
+    "display": "Space Grotesk",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "technical",
+  "duck_eye_decor": "none",
+  "cta_register": "Read the brief"
+}

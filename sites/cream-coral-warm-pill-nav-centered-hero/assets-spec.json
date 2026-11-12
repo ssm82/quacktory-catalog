@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "Surreal travel destination scene for a luxury duck brand concept ad: dreamlike pastel desert at sunset with soft sand dunes, scattered rocks, white wildflowers, and a glowing pink orb nestled in the lower-right foreground, dusty lavender-pink sky melting into warm peach horizon, shallow depth of field in the foreground grasses, a single small rubber duck silhouette perched on a rock mid-ground, soft cinematic global illumination, photoreal 3D render, pastel palette NOT yellow NOT warm cast, evokes a magazine-quality destination poster"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Tiny rubber duck 4 cm keychain size, warm peach-pink colorway with soft satin finish, pure white #FFFFFF seamless backdrop NOT yellow NOT tinted NOT warm cast, soft diffused studio light three-point setup, front-facing slightly elevated 30 degree camera angle, identical classic duck silhouette with subtle kawaii sparkle glint in eyes, glossy matte surface, photorealistic product photography on white"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Classic rubber duck 15 cm standard size, warm dusty rose colorway with smooth satin finish, pure white #FFFFFF seamless backdrop NOT yellow NOT tinted NOT warm cast, soft diffused studio light three-point setup, front-facing slightly elevated 30 degree camera angle, identical classic duck silhouette with kawaii sparkle glint in eyes, photorealistic product photography on white"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Designer edition rubber duck 20 cm, dusty mauve colorway with subtle pearlescent iridescent sheen finish, pure white #FFFFFF seamless backdrop NOT yellow NOT tinted NOT warm cast, soft diffused studio light three-point setup, front-facing slightly elevated 30 degree camera angle, identical classic duck silhouette with editorial antique glint in eyes, photorealistic product photography on white"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Large format rubber duck 50 cm, soft blush-pink colorway with porcelain-like matte finish, pure white #FFFFFF seamless backdrop NOT yellow NOT tinted NOT warm cast, soft diffused studio light three-point setup, front-facing slightly elevated 30 degree camera angle, identical classic duck silhouette with subtle glint in eyes, monumental product photography on white"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Monumental sculpture rubber duck 1.5 m statement piece, dusty lavender-pink colorway with hand-glazed ceramic finish, pure white #FFFFFF seamless backdrop NOT yellow NOT tinted NOT warm cast, soft diffused studio light three-point setup, front-facing slightly elevated 30 degree camera angle, identical classic duck silhouette with museum-vitrine antique glint in eyes, sculptural studio product photography on white"
+  }
+]

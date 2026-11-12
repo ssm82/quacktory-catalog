@@ -1,0 +1,327 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ducks. — Quacktory Quarterly, Issue 04</title>
+  <meta name="description" content="A magazine-cover demo for Quacktory: a size ladder of rubber ducks rendered as a print-masthead editorial." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;700&family=JetBrains+Mono:wght@400;500&display=swap" />
+  <link rel="stylesheet" href="./styles.css" />
+
+</head>
+<body>
+  <!-- Duotone: maps the studio photograph into the cover's teal field so the
+       image reads as part of the graphic block instead of a pasted rectangle -->
+  <svg class="svg-defs" aria-hidden="true" focusable="false" width="0" height="0">
+    <filter id="qq-duotone-teal" color-interpolation-filters="sRGB" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix type="saturate" values="0" />
+      <feComponentTransfer>
+        <feFuncR type="table" tableValues="0.039 0.051 0.063 0.078 0.106 0.173 0.173 0.247" />
+        <feFuncG type="table" tableValues="0.114 0.145 0.176 0.227 0.333 0.498 0.498 0.627" />
+        <feFuncB type="table" tableValues="0.133 0.169 0.204 0.259 0.376 0.525 0.525 0.671" />
+      </feComponentTransfer>
+    </filter>
+  </svg>
+
+  <!-- Ghost-pill chrome: top-right translucent nav with collection counter -->
+  <nav class="ghost-pill" aria-label="Site chrome">
+    <span class="ghost-pill__brand">QQ · 04</span>
+    <span class="ghost-pill__dot" aria-hidden="true"></span>
+    <button class="ghost-pill__btn" id="counter-btn" type="button" aria-label="Add to collection">
+      <svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.6" d="M12 21s-7-4.35-7-10a4 4 0 0 1 7-2.65A4 4 0 0 1 19 11c0 5.65-7 10-7 10z"/></svg>
+      <span class="ghost-pill__count" id="counter-value">012</span>
+    </button>
+    <span class="ghost-pill__dot" aria-hidden="true"></span>
+    <button class="ghost-pill__btn ghost-pill__btn--settings" type="button" aria-label="Settings">
+      <svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.6" d="M12 8.5a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7zm8.5 3.5l1.8 1.4-1.7 2.9-2.2-.6a7 7 0 0 1-1.8 1l-.4 2.3h-3.4l-.4-2.3a7 7 0 0 1-1.8-1l-2.2.6-1.7-2.9L3.5 12 2.1 10.6l1.7-2.9 2.2.6a7 7 0 0 1 1.8-1l.4-2.3h3.4l.4 2.3a7 7 0 0 1 1.8 1l2.2-.6 1.7 2.9z"/></svg>
+    </button>
+  </nav>
+
+  <main>
+    <!-- HERO — magazine cover spread -->
+    <section class="cover" id="cover" aria-label="Cover">
+      <!-- Corner ornaments (vintage masthead glyphs) -->
+      <svg class="cover__ornament cover__ornament--tl" viewBox="0 0 40 40" aria-hidden="true">
+        <path d="M2 14 L2 2 L14 2 M10 2 L10 10 L2 10" fill="none" stroke="currentColor" stroke-width="0.8"/>
+        <circle cx="2" cy="2" r="1.4" fill="currentColor"/>
+      </svg>
+      <svg class="cover__ornament cover__ornament--tr" viewBox="0 0 40 40" aria-hidden="true">
+        <path d="M38 14 L38 2 L26 2 M30 2 L30 10 L38 10" fill="none" stroke="currentColor" stroke-width="0.8"/>
+        <circle cx="38" cy="2" r="1.4" fill="currentColor"/>
+      </svg>
+      <svg class="cover__ornament cover__ornament--bl" viewBox="0 0 40 40" aria-hidden="true">
+        <path d="M2 26 L2 38 L14 38 M10 38 L10 30 L2 30" fill="none" stroke="currentColor" stroke-width="0.8"/>
+        <circle cx="2" cy="38" r="1.4" fill="currentColor"/>
+      </svg>
+      <svg class="cover__ornament cover__ornament--br" viewBox="0 0 40 40" aria-hidden="true">
+        <path d="M38 26 L38 38 L26 38 M30 38 L30 30 L38 30" fill="none" stroke="currentColor" stroke-width="0.8"/>
+        <circle cx="38" cy="38" r="1.4" fill="currentColor"/>
+      </svg>
+
+      <!-- Upper cream paper zone: masthead + halftone grain -->
+      <div class="cover__masthead">
+        <div class="cover__paper">
+          <div class="cover__paper-label">
+            <span>Vol. IV</span>
+            <span>·</span>
+            <span>Fall MMXXVI</span>
+            <span>·</span>
+            <span>Collectors' Edition</span>
+          </div>
+          <p class="cover__paper-deck">
+            A size-ladder study, photographed in porcelain,
+            <br/>set in heavy type against a flat teal field.
+          </p>
+        </div>
+      </div>
+
+      <!-- Lower teal block zone: wordmark + integrated photo + barcode -->
+      <div class="cover__block">
+        <h1 class="cover__wordmark" aria-label="Ducks">
+          ducks<span class="cover__wordmark-dot">.</span>
+        </h1>
+
+        <!-- Inset metadata inside the type, as the crit describes -->
+        <ul class="cover__meta" aria-label="Issue metadata">
+          <li><span>Designed by</span><b>graphicbyr1</b></li>
+          <li><span>Issue</span><b>04 / 12</b></li>
+          <li><span>Day</span><b>Thirty (two)</b></li>
+        </ul>
+
+        <!-- Hero photograph: duck integrated into teal block -->
+        <figure class="cover__photo">
+          <img src="./assets/hero-lifestyle.jpg" alt="Editorial photograph of the Quacktory Mega duck on a deep teal field." />
+        </figure>
+
+        <!-- Vertical barcode (real SKUs, scan-readable proportions) -->
+      <aside class="cover__barcode" aria-label="Catalog barcodes">
+        <svg viewBox="0 0 60 240" width="60" height="240" aria-hidden="true">
+          <rect width="60" height="240" fill="#FFFFFF"/>
+          <g fill="#1F1812">
+            <rect x="6"  y="14" width="2"  height="212"/>
+            <rect x="10" y="14" width="4"  height="212"/>
+            <rect x="16" y="14" width="1"  height="212"/>
+            <rect x="20" y="14" width="3"  height="212"/>
+            <rect x="26" y="14" width="2"  height="212"/>
+            <rect x="30" y="14" width="5"  height="212"/>
+            <rect x="37" y="14" width="1"  height="212"/>
+            <rect x="40" y="14" width="2"  height="212"/>
+            <rect x="44" y="14" width="3"  height="212"/>
+            <rect x="49" y="14" width="2"  height="212"/>
+            <rect x="53" y="14" width="2"  height="212"/>
+          </g>
+          <text x="30" y="232" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="6" fill="#1F1812" letter-spacing="0.05em">QQ·04·26</text>
+        </svg>
+      </aside>
+
+      <!-- Vertical edge labels (rotated) -->
+      <div class="cover__edge cover__edge--left" aria-hidden="true">
+        <span>QUACKTORY · QUARTERLY · COLLECTORS · EDITION</span>
+      </div>
+      <div class="cover__edge cover__edge--right" aria-hidden="true">
+        <span>FOUR · DUCKS · PER · ISSUE · NONE · RETURNED</span>
+      </div>
+    </section>
+
+    <!-- SIZE LADDER — translates the crit's bottom timeline rail into the size timeline -->
+    <section class="ladder section" id="ladder" aria-label="Size ladder">
+      <header class="ladder__head">
+        <span class="ladder__eyebrow">§02 — Size Lineup</span>
+        <h2 class="ladder__title">A ladder in five sizes.</h2>
+        <p class="ladder__lede">
+          Click any node to read the specimen card. The line runs from
+          a keychain-scale 4&nbsp;cm silhouette to a 3&nbsp;m public installation.
+        </p>
+      </header>
+
+      <div class="ladder__rail" role="list" aria-label="Duck sizes">
+        <article class="ladder__node" role="listitem" tabindex="0" data-sku="micro"
+                 aria-label="Micro duck, 4 centimetres">
+          <div class="ladder__node-img">
+            <img src="./assets/product-micro.jpg" alt="Micro duck, 4 centimetres, ivory finish" />
+          </div>
+          <div class="ladder__node-meta">
+            <span class="ladder__node-size">4 cm</span>
+            <span class="ladder__node-name">Micro</span>
+            <span class="ladder__node-finish">porcelain · ivory</span>
+          </div>
+        </article>
+
+        <article class="ladder__node" role="listitem" tabindex="0" data-sku="classic"
+                 aria-label="Classic duck, 15 centimetres">
+          <div class="ladder__node-img">
+            <img src="./assets/product-classic.jpg" alt="Classic duck, 15 centimetres, blush finish" />
+          </div>
+          <div class="ladder__node-meta">
+            <span class="ladder__node-size">15 cm</span>
+            <span class="ladder__node-name">Classic</span>
+            <span class="ladder__node-finish">porcelain · blush</span>
+          </div>
+        </article>
+
+        <article class="ladder__node ladder__node--featured" role="listitem" tabindex="0" data-sku="designer"
+                 aria-label="Designer duck, 20 centimetres">
+          <div class="ladder__node-img">
+            <img src="./assets/product-designer.jpg" alt="Designer duck, 20 centimetres, halftone teal over ivory" />
+          </div>
+          <div class="ladder__node-meta">
+            <span class="ladder__node-size">20 cm</span>
+            <span class="ladder__node-name">Designer</span>
+            <span class="ladder__node-finish">halftone · teal/ivory</span>
+          </div>
+        </article>
+
+        <article class="ladder__node" role="listitem" tabindex="0" data-sku="mega"
+                 aria-label="Mega duck, 50 centimetres">
+          <div class="ladder__node-img">
+            <img src="./assets/product-mega.jpg" alt="Mega duck, 50 centimetres, ink-black porcelain" />
+          </div>
+          <div class="ladder__node-meta">
+            <span class="ladder__node-size">50 cm</span>
+            <span class="ladder__node-name">Mega</span>
+            <span class="ladder__node-finish">porcelain · ink</span>
+          </div>
+        </article>
+
+        <article class="ladder__node" role="listitem" tabindex="0" data-sku="architect"
+                 aria-label="Architect duck, 1.5 metres">
+          <div class="ladder__node-img">
+            <img src="./assets/product-architect.jpg" alt="Architect duck, 1.5 metres, monumental cream-ivory" />
+          </div>
+          <div class="ladder__node-meta">
+            <span class="ladder__node-size">150 cm</span>
+            <span class="ladder__node-name">Architect</span>
+            <span class="ladder__node-finish">porcelain · paper</span>
+          </div>
+        </article>
+      </div>
+
+      <!-- Bottom rail track + edge labels (translates the year timeline) -->
+      <div class="ladder__timeline" aria-hidden="true">
+        <div class="ladder__timeline-track"></div>
+        <span class="ladder__timeline-edge ladder__timeline-edge--l">4 CM</span>
+        <span class="ladder__timeline-edge ladder__timeline-edge--r">3 M</span>
+      </div>
+    </section>
+
+    <!-- COLLECTION — editorial product grid (translates the magazine's product page) -->
+    <section class="collection section" id="collection" aria-label="The collection">
+      <header class="collection__head">
+        <span class="collection__eyebrow">§03 — The collection</span>
+        <h2 class="collection__title">Five finishes.<br/>One silhouette.</h2>
+        <p class="collection__lede">
+          The line keeps one outline constant and varies only finish, scale,
+          and surface treatment. Click any plate to open its specimen card.
+        </p>
+      </header>
+
+      <div class="collection__grid">
+        <button class="plate" data-sku="micro" type="button">
+          <img src="./assets/product-micro.jpg" alt="" />
+          <div class="plate__caption">
+            <span class="plate__no">01</span>
+            <span class="plate__name">Micro</span>
+            <span class="plate__detail">4 cm · ivory</span>
+          </div>
+        </button>
+        <button class="plate plate--wide" data-sku="classic" type="button">
+          <img src="./assets/product-classic.jpg" alt="" />
+          <div class="plate__caption">
+            <span class="plate__no">02</span>
+            <span class="plate__name">Classic</span>
+            <span class="plate__detail">15 cm · blush</span>
+          </div>
+        </button>
+        <button class="plate plate--tall" data-sku="designer" type="button">
+          <img src="./assets/product-designer.jpg" alt="" />
+          <div class="plate__caption">
+            <span class="plate__no">03</span>
+            <span class="plate__name">Designer</span>
+            <span class="plate__detail">20 cm · halftone teal</span>
+          </div>
+        </button>
+        <button class="plate" data-sku="mega" type="button">
+          <img src="./assets/product-mega.jpg" alt="" />
+          <div class="plate__caption">
+            <span class="plate__no">04</span>
+            <span class="plate__name">Mega</span>
+            <span class="plate__detail">50 cm · ink</span>
+          </div>
+        </button>
+        <button class="plate plate--wide" data-sku="architect" type="button">
+          <img src="./assets/product-architect.jpg" alt="" />
+          <div class="plate__caption">
+            <span class="plate__no">05</span>
+            <span class="plate__name">Architect</span>
+            <span class="plate__detail">150 cm · paper-ivory</span>
+          </div>
+        </button>
+      </div>
+    </section>
+
+    <!-- COLOPHON — magazine back-matter (translates the crit's metadata discipline) -->
+    <section class="colophon section" id="colophon" aria-label="Colophon">
+      <div class="colophon__inner">
+        <span class="colophon__eyebrow">§04 — Colophon</span>
+        <h2 class="colophon__title">
+          Printed once, in an edition of <em>twelve</em>,
+          on the <em>Static</em> press.
+        </h2>
+        <dl class="colophon__list">
+          <div><dt>Art Direction</dt><dd>graphicbyr1</dd></div>
+          <div><dt>Photography</dt><dd>Studio Ladder · Copenhagen</dd></div>
+          <div><dt>Subject</dt><dd>Found on a hill, holding a case</dd></div>
+          <div><dt>Stock</dt><dd>120 gsm uncoated · halftone grain upper third</dd></div>
+          <div><dt>Binding</dt><dd>Saddle-stitched · Swiss fold</dd></div>
+          <div><dt>Edition</dt><dd>04 of 12 · Fall MMXXVI · Collectors'</dd></div>
+        </dl>
+        <p class="colophon__note">
+          The cover was shot on the eleventh day of October. The subject
+          was found on the hill with a case in hand, and agreed to keep
+          still for one frame.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <!-- SPECIMEN MODAL — opens from any node or plate -->
+  <div class="modal" id="modal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal__overlay" data-modal-close></div>
+    <div class="modal__panel" role="document">
+      <span class="modal__accent" aria-hidden="true"></span>
+      <button class="modal__close" type="button" data-modal-close aria-label="Close specimen card">
+        <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
+          <path d="M5 5l14 14M19 5L5 19" fill="none" stroke="currentColor" stroke-width="1.6"/>
+        </svg>
+      </button>
+      <div class="modal__body">
+        <span class="modal__sku" id="modal-sku">SKU · QQ-MICRO</span>
+        <h3 class="modal__title" id="modal-title">Micro</h3>
+        <span class="modal__size" id="modal-size">4 cm</span>
+        <p class="modal__desc" id="modal-desc">
+          Keychain-scale porcelain. Pocket companion.
+        </p>
+        <dl class="modal__specs" id="modal-specs">
+          <div><dt>Finish</dt><dd>porcelain · ivory</dd></div>
+          <div><dt>Edition</dt><dd>open · catalog number QQ-MICRO</dd></div>
+          <div><dt>Photography</dt><dd>soft three-point · seamless white</dd></div>
+        </dl>
+        <button class="modal__cta" type="button" id="modal-cta">Add to collection</button>
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer" aria-label="Footer">
+    <span class="footer__brand">QUACKTORY · QUARTERLY</span>
+    <span class="footer__sep" aria-hidden="true">/</span>
+    <span class="footer__copy">Issue 04 · Fall MMXXVI · Static</span>
+    <span class="footer__sep" aria-hidden="true">/</span>
+    <span class="footer__link">ducks.</span>
+  </footer>
+
+  <script type="module" src="./main.js"></script>
+
+</body>
+</html>

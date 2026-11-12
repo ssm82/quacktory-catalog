@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A classic rubber duck with a warm cyan finish (#5DBCE4) sits as the central subject inside an editorial print-studio environment. The duck rests on a sheet of warm cream paper at desk level, surrounded by stacked magazine spreads, a glass ink bottle, a roll of film, and a slim typeset card. The room is dimly lit by a soft window from the left, casting long warm-amber shadows on the desk surface and wrapping the back wall in the site's deep blue-grey tone (#1F2A36). A thin horizontal cyan rule (#5DBCE4) runs across the back wall, echoing the site's accent. The duck's silhouette is the canonical rounded body, slightly raised tail, flat base, two small forward-set webbed feet, small round head, wide flat beak, and a single side-set oval eye. The eye is a plain oval, no glint, no sparkle, no heart, no star. Camera is at desk height, slightly off-axis for a cinematic editorial bleed. The duck reads as a matte porcelain object, never glossy plastic. Color palette: cyan duck, deep blue-grey ambient, warm amber paper, near-white type at the margins. No prop noise. The duck owns the frame."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Studio product shot of a classic rubber duck at micro keychain scale (4–8 cm), finished in a warm cyan tone (#5DBCE4) with a matte porcelain surface. The duck is seated on a seamless studio backdrop in the site's deep blue-grey (#1F2A36), no tint, no gradient spill. Front-facing, slightly elevated, 30° camera angle. Soft diffused studio, three-point lighting: a soft key from the upper left, a cool fill from the right, and a low warm-amber rim. The silhouette is identical to all other SKUs in the line: rounded body, slightly raised tail, flat base, two small forward-set webbed feet, small round head, wide flat beak, single side-set oval eye. Plain oval pupil, no sparkle, no heart, no star, no glint. A small brass split-ring keychain attaches through a moulded hole at the top of the head. The mood is editorial: matte, restrained, two-tone palette, the duck reads as a typographic object rather than a glossy toy."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Studio product shot of a classic rubber duck at the workhorse scale (10–25 cm), finished in a saturated cyan tone (#5DBCE4) with a matte porcelain surface that reads as a printed object rather than a toy. The duck is seated on a seamless backdrop in the site's deep blue-grey (#1F2A36), no tint, no warm cast. Front-facing, slightly elevated, 30° camera angle. Soft diffused studio, three-point lighting, no hard shadows. The silhouette is identical to all other SKUs: rounded body, slightly raised tail, flat base, two small forward-set webbed feet, small round head, wide flat beak, single side-set oval eye. Plain oval pupil, no glint, no sparkle, no heart, no star. A subtle warm-amber shadow (#C99478) pools at the feet, anchoring the duck to the surface. A small near-white JetBrains-Mono label reads 'CLASSIC'. The mood is editorial, restrained, two-tone with deep ink (#0E1620) reading as ambient shadow. The duck functions as a typographic object."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Studio product shot of a classic rubber duck in the collaboration designer edition (15–30 cm), finished in the site's accent cyan (#5DBCE4) matte porcelain with a single JetBrains-Mono style lockup hand-painted in warm amber (#C99478) on the flank and a thin ink rule (#0E1620) tracing the wing crease. The duck is seated on a seamless backdrop in deep blue-grey (#1F2A36), no tint. Front-facing, slightly elevated, 30° camera angle. Soft diffused studio, three-point lighting. The silhouette is identical to all other SKUs in the line: rounded body, slightly raised tail, flat base, two small forward-set webbed feet, small round head, wide flat beak, single side-set oval eye. Plain oval pupil, no decorative glint, no sparkle, no heart, no star. A small near-white (#F5F2EC) paper card sits beside the duck with a typeset monogram, breaking the dark backdrop with a single warm rectangle. Editorial register, restrained, two-tone."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Studio product shot of a classic rubber duck at the mega photo-object scale (50–120 cm), finished in a uniform warm cyan (#5DBCE4) matte porcelain. The duck is seated on a seamless studio backdrop in the site's deep blue-grey (#1F2A36), no tint, no warm cast. Front-facing, slightly elevated, 30° camera angle pulled back to capture the full monumental form. Soft diffused studio, three-point lighting with a single soft key from the upper left and a cool fill from the right. The silhouette is identical to all other SKUs: rounded body, slightly raised tail, flat base, two small forward-set webbed feet, small round head, wide flat beak, single side-set oval eye. Plain oval pupil, no sparkle, no heart, no star, no glint. A thin cyan rule (#5DBCE4) is laid on the floor beneath the duck, echoing the site's horizontal accent. Editorial mood, the duck reads as a porcelain sculpture, never glossy resin."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Studio product shot of a classic rubber duck at architectural scale (1.5–3 m), finished in a uniform warm cyan (#5DBCE4) matte porcelain. The duck is seated on a seamless studio backdrop in deep blue-grey (#1F2A36), no tint, the surface reading as a void. Front-facing, slightly elevated, 30° camera angle from a slight distance to capture the full monumental installation form. Soft diffused studio, three-point lighting with a long warm-amber rim (#C99478) on the right edge to separate the duck from the dark backdrop, and a low cool fill from the left. The silhouette is identical to all other SKUs: rounded body, slightly raised tail, flat base, two small forward-set webbed feet, small round head, wide flat beak, single side-set oval eye. Plain oval pupil, no decorative glint, no sparkle, no heart, no star. A small near-white (#F5F2EC) JetBrains-Mono label at the base reads 'INKFISH · ARCHITECT'. The duck reads as a typographic statement object."
+  }
+]

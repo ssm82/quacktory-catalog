@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "Editorial composition of a monumental classic rubber duck in a dark cinematic space. The duck stands center-right, occupying roughly half the frame width, in a warm amber matte porcelain finish with a soft, weighty presence. A single soft window-like key light from the upper left rakes across the silhouette, sculpting the form with gentle gradient shading and casting a long, soft-edged shadow across the seamless backdrop in deep #0a0a0a tone, NOT yellow, NOT tinted beyond palette. The duck's surface reads as paper-like, matte, and quiet — no glossy highlights, no reflections. Plain oval pupils with no decorative glint. The atmosphere is brooding, museum-like, contemplative, with vast negative space surrounding the form. Subtle warm bloom from a hidden low source adds faint depth near the duck's feet. Cinematic 16:9 letterboxed framing. The composition mirrors an editorial still life: one subject, one key light, one accent, and silence."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Studio product shot of a micro classic rubber duck at keychain scale, approximately 4–8 cm apparent size, rendered in warm amber matte porcelain finish. Front-facing, slightly elevated 30° camera angle. Identical silhouette to the brand's standard duck — rounded body, small upturned beak, two flat feet, a short tail curl. Plain oval pupils with no decorative glint. Soft diffused three-point studio lighting: gentle key from upper left, balanced fill from the right, low rim from behind to separate the form from the background. Seamless backdrop in deep #0a0a0a tone, NOT yellow, NOT tinted beyond palette. The duck occupies roughly 60% of the frame, centered, with generous margin. Surface is matte and paper-like, absorbing light rather than reflecting it. Editorial restraint, no props, no shadow play, no gloss. The composition is blueprint-clean and product-faithful."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The workhorse classic rubber duck at standard 10–25 cm scale, the most-photographed SKU, rendered in warm amber matte porcelain finish. Identical brand silhouette: rounded body, small upturned beak, two flat feet, a short tail curl. Plain oval pupils with no decorative glint. Front-facing, slightly elevated 30° camera angle. Soft diffused three-point studio lighting evenly wrapping the form, with a subtle directional key from the upper left. Seamless backdrop in deep #0a0a0a tone, NOT yellow, NOT tinted beyond palette. The duck is centered, occupying roughly 65% of the frame, with quiet margin. Surface reads as editorial matte — porcelain-soft, no specular highlights, no reflections. No props, no surface texture, no distracting elements. The image functions as a clean reference render for the brand's signature form, with discipline and restraint."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A designer collaboration edition classic rubber duck at 15–30 cm scale, rendered in warm amber matte porcelain finish with a single discreet inlaid tonal accent line tracing the body's equator, in the same warm amber tone to preserve palette discipline. Identical brand silhouette: rounded body, small upturned beak, two flat feet, a short tail curl. Plain oval pupils with no decorative glint. Front-facing, slightly elevated 30° camera angle. Soft diffused three-point studio lighting, slightly more directional than the classic version to honour the inlay's subtle relief. Seamless backdrop in deep #0a0a0a tone, NOT yellow, NOT tinted beyond palette. The duck is centered, occupying roughly 65% of the frame. The surface remains matte and editorial, with the inlay reading as a quiet design signature rather than a graphic flourish."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A mega-scale classic rubber duck at 50–120 cm photo-object scale, rendered in warm amber matte porcelain finish. Identical brand silhouette: rounded body, small upturned beak, two flat feet, a short tail curl. Plain oval pupils with no decorative glint. Front-facing, slightly elevated 30° camera angle, but the duck fills the frame and pushes against the edges to convey monumental scale. Soft single-window editorial light from the left sculpts the form with strong gradient shading across the body. Seamless backdrop in deep #0a0a0a tone, NOT yellow, NOT tinted beyond palette. Surface is matte, paper-like, sculptural. The composition reads as a museum object photographed in raking light — form, weight, presence. No props, no gloss, no decorative elements beyond the form itself."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "An architect-scale classic rubber duck at 1.5–3 m statement-installation scale, rendered in warm amber matte porcelain finish. Identical brand silhouette: rounded body, small upturned beak, two flat feet, a short tail curl — monumental but unaltered in proportion. Plain oval pupils with no decorative glint. Front-facing, slightly elevated 30° camera angle, framed to read as architectural object rather than product. Single hard key light from above with soft fill, producing dramatic tonal falloff across the form against the seamless #0a0a0a void backdrop, NOT yellow, NOT tinted beyond palette. The duck occupies the full vertical extent of the frame, dwarfing its surroundings. Surface is matte, sculptural, weighty. No props, no floor details, no horizon line — only form, shadow, and void. The composition is contemplative, monumental, and editorial."
+  }
+]

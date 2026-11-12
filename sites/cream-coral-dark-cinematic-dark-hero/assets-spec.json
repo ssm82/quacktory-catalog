@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "Editorial music-release cover, 16:9. A field-grade atmospheric backdrop with heavy film grain: deep moss green and ink black mass on the right fading into burnt orange and rust on the left, with a teal-blue smudge in the upper right quadrant. The grain is intentional and uniform across the whole frame, like a high-ISO 35mm print. Centered in the frame, occupying about 40 percent of the width, sits a flat cream card (#F2E8D6) with no shadow, no border, no gradient. On the card, three stacked lines of solid black uppercase geometric sans type (Archivo / Futura class), centered: the largest reads 'SOMETHING IN THE WAY', the medium reads 'TRIPLE J / LIKE A VERSION', the smallest reads 'A RUBBER DUCK COVER'. Mood: editorial, hushed, music-release, grain-on-paper. No people, no objects other than the card. The whole image should feel like a single-panel album sleeve rather than a product shot.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Editorial product shot for a music-release cover series, seamless backdrop. Pure white #FFFFFF seamless paper, NOT yellow, NOT tinted, NOT warm cast. A miniature classic rubber duck, 4–8 cm, the canonical duck silhouette, finished in a warm amber matte porcelain tone (#8C6E45), unglazed bisque ceramic feel, no gloss. In its left wing it carries a tiny cream card the same hue as the album sleeve (#F2E8D6), with a single uppercase black letter 'A1' printed in a geometric sans, sized proportionally to the card. Soft diffused studio lighting, three-point setup, soft window-like key from camera-left. Camera: front-facing, slightly elevated, 30°. The duck rests on the seamless paper, casting a long soft low-contrast shadow that fades into white. Plain oval pupil, no decorative glint. Subtle film grain overlay, editorial restraint, music-catalog mood. 1:1 square frame.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Editorial product shot for a music-release cover series, seamless backdrop. Pure white #FFFFFF seamless paper, NOT yellow, NOT tinted, NOT warm cast. The classic rubber duck, 10–25 cm, the canonical silhouette, finished in warm amber matte porcelain (#8C6E45), unglazed bisque ceramic, no gloss. In its left wing it carries a cream card (#F2E8D6) with a single uppercase black letter 'A2' in geometric sans. Soft diffused studio lighting, three-point setup, soft window-like key from camera-left. Camera: front-facing, slightly elevated, 30°. The duck sits centered on the seamless paper, casting a long soft shadow. Plain oval pupil, no decorative glint. Subtle film grain, museum-object-on-paper mood, 1:1 square frame.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Editorial product shot for a music-release cover series, seamless backdrop. Pure white #FFFFFF seamless paper, NOT yellow, NOT tinted, NOT warm cast. The designer collaboration duck, 15–30 cm, the canonical silhouette, finished in warm amber matte porcelain (#8C6E45) with a hand-painted ivory monogram script (#F4ECD9) along the flank, applied with a single fine brushstroke like a couture signature. In its left wing it carries a cream card (#F2E8D6) with a single uppercase black letter 'A3' in geometric sans. Soft diffused studio lighting, three-point setup. Camera: front-facing, slightly elevated, 30°. The duck rests on the seamless paper, casting a long soft shadow. Plain oval pupil, no decorative glint. Subtle film grain, editorial restraint, music-catalog mood, 1:1 square frame.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Editorial product shot for a music-release cover series, seamless backdrop. Pure white #FFFFFF seamless paper, NOT yellow, NOT tinted, NOT warm cast. The mega duck, 50–120 cm oversized photo-object, the canonical silhouette scaled up, finished in warm amber matte porcelain (#8C6E45), unglazed bisque ceramic, no gloss. In its left wing it carries an enlarged cream card (#F2E8D6) with a single uppercase black letter 'A4' in geometric sans, the typography oversized like a vinyl sleeve. Soft diffused studio lighting, three-point setup. Camera: front-facing, slightly elevated, 30°, the duck dominates the 1:1 frame. Plain oval pupil, no decorative glint. Subtle film grain, restrained tonal range, gallery-object-on-paper mood, 1:1 square frame.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Editorial product shot for a music-release cover series, seamless backdrop. Pure white #FFFFFF seamless paper, NOT yellow, NOT tinted, NOT warm cast. The architect duck, 1.5–3 metre statement installation, the canonical silhouette scaled to monumental, finished in warm amber matte porcelain (#8C6E45), unglazed ceramic, no gloss. In its left wing it carries a towering cream card (#F2E8D6) with a single uppercase black letter 'A5' in geometric sans, the typography the size of a record-store window poster. Soft diffused studio lighting, three-point setup. Camera: front-facing, slightly elevated, 30°, the duck fills the 1:1 frame as a single sweeping contour. Plain oval pupil, no decorative glint. Subtle film grain, hushed, monumental, gallery-installation mood, 1:1 square frame.",
+    "aspect_ratio": "1:1"
+  }
+]

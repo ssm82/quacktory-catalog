@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "Monumental oversized classic rubber duck rendered as a single monumental centerpiece, centered on a seamless backdrop in the #0A0A0A tone, kept strictly neutral and untinted beyond the brand palette. Saturated warm orange rubber finish in the #EA5A1F family, matte porcelain surface, soft window light from the upper left with a gentle rim light separating the silhouette from the dark field. Front-facing pose, monumental scale filling the frame with generous negative space above and below. Plain oval pupils, no decorative glint, no sparkle. Editorial poster aesthetic — three-tone discipline of near-black, saturated orange, and off-white accents in the form of tiny scattered specks high in the frame. No props, no chrome, no headlines, no text — the duck itself is the title card, hero_pattern D realized as a brand monument. Subtle vignetting at corners. Identical duck silhouette to the product line. Premium editorial-poster mood."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Tiny classic rubber duck at 4–8 cm keychain scale. Identical silhouette to the rest of the line. Saturated warm orange rubber finish in the #EA5A1F tone against a seamless backdrop in the #0A0A0A tone, kept strictly neutral and untinted beyond the brand palette. Soft diffused studio, three-point lighting. Front-facing, slightly elevated, 30° angle. Matte porcelain surface, editorial restraint, no gloss. A small metallic split-ring and short woven lanyard in muted off-white (#EDEDED) attached at the crown, signalling keychain use, but the duck remains the hero. Plain oval pupils, no decorative glint. Tight centred crop with generous dark margins on all sides. No text, no logo, no chrome. Three-tone palette discipline: near-black, saturated orange, off-white."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Classic rubber duck at the 10–25 cm workhorse scale. Identical silhouette to the rest of the line. Saturated warm orange rubber finish in the #EA5A1F tone against a seamless backdrop in the #0A0A0A tone, kept strictly neutral and untinted beyond the brand palette. Soft diffused studio, three-point lighting — soft key from upper left, gentle fill, thin rim from behind to lift the silhouette. Front-facing, slightly elevated, 30°. Matte porcelain surface, editorial restraint, no gloss. Plain oval pupils, no decorative glint. The duck stands centered, full body visible from beak to feet, with generous dark negative space on all sides. Three-tone palette discipline: near-black, saturated orange, off-white. No props, no text, no logo, no chrome."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Designer collaboration edition rubber duck at 15–30 cm scale. Identical silhouette to the rest of the line. Body in a saturated warm orange rubber base (#EA5A1F) with a subtle halftone dot-matrix pattern in deep ink (#050505) pressed into the surface — a direct nod to the brand's dragonfly halftone treatment. Against a seamless backdrop in the #0A0A0A tone, kept strictly neutral and untinted beyond the brand palette. Soft diffused studio, three-point lighting. Front-facing, slightly elevated, 30°. Matte porcelain surface, editorial restraint. Halftone density is higher on the duck's flank and falls off toward the beak and tail, producing a soft falloff. Plain oval pupils, no decorative glint. A single small off-white (#EDEDED) wing-tip pip on each side as a subtle mark of the edition."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Mega rubber duck at 50–120 cm photo-object scale. Identical silhouette to the rest of the line, scaled to sculptural presence. Saturated warm orange rubber finish in the #EA5A1F tone against a seamless backdrop in the #0A0A0A tone, kept strictly neutral and untinted beyond the brand palette. Soft diffused studio, three-point lighting — a longer-throw key to keep falloff even across the larger surface. Front-facing, slightly elevated, 30°. Matte porcelain surface, editorial restraint — a sculpture, not a toy. The duck's mass dominates the frame, beak pointing slightly toward camera. Plain oval pupils, no decorative glint. Three-tone palette discipline: near-black, saturated orange, with a quiet off-white floor reflection. No props, no text, generous dark margins."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Architect-scale rubber duck at 1.5–3 m statement-installation scale. Identical silhouette to the rest of the line, built to monumental proportion. Saturated warm orange rubber finish in the #EA5A1F tone against a seamless backdrop in the #0A0A0A tone, treated as an open void, kept strictly neutral and untinted beyond the brand palette. Soft diffused studio, three-point lighting with a hard key and tight rim to underline the sculpture's edge. Front-facing, slightly elevated, 30° — the camera is pulled back so the duck reads as a small monumental object within a vast dark field, echoing hero_pattern D. Matte porcelain surface, editorial restraint. Plain oval pupils, no decorative glint. A faint orange (#EA5A1F) wash on the floor where the duck meets the ground, suggesting weight. Tiny off-white (#EDEDED) specks scattered in the upper void as a brand signature."
+  }
+]

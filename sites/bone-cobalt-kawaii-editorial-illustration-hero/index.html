@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quacktory — Hello, this is Quacktory.</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="theme-kriss">
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="top" role="banner">
+    <a class="brand" href="#">Q🦆 <span>Quacktory</span></a>
+    <nav class="pill-nav" aria-label="Main navigation">
+      <span class="bracket bracket--tl" aria-hidden="true"></span>
+      <a href="#">Home</a>
+      <a href="#lineup">Lineup</a>
+      <a href="#b2b">B2B</a>
+      <a href="#about">About</a>
+      <a href="#faq">FAQ</a>
+      <span class="bracket bracket--br" aria-hidden="true"></span>
+    </nav>
+    <a class="book" href="#b2b">Request a quote</a>
+  </header>
+
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-tag">
+      <h1 class="hero__title" id="hero-tag"><em>Hello,</em><br>this is Quacktory<span class="caret">.</span></h1>
+      <p class="hero__sub">A series of rubber ducks from 4 cm to 3 m.<br>Five scales, one silhouette, warm rubber.</p>
+      <div class="cloud cloud--l" aria-hidden="true"></div>
+      <div class="cloud cloud--r" aria-hidden="true"></div>
+      <div class="cloud cloud--c" aria-hidden="true"></div>
+
+      <div class="scene">
+        <figure class="scene__duck">
+          <img src="./assets/hero-lifestyle.jpg" alt="Quacktory Classic rubber duck, friendly portrait">
+        </figure>
+
+        <a class="hero__cta" href="#lineup">
+          <span class="bracket bracket--tl" aria-hidden="true"></span>
+          <span>Browse the lineup</span>
+          <span class="bracket bracket--br" aria-hidden="true"></span>
+        </a>
+      </div>
+    </section>
+
+    <section class="lineup" id="lineup" aria-label="Lineup">
+      <header class="lineup__head">
+        <span class="lineup__eyebrow">①⑤ / five scales</span>
+        <h2 class="lineup__title">Our ducks</h2>
+        <p class="lineup__lead">Tap any duck to learn more.</p>
+      </header>
+      <ul class="lineup__grid" role="list">
+        <li><button class="card" data-id="micro"><span class="card__sparkle" aria-hidden="true">✦</span><img src="./assets/product-micro.jpg" alt=""><span class="card__line">Micro</span><span class="card__size">4–8 cm</span><span class="card__price">from $7</span></button></li>
+        <li><button class="card" data-id="classic"><span class="card__sparkle" aria-hidden="true">✦</span><img src="./assets/product-classic.jpg" alt=""><span class="card__line">Classic</span><span class="card__size">10–25 cm</span><span class="card__price">mid</span></button></li>
+        <li><button class="card" data-id="designer"><span class="card__sparkle" aria-hidden="true">✦</span><img src="./assets/product-designer.jpg" alt=""><span class="card__line">Designer</span><span class="card__size">15–30 cm</span><span class="card__price">mid+</span></button></li>
+        <li><button class="card" data-id="mega"><span class="card__sparkle" aria-hidden="true">✦</span><img src="./assets/product-mega.jpg" alt=""><span class="card__line">Mega</span><span class="card__size">50–120 cm</span><span class="card__price">premium</span></button></li>
+        <li><button class="card" data-id="architect"><span class="card__sparkle" aria-hidden="true">✦</span><img src="./assets/product-architect.jpg" alt=""><span class="card__line">Architect</span><span class="card__size">1.5–3 m</span><span class="card__price">on request</span></button></li>
+      </ul>
+    </section>
+
+    <section class="b2b" id="b2b" aria-labelledby="b2b-title">
+      <header class="b2b__head">
+        <span class="b2b__eyebrow">🪄 custom</span>
+        <h2 class="b2b__title" id="b2b-title">Your color — from our palette</h2>
+      </header>
+      <p class="b2b__copy">12 signature Pantone equivalents. Pigment in the mass — not paint. Lead times 3 / 6 / 12 weeks. A custom Pantone is quoted separately.</p>
+      <a class="b2b__cta" href="mailto:hi@quacktory.space">Request a quote →</a>
+    </section>
+
+    <footer class="leg" aria-label="Footer">
+      <div class="leg__row">
+        <span class="leg__brand">Q Quacktory®</span>
+        <span class="leg__copy">© 2025 · made with love for webbed feet</span>
+        <span class="leg__hint">Scroll or tap a duck to explore</span>
+        <span class="leg__pill" aria-hidden="true">Q</span>
+      </div>
+    </footer>
+  </main>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+    <div class="modal__overlay" data-close></div>
+    <article class="modal__panel">
+      <button class="modal__close" data-close aria-label="Close">×</button>
+      <img class="modal__img" alt="">
+      <div class="modal__body">
+        <span class="modal__num"></span>
+        <h3 class="modal__title" id="modal-title"></h3>
+        <p class="modal__size"></p>
+        <p class="modal__desc"></p>
+        <p class="modal__price"></p>
+        <p class="modal__term"></p>
+      </div>
+    </article>
+  </div>
+  <script src="main.js" defer></script>
+</body>
+</html>

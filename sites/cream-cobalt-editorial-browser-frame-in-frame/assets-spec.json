@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck silhouette rendered in matte porcelain finish with a saturated cobalt blue body, framed inside a constructed editorial installation of overlapping color-tile cards arranged on a faint pale-blue grid against a seamless warm light gray backdrop in #EFEAE4 tone, NOT warm amber finish, NOT tinted beyond palette. The duck sits centered inside a navy #1E2A52 frame, flanked by smaller vermilion, warm amber, and lavender tile swatches that read as oversized sticky-notes from a design-system moodboard. Soft window light filters from the upper left, casting gentle paper-grain shadow under the duck and a faint rim of warm cream along the beak. Surface is matte, dry, ceramic-like — no gloss, no lacquer. Plain oval pupils, no decorative glint. Slight elevated three-quarter angle. The duck reads as a typographic object within a print editorial spread, the tiles and grid as supporting typography. 16:9 cinematic editorial composition.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A small keychain-scale classic rubber duck, identical silhouette to the hero — same rounded body, same flat beak, same webbed feet — finished in matte porcelain cobalt #0061FE blue with a clean dry surface. Plain oval pupils, no decorative glint, no sparkle, no heart, no star. Photographed front-facing, slightly elevated at 30°, on a seamless warm light gray backdrop in #EFEAE4 tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio three-point lighting, even falloff, no hard shadow. A small warm amber lanyard loop is suggested by a faint hairline at the top of the head. The duck reads as a tiny 4–8 cm pocketable object, porcelain-dry against warm paper. 1:1 square format, editorial register, restrained and graphic.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The workhorse classic rubber duck, 10–25 cm, identical silhouette to all other SKUs in the lineup, rendered in matte porcelain finish with a saturated cobalt blue body #0061FE — a cool clean dropbox blue, not warm, not amber-tinted. Plain oval pupils, no decorative glint, no sparkle, no heart, no star. Photographed front-facing, slightly elevated at 30°, on a seamless warm light gray backdrop in #EFEAE4 tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio three-point lighting, gentle wrap, no hard specular. A whisper of navy #1E2A52 reflects in the lower body. The duck reads as a porcelain figurine on warm paper, the workhorse catalog shot, editorial register, minimal and confident. 1:1 square format, surface dry and ceramic, no gloss.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A collaboration-edition classic rubber duck, 15–30 cm, identical silhouette to the rest of the system, but finished as a matte porcelain surface mapped with a soft design-system tile pattern: a vermilion, warm amber, navy, and lavender block arrangement inspired by the brand's color-as-content cards. Primary body fill remains saturated cobalt blue #0061FE. Plain oval pupils, no decorative glint, no sparkle, no heart, no star. Photographed front-facing, slightly elevated at 30°, on a seamless warm light gray backdrop in #EFEAE4 tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio three-point lighting, editorial register, dry ceramic surface, no lacquer. The tile pattern reads like printed ink on porcelain, edges crisp, no bleeding. 1:1 square format, restrained and graphic.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A 50–120 cm mega classic rubber duck, photo-object scale, identical silhouette to the rest of the family, rendered in matte porcelain finish with a saturated cobalt blue body #0061FE. Plain oval pupils, no decorative glint, no sparkle, no heart, no star. Photographed front-facing, slightly elevated at 30°, on a seamless warm light gray backdrop in #EFEAE4 tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio three-point lighting, editorial register, the duck casting a wide gentle paper-grain shadow that grounds the oversized form. A faint hairline of navy #1E2A52 reflects in the underside. The duck reads as a monumental ceramic object on warm paper, dry and tactile, no gloss, no lacquer. 1:1 square format, the workhorse-form scaled to photo-object.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A 1.5–3 m statement-installation classic rubber duck, identical silhouette to all other SKUs, but scaled to architectural proportion and rendered in matte porcelain finish with a saturated cobalt blue body #0061FE. Plain oval pupils, no decorative glint, no sparkle, no heart, no star. Photographed front-facing, slightly elevated at 30°, on a seamless warm light gray backdrop in #EFEAE4 tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio three-point lighting, editorial register, the giant duck anchored by a long soft paper-grain shadow. Faint grid hairlines in pale blue #B7D4EC suggest a scale ruler. The duck reads as a ceramic monument on warm paper, dry, matte, monumental, no gloss, no lacquer. 1:1 square format, the system stretched to architectural scale.",
+    "aspect_ratio": "1:1"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "slug": "synchrodogs-portfolio",
+  "palette": {
+    "bg": "#E8B547",
+    "fg": "#3E2818",
+    "accent": "#C56A2C",
+    "muted": "#6E5A2C",
+    "ink": "#1E2235",
+    "surface": "#EFE3C5"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "JetBrains Mono",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "A",
+  "register": "brutalist",
+  "duck_eye_decor": "none",
+  "cta_register": "Read the manifesto"
+}

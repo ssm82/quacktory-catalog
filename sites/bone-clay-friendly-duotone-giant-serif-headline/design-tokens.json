@@ -1,0 +1,20 @@
+{
+  "slug": "coastal-world",
+  "palette": {
+    "bg": "#7DD3F0",
+    "fg": "#FFFFFF",
+    "accent": "#F2C13B",
+    "muted": "#5BB8D6",
+    "ink": "#2C6E83",
+    "surface": "#A8E0F5"
+  },
+  "fonts": {
+    "display": "Fredoka",
+    "body": "Nunito",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "friendly",
+  "duck_eye_decor": "none",
+  "cta_register": "Start the journey"
+}

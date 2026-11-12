@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A classic rubber duck finished in lacquered warm red resin, standing monumental within a vast dark cinematic void. Seamless backdrop in deep charcoal-black tone (#0A0A0A), NOT warm amber finish, NOT tinted beyond palette. Cinematic single hard key light from upper left casts a defined shadow, with a thin rim light tracing the right silhouette in warm red to separate the form from the surrounding darkness. Slight low-angle camera position, three-quarter view, the duck occupies roughly 45 percent of the frame against a wide expanse of negative space. Polished resin surface with specular highlights along the back ridge, crown, and beak. Subtle volumetric haze drifts near floor level. Plain oval pupil, no decorative glint, no sparkle. Atmosphere is moody, premium, editorial-photography studio, evoking a portfolio hero. No props, no text, no furniture. Aspect 16:9.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A miniature classic rubber duck, 4 to 8 cm scale, finished in lacquered warm red resin, photographed as a keychain collectible. Seamless studio backdrop in deep near-black tone (#0A0A0A), NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated, 30 degree camera angle. Soft diffused three-point studio lighting with a clean key, gentle fill, and a controlled rim that keeps the small form legible against the dark surround. Polished resin surface with crisp specular highlights along the back ridge, the crown, and the beak. Plain oval pupil, no decorative glint, no sparkle. The miniature scale is emphasized by the surrounding dark negative space and a faint metal attachment loop implied at the top of the head. Centered, isolated, commercial product photography with editorial restraint. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The classic rubber duck, 10 to 25 cm scale, finished in lacquered warm red resin, the workhorse SKU of the lineup. Seamless studio backdrop in deep near-black tone (#0A0A0A), NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated, 30 degree camera angle. Soft diffused three-point studio lighting with a defined key light from upper left, balanced fill, and a precise rim light along the right shoulder. Polished resin surface with a sharp specular highlight running along the back ridge and across the beak. Plain oval pupil, no decorative glint, no sparkle. Centered, isolated, museum-grade product photography rendered in cinematic register. A clean contact shadow grounds the form, with rich detail visible in the duck's surface finish. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A classic rubber duck, 15 to 30 cm scale, finished in lacquered warm red resin, presented as a designer collaboration edition. Seamless studio backdrop in deep near-black tone (#0A0A0A), NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated, 30 degree camera angle. Cinematic three-point studio lighting: a hard key from upper left, a soft fill, and a controlled rim light along the right shoulder. Polished resin surface with a subtle matte-to-gloss variation across the body, suggesting a curated collaboration treatment, with rich specular highlights along the crown, back ridge, and beak. Plain oval pupil, no decorative glint, no sparkle. A precise contact shadow grounds the form. Centered, isolated, premium product photography rendered in editorial cinema register. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A mega classic rubber duck, 50 to 120 cm scale, finished in lacquered warm red resin, treated as a photographic object. Seamless studio backdrop in deep near-black tone (#0A0A0A), NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated, 30 degree camera angle, the duck filling the majority of the frame and dominating the composition. Cinematic lighting: a single hard key from upper left with sharp specular sheen across the back ridge and crown, a gentle fill from below, and a defined red-tinted rim light separating the silhouette from the dark surround. Plain oval pupil, no decorative glint, no sparkle. Surface reads as premium automotive-grade resin with deep color saturation and a smooth, lacquered finish. A soft contact shadow grounds the form. Centered, isolated, cinematic studio product photography. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A monumental classic rubber duck, 1.5 to 3 m scale, finished in lacquered warm red resin, presented as a statement installation object within a cinematic studio space. Seamless dark studio backdrop in deep near-black tone (#0A0A0A), NOT warm amber finish, NOT tinted beyond palette. Camera positioned wide, slightly low and tilted up to emphasize the duck's monumental scale against the dark void. Cinematic lighting: a hard single key from above with sharp specular highlights on the crown, back ridge, and beak, deep shadows pooling beneath the form, and a thin red rim light tracing the right edge to separate the silhouette. Plain oval pupil, no decorative glint, no sparkle. Atmosphere is gallery-like, architectural, premium. The form reads as a public-art installation photographed in editorial cinema register. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  }
+]

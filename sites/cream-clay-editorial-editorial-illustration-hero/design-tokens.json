@@ -1,0 +1,20 @@
+{
+  "slug": "css_design_awards_aardvark-book-club-49745",
+  "palette": {
+    "bg": "#FBE9D6",
+    "fg": "#111111",
+    "accent": "#E63A82",
+    "muted": "#C84B8E",
+    "ink": "#1A1A1A",
+    "surface": "#F2B632"
+  },
+  "fonts": {
+    "display": "Unbounded",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Become a member"
+}

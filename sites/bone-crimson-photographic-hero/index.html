@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Quacktory — All In Or Floating</title>
+<meta name="description" content="Quacktory: a graduated line of rubber ducks, from 4 cm to 3 m. One silhouette, five sizes, no shortcuts." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;800;900&family=Inter:wght@400;500;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+<main>
+
+<!-- ============================================================
+     HERO — full-bleed crimson, centered statement, pill nav
+     ============================================================ -->
+<section class="hero" id="top" aria-label="Hero">
+  <svg class="hero__bg" viewBox="0 0 1600 1200" preserveAspectRatio="xMidYMid slice" aria-hidden="true" focusable="false">
+    <defs>
+      <filter id="llFluid" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+        <feTurbulence type="turbulence" baseFrequency="0.0026 0.0085" numOctaves="4" seed="9" result="turb"/>
+        <feDisplacementMap in="turb" in2="turb" scale="120" xChannelSelector="R" yChannelSelector="G" result="marble"/>
+        <feColorMatrix in="marble" type="matrix" values="1 0 0 0 0  1 0 0 0 0  1 0 0 0 0  0 0 0 1 0" result="ramp"/>
+        <feComponentTransfer in="ramp" result="red">
+          <feFuncR type="table" tableValues="0.16 0.36 0.71 0.85 0.92"/>
+          <feFuncG type="table" tableValues="0.00 0.01 0.05 0.14 0.19"/>
+          <feFuncB type="table" tableValues="0.04 0.07 0.12 0.22 0.36"/>
+          <feFuncA type="linear" slope="0" intercept="1"/>
+        </feComponentTransfer>
+        <feGaussianBlur in="red" stdDeviation="1.4"/>
+      </filter>
+      <filter id="llSoft" x="-40%" y="-40%" width="180%" height="180%">
+        <feGaussianBlur stdDeviation="20"/>
+      </filter>
+      <radialGradient id="llCell">
+        <stop offset="0" stop-color="#FF6B8C" stop-opacity="0.95"/>
+        <stop offset="0.5" stop-color="#D9254E" stop-opacity="0.7"/>
+        <stop offset="1" stop-color="#B5001F" stop-opacity="0"/>
+      </radialGradient>
+      <radialGradient id="llShadow" cx="0.92" cy="0.98" r="0.85">
+        <stop offset="0" stop-color="#1A0008" stop-opacity="0.9"/>
+        <stop offset="0.55" stop-color="#1A0008" stop-opacity="0.35"/>
+        <stop offset="1" stop-color="#1A0008" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1600" height="1200" filter="url(#llFluid)"/>
+    <rect width="1600" height="1200" fill="url(#llShadow)"/>
+    <g filter="url(#llSoft)" opacity="0.9">
+      <circle cx="1210" cy="130" r="155" fill="url(#llCell)"/>
+      <circle cx="1430" cy="250" r="112" fill="url(#llCell)"/>
+      <circle cx="1080" cy="330" r="92" fill="url(#llCell)"/>
+      <circle cx="1310" cy="470" r="74" fill="url(#llCell)"/>
+      <circle cx="1520" cy="110" r="86" fill="url(#llCell)"/>
+      <circle cx="1160" cy="520" r="58" fill="url(#llCell)"/>
+    </g>
+  </svg>
+
+  <nav class="pill" aria-label="Primary">
+    <span class="pill__logo" aria-label="Quacktory">Q<span class="pill__dot">.</span></span>
+    <span class="pill__status"><span class="pill__pulse" aria-hidden="true"></span> Currently float-testing.</span>
+    <button class="pill__menu" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </nav>
+
+  <div class="hero__copy">
+    <p class="hero__tag">[ FULL&nbsp;HOP. NO&nbsp;SHORTCUTS ]</p>
+    <h1 class="hero__title">ALL&nbsp;IN&nbsp;OR<br/>FLOATING<span class="hero__period">.</span></h1>
+  </div>
+
+  <footer class="hero__foot">
+    <span class="hero__foot-left">[ Quacktory &middot; est. 2026 ]</span>
+    <span class="hero__foot-center" id="live-timer" aria-label="Live counter">[ &bull; <span id="t-h">00</span> : <span id="t-m">00</span> : <span id="t-s">00</span> ]</span>
+    <span class="hero__foot-right">[ Instagram &middot; Are.na &middot; Mail ]</span>
+  </footer>
+
+  <a class="hero__scroll" href="#ladder" aria-label="Scroll to size ladder">
+    <span>Scroll</span>
+    <svg viewBox="0 0 12 24" width="12" height="24" aria-hidden="true"><path d="M6 0 V22 M1 17 L6 22 L11 17" fill="none" stroke="currentColor" stroke-width="1"/></svg>
+  </a>
+</section>
+
+<!-- ============================================================
+     SIZE LADDER — timeline rail (translates crit year-timeline)
+     ============================================================ -->
+<section class="ladder section" id="ladder" aria-label="Size ladder">
+  <header class="ladder__head">
+    <p class="ladder__eyebrow">[ 01 &middot; The Line ]</p>
+    <h2 class="ladder__title">One silhouette.<br/>Five sizes.</h2>
+    <p class="ladder__lede">From a 4 cm keychain duck to a 1.5 m statement piece, the same body shape stretched across a ladder of materials and finishes. Pick a node to inspect.</p>
+  </header>
+
+  <div class="ladder__rail" role="list">
+    <div class="ladder__track" aria-hidden="true"></div>
+    <button class="node" role="listitem" data-sku="micro" style="--i:0">
+      <span class="node__dot"></span>
+      <span class="node__size">4 cm</span>
+      <span class="node__name">Micro</span>
+    </button>
+    <button class="node" role="listitem" data-sku="classic" style="--i:1">
+      <span class="node__dot"></span>
+      <span class="node__size">15 cm</span>
+      <span class="node__name">Classic</span>
+    </button>
+    <button class="node" role="listitem" data-sku="designer" style="--i:2">
+      <span class="node__dot"></span>
+      <span class="node__size">20 cm</span>
+      <span class="node__name">Designer</span>
+    </button>
+    <button class="node" role="listitem" data-sku="mega" style="--i:3">
+      <span class="node__dot"></span>
+      <span class="node__size">50 cm</span>
+      <span class="node__name">Mega</span>
+    </button>
+    <button class="node" role="listitem" data-sku="architect" style="--i:4">
+      <span class="node__dot"></span>
+      <span class="node__size">1.5 m</span>
+      <span class="node__name">Architect</span>
+    </button>
+
+    <span class="ladder__edge ladder__edge--start" aria-hidden="true">04 CM</span>
+    <span class="ladder__edge ladder__edge--end" aria-hidden="true">3 M</span>
+  </div>
+</section>
+
+<!-- ============================================================
+     DESIGNER SPOTLIGHT — per-direction hero piece
+     ============================================================ -->
+<section class="spotlight section" aria-label="Designer edition">
+  <div class="spotlight__copy">
+    <p class="spotlight__eyebrow">[ 02 &middot; This Season ]</p>
+    <h2 class="spotlight__title">Oxblood.<br/>A single stripe.</h2>
+    <p class="spotlight__lede">The Designer edition carries the season&rsquo;s language: high-gloss oxblood lacquer, a single ivory racing stripe, and an ivory beak. The same duck silhouette you know &mdash; finished like a one-off.</p>
+    <dl class="spotlight__specs">
+      <div><dt>Finish</dt><dd>Oxblood lacquer, ivory inlay</dd></div>
+      <div><dt>Size</dt><dd>20 cm</dd></div>
+      <div><dt>Edition</dt><dd>2026 / Crimson series</dd></div>
+    </dl>
+  </div>
+  <figure class="spotlight__fig">
+    <img src="./assets/product-designer.jpg" alt="Quacktory Designer edition, oxblood lacquer with ivory racing stripe" />
+    <figcaption>[ Designer &middot; 20 cm &middot; &euro;48 ]</figcaption>
+  </figure>
+</section>
+
+<!-- ============================================================
+     COLLECTION — full size-ladder grid
+     ============================================================ -->
+<section class="collection section" id="collection" aria-label="The collection">
+  <header class="collection__head">
+    <p class="collection__eyebrow">[ 03 &middot; The Collection ]</p>
+    <h2 class="collection__title">The full ladder.</h2>
+  </header>
+  <div class="collection__grid">
+    <a class="card" href="#ladder" data-sku="micro">
+      <span class="card__num">01</span>
+      <img src="./assets/product-micro.jpg" alt="Micro duck, glossy crimson lacquer" />
+      <h3>Micro</h3>
+      <p>4 cm &middot; keychain</p>
+      <span class="card__price">&euro;9</span>
+    </a>
+    <a class="card" href="#ladder" data-sku="classic">
+      <span class="card__num">02</span>
+      <img src="./assets/product-classic.jpg" alt="Classic duck, matte ivory with crimson beak" />
+      <h3>Classic</h3>
+      <p>15 cm &middot; the workhorse</p>
+      <span class="card__price">&euro;22</span>
+    </a>
+    <a class="card" href="#ladder" data-sku="designer">
+      <span class="card__num">03</span>
+      <img src="./assets/product-designer.jpg" alt="Designer duck, oxblood with ivory stripe" />
+      <h3>Designer</h3>
+      <p>20 cm &middot; seasonal</p>
+      <span class="card__price">&euro;48</span>
+    </a>
+    <a class="card" href="#ladder" data-sku="mega">
+      <span class="card__num">04</span>
+      <img src="./assets/product-mega.jpg" alt="Mega duck, ivory porcelain with crimson veining" />
+      <h3>Mega</h3>
+      <p>50 cm &middot; shelf-sized</p>
+      <span class="card__price">&euro;120</span>
+    </a>
+    <a class="card" href="#ladder" data-sku="architect">
+      <span class="card__num">05</span>
+      <img src="./assets/product-architect.jpg" alt="Architect duck, monumental marble with crimson veins" />
+      <h3>Architect</h3>
+      <p>1.5 m &middot; statement piece</p>
+      <span class="card__price">&euro;1,400</span>
+    </a>
+  </div>
+</section>
+
+<!-- ============================================================
+     MANIFESTO — short editorial close
+     ============================================================ -->
+<section class="manifesto section" aria-label="Manifesto">
+  <p class="manifesto__eyebrow">[ 04 &middot; Why ]</p>
+  <p class="manifesto__body">One duck. Five scales. <span class="ink">No variants, no seasonal re-skins, no logo soup.</span> The silhouette is the brand &mdash; the finish is the season.</p>
+</section>
+
+</main>
+
+<!-- ============================================================
+     MODAL — SKU detail (opens from ladder nodes or cards)
+     ============================================================ -->
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-hidden="true" aria-labelledby="modal-name">
+  <div class="modal__scrim" data-close></div>
+  <article class="modal__panel">
+    <button class="modal__close" aria-label="Close" data-close>&times;</button>
+    <span class="modal__accent" aria-hidden="true"></span>
+    <span class="modal__size" id="modal-size">[ 15 CM ]</span>
+    <h3 class="modal__name" id="modal-name">Classic</h3>
+    <p class="modal__lede" id="modal-lede">The workhorse. The duck most photographed. Matte ivory, crimson beak.</p>
+    <img class="modal__img" id="modal-img" src="" alt="" />
+    <div class="modal__meta">
+      <span id="modal-price">&euro;22</span>
+      <span id="modal-edition">Crimson series &middot; 2026</span>
+    </div>
+  </article>
+</div>
+
+<!-- menu overlay -->
+<div class="menu" id="menu" aria-hidden="true">
+  <ul>
+    <li><a href="#ladder">[ 01 &middot; The Line ]</a></li>
+    <li><a href="#collection">[ 02 &middot; The Collection ]</a></li>
+    <li><a href="#top">[ 03 &middot; Top ]</a></li>
+  </ul>
+</div>
+
+<script type="module" src="./main.js"></script>
+</body>
+</html>

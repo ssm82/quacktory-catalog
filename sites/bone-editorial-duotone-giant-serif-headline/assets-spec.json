@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "Monumental classic rubber duck, identical silhouette to the rest of the line, rendered in deep matte ink-black porcelain, posed as a single dominant centrepiece. Seamless light warm gray backdrop in the exact #ECECEC tone, NOT warm amber finish, NOT tinted beyond the monochrome palette. Editorial register: matte porcelain surface that drinks light like printed paper, soft window light from camera left, gentle falloff, no hard shadow. The duck sits dead-centre in a 16:9 frame, slightly off-axis at about 20°, beak and feet at the same proportions as the smaller SKUs. A faint hairline grid — thin vertical column rules and one solid black square block — sits behind the figure at low contrast, echoing the page's typographic scaffolding without competing. Plain oval pupil, no sparkle, no heart, no star, no decorative glint. The composition reads like a printed poster: one object, one field, one quiet structure, no props, no rim, no coloured cast.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A 6cm classic rubber duck, identical silhouette across the line, finished in deep matte ink-black porcelain, sitting on a seamless light warm gray backdrop in the exact #ECECEC tone, NOT warm amber finish, NOT tinted beyond the monochrome palette. Editorial product shot: matte surface like unglazed ceramic, soft diffused three-point studio lighting, gentle contact shadow under the body, no hard specular, no rim glint. Front-facing, slightly elevated, 30° down, beak and feet exactly matching the larger SKUs. The duck reads as a small keychain object photographed at scale so the matte black surface and its quiet weight are fully legible. Plain oval pupil, no sparkle, no heart, no star, no decorative glint. Centred 1:1 composition with generous negative space; a single hairline vertical rule sits a fraction off the right edge as a quiet typographic reference, never breaking the monochrome palette.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "A 15cm classic rubber duck, the workhorse SKU, identical silhouette across the line, finished in deep matte ink-black porcelain. Seamless light warm gray backdrop in the exact #ECECEC tone, NOT warm amber finish, NOT tinted beyond the monochrome palette. Editorial product photography: matte porcelain surface, soft diffused three-point studio lighting, faint contact shadow under the body, no hard specular highlight, no rim. Front-facing, slightly elevated, 30° down, beak and feet at the same proportions as the micro, designer, mega, and architect variants. Plain oval pupil, no sparkle, no heart, no star, no decorative glint. The image is a tight 1:1 product frame, the duck centred with even negative space, printed-paper mood, no props, no coloured cards, no surface decoration — only the form, the matte black finish, and the warm gray field holding the composition together.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A 20cm classic rubber duck, collaboration edition, identical silhouette to the rest of the line, in deep matte ink-black porcelain with a quiet surface treatment: the body carries an extremely subtle engraved 12-column grid that catches light only at oblique angles, reading as typographic texture rather than ornament. Seamless light warm gray backdrop in the exact #ECECEC tone, NOT warm amber finish, NOT tinted beyond the monochrome palette. Editorial register: matte porcelain, soft diffused three-point studio lighting, no hard shadow, no gloss. Front-facing, slightly elevated, 30° down, beak and feet identical to the other SKUs. Plain oval pupil, no sparkle, no heart, no star, no decorative glint. Centred 1:1 frame, generous warm gray negative space, a single solid black square block sits in the lower left corner as a typographic counterweight, the whole frame reading like a printed page rather than a marketing shot.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A 70cm classic rubber duck, photo-object, identical silhouette to the rest of the line, finished in deep matte ink-black porcelain. Seamless light warm gray backdrop in the exact #ECECEC tone, NOT warm amber finish, NOT tinted beyond the monochrome palette. Editorial product photography at architectural scale: matte porcelain surface absorbing light like printed paper, soft diffused three-point studio lighting, gentle contact shadow under the wide base, no hard specular, no rim. Front-facing, slightly elevated, 30° down, beak and feet at the same proportions as the micro, classic, designer, and architect variants — only the apparent size changes. Plain oval pupil, no sparkle, no heart, no star, no decorative glint. Centred 1:1 composition, the duck filling the frame with calm weight; faint hairline column rules along the right edge echo the page's grid system without competing with the figure.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A 2.5 metre classic rubber duck, statement installation, identical silhouette to the rest of the line, in deep matte ink-black porcelain. Seamless light warm gray backdrop in the exact #ECECEC tone, NOT warm amber finish, NOT tinted beyond the monochrome palette. Editorial installation photograph: matte porcelain monument standing on a warm gray floor that wraps into a cyclorama, soft window light from camera left, soft fill, no hard shadow, no coloured rim. Front-facing, slightly elevated, 30° down, beak and feet at the same proportions as the micro, classic, designer, and mega variants — only the scale differs. Plain oval pupil, no sparkle, no heart, no star, no decorative glint. Behind the figure, a faintly visible 12-column grid scaffold in thin black lines and one solid black square block sit at low contrast, the duck reading as both monumental object and printed page anchored in the warm gray field.",
+    "aspect_ratio": "1:1"
+  }
+]

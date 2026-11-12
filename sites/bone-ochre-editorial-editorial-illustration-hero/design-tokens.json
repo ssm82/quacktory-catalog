@@ -1,0 +1,20 @@
+{
+  "slug": "the-unconventional-gallery",
+  "palette": {
+    "bg": "#F4EFE7",
+    "fg": "#1B1B1B",
+    "accent": "#E94B9B",
+    "muted": "#C73682",
+    "ink": "#1A1A1A",
+    "surface": "#FFFFFF"
+  },
+  "fonts": {
+    "display": "Caveat",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Tap to enter"
+}

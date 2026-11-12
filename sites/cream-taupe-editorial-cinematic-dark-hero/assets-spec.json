@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A classic rubber duck rendered as a museum-grade porcelain object, suspended in a dark cinematic space and treated like a sculpture in a still from a brand film. The duck occupies roughly eighteen to twenty-two percent of the frame, centered horizontally, seated low in the composition with vast negative space above. Seamless backdrop in #0A0A0A near-black tone, NOT warm amber finish, NOT tinted beyond palette. The duck has a matte porcelain finish in warm amber #A88A6A, with a faint warm reflection grazing its lower curve. Low-key lighting from above-left, a soft falloff into shadow behind, a gentle warm rim along the right edge. Plain oval pupils, no glint, no sparkle, no heart, no pixel, no decorative catchlight. A broad soft plinth shadow beneath implies a single large softbox. A blurred meteorite fragment sits out of focus lower left, a slim cylinder lower right, both defocused, serving as scale cues. Editorial restraint: no UI, no price, no chrome. Aspect 16:9.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A small classic rubber duck at four to eight centimetre scale, styled as a keychain charm. Identical silhouette to the full-size version: rounded body, upturned beak, flat tail, two webbed feet. Surface finish is matte porcelain in warm amber #A88A6A, with a subtle satin sheen on the upper curve. Seamless backdrop in #0A0A0A near-black tone, NOT warm amber finish, NOT tinted beyond palette. Camera front-facing, slightly elevated at thirty degrees. Soft diffused studio lighting, three-point: cool fill from camera-left, soft key from above, warm amber rim from upper right echoing the body tone. Plain oval pupils, no decorative glint, no sparkle, no heart, no star, no pixel. The duck rests on a small brushed bronze ring suggesting a keychain attachment, no other props. Editorial register, museum-clean, paper-soft falloff into the dark studio. The duck reads as a typographic object on a warm field rendered in deep ink. 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The workhorse classic rubber duck at ten to twenty-five centimetre scale, photographed as a hero product. Identical silhouette: full rounded body, classic upturned beak, flat tail, two webbed feet. Matte porcelain finish in warm amber #A88A6A tone, with the soft warmth of fired unglazed ceramic. Seamless backdrop in #0A0A0A near-black tone, NOT warm amber finish, NOT tinted beyond palette. Camera front-facing, slightly elevated at thirty degrees. Three-point soft diffused studio: gentle key from above, cool fill from camera-left, warm amber rim from upper right. Plain oval pupils, no glint, no sparkle, no heart, no pixel, no decorative catchlight. A faint contact shadow grounds the duck, the falloff into the dark studio is paper-soft. No props, no surface texture, no chrome, no UI. Editorial register, restrained, museum-clean, like an editorial still life for a luxury print feature. The duck is the only typographic object on a warm field rendered in deep ink. 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "The designer collaboration edition at fifteen to thirty centimetre scale, an artist-directed variant of the classic rubber duck. Identical silhouette: rounded body, upturned beak, flat tail, two webbed feet. Surface finish is matte porcelain with a hand-painted cool off-white #DCD8D2 chest and belly panel, while the head, back, beak, and feet keep the warm amber #A88A6A tone, reading like a porcelain tuxedo. Seamless backdrop in #0A0A0A near-black tone, NOT warm amber finish, NOT tinted beyond palette. Camera front-facing, slightly elevated at thirty degrees. Soft diffused studio, three-point: warm key from above, cool fill from camera-left, warm rim from upper right. Plain oval pupils, no decorative glint, no sparkle, no heart, no star, no pixel. Subtle pigment pooling visible at the color seam, like fired ceramic glaze meeting raw clay. Editorial register, restrained, the duck as a typographic object on a warm paper field rendered in deep dark. 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "The mega rubber duck at fifty to one-hundred-twenty centimetre scale, photographed as a photo-object. Identical silhouette: oversized rounded body, upturned beak, flat tail, two webbed feet. Matte porcelain finish in warm amber #A88A6A, the curvature picking up a soft warm gradient highlight along the upper shoulder. Seamless backdrop in #0A0A0A near-black tone, NOT warm amber finish, NOT tinted beyond palette. Camera front-facing, slightly elevated at thirty degrees. Soft diffused studio, three-point: large soft key from above, cool fill from camera-left, warm rim along the right edge. Plain oval pupils, no glint, no sparkle, no heart, no pixel. The duck dominates the frame, its broad plinth shadow sweeping into the dark. A single faint floor reflection anchors the form. No props, no UI, no chrome. Editorial register, museum-grade, the duck treated as sculpture rather than toy, a typographic object on a warm field rendered in deep ink. 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "The architect rubber duck as a statement installation at one-and-a-half to three metre scale. Identical silhouette: monumental rounded body, upturned beak, flat tail, two webbed feet, scaled to a room-sized object. Matte porcelain finish in warm amber #A88A6A, the surface reading like fired ceramic or rendered plaster. Seamless backdrop in #0A0A0A near-black tone, NOT warm amber finish, NOT tinted beyond palette. Camera front-facing, slightly elevated at thirty degrees relative to the form. Soft diffused studio at architectural scale, three-point: large overhead key, cool fill from camera-left, warm amber rim from upper right, plus a soft up-light grazing the underside to add depth. Plain oval pupils, no glint, no sparkle, no heart, no star, no pixel. The duck occupies the frame as a typographic object on a warm paper field rendered in deep dark, with a broad soft contact shadow falling into the void. Editorial register, museum-grade, like a gallery installation view. 1:1.",
+    "aspect_ratio": "1:1"
+  }
+]

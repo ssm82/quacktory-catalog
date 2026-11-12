@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Quacktory — Duck Studies, FLUX-S028</title>
+  <meta name="description" content="An editorial field guide to the Quacktory size ladder. Six studies from 4cm specimen to 1.5m monument. Series FLUX-S028.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;500;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+
+    <!-- HERO: editorial cover, FLUX-S028 -->
+    <section class="hero" id="top">
+      <!-- faint grid overlay -->
+      <div class="grid-overlay" aria-hidden="true"></div>
+
+      <!-- corner / edge metadata -->
+      <div class="meta meta--tl">DUCK STUDIES — Series</div>
+      <div class="meta meta--tc">@quacktory</div>
+      <div class="meta meta--tr">©2026</div>
+
+      <div class="meta meta--ml">DESIGN PROCESS</div>
+      <div class="meta meta--mc">FLUX-S028</div>
+      <div class="meta meta--mr">51.5074° N, 0.1278° W</div>
+
+      <!-- portrait area: hero-lifestyle + headline overlay -->
+      <figure class="hero__portrait">
+        <img src="./assets/hero-lifestyle.jpg" alt="A small specimen rubber duck on a muted blue-grey studio backdrop, three-quarter pose" />
+      </figure>
+
+      <div class="hero__title-block">
+        <h1 class="hero__title">HOW WE<br>STUDY A<br>SMALL DUCK</h1>
+        <p class="hero__subtitle">BEFORE COLOURS.<br>BEFORE LOGOS.<br>BEFORE SCALE.</p>
+      </div>
+
+      <!-- bottom credit + save -->
+      <div class="meta meta--bl">Made by @quacktory</div>
+      <div class="meta meta--br"><em>for</em> later</div>
+
+      <!-- small spec glyph top-left of subject -->
+      <div class="glyph" aria-hidden="true">
+        <svg viewBox="0 0 24 24" width="20" height="20"><rect x="3" y="3" width="18" height="18" rx="3" fill="none" stroke="currentColor" stroke-width="1.25"/><path d="M7 17 L17 7" stroke="currentColor" stroke-width="1.25"/></svg>
+      </div>
+
+      <a href="#ladder" class="scroll-cue" aria-label="Scroll to the size ladder">
+        <span>SCROLL</span>
+        <svg viewBox="0 0 12 24" width="10" height="18"><path d="M2 4 L6 8 L10 4" fill="none" stroke="currentColor" stroke-width="1.2"/><path d="M2 12 L6 16 L10 12" fill="none" stroke="currentColor" stroke-width="1.2"/><path d="M2 20 L6 24 L10 20" fill="none" stroke="currentColor" stroke-width="1.2"/></svg>
+      </a>
+    </section>
+
+    <!-- INTERLUDE: short editorial preamble -->
+    <section class="preamble section">
+      <p class="preamble__eyebrow">FLUX-S028 · FIELD NOTE 01</p>
+      <p class="preamble__body">
+        Strong objects don&rsquo;t start with colour or finish. They start with <em>scale</em>. The Quacktory
+        size ladder is a documentary exercise: six specimens, one silhouette, five orders of magnitude.
+        Each study answers a different question &mdash; what does a duck become at 4&nbsp;cm, at 15&nbsp;cm,
+        at 1.5&nbsp;m? Read the ladder from left to right. Click any node to open its dossier.
+      </p>
+    </section>
+
+    <!-- SIZE LADDER: timeline rail with 5 nodes -->
+    <section class="ladder section" id="ladder">
+      <header class="ladder__header">
+        <p class="ladder__eyebrow">PLATE 02 · SIZE LADDER</p>
+        <h2 class="ladder__title">A line of five specimens, ascending.</h2>
+      </header>
+
+      <ol class="rail" role="list">
+        <li class="rail__node" data-size="micro" tabindex="0" role="button" aria-haspopup="dialog">
+          <span class="rail__dot"></span>
+          <span class="rail__label">MICRO</span>
+          <span class="rail__dim">4&nbsp;cm</span>
+        </li>
+        <li class="rail__node" data-size="classic" tabindex="0" role="button" aria-haspopup="dialog">
+          <span class="rail__dot"></span>
+          <span class="rail__label">CLASSIC</span>
+          <span class="rail__dim">15&nbsp;cm</span>
+        </li>
+        <li class="rail__node" data-size="designer" tabindex="0" role="button" aria-haspopup="dialog">
+          <span class="rail__dot"></span>
+          <span class="rail__label">DESIGNER</span>
+          <span class="rail__dim">20&nbsp;cm</span>
+        </li>
+        <li class="rail__node" data-size="mega" tabindex="0" role="button" aria-haspopup="dialog">
+          <span class="rail__dot"></span>
+          <span class="rail__label">MEGA</span>
+          <span class="rail__dim">50&nbsp;cm</span>
+        </li>
+        <li class="rail__node" data-size="architect" tabindex="0" role="button" aria-haspopup="dialog">
+          <span class="rail__dot"></span>
+          <span class="rail__label">ARCHITECT</span>
+          <span class="rail__dim">1.5&nbsp;m</span>
+        </li>
+      </ol>
+
+      <p class="ladder__hint">Click a node to open its dossier.</p>
+    </section>
+
+    <!-- CATALOG: editorial card grid, all 6 images -->
+    <section class="catalog section">
+      <header class="catalog__header">
+        <p class="catalog__eyebrow">PLATE 03 · CATALOG</p>
+        <h2 class="catalog__title">Six specimens, one palette.</h2>
+      </header>
+
+      <div class="catalog__grid">
+        <article class="card card--lead">
+          <div class="card__media"><img src="./assets/hero-lifestyle.jpg" alt="Lifestyle scene of a small specimen duck on a blue-grey backdrop"></div>
+          <p class="card__code">FLX-000 / COVER</p>
+          <h3 class="card__name">Field study no. 28</h3>
+          <p class="card__note">A specimen at rest. The plate from which the rest of the studies are cropped.</p>
+        </article>
+
+        <article class="card">
+          <div class="card__media"><img src="./assets/product-micro.jpg" alt="Micro specimen, 4 cm"></div>
+          <p class="card__code">FLX-M01 · MICRO</p>
+          <h3 class="card__name">Keychain, 4 cm</h3>
+          <p class="card__note">Matte warm ivory. A pocket-sized reference object. Studied at eye level.</p>
+        </article>
+
+        <article class="card">
+          <div class="card__media"><img src="./assets/product-classic.jpg" alt="Classic specimen, 15 cm"></div>
+          <p class="card__code">FLX-M02 · CLASSIC</p>
+          <h3 class="card__name">Workhorse, 15 cm</h3>
+          <p class="card__note">Warm amber matte. The most-photographed specimen in the series.</p>
+        </article>
+
+        <article class="card">
+          <div class="card__media"><img src="./assets/product-designer.jpg" alt="Designer edition specimen, 20 cm"></div>
+          <p class="card__code">FLX-D03 · DESIGNER</p>
+          <h3 class="card__name">Edition, 20 cm</h3>
+          <p class="card__note">Muted terracotta with a stone-matte hand. The directional object of the plate.</p>
+        </article>
+
+        <article class="card">
+          <div class="card__media"><img src="./assets/product-mega.jpg" alt="Mega specimen, 50 cm"></div>
+          <p class="card__code">FLX-M04 · MEGA</p>
+          <h3 class="card__name">Statement, 50 cm</h3>
+          <p class="card__note">Pale stone grey. Reads as a small object at full-room distance, not a toy.</p>
+        </article>
+
+        <article class="card">
+          <div class="card__media"><img src="./assets/product-architect.jpg" alt="Architect monument, 1.5 m"></div>
+          <p class="card__code">FLX-A05 · ARCHITECT</p>
+          <h3 class="card__name">Monument, 1.5 m</h3>
+          <p class="card__note">Architectural concrete grey. Studied indoors, in plinth light, against a wall.</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- COLOPHON -->
+    <footer class="colophon section">
+      <div class="colophon__row">
+        <p class="colophon__title">QUACKTORY</p>
+        <p class="colophon__addr">Studio · London · 51.5074° N, 0.1278° W</p>
+      </div>
+      <div class="colophon__row colophon__row--meta">
+        <span>FLUX-S028 · Duck Studies</span>
+        <span>Six specimens · One palette · Five orders of magnitude</span>
+        <span>©2026 Quacktory Studio</span>
+      </div>
+    </footer>
+
+  </main>
+
+  <!-- MODAL: opened by timeline node clicks -->
+  <div class="modal" id="dossier" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="dossier-title">
+    <div class="modal__overlay" data-close></div>
+    <article class="modal__card">
+      <button class="modal__close" data-close aria-label="Close dossier">
+        <svg viewBox="0 0 24 24" width="18" height="18"><path d="M5 5 L19 19 M19 5 L5 19" stroke="currentColor" stroke-width="1.25" fill="none"/></svg>
+      </button>
+      <p class="modal__code" id="dossier-code">FLX-M02 · CLASSIC</p>
+      <h3 class="modal__title" id="dossier-title">Workhorse, 15 cm</h3>
+      <div class="modal__media"><img id="dossier-img" src="./assets/product-classic.jpg" alt=""></div>
+      <dl class="modal__specs">
+        <div><dt>Height</dt><dd id="dossier-height">15 cm</dd></div>
+        <div><dt>Finish</dt><dd id="dossier-finish">Warm amber matte</dd></div>
+        <div><dt>Edition</dt><dd id="dossier-edition">Open</dd></div>
+        <div><dt>Notes</dt><dd id="dossier-notes">—</dd></div>
+      </dl>
+      <p class="modal__copy" id="dossier-copy">—</p>
+    </article>
+  </div>
+
+  <script type="module" src="main.js"></script>
+</body>
+</html>

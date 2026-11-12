@@ -1,0 +1,20 @@
+{
+  "slug": "the-triadic-ballet-ai-49739",
+  "palette": {
+    "bg": "#FFFFFF",
+    "fg": "#000000",
+    "accent": "#000000",
+    "muted": "#666666",
+    "ink": "#000000",
+    "surface": "#F2EFE7"
+  },
+  "fonts": {
+    "display": "Archivo Black",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Read the manifesto"
+}

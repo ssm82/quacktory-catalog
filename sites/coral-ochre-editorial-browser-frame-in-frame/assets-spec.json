@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A classic rubber duck with a warm coral-red body in #E94B3C tone, matte porcelain surface finish, presented as a poster-like installation on a saturated marigold seamless backdrop in #F4DA00 tone, NOT tinted beyond palette. The duck sits centered within a rounded rectangular lime-green display frame in #85C341 tone, mounted on the warm marigold field, creating a screen-within-a-screen editorial composition. Soft directional window light from the upper left, warm paper atmosphere, no hard shadows, subtle drop shadow under the frame giving the lime card depth. White cloud-shaped paper cutouts bleed off the outer corners of the frame, adding a poster-like collage quality reminiscent of an editorial print. Front-facing, slightly elevated, 30° camera angle. Plain oval pupil, no decorative glint, no sparkle. Editorial register, porcelain-on-warm-paper quality, the duck as framed art object on a saturated marigold wall."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A tiny classic rubber duck at keychain scale, 4-8cm, warm coral-red body in #E94B3C tone, matte porcelain surface finish, identical silhouette to the rest of the line. Saturated marigold seamless backdrop in #F4DA00 tone, flat and clean, NOT tinted beyond palette. Front-facing, slightly elevated, 30° camera angle. Soft diffused studio, three-point lighting with a broad soft key, gentle fill from the opposite side, and a clean rim, even illumination with no harsh specular. Plain oval pupil, no decorative glint, no sparkle. The duck occupies roughly 25% of the frame, surrounded by generous negative space, photographed as a small symbolic object on a marigold field. Editorial register, matte porcelain on warm paper quality, a clean minimal product still-life."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The workhorse classic rubber duck, 10-25cm, warm coral-red body in #E94B3C tone, matte porcelain surface finish, identical silhouette to the rest of the line. Saturated marigold seamless backdrop in #F4DA00 tone, NOT tinted beyond palette. Front-facing, slightly elevated, 30° camera angle. Soft diffused studio, three-point lighting with a soft key from upper left, gentle fill from the right, and a subtle rim from behind, even illumination across the body with no harsh specular highlights. Plain oval pupil, no decorative glint, no sparkle. The duck is centered, occupies roughly 50% of the frame, photographed as the canonical product reference shot for the line. Editorial register, matte porcelain on warm paper quality, the most-photographed SKU presented as a clean typographic-feel product portrait."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A classic rubber duck, designer collaboration edition, 15-30cm, identical silhouette, warm coral-red body in #E94B3C tone with a hand-illustrated graphic surface treatment referencing an editorial poster aesthetic. Flat cel-shading across the body, a soft pink belly patch in #F4C8C7 tone, a small cobalt blue eye-line accent in #2E7BE6 tone, no painted details that alter the duck outline. Matte porcelain base finish. Saturated marigold seamless backdrop in #F4DA00 tone, NOT tinted beyond palette. Front-facing, slightly elevated, 30° camera angle. Soft diffused studio, three-point lighting, even illumination. Plain oval pupil, no decorative glint, no sparkle. The duck reads as a poster-illustrated character, editorial collaboration aesthetic, matte porcelain on warm paper quality."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A classic rubber duck at mega scale, 50-120cm, warm coral-red body in #E94B3C tone, matte porcelain surface finish, identical silhouette to the rest of the line. Saturated marigold seamless backdrop in #F4DA00 tone with a generous floor sweep, NOT tinted beyond palette. Front-facing, slightly elevated, 30° camera angle. Soft diffused studio, three-point lighting with a soft broad key from upper left, gentle fill from the right, and a soft rim from behind that lifts the duck's body off the backdrop without creating a glossy highlight. Plain oval pupil, no decorative glint, no sparkle. The duck fills roughly 70% of the frame, monumental product presence, photographed as a photo-object. Editorial register, matte porcelain on warm paper quality, sculptural weight and scale."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A monumental classic rubber duck at architect scale, 1.5-3m, warm coral-red body in #E94B3C tone, matte porcelain surface finish, identical silhouette to the rest of the line. Saturated marigold seamless backdrop in #F4DA00 tone, vast empty surround, NOT tinted beyond palette. Front-facing, slightly elevated, 30° angle, the duck reads as a small symbolic object on a wide field, an architectural sculpture set against an unbroken plane. Soft diffused studio, three-point lighting, even and clinical illumination with no harsh specular or cast shadow. Plain oval pupil, no decorative glint, no sparkle. The duck occupies roughly 30% of the frame, leaving vast negative space around it. Statement installation mood, editorial matte porcelain on warm paper quality, the duck as architectural object on an empty marigold plane."
+  }
+]

@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Quacktory — 12th lineup</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="stage">
+  <!-- TOP UTILITY (countdown pill) -->
+  <div class="util-bar" role="banner">
+    <span class="util-label">Order window closes in</span>
+    <span class="countdown" id="countdown" aria-live="polite">00d 00h 00m 00s</span>
+  </div>
+
+  <!-- RIGHT RAIL NAV -->
+  <nav class="rail" aria-label="Side navigation">
+    <a href="#scale">Lineup</a>
+    <a href="#lab">Workshop</a>
+    <a href="#b2b">Custom</a>
+    <a href="#care">Care</a>
+    <span class="rail-lang">RU / EN</span>
+    <a href="#contact" class="rail-cta">Get a pass</a>
+  </nav>
+
+  <main>
+    <!-- HERO: duotone split, red discs, black block with wordmark -->
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="field field-warm" aria-hidden="true"></div>
+      <div class="field field-cool" aria-hidden="true"></div>
+      <div class="seam" aria-hidden="true"></div>
+
+      <div class="discs discs--warm" aria-hidden="true">
+        <span class="disc d1"></span>
+        <span class="disc d2"></span>
+        <span class="disc d3"></span>
+        <span class="disc d4"></span>
+        <span class="disc d5"></span>
+        <span class="disc d6"></span>
+        <span class="disc d7"></span>
+      </div>
+
+      <div class="discs discs--cool" aria-hidden="true">
+        <span class="disc d1"></span>
+        <span class="disc d2"></span>
+        <span class="disc d3"></span>
+        <span class="disc d4"></span>
+        <span class="disc d5"></span>
+        <span class="disc d6"></span>
+        <span class="disc d7"></span>
+      </div>
+
+      <article class="wordmark-block">
+        <div class="brand-line">
+          <span class="x">×</span>
+          <span class="brand-name">Quacktory</span>
+          <span class="presents">PRESENTS</span>
+        </div>
+        <h1 id="hero-title" class="big">
+          <span class="row r1">12<sup>th</sup></span>
+          <span class="row r2">edition</span>
+        </h1>
+        <p class="hero-sub">A series of ducks from 4 cm to 3 m. Six lineups, five sizes, one silhouette.</p>
+        <a href="#scale" class="cta-row">
+          <span class="cta-pill">Get a pass</span>
+          <span class="cta-arrow" aria-hidden="true">→</span>
+        </a>
+      </article>
+    </section>
+
+    <!-- SCALE: timeline rail with clickable nodes -->
+    <section id="scale" class="scale">
+      <header class="sec-head">
+        <span class="sec-num">01</span>
+        <h2>Lineup</h2>
+        <p>Click a size — a card with price and lead time opens over the screen.</p>
+      </header>
+
+      <ol class="nodes" role="list">
+        <li class="node" data-sku="micro" tabindex="0">
+          <span class="dot"></span>
+          <b>Micro</b><span>4 cm · keychain</span>
+        </li>
+        <li class="node" data-sku="classic" tabindex="0">
+          <span class="dot"></span>
+          <b>Classic</b><span>18 cm · bathroom</span>
+        </li>
+        <li class="node" data-sku="designer" tabindex="0">
+          <span class="dot"></span>
+          <b>Designer</b><span>25 cm · limited</span>
+        </li>
+        <li class="node" data-sku="mega" tabindex="0">
+          <span class="dot"></span>
+          <b>Mega</b><span>80 cm · window display</span>
+        </li>
+        <li class="node" data-sku="architect" tabindex="0">
+          <span class="dot"></span>
+          <b>Architect</b><span>3 m · installation</span>
+        </li>
+      </ol>
+    </section>
+
+    <!-- MANIFESTO -->
+    <section id="lab" class="manifesto">
+      <header class="sec-head">
+        <span class="sec-num">02</span>
+        <h2>Workshop</h2>
+      </header>
+      <p class="manifesto-line">"We make ducks you don't want to drop in water, but want to put on a shelf."</p>
+      <div class="lab-grid">
+        <article class="lab-card"><h3>Solid rubber</h3><p>Silicone or natural rubber with EPDM. No inserts, no glued seams.</p></article>
+        <article class="lab-card"><h3>Eyes — pigment</h3><p>Black pupil + white sclera. Food-grade silicone paint applied after vulcanization.</p></article>
+        <article class="lab-card"><h3>5 checks</h3><p>Visual, geometry, drop test from 1 m, smell test, gravimetry ±3%.</p></article>
+        <article class="lab-card"><h3>Casting per lineup</h3><p>Micro — injection. Classic — compression. Designer — hand flask. Mega — rotational. Architect — sculptural.</p></article>
+        <article class="lab-card"><h3>Temperature range</h3><p>−20 °C … +60 °C. Indoor only. Protected from direct UV.</p></article>
+        <article class="lab-card"><h3>Care</h3><p>Warm water and mild soap. No abrasives, alcohols, or bleach.</p></article>
+      </div>
+    </section>
+
+    <!-- B2B -->
+    <section id="b2b" class="b2b">
+      <header class="sec-head">
+        <span class="sec-num">03</span>
+        <h2>B2B · Custom</h2>
+        <p>12 signature TPM colors. Pigment goes into the mass before molding — this isn't surface paint.</p>
+      </header>
+      <div class="b2b-grid">
+        <div><span class="b2b-key">Micro · Classic</span><span class="b2b-val">3 weeks · wholesale from 200 pcs</span></div>
+        <div><span class="b2b-key">Designer</span><span class="b2b-val">6 weeks · author coordination</span></div>
+        <div><span class="b2b-key">Mega</span><span class="b2b-val">6 weeks · pallet delivery</span></div>
+        <div><span class="b2b-key">Architect</span><span class="b2b-val">12 weeks · survey and install</span></div>
+      </div>
+    </section>
+
+    <!-- CARE -->
+    <section id="care" class="care">
+      <header class="sec-head">
+        <span class="sec-num">04</span>
+        <h2>Care & compliance</h2>
+      </header>
+      <div class="lab-grid">
+        <article class="lab-card"><h3>GOST 25779-83</h3><p>Rubber toys.</p></article>
+        <article class="lab-card"><h3>EN 71-3</h3><p>Chemical migration — within limits for 3+.</p></article>
+        <article class="lab-card"><h3>REACH</h3><p>No phthalates or bisphenol A.</p></article>
+        <article class="lab-card"><h3>Age</h3><p>Micro 4 cm — 6+; Classic — 3+; Designer — 6+; Mega — not a toy; Architect — installed by a certified crew.</p></article>
+        <article class="lab-card"><h3>Environment</h3><p>Indoor only. Protected from UV and oils / solvents.</p></article>
+        <article class="lab-card"><h3>Packaging</h3><p>Recycled cardboard, no polyethylene. Architect ships in a wooden crate with climate control.</p></article>
+      </div>
+    </section>
+  </main>
+
+  <footer id="contact" class="foot">
+    <div class="foot-row">
+      <span class="brand-small">Quacktory</span>
+      <span>Studio · indoor only</span>
+      <span class="share-pill">
+        <button id="shareBtn">Share</button>
+        <span><b id="shareCount">0</b> / 132</span>
+      </span>
+      <span>© Quacktory</span>
+    </div>
+  </footer>
+
+  <!-- MODAL -->
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle" hidden>
+    <div class="modal-overlay" data-close></div>
+    <article class="modal-card">
+    <button class="modal-close" data-close aria-label="Close">×</button>
+    <div class="modal-img"><img id="modalImg" src="" alt=""></div>
+    <div class="modal-body">
+      <span class="modal-eyebrow" id="modalEyebrow"></span>
+      <h3 id="modalTitle"></h3>
+      <p id="modalDesc"></p>
+      <dl class="modal-spec">
+        <div><dt>Size</dt><dd id="modalSize"></dd></div>
+        <div><dt>Comparison</dt><dd id="modalCompare"></dd></div>
+        <div><dt>Price</dt><dd id="modalPrice"></dd></div>
+        <div><dt>Lead time</dt><dd id="modalLead"></dd></div>
+      </dl>
+      <button class="cta-row" data-close><span class="cta-pill dark">Close</span></button>
+      </div>
+    </article>
+  </div>
+</div>
+<script src="main.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+{
+  "slug": "siena-film-foundation",
+  "palette": {
+    "bg": "#0E0B08",
+    "fg": "#F2EBDC",
+    "accent": "#C9A26A",
+    "muted": "#3B2A1A",
+    "ink": "#0E0B08",
+    "surface": "#F4E7C8"
+  },
+  "fonts": {
+    "display": "Bebas Neue",
+    "body": "Oswald",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "View the reel"
+}

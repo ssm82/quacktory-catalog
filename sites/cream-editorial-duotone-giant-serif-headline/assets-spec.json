@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "Editorial flat-lay of five rubber ducks of varying sizes arranged left-to-right from smallest to largest on a dark warm charcoal surface #1a1a1a, shot from above at a 30 degree angle. Ducks in warm amber, honey, ivory, soft terracotta, and deep sepia tones. Soft diffused studio light, three-point setup. Cinematic editorial composition, mood-board aesthetic, subtle film grain. No text. Each duck has identical silhouette: round plump body, small triangular beak, two small flat feet.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Tiny rubber duck, 4cm scale implied by a small brass keychain ring attached to its head, warm honey finish with subtle gloss. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera front-facing slightly elevated 30 degrees. Identical duck silhouette: round plump body, small triangular beak, two small flat feet. Centered subject, large empty white margin around duck.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Classic rubber duck, 15cm scale implied by its proportion in frame, smooth warm amber finish with subtle matte sheen. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera front-facing slightly elevated 30 degrees. Identical duck silhouette: round plump body, small triangular beak, two small flat feet. Centered subject, large empty white margin around duck.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Designer edition rubber duck, 20cm scale, hand-painted speckled finish in warm ivory and soft terracotta with delicate dot pattern across the body. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera front-facing slightly elevated 30 degrees. Identical duck silhouette: round plump body, small triangular beak, two small flat feet. Centered subject, large empty white margin around duck.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Large rubber duck, 50cm scale implied by a small ceramic teacup placed beside it for size reference, glossy warm sepia finish with rich undertone. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera front-facing slightly elevated 30 degrees. Identical duck silhouette: round plump body, small triangular beak, two small flat feet. Centered subject, large empty white margin around duck.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Monumental sculptural rubber duck, 1.5 meter scale implied by partial cast shadow of a standing figure beside it, matte warm stone finish in pale clay and ochre. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera front-facing slightly elevated 30 degrees. Identical duck silhouette: round plump body, small triangular beak, two small flat feet. Centered subject, large empty white margin around duck.",
+    "aspect_ratio": "1:1"
+  }
+]

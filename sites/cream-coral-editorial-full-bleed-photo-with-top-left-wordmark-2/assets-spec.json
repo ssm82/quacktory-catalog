@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A classic rubber duck with warm amber finish sits centered on a seamless deep forest green cutting mat, photographed from a directly overhead flat-lay perspective as part of an editorial still life. The backdrop tone is a rich mossy green in the exact hex of #2E4A36, sweeping seamlessly beneath a faint cream grid pattern in the tone of #E8D9B8, running edge to edge like a designer's working surface. The duck is positioned slightly below the vertical midline with generous negative space, mirroring a magazine spread. Editorial props are arranged diagonally to lead the eye toward the duck: a pale birch pencil in the tan of #D9B687, and a saturated orange utility knife in #D8742A, both uncropped, not tinted. Lighting is soft, even, slightly warm window light, casting a subtle drop shadow offset to the bottom-right. The duck's eye is a plain oval pupil with no decorative glint, no catchlight, no sparkle. Editorial register: matte porcelain surface, restrained, slightly tongue-in-cheek. 16:9 aspect ratio.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Front-facing, slightly elevated at 30°, a tiny classic rubber duck with warm amber finish stands centered on a seamless deep forest green cutting mat backdrop in the exact tone of #2E4A36, overlaid with a faint cream grid pattern in #E8D9B8 running beneath. Apparent size 4–8cm, keychain scale. The duck carries the same rounded body, upturned flat tail, small rounded head, flat beak, and two front webbed feet silhouette shared across the entire product line. Soft diffused studio three-point lighting wraps the matte porcelain surface, gently modelling each curve without harsh shadow. The pupil is a plain oval with no decorative glint, no catchlight, true to spec. The cutting mat fills the 1:1 frame edge to edge, no warm amber finish tint, no warm wash beyond the palette. Editorial register: warm, confident, slightly tongue-in-cheek, like a product spread in a design quarterly.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Front-facing, slightly elevated at 30°, the workhorse classic rubber duck with warm amber finish is centered on a seamless deep forest green cutting mat backdrop in the exact tone of #2E4A36, overlaid with a soft cream grid in the tone of #E8D9B8. Apparent size 10–25cm, the most-photographed SKU. The silhouette is identical to the rest of the line: rounded body, upturned flat tail, small rounded head, flat beak, two front webbed feet. Soft diffused studio three-point lighting reveals a matte porcelain surface — no gloss, no resin sheen, no lacquer. The pupil is a plain oval with no decorative glint, no catchlight, no sparkle. The backdrop tone is the exact forest green of the cutting mat, no warm amber finish tint, no warm wash beyond the palette. Editorial mood: confident, restrained, like a catalogue hero shot in a design quarterly. 1:1 aspect ratio.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Front-facing, slightly elevated at 30°, the designer collaboration rubber duck stands centered on a seamless deep forest green cutting mat backdrop in the exact tone of #2E4A36, overlaid with cream grid lines in #E8D9B8. Apparent size 15–30cm. The duck retains the identical rounded body, upturned flat tail, small head, flat beak, and two front webbed feet silhouette of the rest of the line, but its surface finish reads as warm tan cork — a matte, slightly grainy texture in the muted tone of #B07A3E with darker flecks, echoing the Oryzo coaster material. A single saturated orange accent stripe in #D8742A wraps the duck's collar area as a designer signature. Soft diffused studio three-point lighting flatters the matte cork-like surface without gloss. The pupil is a plain oval with no decorative glint. 1:1 aspect ratio, no warm amber finish tint, editorial register throughout.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Front-facing, slightly elevated at 30°, an oversized mega rubber duck with warm amber finish dominates a seamless deep forest green cutting mat backdrop in the exact tone of #2E4A36, overlaid with a faint cream grid in #E8D9B8. Apparent size 50–120cm, a true photo-object. Silhouette identical to the rest of the line: rounded body, upturned flat tail, small head, flat beak, two front webbed feet. Soft diffused studio three-point lighting caresses the matte porcelain surface, gentle and editorial, with no harsh specular highlight. The pupil is a plain oval with no decorative glint, no catchlight, no sparkle. The cutting mat is cropped to the 1:1 frame, backdrop tone exactly the forest green of the palette, no warm amber finish tint, no warm wash beyond the palette. Editorial mood, restrained, slightly tongue-in-cheek, like an oversized still life in a design quarterly.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Front-facing, slightly elevated at 30°, an architect-scale rubber duck with warm amber finish rises as a monumental statement installation against a seamless deep forest green cutting mat backdrop in the exact tone of #2E4A36, overlaid with cream grid lines in #E8D9B8. Apparent size 1.5–3m, installation-scale. The duck's silhouette is identical to every other duck in the line: rounded body, upturned flat tail, small rounded head, flat beak, two front webbed feet — but the apparent scale is heroic. Soft diffused studio three-point lighting models the matte porcelain surface, editorial and quiet, no gloss, no resin sheen. The pupil is a plain oval with no decorative glint, no catchlight, no sparkle. The cutting mat continues into the distance, with grid perspective implied, no warm amber finish tint, palette-faithful throughout. 1:1 aspect ratio, like a sculptural commission shot for an architecture journal.",
+    "aspect_ratio": "1:1"
+  }
+]

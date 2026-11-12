@@ -1,0 +1,20 @@
+{
+  "slug": "dunkirk-webvr",
+  "palette": {
+    "bg": "#06131D",
+    "fg": "#B7C1C7",
+    "accent": "#A9F1F4",
+    "muted": "#607985",
+    "ink": "#06131D",
+    "surface": "#0B2533"
+  },
+  "fonts": {
+    "display": "Bebas Neue",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Enter the experience"
+}

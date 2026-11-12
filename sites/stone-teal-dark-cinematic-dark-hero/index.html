@@ -1,0 +1,297 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quacktory — Serious ducks for un-serious people</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <nav class="pillnav" aria-label="Main navigation">
+      <a href="#home" class="pillnav__item pillnav__item--active">Home</a>
+      <span class="pillnav__sep" aria-hidden="true">·</span>
+      <a href="#lines" class="pillnav__item">Lines</a>
+      <span class="pillnav__sep" aria-hidden="true">·</span>
+      <a href="#production" class="pillnav__item">Production</a>
+      <span class="pillnav__sep" aria-hidden="true">·</span>
+      <a href="#b2b" class="pillnav__item">B2B</a>
+    </nav>
+    <button class="burger" aria-label="Open menu">
+      <span></span><span></span><span></span>
+    </button>
+  </header>
+
+  <section id="home" class="hero">
+    <img src="./assets/hero-lifestyle.jpg" alt="" class="hero__bg">
+    <div class="hero__vignette" aria-hidden="true"></div>
+    <p class="hero__eyebrow">4 cm → 3 m · indoor only</p>
+    <h1 class="hero__headline">
+      Serious ducks<br>for un-serious people.<span class="hero__arrow" aria-hidden="true">↗</span>
+    </h1>
+    <ul class="hero__services" aria-label="Quacktory lines">
+      <li><span>Micro</span><span>4–8 cm</span></li>
+      <li><span>Classic</span><span>10–25 cm</span></li>
+      <li><span>Designer</span><span>15–30 cm</span></li>
+    </ul>
+    <div class="metric" aria-label="Quality control statistics">
+      <div class="metric__ring">
+        <svg viewBox="0 0 36 36" class="metric__svg" aria-hidden="true">
+          <circle cx="18" cy="18" r="15.9" class="metric__track"/>
+          <circle cx="18" cy="18" r="15.9" class="metric__bar"/>
+        </svg>
+        <span class="metric__num">97%</span>
+      </div>
+      <div class="metric__label">
+        <span class="metric__line1">Pass QC rate</span>
+        <span class="metric__line2">Single-piece cast</span>
+      </div>
+    </div>
+    <div class="socials" aria-label="Social networks">
+      <a href="#" aria-label="Telegram" class="socials__item">TG</a>
+      <a href="#" aria-label="Instagram" class="socials__item">IG</a>
+      <a href="#" aria-label="YouTube" class="socials__item">YT</a>
+    </div>
+    <a href="#manifesto" class="hero__scroll" aria-label="Open the manifesto">
+      <span>Open the manifesto</span>
+      <span class="hero__scroll-arrow" aria-hidden="true">↓</span>
+    </a>
+  </section>
+
+  <section id="manifesto" class="band">
+    <p class="band__eyebrow">Manifesto № 01</p>
+    <h2 class="band__headline">
+      We make ducks that you want<br>not to put in water, but to display on a shelf.
+    </h2>
+    <a href="#lines" class="band__cta"><span>Explore the lines →</span></a>
+  </section>
+
+  <section id="lines" class="trinity">
+    <article class="trinity__card trinity__card--micro" data-sku="micro">
+      <div class="trinity__img">
+        <img src="./assets/product-micro.jpg" alt="Micro duck 4–8 cm">
+      </div>
+      <div class="trinity__body">
+        <h3 class="trinity__title">Micro</h3>
+        <p class="trinity__spec">4–8 cm · like a thumb</p>
+        <p class="trinity__price">up to 500 ₽<span>per piece · delivery across Russia included</span></p>
+      </div>
+      <span class="trinity__tag">06+ · 3 weeks</span>
+    </article>
+    <article class="trinity__card trinity__card--classic" data-sku="classic">
+      <div class="trinity__img">
+        <img src="./assets/product-classic.jpg" alt="Classic duck 10–25 cm">
+      </div>
+      <div class="trinity__body">
+        <h3 class="trinity__title">Classic</h3>
+        <p class="trinity__spec">10–25 cm · bathroom, office</p>
+        <p class="trinity__price">mid<span>segment · delivery across Russia included</span></p>
+      </div>
+      <span class="trinity__tag">03+ · 3 weeks</span>
+    </article>
+    <article class="trinity__card trinity__card--designer" data-sku="designer">
+      <div class="trinity__img">
+        <img src="./assets/product-designer.jpg" alt="Designer duck 15–30 cm">
+      </div>
+      <div class="trinity__body">
+        <h3 class="trinity__title">Designer</h3>
+        <p class="trinity__spec">15–30 cm · like a cat</p>
+        <p class="trinity__price">collab / limited<span>author's piece · delivery included</span></p>
+      </div>
+      <span class="trinity__tag">06+ · 6 weeks</span>
+    </article>
+  </section>
+
+  <section id="scale" class="vitrine">
+    <div class="vitrine__head">
+      <h2 class="vitrine__title">Quacktory —<br>Serious ducks<br>for un-serious people.</h2>
+      <div class="vitrine__intro">
+        <p>One silhouette. Five scales. From a keychain to a foyer installation. Age, price, lead time — three layers in every card.</p>
+        <a href="#production" class="pill pill--ghost">How we make →</a>
+      </div>
+    </div>
+
+    <div class="scale" aria-label="Scale">
+      <p class="scale__label">One silhouette · 4 cm → 3 m</p>
+      <div class="scale__row">
+        <div class="scale__step scale__step--1" data-line="Micro">
+          <span class="scale__pip"></span>
+          <span class="scale__name">Micro</span>
+          <span class="scale__size">4 cm</span>
+        </div>
+        <div class="scale__step scale__step--2" data-line="Classic">
+          <span class="scale__pip"></span>
+          <span class="scale__name">Classic</span>
+          <span class="scale__size">10–25 cm</span>
+        </div>
+        <div class="scale__step scale__step--3" data-line="Designer">
+          <span class="scale__pip"></span>
+          <span class="scale__name">Designer</span>
+          <span class="scale__size">15–30 cm</span>
+        </div>
+        <div class="scale__step scale__step--4" data-line="Mega">
+          <span class="scale__pip"></span>
+          <span class="scale__name">Mega</span>
+          <span class="scale__size">50–120 cm</span>
+        </div>
+        <div class="scale__step scale__step--5" data-line="Architect">
+          <span class="scale__pip"></span>
+          <span class="scale__name">Architect</span>
+          <span class="scale__size">1.5–3 m</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="vitrine__grid">
+      <article class="vitrine__card vitrine__card--micro">
+        <div class="vitrine__media">
+          <img src="./assets/product-micro.jpg" alt="Micro 4–8 cm">
+        </div>
+        <span class="vitrine__pin" style="--pin:#C9A86A">Micro</span>
+        <p class="vitrine__sub">Keychains · Merch · Impulse buy</p>
+        <h3 class="vitrine__h3">4–8 cm · 06+</h3>
+        <span class="vitrine__meta">up to 500 ₽ · 3 weeks · delivery included</span>
+      </article>
+      <article class="vitrine__card vitrine__card--classic">
+        <div class="vitrine__media">
+          <img src="./assets/product-classic.jpg" alt="Classic 10–25 cm">
+        </div>
+        <span class="vitrine__pin" style="--pin:#2F4A3A">Classic</span>
+        <p class="vitrine__sub">Kids · Bathroom · Office</p>
+        <h3 class="vitrine__h3">10–25 cm · 03+</h3>
+        <span class="vitrine__meta">mid-range · 3 weeks · delivery included</span>
+      </article>
+      <article class="vitrine__card vitrine__card--designer">
+        <div class="vitrine__media">
+          <img src="./assets/product-designer.jpg" alt="Designer 15–30 cm">
+        </div>
+        <span class="vitrine__pin" style="--pin:#7A8B7E">Designer</span>
+        <p class="vitrine__sub">Collaborations with illustrators · Limited editions</p>
+        <h3 class="vitrine__h3">15–30 cm · 06+</h3>
+        <span class="vitrine__meta">collab / limited · 6 weeks</span>
+      </article>
+      <article class="vitrine__card vitrine__card--architect">
+        <div class="vitrine__media">
+          <img src="./assets/product-architect.jpg" alt="Architect 1.5–3 m">
+        </div>
+        <span class="vitrine__pin" style="--pin:#3A3A3A">Architect</span>
+        <p class="vitrine__sub">Installations · Events · Branding</p>
+        <h3 class="vitrine__h3">1.5–3 m · like a bear</h3>
+        <span class="vitrine__meta">on request · 12 weeks</span>
+      </article>
+    </div>
+  </section>
+
+  <section id="production" class="production">
+    <div class="production__top">
+      <p class="band__eyebrow">How we make</p>
+      <h2 class="production__title">Single-piece cast.<br>No seams, no inserts.</h2>
+    </div>
+    <ol class="production__list">
+      <li class="production__step">
+        <span class="production__num">01</span>
+        <h3>Material</h3>
+        <p>Food-grade silicone for Micro/Classic. Natural rubber with EPDM — for Designer/Mega/Architect. No plastic, no metal inside, no glued seams.</p>
+      </li>
+      <li class="production__step">
+        <span class="production__num">02</span>
+        <h3>Mould</h3>
+        <p>Injection, compression, rotational molding — or hand-pouring into a silicone mold for limited editions. One silhouette across all SKUs.</p>
+      </li>
+      <li class="production__step">
+        <span class="production__num">03</span>
+        <h3>Eyes</h3>
+        <p>Pigment, not inserts. Black pupil + white sclera, applied after vulcanization with food-grade silicone dye, UV- and water-resistant.</p>
+      </li>
+      <li class="production__step">
+        <span class="production__num">04</span>
+        <h3>QC</h3>
+        <p>5 checks: visual, geometry ±2%, drop test, smell test, gravimetry ±3%. For Architect — ultrasonic inspection.</p>
+      </li>
+      <li class="production__step">
+        <span class="production__num">05</span>
+        <h3>Compliance</h3>
+        <p>GOST 25779-83, EN 71-3, REACH. No phthalates or bisphenol A. Temperature range −20…+60 °C. Indoor only.</p>
+      </li>
+    </ol>
+  </section>
+
+  <section class="spotlight">
+    <div class="spotlight__left">
+      <p class="band__eyebrow">Mega · 50–120 cm</p>
+      <h2>Not a toy.<br>A decorative object.</h2>
+      <p>Photo objects, displays, gift-impressions. Corrugated box + foam cradle, pallet delivery, courier visit required.</p>
+      <a href="#b2b" class="pill pill--solid">Request a quote →</a>
+    </div>
+    <div class="spotlight__right">
+      <img src="./assets/product-mega.jpg" alt="Mega duck 50–120 cm">
+    </div>
+  </section>
+
+  <section id="b2b" class="b2b">
+    <h2 class="b2b__title">Custom = choice<br>from the TPM palette.</h2>
+    <p class="b2b__lead">12 signature Pantone equivalents. Pigment in the mass BEFORE casting, not surface paint. Lead times and price — predictable.</p>
+    <div class="b2b__grid">
+      <div class="b2b__chip" style="--sw:#C9A86A">TPM-01</div>
+      <div class="b2b__chip" style="--sw:#2F4A3A">TPM-02</div>
+      <div class="b2b__chip" style="--sw:#7A8B7E">TPM-03</div>
+      <div class="b2b__chip" style="--sw:#3A3A3A">TPM-04</div>
+      <div class="b2b__chip" style="--sw:#A8835C">TPM-05</div>
+      <div class="b2b__chip" style="--sw:#D4C9B0">TPM-06</div>
+      <div class="b2b__chip" style="--sw:#5C6B5E">TPM-07</div>
+      <div class="b2b__chip" style="--sw:#1A1A1A">TPM-08</div>
+      <div class="b2b__chip" style="--sw:#8C2A1F">TPM-09</div>
+      <div class="b2b__chip" style="--sw:#3F5A6E">TPM-10</div>
+      <div class="b2b__chip" style="--sw:#C8B89A">TPM-11</div>
+      <div class="b2b__chip" style="--sw:#0C0E0D">TPM-12</div>
+    </div>
+    <div class="b2b__cta">
+      <a href="mailto:b2b@quacktory.space" class="pill pill--solid">Request a quote →</a>
+      <p class="b2b__note">Micro / Classic — 3 weeks · Designer / Mega — 6 weeks · Architect — 12 weeks.<br>Fully custom color (third-party Pantone) — discussed separately: +2 weeks, +15%.</p>
+    </div>
+  </section>
+
+  <footer class="foot">
+    <div class="foot__col foot__col--brand">
+      <div class="foot__logo">QUACKTORY</div>
+      <p>Serious ducks for un-serious people.</p>
+    </div>
+    <div class="foot__col">
+      <h4>Catalog</h4>
+      <a href="#lines">Micro · 4–8 cm</a>
+      <a href="#lines">Classic · 10–25 cm</a>
+      <a href="#lines">Designer · 15–30 cm</a>
+      <a href="#lines">Mega · 50–120 cm</a>
+      <a href="#lines">Architect · 1.5–3 m</a>
+    </div>
+    <div class="foot__col">
+      <h4>Documents</h4>
+      <a href="#production">/production</a>
+      <a href="#b2b">/compliance</a>
+      <a href="#b2b">/care</a>
+    </div>
+    <div class="foot__col">
+      <h4>Contacts</h4>
+      <a href="mailto:hello@quacktory.space">hello@quacktory.space</a>
+      <a href="mailto:b2b@quacktory.space">b2b@quacktory.space</a>
+      <p>Russia · CDEK · Russian Post</p>
+    </div>
+    <div class="foot__col">
+      <h4>Delivery</h4>
+      <p>Indoor only · −20…+60 °C</p>
+      <h4 class="foot__h4--mt">Socials</h4>
+      <div class="foot__socials">
+        <a href="#">TG</a><a href="#">IG</a><a href="#">YT</a>
+      </div>
+    </div>
+    <div class="foot__bottom">
+      <span>© 2026 Quacktory Atelier</span>
+      <span>GOST 25779-83 · EN 71-3 · REACH</span>
+    </div>
+  </footer>
+<script src="main.js" defer></script>
+</body>
+</html>

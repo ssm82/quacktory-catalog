@@ -1,0 +1,20 @@
+{
+  "slug": "20-years-of-xbox-museum",
+  "palette": {
+    "bg": "#0B0B0C",
+    "fg": "#FFFFFF",
+    "accent": "#9BCB32",
+    "muted": "#3E6F4A",
+    "ink": "#1A1410",
+    "surface": "#15120F"
+  },
+  "fonts": {
+    "display": "Bebas Neue",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Begin the tour"
+}

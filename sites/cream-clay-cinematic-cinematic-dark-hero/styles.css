@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;900&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400');
+:root {
+--bg:#0E1530;
+--fg:#E8E2D5;
+--accent:#E2A93B;
+--muted:#C9BFA8;
+--ink:#0A1020;
+--surface:#1B2447;
+--display:"Playfair Display",serif;
+--body:"Cormorant Garamond",serif;
+--pad:clamp(1.25rem,4vw,5rem);
+}
+* { box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { margin:0; background:var(--ink); color:var(--fg); font-family:var(--body); }
+button,a { font:inherit; }
+a { color:inherit; text-decoration:none; }
+img { display:block; max-width:100%; height:auto; }
+.skip-link { position:fixed; left:1rem; top:-5rem; z-index:100; padding:.8rem 1rem; background:var(--ink); color:var(--accent); }
+.skip-link:focus { top:1rem; }
+
+.hero {
+  position:relative; min-height:100vh; overflow:hidden; text-align:center;
+  background:
+    radial-gradient(ellipse 72% 58% at 50% 40%,rgba(10,16,32,0) 0%,rgba(10,16,32,.62) 100%),
+    linear-gradient(rgba(14,21,48,.28) 0%,rgba(10,16,32,.8) 100%),
+    url("./assets/hero-lifestyle.jpg") center/cover;
+}
+.wordmark {
+  position:absolute;top:32px;left:0;right:0;margin:0;
+  font-family:var(--display);font-size:26px;font-weight:600;letter-spacing:.02em;color:var(--accent);
+}
+.hero-copy {
+  position:absolute;left:0;right:0;top:39%;
+  display:flex;flex-direction:column;align-items:center;
+}
+.hero h1 {
+  margin:0;font-family:var(--display);font-weight:500;
+  font-size:clamp(2.6rem,5vw,4.5rem);line-height:1.02;letter-spacing:.005em;color:var(--accent);
+  text-shadow:0 2px 30px rgba(10,16,32,.6);
+}
+.subtitle {
+  margin:1.1rem 0 0;font-family:var(--body);font-style:italic;font-weight:400;
+  font-size:1.15rem;letter-spacing:.02em;color:var(--accent);opacity:.92;
+}
+.primary-action {
+  display:inline-flex;align-items:center;justify-content:center;
+  min-height:2.9rem;padding:.7rem 1.5rem;margin-top:1.5rem;
+  border:1px solid var(--accent);border-radius:0;
+  background:transparent;color:var(--accent);
+  font-family:var(--body);font-size:.9rem;letter-spacing:.14em;text-transform:uppercase;
+  transition:background .25s,color .25s;
+}
+.primary-action:hover { background:var(--accent); color:var(--ink); }
+.crest {
+  position:absolute;left:0;right:0;bottom:26px;margin:0 auto;width:34px;height:46px;
+  display:flex;flex-direction:column;align-items:center;gap:3px;color:var(--accent);
+}
+.crest-crown {
+  width:17px;height:11px;background:var(--accent);
+  clip-path:polygon(0 100%,14% 18%,36% 62%,50% 0,64% 62%,86% 18%,100% 100%);
+}
+.crest-ring {
+  display:inline-flex;align-items:center;justify-content:center;
+  width:28px;height:28px;border:1px solid var(--accent);border-radius:50%;
+  font-family:var(--display);font-size:.85rem;line-height:1;color:var(--accent);
+}
+
+.artist { padding:13vh 1.5rem; background:var(--ink); }
+.essay { max-width:34rem;margin:0 auto; }
+.essay-block { display:grid;grid-template-columns:6.5rem 1fr;gap:1.6rem;margin-bottom:3.5rem; }
+.essay-block:last-child { margin-bottom:0; }
+.essay-label {
+  margin:0;padding-top:.4rem;text-align:right;
+  font-family:var(--body);font-style:italic;font-size:.8rem;letter-spacing:.07em;color:var(--muted);
+}
+.essay-body p { margin:0 0 1rem;font-size:1.05rem;line-height:1.62;color:var(--fg); }
+.essay-body p:last-child { margin-bottom:0; }
+.essay-body .lead { font-size:1.3rem;line-height:1.55; }
+
+.footer {
+  padding:2rem 1.5rem;background:var(--ink);
+  display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:1rem;
+  font-size:.82rem;letter-spacing:.1em;color:var(--muted);
+}
+.footer-link { justify-self:start; }
+.footer-seal {
+  justify-self:center;display:inline-flex;align-items:center;justify-content:center;
+  width:26px;height:26px;border:1px solid var(--muted);border-radius:50%;
+  font-family:var(--display);font-size:.8rem;line-height:1;color:var(--muted);
+}
+.footer-social { justify-self:end;display:flex;gap:1.4rem; }
+.footer a:hover { color:var(--accent); }
+
+@media (max-width:720px) {
+  .wordmark { top:22px;font-size:1.3rem; }
+  .hero-copy { top:38%; }
+  .hero h1 { font-size:clamp(2.2rem,9vw,3rem); }
+  .subtitle { font-size:1rem; }
+  .essay-block { grid-template-columns:1fr;gap:.5rem;margin-bottom:2.6rem; }
+  .essay-label { text-align:left;padding-top:0; }
+  .footer { grid-template-columns:1fr;justify-items:center;text-align:center; }
+  .footer-link,.footer-seal,.footer-social { justify-self:center; }
+}
+@media (prefers-reduced-motion:reduce) {
+  * { scroll-behavior:auto!important; animation:none!important; transition:none!important; }
+}

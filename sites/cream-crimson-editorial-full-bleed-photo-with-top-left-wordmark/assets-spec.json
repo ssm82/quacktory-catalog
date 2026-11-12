@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A classic rubber duck with warm amber finish placed in a grand museum gallery interior, treated as a contemporary art object within classical architecture. Editorial, museum-grade mood, reverent and quiet-luxury. The duck sits on a deep crimson carpet runner, ink #7A1E26, at the base of a sculptural marble staircase. Flanking marble statues and gold-framed oil paintings line the walls, with a softly lit arched pediment doorway in the background acting as the focal point. Soft window light from above-left illuminates the duck, casting gentle, paper-like shadows. A subtle vignette darkens the edges toward deep charcoal #1A1A1A, with a soft overall darken lifting the duck to the foreground. The duck is positioned slightly off-center as a monumental centrepiece. Low three-quarter cinematic camera angle looking slightly up to amplify presence. Plain oval pupils, no glints, no decorations. Warm amber body color, restrained palette, museum still-life atmosphere.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A small classic rubber duck, approximately 5cm tall, in warm amber finish #B8924A, designed as a keychain companion. Editorial product photography, matte porcelain register. Seamless backdrop in deep charcoal #1A1A1A tone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated 30° camera angle. Plain oval pupils, no decorative glints. Soft diffused three-point studio lighting with a warm key from upper-left, gentle fill from right, and a subtle rim from behind to separate the small body from the dark surround. A fine natural cord loop emerges from the crown, hinting at keychain purpose without overt props. The duck's body shows the warm amber tone with muted cream #E8E2D6 underbelly shading. No surface texture beyond the matte porcelain finish, no props, strong figure-ground separation. The mood is restrained, museum still-life. Silhouette is identical to the standard classic rubber duck.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The workhorse classic rubber duck in warm amber finish #B8924A, approximately 15cm tall, photographed in editorial register. Seamless backdrop in deep charcoal #1A1A1A tone, NOT warm amber finish, NOT tinted beyond palette. Matte porcelain surface treatment on the duck, evoking museum-quality collectible still-life photography. Front-facing, slightly elevated 30° camera angle. Plain oval pupils, no glints, no decorations. Soft diffused three-point studio lighting: gentle warm key from upper-left, soft fill from right, subtle rim from behind separating the duck from the dark background. The duck's body shows the warm amber tone with muted cream #E8E2D6 underbelly shading. No props, no surface texture beyond matte porcelain. Editorial mood like a high-end catalogue or auction-house photograph, strong figure-ground separation between duck and dark surround. Silhouette identical to the standard classic rubber duck.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A collaboration-edition classic rubber duck, 20cm tall, finished in a deep crimson porcelain #7A1E26 with warm amber #B8924A detailing along the beak, feet, and a thin ring around the neck, suggesting a numbered limited museum gift-shop run. Seamless backdrop in deep charcoal #1A1A1A tone, NOT warm amber finish, NOT tinted beyond palette. Editorial product photography, matte porcelain register. The duck's body carries the rich burgundy as a museum-quality lacquered matte, with amber accents reading as gilded trim, restrained and considered. Front-facing, slightly elevated 30° camera angle. Plain oval pupils, no glints, no decorations. Soft diffused three-point studio lighting with a warm key from upper-left, soft fill from right, and a gentle rim from behind. The treatment references the partnership aesthetic of museum exclusives, considered and quiet. Silhouette identical to the standard classic rubber duck; variation lives entirely in surface colorway and finish.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A monumental classic rubber duck, approximately 80cm tall, treated as a photographic object in editorial register. Seamless backdrop in deep charcoal #1A1A1A tone, NOT warm amber finish, NOT tinted beyond palette. Matte porcelain surface in warm amber finish #B8924A, reading as a museum-scale sculpture. The sheer scale dominates the frame, the duck filling most of the 1:1 canvas. Front-facing, slightly elevated 30° camera angle, pulled back enough to communicate mass without losing presence. Plain oval pupils, no decorative glints. Soft diffused three-point studio lighting with a warm key from upper-left, a soft fill from right, and a subtle rim from behind; the lighting is gentle and reverent, treating the object as a sculptural specimen. No props, no contextual scale references, the object speaks for itself. Editorial mood like an installation photograph in a contemporary art catalogue. Silhouette identical to the standard classic rubber duck; variation is in apparent size and presence.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A 2-meter-tall classic rubber duck as a statement installation piece, photographed in editorial register. Seamless backdrop in deep charcoal #1A1A1A tone, NOT warm amber finish, NOT tinted, suggesting a darkened gallery volume. Matte porcelain surface in warm amber finish #B8924A, with the body catching a soft window-like key from upper-left as if displayed in a museum rotunda. The duck reads as a contemporary art object, monumental and quiet. Camera pulled far back and slightly elevated 30° to capture the full installation scale, the duck still dominating the frame. Plain oval pupils, no decorative glints. Soft diffused three-point studio lighting with a warm key and gentle fill, a soft rim light separating the duck's right side from the dark background. The composition feels reverent, the duck as a singular typographic object within an empty architectural volume. Silhouette identical to the standard classic rubber duck; variation lives in scale and its standing as public sculpture.",
+    "aspect_ratio": "1:1"
+  }
+]

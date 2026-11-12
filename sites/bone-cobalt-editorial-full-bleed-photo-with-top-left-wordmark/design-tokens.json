@@ -1,0 +1,20 @@
+{
+  "slug": "montfort",
+  "palette": {
+    "bg": "#FFFFFF",
+    "fg": "#1F3D5C",
+    "accent": "#2C4A6B",
+    "muted": "#3F5872",
+    "ink": "#1F3D5C",
+    "surface": "#DDE2E6"
+  },
+  "fonts": {
+    "display": "Jost",
+    "body": "Jost",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Discover the group"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "dropbox-brand",
+  "palette": {
+    "bg": "#EFEAE4",
+    "fg": "#1E2A52",
+    "accent": "#0061FE",
+    "muted": "#B7D4EC",
+    "ink": "#1E2A52",
+    "surface": "#F2C94C"
+  },
+  "fonts": {
+    "display": "Inter",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "B",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Open the index"
+}

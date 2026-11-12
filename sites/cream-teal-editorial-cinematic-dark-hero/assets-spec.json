@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck in deep emerald (#3fa55f) with a matte porcelain finish sits in a dark cinematic space, surrounded by atmospheric painterly depth. The seamless backdrop is muted sage green (#7d8f74) that fades into deep olive-black (#1f2a1a) at the vignetted edges, dissolving the figure into mood. Viewed from a slightly low, front-facing angle to amplify scale and quiet drama. A single soft editorial window light from the upper right grazes the duck's matte surface, casting a long cinematic shadow that anchors the figure. Tiny dust motes drift through a faint atmospheric haze. The duck has plain oval pupils with no decorative glint, a smooth flat beak, and the identical classic rubber duck silhouette used across the entire product line. The mood is contemplative, dreamlike, gallery-grade — an editorial cover. No yellow tones anywhere; the palette stays cool sage, olive-black, and emerald.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A tiny classic rubber duck keychain charm, approximately 5 cm tall, with a matte porcelain finish in deep emerald (#3fa55f). Identical classic rubber duck silhouette with a rounded body, small head, smooth flat beak, and two webbed feet — exactly matching every other product shot. Front-facing, slightly elevated 30° camera angle. Seamless backdrop in muted sage green (#7d8f74) tone, NOT yellow, NOT tinted beyond palette. Soft diffused studio three-point lighting with no hard shadows. The duck has plain oval pupils with no decorative glint, no sparkle, no heart, no star. A small matte silver keychain ring loops through a hole at the top of the head, photographed in tight scale to reveal the miniature size. Editorial register: matte, calm, painterly. A subtle pale sky-blue (#d6e0e0) bounce softens the underside. Cool, restrained, collectible mood on a sage field.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The workhorse classic rubber duck, approximately 18 cm tall, finished in deep emerald (#3fa55f) with a matte porcelain surface. Identical classic rubber duck silhouette — rounded body, small head, smooth flat beak, two webbed feet — exactly matching the hero, micro, and every other product shot in the system. Front-facing, slightly elevated 30° camera angle. Seamless backdrop in muted sage green (#7d8f74) tone, NOT yellow, NOT tinted beyond palette. Soft diffused studio three-point lighting, no hard shadows. Plain oval pupils with no decorative glint, no sparkle, no heart, no star, no pixel. Editorial register: matte, calm, painterly. The duck sits centered in frame with generous painterly negative space. The porcelain-like matte surface shows no specular highlights; a subtle pale sky-blue (#d6e0e0) bounce softens the underside. The mood is quiet, gallery-grade, and workhorse-sturdy — the most-photographed SKU in the line. No yellow anywhere; cool sage atmosphere only.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A 22 cm designer collaboration classic rubber duck with a matte porcelain finish in deep emerald (#3fa55f) and a single thin painted band of pale sky-blue (#d6e0e0) circling the lower body — the per-direction collaboration treatment. Identical classic rubber duck silhouette — rounded body, small head, smooth flat beak, two webbed feet — exactly matching the hero, micro, classic, mega, and architect shots. Front-facing, slightly elevated 30° camera angle. Seamless backdrop in muted sage green (#7d8f74) tone, NOT yellow, NOT tinted beyond palette. Soft diffused studio three-point lighting, no hard shadows. Plain oval pupils with no decorative glint. Editorial register, matte and painterly. The duck sits centered with generous negative space. The collaboration band is a single horizontal painted stripe — quiet, restrained, no logos, no pattern, no extra ornament. Cool sage atmosphere with a single pale-blue accent; no yellow, no warm tones, no extra colors introduced.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A 70 cm mega classic rubber duck with a matte porcelain finish in deep emerald (#3fa55f), a photo-object meant to anchor a room. Identical classic rubber duck silhouette — rounded body, small head, smooth flat beak, two webbed feet — exactly matching every other product shot in the system. Front-facing, slightly elevated 30° camera angle. Seamless backdrop in muted sage green (#7d8f74) tone, NOT yellow, NOT tinted beyond palette. Soft diffused studio three-point lighting with a slightly larger key light to graze the bigger matte surface evenly. Plain oval pupils with no decorative glint, no sparkle, no heart, no star. Editorial register: matte, painterly, monumental. The duck fills most of the square frame while still allowing sage negative space around the silhouette. The surface shows no gloss, no specular highlights. A faint pale sky-blue (#d6e0e0) bounce softens the underside. Cool, quiet, sculptural mood. No yellow anywhere.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A 2 meter architect classic rubber duck — a statement installation — with a matte porcelain finish in deep emerald (#3fa55f), scaled to dominate a public space. Identical classic rubber duck silhouette — rounded body, small head, smooth flat beak, two webbed feet — exactly matching every other product shot in the system. Front-facing, slightly elevated 30° camera angle to capture the duck's monumental presence. Seamless backdrop in muted sage green (#7d8f74) tone, NOT yellow, NOT tinted beyond palette. Soft diffused studio three-point lighting with a broad key light to sweep the giant matte surface evenly, no hot spots. Plain oval pupils with no decorative glint. Editorial register, painterly and restrained. The duck fills the square frame almost edge to edge, conveying scale through tight cropping while still preserving sage negative space at the corners. Pale sky-blue (#d6e0e0) ambient bounce light. No yellow tones anywhere; the palette stays sage, emerald, and pale blue only.",
+    "aspect_ratio": "1:1"
+  }
+]

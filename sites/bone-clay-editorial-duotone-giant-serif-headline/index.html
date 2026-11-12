@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quacktory — Serious ducks for not-so-serious people</title>
+  <meta name="description" content="Rubber ducks from 4 cm to 3 m. Keychains, classics, limited collaborations, installations. Quacktory — serious ducks for un-serious people.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="grain" aria-hidden="true"></div>
+  <div class="vignette" aria-hidden="true"></div>
+
+  <header class="masthead">
+    <h1 class="brand">
+      <a href="#" class="brand__link" aria-label="Quacktory — home">QUACKTORY</a>
+    </h1>
+
+    <div class="scale-rail" aria-label="Scale from 4 cm to 3 m">
+      <div class="scale-rail__ticks" aria-hidden="true">
+        <span></span><span></span><span></span><span></span><span></span>
+        <span></span><span></span><span></span><span></span><span></span>
+        <span></span><span></span><span></span><span></span><span></span>
+        <span></span><span></span><span></span><span></span><span></span>
+        <span></span>
+      </div>
+      <div class="scale-rail__labels">
+        <span class="scale-rail__label">04 CM</span>
+        <span class="scale-rail__label">3 M</span>
+      </div>
+    </div>
+
+    <a href="#about" class="corner-link" data-open-about>About</a>
+  </header>
+
+  <main class="stage">
+    <div class="filmstrip" role="list" aria-label="Quacktory lineup — five sizes from 4 cm to 3 m">
+      <button class="tile tile--micro" data-sku="micro" type="button" aria-label="Micro — 4–8 cm, keychain">
+        <img src="./assets/product-micro.jpg" alt="" loading="lazy">
+        <span class="tile__glow" aria-hidden="true"></span>
+        <span class="tile__rule" aria-hidden="true"></span>
+        <div class="tile__meta">
+          <span class="tile__index">01</span>
+          <span class="tile__name">MICRO</span>
+          <span class="tile__size">4–8 cm · keychain</span>
+        </div>
+        <span class="tile__pill">Impulse</span>
+      </button>
+      <button class="tile tile--classic" data-sku="classic" type="button" aria-label="Classic — 10–25 cm">
+        <img src="./assets/product-classic.jpg" alt="" loading="lazy">
+        <span class="tile__glow" aria-hidden="true"></span>
+        <span class="tile__rule" aria-hidden="true"></span>
+        <div class="tile__meta">
+          <span class="tile__index">02</span>
+          <span class="tile__name">CLASSIC</span>
+          <span class="tile__size">10–25 cm · bathroom</span>
+        </div>
+        <span class="tile__pill">Home · Office</span>
+      </button>
+      <button class="tile tile--designer tile--warm" data-sku="designer" type="button" aria-label="Designer — 15–30 cm, limited collaboration">
+        <img src="./assets/product-designer.jpg" alt="" loading="lazy">
+        <span class="tile__glow" aria-hidden="true"></span>
+        <span class="tile__rule" aria-hidden="true"></span>
+        <div class="tile__meta">
+          <span class="tile__index">03</span>
+          <span class="tile__name">DESIGNER</span>
+          <span class="tile__size">15–30 cm · limited edition</span>
+        </div>
+        <span class="tile__pill">Collab · Limited</span>
+      </button>
+      <button class="tile tile--mega" data-sku="mega" type="button" aria-label="Mega — 50–120 cm">
+        <img src="./assets/product-mega.jpg" alt="" loading="lazy">
+        <span class="tile__glow" aria-hidden="true"></span>
+        <span class="tile__rule" aria-hidden="true"></span>
+        <div class="tile__meta">
+          <span class="tile__index">04</span>
+          <span class="tile__name">MEGA</span>
+          <span class="tile__size">50–120 cm · child-sized</span>
+        </div>
+        <span class="tile__pill">Photo prop</span>
+      </button>
+      <button class="tile tile--architect" data-sku="architect" type="button" aria-label="Architect — 1.5–3 m, installation">
+        <img src="./assets/product-architect.jpg" alt="" loading="lazy">
+        <span class="tile__glow" aria-hidden="true"></span>
+        <span class="tile__rule" aria-hidden="true"></span>
+        <div class="tile__meta">
+          <span class="tile__index">05</span>
+          <span class="tile__name">ARCHITECT</span>
+          <span class="tile__size">1.5–3 m · installation</span>
+        </div>
+        <span class="tile__pill">B2B · Event</span>
+      </button>
+    </div>
+  </main>
+
+  <footer class="footline">
+    <div class="footline__stack footline__stack--left">
+      <span class="footline__lede">QUACKTORY STUDIO</span>
+      <span class="footline__line">Serious ducks / un-serious people</span>
+      <span class="footline__line footline__line--muted">Indoor only · 2021</span>
+    </div>
+    <div class="footline__stack footline__stack--right">
+      <a href="mailto:hello@quacktory.space" class="footline__link">Email ↗</a>
+      <a href="#" class="footline__link">Instagram ↗</a>
+      <a href="#" class="footline__link">Telegram ↗</a>
+    </div>
+  </footer>
+
+  <div class="modal" id="sku-modal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal__backdrop" data-close></div>
+    <div class="modal__panel" role="document">
+      <button class="modal__close" type="button" data-close aria-label="Close">×</button>
+      <header class="modal__head">
+        <span class="modal__eyebrow" id="modal-eyebrow">Lineup 01 / 05</span>
+        <h2 class="modal__title" id="modal-title">MICRO</h2>
+        <span class="modal__size" id="modal-size">4–8 cm · thumb-sized</span>
+      </header>
+      <div class="modal__body">
+        <figure class="modal__media">
+          <img id="modal-img" src="./assets/product-micro.jpg" alt="">
+          <span class="modal__media-glow" aria-hidden="true"></span>
+        </figure>
+        <div class="modal__copy">
+          <p class="modal__lead" id="modal-lead">Keychain, merch, impulse gift up to ~$7.</p>
+          <dl class="modal__spec" id="modal-spec"></dl>
+        </div>
+      </div>
+      <footer class="modal__foot">
+        <a href="mailto:hello@quacktory.space" class="modal__cta" id="modal-cta">Request a quote →</a>
+        <span class="modal__hint">ESC to close</span>
+      </footer>
+    </div>
+  </div>
+
+  <div class="about" id="about" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="about-title">
+    <div class="about__backdrop" data-about-close></div>
+    <div class="about__panel">
+      <button class="about__close" type="button" data-about-close aria-label="Close">Close</button>
+
+      <div class="about__left">
+        <h2 class="about__mark" id="about-title"><span>QUACK</span><span>TORY</span></h2>
+        <p class="about__bio">
+          One rubber duck, five sizes — 4 cm to 3 m. Solid pigment, cast in a single
+          piece, no seams and no stickers. Serious ducks for un-serious people.
+        </p>
+      </div>
+
+      <div class="about__right">
+        <div class="about__col">
+          <span class="about__colhead">Clients</span>
+          <ul class="about__list">
+            <li><span>Retail</span></li>
+            <li><span>Hotels</span></li>
+            <li><span>Studios</span></li>
+            <li><span>Exhibitions</span></li>
+            <li><span>Merch</span></li>
+          </ul>
+        </div>
+        <div class="about__col">
+          <span class="about__colhead">Awards</span>
+          <ul class="about__list about__list--numbered">
+            <li><span class="about__num">03</span><span>Rubber duck of the year</span></li>
+            <li><span class="about__num">11</span><span>Best in rubber</span></li>
+            <li><span class="about__num">24</span><span>Shelf, lifetime</span></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="about__foot">
+        <div class="about__social">
+          <a href="mailto:hello@quacktory.space">Email ↗</a>
+          <a href="#">Instagram ↗</a>
+          <a href="#">Telegram ↗</a>
+        </div>
+        <span class="about__meta">Quacktory Studio · 2021</span>
+      </div>
+    </div>
+  </div>
+
+  <script src="main.js" defer></script>
+</body>
+</html>

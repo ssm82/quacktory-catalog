@@ -1,0 +1,20 @@
+{
+  "slug": "exo-ape",
+  "palette": {
+    "bg": "#8B8B6F",
+    "fg": "#F4EFE6",
+    "accent": "#1A1A1A",
+    "muted": "#E8DCC8",
+    "ink": "#0A0A0A",
+    "surface": "#8E9577"
+  },
+  "fonts": {
+    "display": "Cormorant Garamond",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Open the manifesto"
+}

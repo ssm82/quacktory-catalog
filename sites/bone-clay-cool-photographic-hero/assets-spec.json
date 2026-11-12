@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "Editorial studio photograph of a single classic rubber duck (4-5cm toy, visible) centered-left on a muted blue-grey seamless backdrop #7B8B93, slightly off-center, three-quarter pose, eyes closed. The duck is small against the backdrop, casting a soft shadow to the right. Warm directional key light from upper-left, soft fill, three-point setup. To the right of the duck sits a small white specimen card with typeset grid lines (editorial reference card mood). Minimal props. No people, no text. Magazine cover composition, vertical 4:5 frame. Style: editorial documentary, restrained, fashion-photography lighting. Color palette: muted blue-grey backdrop, ivory rubber duck, warm cream specimen card. NOT yellow tinted. NOT cartoon. NOT illustration.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Product photograph of a miniature rubber duck (4 cm toy) on pure white #FFFFFF seamless backdrop, NOT yellow tinted, NOT warm cast, NOT tinted. Classic duck silhouette, front-facing, slightly elevated 30 degree camera angle. Surface finish: matte warm ivory #F2E8D5, smooth. Soft diffused studio light, three-point setup, no harsh shadows. The duck is small in frame, scaled proportionally. Editorial product photography, sharp focus, minimal composition. Style: clean catalog shot, restrained.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Product photograph of a classic rubber duck (15 cm toy) on pure white #FFFFFF seamless backdrop, NOT yellow tinted, NOT warm cast, NOT tinted. Classic duck silhouette, front-facing, slightly elevated 30 degree camera angle. Surface finish: warm amber matte #C99368, smooth, no gloss. Soft diffused studio light, three-point setup, no harsh shadows. Editorial product photography, sharp focus, minimal composition. Style: clean catalog shot, restrained.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Product photograph of a designer-edition rubber duck (20 cm toy) on pure white #FFFFFF seamless backdrop, NOT yellow tinted, NOT warm cast, NOT tinted. Classic duck silhouette, front-facing, slightly elevated 30 degree camera angle. Surface finish: muted terracotta with subtle stone-matte texture #B05A36, artisanal editorial treatment, slight surface variation but identical silhouette to other ducks. Soft diffused studio light, three-point setup, no harsh shadows. Editorial product photography, sharp focus. Style: clean catalog shot, restrained.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Product photograph of a large rubber duck (50 cm toy) on pure white #FFFFFF seamless backdrop, NOT yellow tinted, NOT warm cast, NOT tinted. Classic duck silhouette, front-facing, slightly elevated 30 degree camera angle. Surface finish: pale stone grey #B5B0A8, smooth matte. Soft diffused studio light, three-point setup, no harsh shadows. The duck occupies more of the frame, monumental scale. Editorial product photography, sharp focus. Style: clean catalog shot, restrained.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Product photograph of a monumental rubber duck (1.5m statue) on pure white #FFFFFF seamless backdrop, NOT yellow tinted, NOT warm cast, NOT tinted. Classic duck silhouette, front-facing, slightly elevated 30 degree camera angle. Surface finish: architectural concrete grey #9A958E with subtle warm undertone, matte smooth. Soft diffused studio light, three-point setup, no harsh shadows. The duck dominates the frame as a large sculptural object. Editorial product photography, sharp focus. Style: clean catalog shot, restrained.",
+    "aspect_ratio": "1:1"
+  }
+]

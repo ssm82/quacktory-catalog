@@ -1,0 +1,20 @@
+{
+  "slug": "css_design_awards_cula-technologies-49729",
+  "palette": {
+    "bg": "#05080E",
+    "fg": "#FFFFFF",
+    "accent": "#1E6BFF",
+    "muted": "#B8C2CC",
+    "ink": "#0E1A2B",
+    "surface": "#F4F2EC"
+  },
+  "fonts": {
+    "display": "Inter",
+    "body": "Inter",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "C",
+  "register": "technical",
+  "duck_eye_decor": "none",
+  "cta_register": "Talk to us"
+}

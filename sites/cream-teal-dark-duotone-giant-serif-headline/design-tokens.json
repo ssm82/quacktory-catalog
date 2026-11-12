@@ -1,0 +1,20 @@
+{
+  "slug": "53198839343862122",
+  "palette": {
+    "bg": "#0E2A35",
+    "fg": "#E8E4D5",
+    "accent": "#1F4A5A",
+    "muted": "#9FB0A8",
+    "ink": "#0A1F28",
+    "surface": "#C8D6CE"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Read the whitepaper"
+}

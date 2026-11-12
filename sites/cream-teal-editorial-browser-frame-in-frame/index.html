@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Quacktory — Duck Showroom</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="page">
+  <div class="ambient" aria-hidden="true"></div>
+
+  <!-- BROWSER FRAME -->
+  <section class="frame" aria-labelledby="hero-title">
+    <div class="frame-chrome">
+      <span class="dot d1"></span>
+      <span class="dot d2"></span>
+      <span class="dot d3"></span>
+      <span class="url">quacktory.com/manifesto</span>
+      <span class="search">⌕</span>
+    </div>
+
+    <header class="topbar" role="banner">
+      <a href="#" class="brand"><span>Quacktory</span><sup>®</sup></a>
+      <nav class="pill-nav" aria-label="Main">
+        <a href="#scale">Lineup</a>
+        <a href="#lab">Workshop</a>
+        <a href="#b2b">Custom</a>
+        <a href="#care">Care</a>
+        <span class="lang">EN</span>
+      </nav>
+    </header>
+
+    <!-- HERO -->
+    <div class="hero">
+      <div class="hero-scene" aria-hidden="true">
+        <span class="grass"></span>
+        <span class="grass g2"></span>
+        <span class="mound"></span>
+        <span class="stalk s1"></span>
+        <span class="stalk s2"></span>
+        <span class="flower f1"></span>
+        <span class="flower f2"></span>
+        <span class="flower f3"></span>
+        <div class="moss-sculpt">
+          <div class="sculpt">Q</div>
+          <div class="moss m1"></div>
+          <div class="moss m2"></div>
+          <div class="moss m3"></div>
+          <div class="moss m4"></div>
+          <div class="bird">
+            <div class="b-tail"></div>
+            <div class="b-body"></div>
+            <div class="b-wing"></div>
+            <div class="b-head"></div>
+            <div class="b-beak"></div>
+          </div>
+        </div>
+      </div>
+
+      <h1 id="hero-title" class="bigword">Quacktory<sup>&reg;</sup></h1>
+
+      <div class="corner bottom-left">
+        <p class="tag">"We make ducks you don't want to put in water — you want to put on a shelf."</p>
+        <a href="#scale" class="micro-cta">How we make them ↓</a>
+      </div>
+
+      <article class="corner bottom-right">
+        <div class="card-photo"><img src="./assets/hero-lifestyle.jpg" alt=""></div>
+        <h3>Architect · 3 m</h3>
+        <p>Sculptural cast from a master model. Installation by a certified crew.</p>
+        <a href="#scale" class="ghost-pill">Contact <span aria-hidden="true">→</span></a>
+      </article>
+    </div>
+  </section>
+
+  <!-- SCALE -->
+  <section id="scale" class="scale">
+    <header class="sec-head">
+      <span class="eyebrow">Lineup</span>
+      <h2>Five sizes, one silhouette</h2>
+      <p>Tap a card to open the duck passport.</p>
+    </header>
+
+    <div class="scale-grid">
+      <article class="leaf" data-sku="micro" tabindex="0">
+        <img src="./assets/product-micro.jpg" alt="">
+        <div><span class="num">01</span><b>Micro</b><span>4 cm · keychain · from $7</span></div>
+      </article>
+      <article class="leaf" data-sku="classic" tabindex="0">
+        <img src="./assets/product-classic.jpg" alt="">
+        <div><span class="num">02</span><b>Classic</b><span>18 cm · bathroom · from $18</span></div>
+      </article>
+      <article class="leaf" data-sku="designer" tabindex="0">
+        <img src="./assets/product-designer.jpg" alt="">
+        <div><span class="num">03</span><b>Designer</b><span>25 cm · limited · from $70</span></div>
+      </article>
+      <article class="leaf" data-sku="mega" tabindex="0">
+        <img src="./assets/product-mega.jpg" alt="">
+        <div><span class="num">04</span><b>Mega</b><span>80 cm · display · from $550</span></div>
+      </article>
+      <article class="leaf" data-sku="architect" tabindex="0">
+        <img src="./assets/product-architect.jpg" alt="">
+        <div><span class="num">05</span><b>Architect</b><span>3 m · installation · on request</span></div>
+      </article>
+    </div>
+  </section>
+
+  <!-- LAB -->
+  <section id="lab" class="lab">
+    <header class="sec-head">
+      <span class="eyebrow">Workshop</span>
+      <h2>How we make ducks</h2>
+    </header>
+    <div class="lab-grid">
+      <article><h3>Solid rubber</h3><p>Silicone or natural rubber with EPDM. No inserts, no glued seams.</p></article>
+      <article><h3>Eyes — pigment</h3><p>Black pupil + white sclera. Food-grade silicone pigment applied after vulcanization.</p></article>
+      <article><h3>Five checks</h3><p>Visual, geometry, 1 m drop test, smell test, gravimetry ±3%.</p></article>
+      <article><h3>Casting by line</h3><p>Micro — injection. Classic — compression. Designer — hand-flask. Mega — rotational. Architect — sculptural.</p></article>
+      <article><h3>Temperature</h3><p>−20 °C … +60 °C. Indoor only. Protection from direct UV.</p></article>
+      <article><h3>Care</h3><p>Warm water and mild soap. No abrasives, alcohols, or bleach.</p></article>
+    </div>
+  </section>
+
+  <!-- B2B -->
+  <section id="b2b" class="b2b">
+    <header class="sec-head">
+      <span class="eyebrow">Custom</span>
+      <h2>12 signature TPM colors</h2>
+      <p>Pigment goes into the mass before casting — not a surface coat.</p>
+    </header>
+    <ul class="b2b-list">
+      <li><span>Micro · Classic</span><b>3 weeks · wholesale from 200 pcs</b></li>
+      <li><span>Designer</span><b>6 weeks · artist sign-off</b></li>
+      <li><span>Mega</span><b>6 weeks · pallet delivery</b></li>
+      <li><span>Architect</span><b>12 weeks · survey and install</b></li>
+    </ul>
+  </section>
+
+  <!-- CARE -->
+  <section id="care" class="care">
+    <header class="sec-head">
+      <span class="eyebrow">Care and compliance</span>
+      <h2>Certificates and passports</h2>
+    </header>
+    <div class="lab-grid">
+      <article><h3>GOST 25779-83</h3><p>Rubber toys.</p></article>
+      <article><h3>EN 71-3</h3><p>Chemical migration — within limits for ages 3+.</p></article>
+      <article><h3>REACH</h3><p>Free of phthalates and bisphenol A.</p></article>
+      <article><h3>Age</h3><p>Micro 4 cm — 6+; Classic — 3+; Designer — 6+; Mega — not a toy; Architect — installation by certified crew.</p></article>
+      <article><h3>Environment</h3><p>Indoor only. Protection from UV and oils/solvents.</p></article>
+      <article><h3>Packaging</h3><p>Recycled cardboard, no polyethylene. Architect — wooden crate and climate control.</p></article>
+    </div>
+  </section>
+</div>
+
+<footer class="foot">
+  <div class="foot-row">
+    <span class="brand-small">Quacktory<sup>®</sup></span>
+    <span>Made in Moscow · support@quacktory.com</span>
+    <span class="share-pill">
+      <button id="shareBtn">Share</button>
+      <span><b id="shareCount">0</b> / 132</span>
+    </span>
+    <span>© Quacktory</span>
+  </div>
+</footer>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle" hidden>
+  <div class="modal-overlay" data-close></div>
+  <article class="modal-card">
+    <button class="modal-close" data-close aria-label="Close">×</button>
+    <div class="modal-img"><img id="modalImg" src="" alt=""></div>
+    <div class="modal-body">
+      <span class="modal-eyebrow" id="modalEyebrow"></span>
+      <h3 id="modalTitle"></h3>
+      <p id="modalDesc"></p>
+      <dl class="modal-spec">
+        <div><dt>Size</dt><dd id="modalSize"></dd></div>
+        <div><dt>Compared to</dt><dd id="modalCompare"></dd></div>
+        <div><dt>Price</dt><dd id="modalPrice"></dd></div>
+        <div><dt>Lead time</dt><dd id="modalLead"></dd></div>
+      </dl>
+      <button class="ghost-pill" data-close>Close <span aria-hidden="true">×</span></button>
+    </div>
+  </article>
+</div>
+<script src="main.js" defer></script>
+</body>
+</html>

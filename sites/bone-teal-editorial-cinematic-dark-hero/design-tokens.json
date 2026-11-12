@@ -1,0 +1,20 @@
+{
+  "slug": "lando-norris",
+  "palette": {
+    "bg": "#111111",
+    "fg": "#FFFFFF",
+    "accent": "#D4E817",
+    "muted": "#3A3C1C",
+    "ink": "#000000",
+    "surface": "#1C1C1E"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Read the feature"
+}

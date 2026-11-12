@@ -1,0 +1,20 @@
+{
+  "slug": "son-daven-49788",
+  "palette": {
+    "bg": "#7d8f74",
+    "fg": "#1f2a1a",
+    "accent": "#3fa55f",
+    "muted": "#9a9e9a",
+    "ink": "#0f1610",
+    "surface": "#d6e0e0"
+  },
+  "fonts": {
+    "display": "Space Grotesk",
+    "body": "Inter",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "E",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Open the cover"
+}

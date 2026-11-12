@@ -1,0 +1,20 @@
+{
+  "slug": "active-theory-v6",
+  "palette": {
+    "bg": "#0A1F24",
+    "fg": "#FFFFFF",
+    "accent": "#5BE9FF",
+    "muted": "#D8DCE0",
+    "ink": "#0B1418",
+    "surface": "#1A1A22"
+  },
+  "fonts": {
+    "display": "Orbitron",
+    "body": "Space Grotesk",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "See the work"
+}

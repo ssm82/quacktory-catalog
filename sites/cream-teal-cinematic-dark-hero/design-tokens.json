@@ -1,0 +1,20 @@
+{
+  "slug": "discover-your-patronus",
+  "palette": {
+    "bg": "#030A12",
+    "fg": "#DCE4EA",
+    "accent": "#29B8E5",
+    "muted": "#1D2C3B",
+    "ink": "#071724",
+    "surface": "#0B2233"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Archivo",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Discover your Patronus"
+}

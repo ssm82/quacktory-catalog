@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Quacktory — Educational Project</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="canvas">
+
+    <!-- Utility top bar -->
+    <header class="util" role="banner">
+      <span>Quacktory / Study Project</span>
+      <span class="toggle-group">
+        <span class="toggle" data-toggle="grid">Grid: <button class="on">On</button> / <button>Off</button></span>
+        <span class="toggle" data-toggle="crazy">Crazy: <button>On</button> / <button class="on">Off</button></span>
+      </span>
+    </header>
+
+    <!-- 12-column grid scaffold -->
+    <div class="grid-scaffold" aria-hidden="true">
+      <span></span><span></span><span></span><span></span>
+      <span></span><span></span><span></span><span></span>
+      <span></span><span></span><span></span><span></span>
+    </div>
+
+    <!-- Breadcrumb -->
+    <nav class="crumb" aria-label="Breadcrumbs">
+      <a href="#">Introduction</a><span>/</span>
+      <a href="#scale">Ducks</a><span>/</span>
+      <a href="#care">Passports</a>
+    </nav>
+
+    <main>
+      <!-- HERO — oversized wordmark -->
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-band">
+          <p class="lede">
+            This site is part of Quacktory's educational projects. Five duck sizes from 4 cm to 3 m, all built on the same grid.
+          </p>
+        </div>
+        <p class="caption">5 duck sizes · 1 silhouette</p>
+        <div class="hero-display">
+          <span class="block" aria-hidden="true"></span>
+          <h1 id="hero-title" class="big">DUCKS</h1>
+        </div>
+      </section>
+
+      <!-- SCALE -->
+      <section id="scale" class="scale" aria-labelledby="scale-title">
+        <header class="sec-head">
+          <span class="eyebrow">02 · Lineup</span>
+          <h2 id="scale-title">Five sizes, one silhouette</h2>
+        </header>
+
+        <ol class="grid-tiles" role="list">
+          <li class="tile t-micro" data-sku="micro" tabindex="0">
+            <span class="t-num">01</span>
+            <img src="./assets/product-micro.jpg" alt="">
+            <span class="t-name">Micro</span>
+            <span class="t-size">4 cm · from $7</span>
+          </li>
+          <li class="tile t-classic" data-sku="classic" tabindex="0">
+            <span class="t-num">02</span>
+            <img src="./assets/product-classic.jpg" alt="">
+            <span class="t-name">Classic</span>
+            <span class="t-size">18 cm · from $18</span>
+          </li>
+          <li class="tile t-designer" data-sku="designer" tabindex="0">
+            <span class="t-num">03</span>
+            <img src="./assets/product-designer.jpg" alt="">
+            <span class="t-name">Designer</span>
+            <span class="t-size">25 cm · from $70</span>
+          </li>
+          <li class="tile t-mega" data-sku="mega" tabindex="0">
+            <span class="t-num">04</span>
+            <img src="./assets/product-mega.jpg" alt="">
+            <span class="t-name">Mega</span>
+            <span class="t-size">80 cm · from $550</span>
+          </li>
+          <li class="tile t-architect" data-sku="architect" tabindex="0">
+            <span class="t-num">05</span>
+            <img src="./assets/product-architect.jpg" alt="">
+            <span class="t-name">Architect</span>
+            <span class="t-size">3 m · on request</span>
+          </li>
+        </ol>
+      </section>
+
+      <!-- MANIFESTO -->
+      <section id="lab" class="manifesto">
+        <header class="sec-head">
+          <span class="eyebrow">03 · Manifesto</span>
+          <h2>"We make ducks you don't want to put in water — you want to put on a shelf."</h2>
+        </header>
+      </section>
+
+      <!-- PRODUCTION -->
+      <section class="production">
+        <header class="sec-head">
+          <span class="eyebrow">04 · Production</span>
+          <h2>How we make it</h2>
+        </header>
+        <div class="grid-prod">
+          <article><h3>Solid rubber</h3><p>Silicone or natural rubber with EPDM. No inserts, no glued seams.</p></article>
+          <article><h3>Eyes — pigment</h3><p>Black pupil + white sclera. Food-grade silicone pigment applied after vulcanization.</p></article>
+          <article><h3>Five checks</h3><p>Visual, geometry, 1 m drop test, smell test, gravimetry ±3%.</p></article>
+          <article><h3>Casting by line</h3><p>Micro — injection. Classic — compression. Designer — hand-flask. Mega — rotational. Architect — sculptural.</p></article>
+          <article><h3>Temperature</h3><p>−20 °C … +60 °C. Indoor only. Protection from direct UV.</p></article>
+          <article><h3>Care</h3><p>Warm water and mild soap. No abrasives, alcohols, or bleach.</p></article>
+        </div>
+      </section>
+
+      <!-- B2B -->
+      <section id="b2b" class="b2b">
+        <header class="sec-head">
+          <span class="eyebrow">05 · B2B</span>
+          <h2>12 signature TPM colors</h2>
+          <p>Pigment goes into the mass before casting — not a surface coat.</p>
+        </header>
+        <ul class="b2b-list">
+          <li><span>Micro · Classic</span><b>3 weeks · wholesale from 200 pcs</b></li>
+          <li><span>Designer</span><b>6 weeks · artist sign-off</b></li>
+          <li><span>Mega</span><b>6 weeks · pallet delivery</b></li>
+          <li><span>Architect</span><b>12 weeks · survey and install</b></li>
+        </ul>
+      </section>
+
+      <!-- CARE -->
+      <section id="care" class="care">
+        <header class="sec-head">
+          <span class="eyebrow">06 · Passports</span>
+          <h2>Certificates and passports</h2>
+        </header>
+        <div class="grid-prod">
+          <article><h3>GOST 25779-83</h3><p>Rubber toys.</p></article>
+          <article><h3>EN 71-3</h3><p>Chemical migration — within limits for ages 3+.</p></article>
+          <article><h3>REACH</h3><p>Free of phthalates and bisphenol A.</p></article>
+          <article><h3>Age</h3><p>Micro 4 cm — 6+; Classic — 3+; Designer — 6+; Mega — not a toy; Architect — installation by certified crew.</p></article>
+          <article><h3>Environment</h3><p>Indoor only. Protection from UV and oils/solvents.</p></article>
+          <article><h3>Packaging</h3><p>Recycled cardboard, no polyethylene. Architect — wooden crate and climate control.</p></article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="foot">
+      <div class="foot-row">
+        <span>© Quacktory</span>
+        <span>Educational project · v2.0</span>
+      </div>
+    </footer>
+  </div>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle" hidden>
+    <div class="modal-overlay" data-close></div>
+    <article class="modal-card">
+      <button class="modal-close" data-close aria-label="Close">×</button>
+      <div class="modal-img"><img id="modalImg" src="" alt=""></div>
+      <div class="modal-body">
+        <span class="modal-eyebrow" id="modalEyebrow"></span>
+        <h3 id="modalTitle"></h3>
+        <p id="modalDesc"></p>
+        <dl class="modal-spec">
+          <div><dt>Size</dt><dd id="modalSize"></dd></div>
+          <div><dt>Compared to</dt><dd id="modalCompare"></dd></div>
+          <div><dt>Price</dt><dd id="modalPrice"></dd></div>
+          <div><dt>Lead time</dt><dd id="modalLead"></dd></div>
+        </dl>
+        <button class="read" data-close><span>Close</span><span aria-hidden="true">×</span></button>
+      </div>
+    </article>
+  </div>
+<script src="main.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+{
+  "slug": "beyond-beauty",
+  "palette": {
+    "bg": "#DDDCD3",
+    "fg": "#F7F7F3",
+    "accent": "#F2B39B",
+    "muted": "#30312F",
+    "ink": "#30312F",
+    "surface": "#F7F7F3"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Discover the edit"
+}

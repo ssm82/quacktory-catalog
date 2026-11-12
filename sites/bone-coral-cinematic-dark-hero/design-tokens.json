@@ -1,0 +1,20 @@
+{
+  "slug": "ouigo-let-s-play",
+  "palette": {
+    "bg": "#071A38",
+    "fg": "#FFFFFF",
+    "accent": "#FF2788",
+    "muted": "#006A83",
+    "ink": "#071A38",
+    "surface": "#FFFFFF"
+  },
+  "fonts": {
+    "display": "Manrope",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "pop",
+  "duck_eye_decor": "sparkle",
+  "cta_register": "Let's play"
+}

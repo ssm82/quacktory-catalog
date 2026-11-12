@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "Editorial product photograph of a row of six identical rubber ducks in graduated sizes (4cm, 15cm, 20cm, 50cm, 1.5m), arranged in a precise size ladder from smallest to largest left to right, on a deep crimson seamless backdrop (#B5001F), dramatic moody studio lighting, soft diffused three-point setup, single rim light grazing the right side, subtle volumetric haze, fine vein-like liquid reflections pooling across the surface, the ducks themselves are matte ivory (#F2EDE4) with crimson pupils, identical silhouette across all six, front-facing slightly elevated 30 degree camera, no people, no text, ultra-clean luxury catalog composition, 16:9 wide aspect, photorealistic, 35mm equivalent, shallow depth of field on the centerpiece 20cm duck"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Tiny keychain-sized rubber duck (4cm), identical classic duck silhouette with rounded body and short beak, glossy deep crimson lacquer finish (#B5001F) with a small ivory beak accent, ivory pupils with a single crimson glint, pure white seamless #FFFFFF backdrop, NOT yellow, NOT tinted, NOT warm cast, soft diffused three-point studio lighting, front-facing slightly elevated 30 degree camera, no shadow under feet, photorealistic, ultra-clean product shot, 1:1 square aspect"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Classic 15cm rubber duck, identical classic duck silhouette with rounded body and short beak, matte ivory finish (#F2EDE4) with a polished crimson beak (#B5001F) and small crimson pupils, pure white seamless #FFFFFF backdrop, NOT yellow, NOT tinted, NOT warm cast, soft diffused three-point studio lighting, front-facing slightly elevated 30 degree camera, no shadow under feet, photorealistic, ultra-clean product shot, 1:1 square aspect"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Designer edition 20cm rubber duck, identical classic duck silhouette with rounded body and short beak, high-gloss oxblood lacquer finish (#4A0014) with a single ivory racing stripe down the center of the head and back, ivory beak, small ivory pupils, pure white seamless #FFFFFF backdrop, NOT yellow, NOT tinted, NOT warm cast, soft diffused three-point studio lighting, front-facing slightly elevated 30 degree camera, no shadow under feet, photorealistic, ultra-clean product shot, 1:1 square aspect"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Large-format 50cm rubber duck, identical classic duck silhouette with rounded body and short beak, soft warm ivory porcelain finish (#F2EDE4) with fine crimson veining (#B5001F) running through the body like marble, ivory beak with a crimson tip, small crimson pupils, pure white seamless #FFFFFF backdrop, NOT yellow, NOT tinted, NOT warm cast, soft diffused three-point studio lighting, front-facing slightly elevated 30 degree camera, no shadow under feet, photorealistic, ultra-clean product shot, 1:1 square aspect"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Monumental 1.5m statement-piece rubber duck, identical classic duck silhouette with rounded body and short beak, polished marble finish in ivory with deep crimson veins (#B5001F, #4A0014), solid crimson beak, small crimson pupils, pure white seamless #FFFFFF backdrop, NOT yellow, NOT tinted, NOT warm cast, soft diffused three-point studio lighting, front-facing slightly elevated 30 degree camera, no shadow under feet, photorealistic, ultra-clean product shot, 1:1 square aspect"
+  }
+]

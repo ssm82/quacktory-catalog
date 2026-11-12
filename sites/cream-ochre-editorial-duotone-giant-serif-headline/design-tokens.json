@@ -1,0 +1,20 @@
+{
+  "slug": "css_design_awards_noho-49762",
+  "palette": {
+    "bg": "#F4F1EA",
+    "fg": "#1A1A1A",
+    "accent": "#F5D93A",
+    "muted": "#C9B49A",
+    "ink": "#111111",
+    "surface": "#EFEAE0"
+  },
+  "fonts": {
+    "display": "Inter",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Discover the collection"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck with warm amber finish standing as the centrepiece of a stylized 3D-rendered coastal world, matching hero pattern A. Cyan seamless backdrop in #7DD3F0 sky tone, NOT warm amber finish, NOT tinted beyond palette. The duck towers over a tiny tropical island with a red-and-white lighthouse, a small boat floating on soft #5BB8D6 water far below, and a few palm trees clustered on a sandbar. Soft global illumination from upper-left, no hard cast shadows, stylized real-time render feel with low-poly geometry. Friendly cartoon game aesthetic, low-contrast pastel environment. Glossy resin surface, playful proportions. Front-facing body with head tilted slightly upward in a welcoming pose, beak catching the key light. Plain oval pupil with NO decorative glint, NO sparkle, NO heart, NO star, NO pixel. The cyan sky and warm amber duck dominate the upper two-thirds of the frame; water, lighthouse, palms, and boat occupy the lower third. Cinematic but warm, social-casual-game mood. 16:9.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Studio product shot of a tiny classic rubber duck keychain (approximately 5 cm tall) with warm amber finish, identical silhouette to the brand family — same rounded body outline, flat triangular beak, small flat feet. Front-facing, slightly elevated 30° camera angle for a clean product view. Cyan seamless backdrop in #7DD3F0 tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio three-point lighting, no hard cast shadows, no rim. Glossy resin surface with a single soft key highlight on the head, pop register mood, friendly and playful. Plain oval pupil, NO decorative glint, NO sparkle, NO heart, NO star, NO pixel. A small silver keychain loop is attached at the upper back of the duck. The duck is centred in the frame, sitting on a clean white cyclorama floor that curves softly into the cyan seamless. Subtle drop shadow grounds the figure. Bright, approachable, keychain-scale. 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Studio product shot of the workhorse classic rubber duck (approximately 15 cm tall) with warm amber finish, the most-photographed SKU of the family. Identical silhouette to the brand — same rounded body outline, flat triangular beak, small flat feet. Front-facing, slightly elevated 30° camera angle for a clean product view. Cyan seamless backdrop in #7DD3F0 tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio three-point lighting, no hard cast shadows, no rim. Glossy resin surface with a soft key highlight on the head, pop register mood, friendly and approachable. Plain oval pupil, NO decorative glint, NO sparkle, NO heart, NO star, NO pixel. The duck is centred, sitting squarely on the seamless surface with a soft drop shadow and a gentle white floor reflection. Clean, bright, inviting — the brand's most-photographed hero. 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Collaboration-edition classic rubber duck (approximately 20 cm tall) with warm amber finish and a per-direction coastal design treatment referencing the world. Identical silhouette to the brand — same rounded body outline, flat triangular beak, small flat feet. Front-facing, slightly elevated 30° camera angle. Cyan seamless backdrop in #7DD3F0 tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio three-point lighting, no hard cast shadows, no rim. Glossy resin surface, pop register mood, friendly and playful. The duck wears a small lavender beanie (#B7A8D9) pulled low over the crown with a tiny rolled cuff, referencing the mascot character of the coastal world. Plain oval pupil visible just below the beanie brim, NO decorative glint, NO sparkle, NO heart, NO star, NO pixel. The duck is centred on the seamless surface with a soft drop shadow. 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Photo-object classic rubber duck (approximately 75 cm tall) with warm amber finish, identical silhouette to the brand family — same rounded body outline, flat triangular beak, small flat feet. Front-facing, slightly elevated 30° camera angle to capture the full photo-object. Cyan seamless backdrop in #7DD3F0 tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio three-point lighting, no hard cast shadows, no rim. Glossy resin surface, pop register mood, friendly and inviting. Plain oval pupil, NO decorative glint, NO sparkle, NO heart, NO star, NO pixel. The duck fills most of the frame, sitting on a clean white floor curve that blends softly into the cyan seamless. Soft drop shadow grounds the photo-object. Bright, monumental, approachable — a brand-size statement piece. 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Statement-installation classic rubber duck (approximately 2 m tall) with warm amber finish, identical silhouette to the brand family — same rounded body outline, flat triangular beak, small flat feet. Front-facing, slightly elevated 30° camera angle for an imposing product view that reads as monumental. Cyan seamless backdrop in #7DD3F0 tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio three-point lighting scaled to the install, no hard cast shadows, no rim. Glossy resin surface, pop register mood, friendly and welcoming. Plain oval pupil, NO decorative glint, NO sparkle, NO heart, NO star, NO pixel. The duck fills the entire vertical frame as a statement piece, sitting on a clean white floor that curves softly into the cyan seamless. Soft drop shadow grounds the installation. 1:1.",
+    "aspect_ratio": "1:1"
+  }
+]

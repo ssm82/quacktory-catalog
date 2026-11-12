@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck in pale seafoam (#A6D6D2) with a matte porcelain finish, centered in a dark cinematic editorial space. The duck is front-facing, slightly elevated, captured as a found artifact emerging from cool blue-gray fog with a gradient from deep #7E8A98 at the base lifting to lighter #A6B0BA at the top. Soft window light rakes from upper left, casting a gentle shadow on the right side of the form. The duck silhouette is the iconic classic rubber duck outline, identical across the set. The backdrop is a seamless cool desaturated blue-gray tone, NOT warm, NOT tinted beyond palette. Faint chalk-line Witcher-style sigils and arcane handwritten glyphs in dusty teal (#7FA9A4) are etched around the duck as ghostly annotations, fading at the frame edges. Snow particles drift at low opacity across the foreground. Plain oval pupil, no decorative glint. Editorial mood — matte porcelain surface, the duck as a monolith in a title-card atmosphere. Cinematic 16:9 frame.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A small 4–8 cm classic rubber duck in pale seafoam (#A6D6D2) with a matte porcelain editorial finish, front-facing slightly elevated at 30°. Seamless backdrop in cool desaturated blue-gray (#7E8A98) tone, NOT warm, NOT tinted beyond palette. Soft diffused studio three-point lighting, the duck positioned as a typographic object on the seamless paper, isolated and quiet. The matte surface reads as cool unglazed porcelain, catching the soft key light with no specular hot spot. Plain oval pupil, no decorative glint. The silhouette is the identical classic rubber duck outline across the entire six-image set — variation is only in scale and surface treatment. No props, no text, no sigils, no chrome. Editorial mood, like a museum catalog plate or an archival product study. Square 1:1 frame, keychain-scale impression achieved through tight crop and low placement against the seamless sweep.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The workhorse 10–25 cm classic rubber duck in pale seafoam (#A6D6D2) with a matte porcelain editorial finish, front-facing slightly elevated at 30°. Seamless backdrop in cool desaturated blue-gray (#7E8A98) tone, NOT warm, NOT tinted beyond palette. Soft diffused studio three-point lighting renders the duck as a porcelain sculpture on the seamless paper, the most-photographed SKU of the set. The matte surface absorbs the soft key light with no lacquered reflection, instead showing a chalk-soft falloff like unglazed ceramic. Plain oval pupil, no decorative glint. Identical classic rubber duck silhouette across the entire six-image set — variation here is the canonical pose and standard scale. No props, no text, no sigils, no UI chrome. Editorial mood — archival, restrained, the duck as a found typographic mark on warm paper. Square 1:1 frame, generous headroom around the figure.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A 15–30 cm classic rubber duck collaboration edition in pale seafoam (#A6D6D2) with a matte porcelain editorial finish, front-facing slightly elevated at 30°. Seamless backdrop in cool desaturated blue-gray (#7E8A98) tone, NOT warm, NOT tinted beyond palette. Soft diffused studio three-point lighting. The duck's body bears subtle chalk-line Witcher-style sigil etchings in dusty teal (#7FA9A4), faded and ghostly like inscriptions worn onto a runestone. The collaboration treatment is surface decoration only — the identical classic rubber duck silhouette is preserved across the entire set. Plain oval pupil, no decorative glint. The matte porcelain finish reads as unglazed ceramic under the soft key light, with no specular hot spot. No props, no text, no UI chrome. Editorial mood, museum-object gravity, the collaboration edition as a found artifact. Square 1:1 frame.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A 50–120 cm classic rubber duck photo-object in pale seafoam (#A6D6D2) with a matte porcelain editorial finish, front-facing slightly elevated at 30°. Seamless backdrop in cool desaturated blue-gray (#7E8A98) tone with a soft fog gradient lifting toward lighter blue-gray at the top, NOT warm, NOT tinted beyond palette. Soft diffused studio three-point lighting with a gentle key from upper left. The matte surface reads as cool unglazed porcelain, no lacquered reflection. Faint chalk-line sigil annotations in dusty teal (#7FA9A4) drift at the frame edges as compositional echoes of the hero atmosphere. Plain oval pupil, no decorative glint. Identical classic rubber duck silhouette — variation is scale and gravitas, not shape. Editorial mood, photo-object weight, the duck as a quiet monumental figure on seamless paper. Square 1:1 frame.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A monumental 1.5–3 m classic rubber duck statement installation in pale seafoam (#A6D6D2) with a matte porcelain editorial finish, front-facing slightly elevated at 30°. Seamless backdrop in cool desaturated blue-gray (#7E8A98) foggy atmosphere, with a gradient to #A6B0BA at the top edge, NOT warm, NOT tinted beyond palette. Soft diffused three-point lighting treats the duck as a monolith — an inscribed runestone artifact in a title-card composition. Faint chalk-line Witcher-style sigils and arcane glyphs in dusty teal (#7FA9A4) are etched around the duck as if carved into surrounding stone, drifting to the frame edges. Plain oval pupil, no decorative glint. Identical classic rubber duck silhouette at architectural scale. The matte surface absorbs the soft key light with no glossy reflection, reading as monumental unglazed ceramic. Editorial mood, found-artifact gravity, no UI chrome. Square 1:1 frame.",
+    "aspect_ratio": "1:1"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "slug": "css_design_awards_spectral-field-49730",
+  "palette": {
+    "bg": "#0B0B0B",
+    "fg": "#B8804A",
+    "accent": "#FFD24A",
+    "muted": "#6E5E4E",
+    "ink": "#C45410",
+    "surface": "#141210"
+  },
+  "fonts": {
+    "display": "JetBrains Mono",
+    "body": "JetBrains Mono",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Open the field"
+}

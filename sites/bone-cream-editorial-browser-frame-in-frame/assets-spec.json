@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A classic rubber duck rendered in a warm muted taupe (#A89580) matte porcelain finish, presented as a single museum-framed art object. The duck is centered within a clean white slim-profile picture frame, hung on a seamless warm putty (#E6E0D8) gallery-wall backdrop. Soft, natural window light from camera-left, no hard shadow, an even gentle falloff to the right. Below the frame, a small white museum label card holds a single curatorial caption in light Playfair Display serif type. The duck's silhouette is the iconic classic rubber duck — round plump body, upturned tail, simple flat beak, flat webbed feet — identical across all six SKUs. Plain oval pupils, no decorative glint. The composition is editorial, restrained, reverent — a Getty-exhibition-spread mood. 16:9 aspect ratio, archival still life, no props beyond the frame and label.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A miniature 5cm classic rubber duck keychain in warm muted taupe (#A89580) matte porcelain finish, photographed front-facing and slightly elevated at 30° on a seamless warm putty (#E6E0D8) paper backdrop. A delicate natural-leather cord loops through a small brass split ring attached to the duck's head. Soft diffused three-point studio lighting, even and quiet, no hard shadow. The duck's silhouette is identical to the full-size SKU — round plump body, upturned tail, simple flat beak, flat webbed feet. Plain oval pupils, no decorative glint. Editorial product still life, archival print quality, square 1:1. The duck is treated as a small museum artifact — a curio object, scaled down but composed with the same reverence as the larger pieces.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The 18cm classic rubber duck in warm muted taupe (#A89580) matte porcelain finish, front-facing and slightly elevated at 30°, on a seamless warm putty (#E6E0D8) studio paper backdrop. Soft diffused three-point studio lighting with the gentle quality of a north-facing window — no hard shadow, no rim. The duck's silhouette is identical to every other SKU in the collection: round plump body, gently upturned tail, simple flat beak, flat webbed feet. Plain oval pupils, no decorative glint. The body has a soft, hand-glazed matte surface that reads as porcelain rather than plastic. Editorial product still life, square 1:1, clean and quiet, the workhorse SKU presented as if it were a MoMA shop catalogue page — calm, considered, archival.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "The 22cm designer collaboration classic rubber duck in warm muted taupe (#A89580) matte porcelain finish, front-facing and slightly elevated at 30°, on a seamless warm putty (#E6E0D8) paper backdrop. The duck's body is overlaid with a delicate hand-drawn ink-line contour — fine sepia tracing lines that follow and double the silhouette, the literal gesture of 'tracing art.' A tiny artist signature mark sits at the base near the foot. Soft diffused three-point lighting, even and quiet. The duck's silhouette is identical to all other SKUs — round plump body, upturned tail, simple flat beak, flat webbed feet. Plain oval pupils, no decorative glint. Editorial still life, square 1:1, restrained museum-object treatment, the duck as a collaboration artefact worthy of the archive.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A 70cm classic rubber duck in warm muted taupe (#A89580) matte porcelain finish, front-facing and slightly elevated at 30°, on a seamless warm putty (#E6E0D8) studio paper backdrop. The duck is large enough to fill most of the frame, but the composition remains archival and product-photographic, not lifestyle. Soft diffused three-point lighting, no hard shadow, the surface reading as soft hand-glazed porcelain. The duck's silhouette is identical to every other SKU — round plump body, upturned tail, simple flat beak, flat webbed feet. Plain oval pupils, no decorative glint. A small white specimen card with the duck's catalogue number sits to one side, like a museum acquisition tag. Editorial still life, square 1:1, the duck treated as a large photo-object worthy of the archive.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A 2-meter classic rubber duck sculpture in warm muted taupe (#A89580) matte porcelain finish, presented on a low white museum plinth, front-facing and slightly elevated at 30°, on a seamless warm putty (#E6E0D8) gallery backdrop. The duck towers as a monumental art-object, the iconic silhouette scaled up to installation size. Soft natural window light, no hard shadow, the editorial restraint of an exhibition photograph. The duck's silhouette is identical to every other SKU — round plump body, upturned tail, simple flat beak, flat webbed feet. Plain oval pupils, no decorative glint. A small white gallery label set in a light Playfair Display serif sits at the plinth base. Editorial still life, square 1:1, the duck treated as a museum statement piece — a single iconic object commanding the room.",
+    "aspect_ratio": "1:1"
+  }
+]

@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QUACKTORY. — A Rubber Duck Collection</title>
+<meta name="description" content="Quacktory: a size collection of rubber ducks from 4 cm to 3 m. Micro, Classic, Designer, Mega, Architect.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600&family=Inter:wght@300;400;500&family=JetBrains+Mono:wght@400&display=swap">
+<link rel="stylesheet" href="./styles.css">
+
+</head>
+<body>
+
+<!-- Top chrome: corner labels + pill nav (translates crit's @DESIGN.ATUM / (2025) + addresses watch-out for nav) -->
+<header class="top-chrome">
+  <span class="corner corner-left">@QUACKTORY</span>
+  <span class="corner corner-right">(2026)</span>
+</header>
+
+<main>
+
+  <!-- Hero: Pattern A — duotone + giant serif headline (translates crit's centered uppercase title block) -->
+  <section class="hero" aria-label="Headline">
+    <p class="kicker">RUBBER DUCK COLLECTION DEVELOPMENT</p>
+    <h1 class="display">
+      <span class="display-line">QUACKTORY.</span>
+      <span class="display-line italic">size matters.</span>
+    </h1>
+    <p class="deck">Five sizes, one form. From a 4-centimetre keychain to a 3-metre lobby installation.</p>
+    <div class="hero-meta">
+      <span class="meta-item">SKU · 05</span>
+      <span class="meta-item meta-dot" aria-hidden="true">✦</span>
+      <span class="meta-item">EDITION · 2026</span>
+    </div>
+  </section>
+
+  <!-- Mood-board 3×3 grid: crit's centerpiece, translated to the Quacktory SKU set -->
+  <section class="moodboard section" id="collection">
+    <div class="grid" role="list">
+
+      <!-- Cell 1: product-micro with overlay headline -->
+      <article class="card card-product" data-sku="micro" data-size="4 cm" data-title="MICRO" data-desc="A 4 cm keychain duck. Brass ring, warm honey tint, glossy surface. The perfect companion for keys, a backpack, or a jacket zipper." role="listitem">
+        <div class="card-img"><img src="./assets/product-micro.jpg" alt="Micro 4 cm duck" loading="lazy"></div>
+        <div class="card-overlay">
+          <span class="card-tag">01 / 05</span>
+          <h3 class="card-title">MICRO.</h3>
+          <span class="card-arrow" aria-hidden="true">↓</span>
+        </div>
+      </article>
+
+      <!-- Cell 2: editorial layout card with inset (translates crit's ( CASE ) pattern) -->
+      <article class="card card-case" data-sku="case" data-size="—" data-title="CASE" data-desc="Quacktory's first order: the BAGNI FLAMIONA hotel, 2024. A series of 60 Classic ducks in a warm ochre palette arranged along the reception desk. Guests take a duck when they check in." role="listitem">
+        <span class="case-tag">( CASE )</span>
+        <h3 class="case-title">BAGNI<br>FLAMIONA.</h3>
+        <p class="case-body">Series of 60 · Classic · 2024 · Sanudo, Italy</p>
+        <span class="case-arrow" aria-hidden="true">↓ more</span>
+      </article>
+
+      <!-- Cell 3: product-classic with overlay -->
+      <article class="card card-product" data-sku="classic" data-size="15 cm" data-title="CLASSIC" data-desc="The 15 cm Classic duck. Warm amber tone, matte surface. The most-photographed duck in the collection — a workhorse for display windows, gifts, and themed shoots." role="listitem">
+        <div class="card-img"><img src="./assets/product-classic.jpg" alt="Classic 15 cm duck" loading="lazy"></div>
+        <div class="card-overlay">
+          <span class="card-tag">02 / 05</span>
+          <h3 class="card-title">CLASSIC.</h3>
+          <span class="card-arrow" aria-hidden="true">↓</span>
+        </div>
+      </article>
+
+      <!-- Cell 4: text card with sparkle glyph (translates crit's face-with-leaf + sparkle pattern) -->
+      <article class="card card-text" data-sku="manifesto" data-size="—" data-title="MANIFESTO" data-desc="We make the same duck in five sizes. Not five different ducks. One silhouette, tested by generations — enlarged or reduced. That is the collection." role="listitem">
+        <span class="sparkle" aria-hidden="true">✦</span>
+        <h3 class="text-title">FORM IS ALL<br>THAT REMAINS.</h3>
+        <p class="text-body">When you remove colour, the silhouette remains. When you remove the silhouette, only size remains.</p>
+      </article>
+
+      <!-- Cell 5: product-designer with overlay -->
+      <article class="card card-product" data-sku="designer" data-size="20 cm" data-title="DESIGNER" data-desc="The 20 cm Designer duck. Hand-painted "terracotta on ivory" with a scatter of dots. Each is painted by hand, so every dot pattern is unique. A collaborative release with the Saint Petersburg studio Moloko." role="listitem">
+        <div class="card-img"><img src="./assets/product-designer.jpg" alt="Designer 20 cm duck" loading="lazy"></div>
+        <div class="card-overlay">
+          <span class="card-tag">03 / 05</span>
+          <h3 class="card-title">DESIGNER.</h3>
+          <span class="card-arrow" aria-hidden="true">↓</span>
+        </div>
+      </article>
+
+      <!-- Cell 6: brand statement card (translates crit's HOW TO TURN A BUSINESS INTO A TREAT overlay) -->
+      <article class="card card-statement" data-sku="question" data-size="—" data-title="QUESTION" data-desc="How do you turn a $7 keychain into a $3,000 art object? The answer is scale. The same form. The same silhouette. A different room." role="listitem">
+        <h3 class="statement-title">HOW DO YOU TURN<br>A KEYCHAIN INTO AN ART OBJECT?</h3>
+        <span class="sparkle sparkle-lg" aria-hidden="true">✦</span>
+      </article>
+
+      <!-- Cell 7: hero-lifestyle scene with overlay (translates crit's woman-in-grass-field pattern) -->
+      <article class="card card-scene" data-sku="scene" data-size="—" data-title="SCENE" data-desc="Five Quacktory ducks lined up left to right: Micro, Classic, Designer, Mega, Architect. Each in its own room, in its own scale, in its own light. One silhouette, five worlds." role="listitem">
+        <div class="card-img"><img src="./assets/hero-lifestyle.jpg" alt="Quacktory lineup" loading="lazy"></div>
+        <div class="card-overlay card-overlay-light">
+          <h3 class="scene-title">FIVE DUCKS.<br>FIVE ROOMS.</h3>
+        </div>
+      </article>
+
+      <!-- Cell 8: product-mega with overlay -->
+      <article class="card card-product" data-sku="mega" data-size="50 cm" data-title="MEGA" data-desc="The 50 cm Mega duck. Glossy warm sepia, enlarged silhouette. For display windows, photo zones, lobbies and gifts people won't forget. Ships with a certificate and signature packaging." role="listitem">
+        <div class="card-img"><img src="./assets/product-mega.jpg" alt="Mega 50 cm duck" loading="lazy"></div>
+        <div class="card-overlay">
+          <span class="card-tag">04 / 05</span>
+          <h3 class="card-title">MEGA.</h3>
+          <span class="card-arrow" aria-hidden="true">↓</span>
+        </div>
+      </article>
+
+      <!-- Cell 9: product-architect with overlay -->
+      <article class="card card-product" data-sku="architect" data-size="3 m" data-title="ARCHITECT" data-desc="The 1.5–3 m Architect duck. Matte warm stone finish, pale clay and ochre. A sculptural object for lobbies, exhibition spaces and photo shoots. Made to order from 60 days." role="listitem">
+        <div class="card-img"><img src="./assets/product-architect.jpg" alt="Architect 1.5–3 m duck" loading="lazy"></div>
+        <div class="card-overlay">
+          <span class="card-tag">05 / 05</span>
+          <h3 class="card-title">ARCHITECT.</h3>
+          <span class="card-arrow" aria-hidden="true">↓</span>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- Size-ladder timeline: crit's bottom timeline rail translated to size progression -->
+  <section class="ladder section" id="ladder" aria-label="Size lineup">
+    <p class="kicker kicker-center">SIZE LINEUP</p>
+    <h2 class="ladder-title">ONE SILHOUETTE. FIVE SCALES.</h2>
+
+    <div class="rail" role="list">
+      <div class="rail-track" aria-hidden="true"></div>
+
+      <button class="rail-node" data-sku="micro" style="--p: 0%" role="listitem" aria-label="Micro 4 cm">
+        <span class="rail-dot"></span>
+        <span class="rail-label rail-label-vertical" aria-hidden="true">4 cm</span>
+        <span class="rail-name">MICRO</span>
+        <span class="rail-tag">keychain</span>
+      </button>
+
+      <button class="rail-node" data-sku="classic" style="--p: 25%" role="listitem" aria-label="Classic 15 cm">
+        <span class="rail-dot"></span>
+        <span class="rail-label rail-label-vertical" aria-hidden="true">15 cm</span>
+        <span class="rail-name">CLASSIC</span>
+        <span class="rail-tag">workhorse</span>
+      </button>
+
+      <button class="rail-node" data-sku="designer" style="--p: 50%" role="listitem" aria-label="Designer 20 cm">
+        <span class="rail-dot"></span>
+        <span class="rail-label rail-label-vertical" aria-hidden="true">20 cm</span>
+        <span class="rail-name">DESIGNER</span>
+        <span class="rail-tag">collab</span>
+      </button>
+
+      <button class="rail-node" data-sku="mega" style="--p: 75%" role="listitem" aria-label="Mega 50 cm">
+        <span class="rail-dot"></span>
+        <span class="rail-label rail-label-vertical" aria-hidden="true">50 cm</span>
+        <span class="rail-name">MEGA</span>
+        <span class="rail-tag">display</span>
+      </button>
+
+      <button class="rail-node" data-sku="architect" style="--p: 100%" role="listitem" aria-label="Architect 3 m">
+        <span class="rail-dot"></span>
+        <span class="rail-label rail-label-vertical" aria-hidden="true">3 m</span>
+        <span class="rail-name">ARCHITECT</span>
+        <span class="rail-tag">install</span>
+      </button>
+    </div>
+
+    <div class="ladder-foot" aria-hidden="true">
+      <span>4 CM</span>
+      <span class="ladder-foot-end">3 M</span>
+    </div>
+  </section>
+
+  <!-- Story / quote band: addresses "no CTA" watch-out with explicit CTAs -->
+  <section class="story section" id="story" aria-label="Brand story">
+    <p class="kicker">STORY</p>
+    <h2 class="story-title">
+      We started with one duck in 2019 — a keychain for a friend who is an architect.
+      Today the collection stands in lobbies, on display windows, and in museums.
+    </h2>
+    <div class="story-cta">
+      <a href="#order" class="btn btn-primary">Order the collection</a>
+      <a href="#ladder" class="btn btn-ghost">See the sizes ↓</a>
+    </div>
+  </section>
+
+  <!-- Bottom caption strip: translates crit's full-width bottom caption -->
+  <footer class="caption" id="order">
+    <div class="caption-inner">
+      <span>QUACKTORY · 2026 EDITION · SAINT PETERSBURG</span>
+      <span class="caption-mid">QUACK · QUACK · QUACK · </span>
+      <span><a href="mailto:hi@quacktory.space">HI@quacktory.space</a></span>
+    </div>
+  </footer>
+
+</main>
+
+<!-- Modal: opens when a card or rail-node is clicked (crit's modal pattern with accent bar) -->
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+  <div class="modal-overlay" data-close></div>
+  <div class="modal-window">
+    <button class="modal-close" data-close aria-label="Close">×</button>
+    <span class="modal-bar" aria-hidden="true"></span>
+    <p class="modal-eyebrow" id="modal-eyebrow">SKU · MICRO</p>
+    <p class="modal-size" id="modal-size">4 CM</p>
+    <h3 class="modal-title" id="modal-title">MICRO.</h3>
+    <p class="modal-desc" id="modal-desc"></p>
+    <div class="modal-actions">
+      <a href="#order" class="btn btn-primary" data-close>Order</a>
+      <button class="btn btn-ghost" data-close>Close</button>
+    </div>
+  </div>
+</div>
+
+<script type="module" src="./main.js"></script>
+
+</body>
+</html>

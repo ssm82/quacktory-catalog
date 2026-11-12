@@ -1,0 +1,20 @@
+{
+  "slug": "persepolis-reimagined",
+  "palette": {
+    "bg": "#C2A983",
+    "fg": "#F2EBDD",
+    "accent": "#A8914C",
+    "muted": "#7B6A6E",
+    "ink": "#1F1A12",
+    "surface": "#D6CBA6"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Click enter"
+}

@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quacktory · Destination Pond</title>
+<meta name="description" content="Quacktory Destination Pond — a single-offer travel concept for the five-piece Quacktory size ladder, framed as a dreamy sunset booking experience.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+
+<main>
+
+  <!-- 01 HERO — the floating destination card -->
+  <section class="section hero" id="hero">
+    <div class="hero-orb" aria-hidden="true"></div>
+    <div class="hero-sparkles" aria-hidden="true">
+      <span class="spk s1"></span><span class="spk s2"></span><span class="spk s3"></span>
+      <span class="spk s4"></span><span class="spk s5"></span>
+    </div>
+
+    <div class="card" id="card">
+      <div class="card-window">
+        <img src="./assets/hero-lifestyle.jpg" alt="Sunset desert with a duck silhouette on a rock" />
+      </div>
+
+      <p class="card-label">destination</p>
+      <h1 class="card-headline">Pond</h1>
+
+      <ul class="card-meta" aria-label="Trip metadata">
+        <li><span class="m-key">period</span><span class="m-val">4 cm — 3 m</span></li>
+        <li><span class="m-key">vessel</span><span class="m-val">Quacktory Ladder</span></li>
+        <li><span class="m-key">from</span><span class="m-val">$ 150</span></li>
+      </ul>
+
+      <button class="card-cta" type="button" id="openOrder">
+        <svg viewBox="0 0 14 16" width="14" height="16" aria-hidden="true" class="cta-mark">
+          <path fill="currentColor" d="M9.4 4.5c-.4-.4-1-.7-1.7-.7-1 0-1.7.5-1.7 1.2 0 .6.4.9 1.4 1.2 1.5.4 2.2 1 2.2 2.2 0 1.3-1.1 2.1-2.6 2.2V12h-1v-1.4c-1.1-.1-2-.7-2.5-1.6l.9-.5c.4.7 1 1.1 1.9 1.1 1 0 1.7-.4 1.7-1.2 0-.6-.4-1-1.5-1.3-1.4-.4-2.1-.9-2.1-2.1 0-1.2 1-2 2.5-2.1V1.5h1v1.4c1 .1 1.7.6 2.1 1.3z"/>
+        </svg>
+        Pay
+      </button>
+
+      <p class="card-tag">Quack, wade and ship.</p>
+    </div>
+  </section>
+
+</main>
+
+<!-- Modal -->
+<div class="modal" id="modal" hidden role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+  <div class="modal-overlay" data-close></div>
+  <div class="modal-frame">
+    <button class="modal-close" data-close aria-label="Close">
+      <svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" d="M3 3l10 10M13 3L3 13"/></svg>
+    </button>
+    <span class="modal-accent" aria-hidden="true"></span>
+    <p class="modal-size" id="modalSize">—</p>
+    <h3 class="modal-title" id="modalTitle">—</h3>
+    <img class="modal-img" id="modalImg" alt="" />
+    <p class="modal-desc" id="modalDesc">—</p>
+    <p class="modal-price" id="modalPrice">—</p>
+    <button class="modal-cta" type="button">Book this berth</button>
+  </div>
+</div>
+
+<script src="main.js" defer></script>
+</body>
+</html>

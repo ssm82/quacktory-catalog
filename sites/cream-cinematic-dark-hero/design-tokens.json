@@ -1,0 +1,20 @@
+{
+  "slug": "converse-diamonds",
+  "palette": {
+    "bg": "#050505",
+    "fg": "#F7F8FA",
+    "accent": "#E21D32",
+    "muted": "#34506E",
+    "ink": "#0E1E30",
+    "surface": "#DDEBFF"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "Archivo",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "View the story"
+}

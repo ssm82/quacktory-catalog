@@ -1,0 +1,20 @@
+{
+  "slug": "into-the-storm",
+  "palette": {
+    "bg": "#2D3744",
+    "fg": "#FFFFFF",
+    "accent": "#F4B81E",
+    "muted": "#B4C3CE",
+    "ink": "#1B232C",
+    "surface": "#3A4453"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "Source Sans 3",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Start the mission"
+}

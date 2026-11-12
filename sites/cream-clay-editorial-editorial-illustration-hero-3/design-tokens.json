@@ -1,0 +1,21 @@
+{
+  "slug": "miranda-paper-portfolio",
+  "palette": {
+    "bg": "#E8E2D5",
+    "fg": "#141414",
+    "accent": "#E8C547",
+    "muted": "#9C7B5F",
+    "ink": "#0F0F0F",
+    "surface": "#EDE6D8"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Cormorant Garamond",
+    "mono": "",
+    "wordmark": "UnifrakturMaguntia"
+  },
+  "hero_pattern": "D",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "See the work"
+}

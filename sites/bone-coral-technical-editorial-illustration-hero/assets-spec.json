@@ -1,0 +1,37 @@
+[
+  {
+    "filename": "engine-exploded.png",
+    "prompt": "White-on-transparent technical line drawing of an exploded mechanical assembly: knurled focus ring, lens barrel with engraved ticks, threaded rings, toothed gear cluster, vertical axis, patent-diagram linework, no fills, no shading, 1px strokes.",
+    "aspect_ratio": "2:3"
+  },
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "Classic rubber duck as monumental centrepiece, signal red #E63946 finish, on a seamless backdrop in #0B0B0B tone (NOT warm amber finish, NOT tinted beyond palette). Technical register — blueprint-clean, flat even studio lighting, three-point diffusion, no dramatic shadows, no rim light. The duck stands at the centre of a vast dark drawing-surface, rendered as if it were an exploded engineering schematic: crisp outlines, uniform line weight, no glossy reflections, no resin shine, no specular highlights. Front-facing, slightly elevated, 30°, monumental scale relative to the frame. Thin white leader-lines extend from the duck silhouette outward to lowercase monospace annotation labels, all white at reduced opacity. A small white wordmark sits top-left; a single red square accent marks one corner. A narrow 6-stop rainbow spectrum strip sits at bottom-right, the only chromatic break in an otherwise two-tone composition. Silhouette identical to a classic rubber duck — round body, upright neck, small beak, two flat feet. Plain oval pupil, no decorative glint, no catchlight. Camera: editorial technical lens, sharp focus edge to edge, low ISO, no grain.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Classic rubber duck, micro keychain scale (4–8 cm), signal red #E63946 finish, photographed on a seamless backdrop in #0B0B0B tone (NOT warm amber finish, NOT tinted beyond palette). Technical register — flat even studio lighting, soft diffused, three-point, no harsh shadow, no rim, no gloss. Surface reads as matte porcelain or fine matte rubber, no lacquered reflections, no specular highlights, no resin bloom. Front-facing, slightly elevated, 30° angle, sharp focus, low ISO, no grain. Silhouette is the identical classic rubber-duck outline: round body, upright neck, small beak, two flat feet — same shape as the larger SKUs, only scale differs. Plain oval pupil, no decorative glint, no catchlight, no sparkle, no heart, no star, no pixel. The duck is centred in the frame, the entire silhouette clearly readable against the dark studio ground. Colourway: solid signal red body with white beak and white feet as a single two-tone treatment, matching the anime.js schematic palette. Negative space dominates, ruler-precise composition.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Classic rubber duck, standard workhorse scale (10–25 cm), signal red #E63946 finish, photographed on a seamless backdrop in #0B0B0B tone (NOT warm amber finish, NOT tinted beyond palette). Technical register — flat even studio lighting, soft diffused, three-point, no harsh shadow, no rim, no gloss. Surface reads as matte porcelain or fine matte rubber, no lacquered reflections, no specular highlights, no resin bloom. Front-facing, slightly elevated, 30° angle, sharp focus edge to edge, low ISO, no grain. Silhouette identical to a classic rubber-duck outline: round body, upright neck, small beak, two flat feet. Plain oval pupil, no decorative glint, no catchlight, no sparkle, no heart, no star, no pixel. The duck is centred in the frame, the entire silhouette clearly readable against the dark studio ground. Colourway: solid signal red body with white beak and white feet, two-tone treatment, matching the anime.js schematic palette. Negative space dominates, ruler-precise composition.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Classic rubber duck, designer collaboration edition (15–30 cm), signal red #E63946 finish with anime.js blueprint-line treatment, photographed on a seamless backdrop in #0B0B0B tone (NOT warm amber finish, NOT tinted beyond palette). Technical register — flat even studio lighting, soft diffused, three-point, no harsh shadow, no rim, no gloss. Surface reads as a fine technical-schematic object: matte red body overlaid with thin white isometric construction lines, like an exploded engineering drawing, no glossy reflections, no resin shine, no specular highlights. Front-facing, slightly elevated, 30° angle, sharp focus, low ISO, no grain. Silhouette identical to a classic rubber-duck outline: round body, upright neck, small beak, two flat feet. Plain oval pupil, no decorative glint, no catchlight, no sparkle, no heart, no star, no pixel. The duck is centred in the frame, the entire silhouette clearly readable against the dark studio ground. A small red square accent and lowercase monospace label mark the composition, completing the schematic metaphor.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Classic rubber duck, mega photo-object scale (50–120 cm), signal red #E63946 finish, photographed on a seamless backdrop in #0B0B0B tone (NOT warm amber finish, NOT tinted beyond palette). Technical register — flat even studio lighting, soft diffused, three-point, no harsh shadow, no rim, no gloss. Surface reads as matte porcelain or fine matte rubber, no lacquered reflections, no specular highlights, no resin bloom. Front-facing, slightly elevated, 30° angle, sharp focus edge to edge, low ISO, no grain. Silhouette identical to a classic rubber-duck outline: round body, upright neck, small beak, two flat feet — only scale differs from the smaller SKUs. Plain oval pupil, no decorative glint, no catchlight, no sparkle, no heart, no star, no pixel. The duck is centred in the frame, the entire silhouette clearly readable against the dark studio ground, the mass of the form dominating the square frame. Colourway: solid signal red body with white beak and white feet, two-tone treatment matching the anime.js schematic palette. Ruler-precise composition.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Classic rubber duck, architect statement-installation scale (1.5–3 m), signal red #E63946 finish, photographed on a seamless backdrop in #0B0B0B tone (NOT warm amber finish, NOT tinted beyond palette). Technical register — flat even studio lighting, soft diffused, three-point, no harsh shadow, no rim, no gloss. Surface reads as matte porcelain or fine matte rubber, no lacquered reflections, no specular highlights, no resin bloom. The duck is monumental, occupying most of the frame, the silhouette identical to a classic rubber-duck outline: round body, upright neck, small beak, two flat feet — only scale differs from the smaller SKUs. Front-facing, slightly elevated, 30° angle, sharp focus edge to edge, low ISO, no grain. Plain oval pupil, no decorative glint, no catchlight, no sparkle, no heart, no star, no pixel. The duck is centred, the entire silhouette clearly readable against the dark studio ground, a ruler-precise composition. Colourway: solid signal red body with white beak and white feet, two-tone treatment matching the anime.js schematic palette. Negative space reduced to a thin margin.",
+    "aspect_ratio": "1:1"
+  }
+]

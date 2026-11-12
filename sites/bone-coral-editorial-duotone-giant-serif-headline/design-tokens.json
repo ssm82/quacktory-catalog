@@ -1,0 +1,20 @@
+{
+  "slug": "superlist",
+  "palette": {
+    "bg": "#FF5544",
+    "fg": "#FFFFFF",
+    "accent": "#0A0A0A",
+    "muted": "#1A1A1A",
+    "ink": "#0A0A0A",
+    "surface": "#222222"
+  },
+  "fonts": {
+    "display": "Inter",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Get notified"
+}

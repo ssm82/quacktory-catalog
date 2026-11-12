@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quacktory — Serious ducks for un-serious people</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@300;400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<a class="skip" href="#taxonomy">Skip to lineup</a>
+
+<header class="strip strip--top" aria-label="Top film strip">
+  <div class="strip__rail"></div>
+  <div class="strip__rail"></div>
+</header>
+
+<main class="reel" id="top">
+
+  <section class="frame" aria-label="Frame">
+
+    <figure class="frame__plate">
+      <img class="frame__img" src="./assets/hero-lifestyle.jpg" alt="Quacktory duck archive: a single silhouette in every scale">
+      <figcaption class="frame__caption">
+        <span class="frame__caption-cell">№ 132 / DUCK ARCHIVE</span>
+        <span class="frame__caption-cell">35 MM · KEEP STILL</span>
+      </figcaption>
+    </figure>
+
+    <aside class="frame__meta" aria-label="Colophon">
+      <p class="eyebrow"><span>2025</span><span>·</span><span>RUBBER COMPANY</span></p>
+      <h1 class="wordmark">
+        <span class="wordmark__line">QUACK</span>
+        <span class="wordmark__line">TORY</span>
+        <span class="wordmark__line wordmark__line--small">SERIOUS</span>
+      </h1>
+      <dl class="contact">
+        <div><dt>MATERIAL</dt><dd>SINGLE-PIECE RUBBER</dd></div>
+        <div><dt>RANGE</dt><dd>4 CM — 3 M</dd></div>
+        <div><dt>MASTER MODEL</dt><dd>CNC MILLING</dd></div>
+        <div><dt>QC</dt><dd>5 CHECKS</dd></div>
+      </dl>
+      <blockquote class="quote">
+        <p>"We make ducks you'll want to keep on a shelf rather than float in a bath. Pocket-sized. Lobby-sized. Frame-worthy."</p>
+      </blockquote>
+    </aside>
+
+    <ul class="frame__acclaim" aria-label="Press for the collection">
+      <li class="acclaim" data-sku="micro">
+        <button class="acclaim__btn" type="button" aria-haspopup="dialog">
+          <div class="acclaim__stars" aria-hidden="true">★ ★ ★ ★ ★</div>
+          <p class="acclaim__body">"Fits in a jacket pocket. Looks like a toy. Turns out to be a brand imprint."</p>
+          <p class="acclaim__src">— IMPULSE-BUYER MAGAZINE</p>
+        </button>
+      </li>
+      <li class="acclaim" data-sku="classic">
+        <button class="acclaim__btn" type="button" aria-haspopup="dialog">
+          <div class="acclaim__stars" aria-hidden="true">★ ★ ★ ★ ★</div>
+          <p class="acclaim__body">"Survived a five-foot drop onto concrete and a three-year-old. Not a single crack in the silhouette."</p>
+          <p class="acclaim__src">— PARENT CLUB</p>
+        </button>
+      </li>
+      <li class="acclaim" data-sku="designer">
+        <button class="acclaim__btn" type="button" aria-haspopup="dialog">
+          <div class="acclaim__stars" aria-hidden="true">★ ★ ★ ★ ☆</div>
+          <p class="acclaim__body">"A limited collab with an illustrator whose hand you recognise from the first centimetre."</p>
+          <p class="acclaim__src">— COLLECTOR DAILY</p>
+        </button>
+      </li>
+      <li class="acclaim" data-sku="mega">
+        <button class="acclaim__btn" type="button" aria-haspopup="dialog">
+          <div class="acclaim__stars" aria-hidden="true">★ ★ ★ ★ ★</div>
+          <p class="acclaim__body">"A metre-tall figure by the front desk. An object, not a prop."</p>
+          <p class="acclaim__src">— HOSPITALITY DESIGN</p>
+        </button>
+      </li>
+      <li class="acclaim" data-sku="architect">
+        <button class="acclaim__btn" type="button" aria-haspopup="dialog">
+          <div class="acclaim__stars" aria-hidden="true">★ ★ ★ ★ ★</div>
+          <p class="acclaim__body">"Three metres of steel skeleton and rubber. An installation you want to walk around."</p>
+          <p class="acclaim__src">— ARCHITECTURAL DIGEST</p>
+        </button>
+      </li>
+    </ul>
+
+  </section>
+
+  <section class="timeline" id="taxonomy" aria-label="Size scale">
+    <header class="timeline__head">
+      <p class="eyebrow"><span>SIZE MAP</span></p>
+      <h2 class="timeline__title">4 CM — 3 M, ONE SILHOUETTE</h2>
+      <p class="timeline__legend">Tap a node to open the lineup passport.</p>
+    </header>
+    <div class="timeline__rail" role="tablist" aria-label="Quacktory lineups">
+      <button class="node" data-sku="micro" role="tab" aria-selected="false">
+        <span class="node__size">4–8</span><span class="node__unit">CM</span>
+        <span class="node__label">MICRO</span>
+        <span class="node__hint">thumb-sized</span>
+      </button>
+      <button class="node" data-sku="classic" role="tab" aria-selected="false">
+        <span class="node__size">10–25</span><span class="node__unit">CM</span>
+        <span class="node__label">CLASSIC</span>
+        <span class="node__hint">cat-sized</span>
+      </button>
+      <button class="node" data-sku="designer" role="tab" aria-selected="false">
+        <span class="node__size">15–30</span><span class="node__unit">CM</span>
+        <span class="node__label">DESIGNER</span>
+        <span class="node__hint">cat-sized, limited</span>
+      </button>
+      <button class="node" data-sku="mega" role="tab" aria-selected="false">
+        <span class="node__size">50–120</span><span class="node__unit">CM</span>
+        <span class="node__label">MEGA</span>
+        <span class="node__hint">child-sized</span>
+      </button>
+      <button class="node" data-sku="architect" role="tab" aria-selected="false">
+        <span class="node__size">1.5–3</span><span class="node__unit">M</span>
+        <span class="node__label">ARCHITECT</span>
+        <span class="node__hint">bear-sized</span>
+      </button>
+    </div>
+    <div class="timeline__scale" aria-hidden="true">
+      <span>4 CM</span><span>25</span><span>50</span><span>1 M</span><span>2 M</span><span>3 M</span>
+    </div>
+  </section>
+
+  <section class="production" id="production" aria-label="Production">
+    <header class="production__head">
+      <p class="eyebrow eyebrow--cream"><span>·  ·  ·</span><span>PRODUCTION</span><span>·  ·  ·</span></p>
+      <h2 class="production__title">HOW WE MAKE DUCKS</h2>
+    </header>
+    <ol class="qc">
+      <li><span class="qc__n">01</span><h3>Visual inspection</h3><p>No pores, no streaks, no under-fill. Every duck is hand-checked.</p></li>
+      <li><span class="qc__n">02</span><h3>Geometry</h3><p>Beak, eyes, feet — all in place. Proportions within ±2% of the master.</p></li>
+      <li><span class="qc__n">03</span><h3>Drop test</h3><p>Micro and Classic — five drops from one metre onto concrete. No cracks.</p></li>
+      <li><span class="qc__n">04</span><h3>Smell test</h3><p>No rubbery off-odour. A sign of bad vulcanisation — ruled out.</p></li>
+      <li><span class="qc__n">05</span><h3>Gravimetric check</h3><p>Mass within ±3% of the master. Master archive — one per batch.</p></li>
+    </ol>
+    <ul class="badges" aria-label="Certifications">
+      <li>GOST 25779-83</li>
+      <li>EN 71-3</li>
+      <li>REACH</li>
+      <li>−20 °C … +60 °C</li>
+      <li>INDOOR ONLY</li>
+    </ul>
+  </section>
+
+  <section class="b2b" id="b2b" aria-label="Custom and B2B">
+    <header class="b2b__head">
+      <p class="eyebrow eyebrow--cream"><span>B2B</span><span>·</span><span>CONTRACT</span></p>
+      <h2 class="b2b__title">CUSTOM IS A PALETTE, NOT A REPAINT</h2>
+      <p class="b2b__lede">Segment D gets twelve signature TPM colours from the Quacktory Pigment Menu. Pigment goes into the mass before moulding — fastness and lead times stay predictable. A fully custom Pantone is quoted separately: +2 weeks, +15% to the price. Custom geometry is its own project.</p>
+    </header>
+    <div class="b2b__grid">
+      <ul class="lead" aria-label="Lead times">
+        <li><span>MICRO / CLASSIC</span><b>3 WEEKS</b></li>
+        <li><span>DESIGNER</span><b>6 WEEKS</b></li>
+        <li><span>MEGA</span><b>6 WEEKS</b></li>
+        <li><span>ARCHITECT</span><b>12 WEEKS</b></li>
+      </ul>
+      <form class="rfp" aria-label="Request a quote" onsubmit="return false">
+        <label>NAME <input type="text" placeholder="What should we call you?"></label>
+        <label>BRAND / VENUE <input type="text" placeholder="Brand or venue name"></label>
+        <label>LINEUP <select>
+          <option>MICRO — keychains and merch</option>
+          <option>CLASSIC — kids and desk</option>
+          <option>DESIGNER — limited collaboration</option>
+          <option>MEGA — window and photo object</option>
+          <option>ARCHITECT — 1.5–3 m installation</option>
+        </select></label>
+        <label>MESSAGE <textarea rows="3" placeholder="TPM colour, run size, install notes"></textarea></label>
+        <button type="submit">REQUEST A QUOTE</button>
+      </form>
+    </div>
+  </section>
+
+</main>
+
+<header class="strip strip--bottom" aria-hidden="true">
+  <div class="strip__rail"></div>
+  <div class="strip__rail"></div>
+</header>
+
+<footer class="foot" aria-label="Footer">
+  <div class="foot__col">
+    <p class="foot__brand">QUACKTORY</p>
+    <p class="foot__tag">Serious ducks for un-serious people.</p>
+  </div>
+  <div class="foot__col">
+    <p class="foot__h">CONTACT</p>
+    <p>hello@quacktory.space</p>
+    <p>+1 (000) 132-04-08</p>
+  </div>
+  <div class="foot__col">
+    <p class="foot__h">SOCIAL</p>
+    <p>Instagram · Telegram · VK</p>
+  </div>
+  <div class="foot__col">
+    <p class="foot__h">PAYMENT</p>
+    <p>Cards · Bank transfer for B2B</p>
+  </div>
+  <div class="foot__col foot__col--legal">
+    <p>© 2025 Quacktory. Sole proprietorship Serious Ducks. Every duck is single-piece. Age marking varies by lineup — see packaging. Brand DNA document v2.0.</p>
+  </div>
+</footer>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+  <div class="modal__overlay" data-close></div>
+  <article class="modal__card">
+    <button class="modal__close" type="button" data-close aria-label="Close">✕</button>
+    <p class="modal__eyebrow" id="modal-eyebrow">DUCK PASSPORT</p>
+    <h3 class="modal__title" id="modal-title">MICRO</h3>
+    <p class="modal__size" id="modal-size">4–8 cm · thumb-sized</p>
+    <p class="modal__body" id="modal-body"></p>
+    <dl class="modal__spec" id="modal-spec"></dl>
+    <div class="modal__share">
+      <button class="share" id="share" type="button"><span class="share__lbl">Share</span> <span class="share__num" id="share-num">0</span> <span class="share__sep">/</span> <span class="share__cap" id="share-cap">132</span></button>
+    </div>
+  </article>
+</div>
+
+<script src="main.js" defer></script>
+</body>
+</html>

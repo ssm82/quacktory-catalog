@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A classic rubber duck with identical silhouette across the line: same body outline, beak, and feet. Matte porcelain finish in a muted cyan body tone (no gloss, no lacquer), seated monumental at center of a saturated seamless backdrop in deep CRT-red tone (#E50E1E), with the red continuing floor to wall like a designed editorial set, the duck on location inside its own color environment. Soft window light from camera left, three-quarter angle, slightly elevated, casting a long porcelain shadow that anchors the duck to the floor. Plain oval pupils, no decorative glint. The mood is editorial and design-led: confidence, restraint, dramatic color tension between cyan body and red field. No props, no gloss, no hard shadow lines. The red is rich and saturated, never drifting toward warm amber finish, never tinted beyond palette. The duck reads as a typographic object placed inside an editorial spread, like a museum still-life subject occupying a room.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A 4–8cm classic rubber duck keychain with identical silhouette across the line: same body outline, beak, and feet as the larger SKUs. Matte porcelain finish in a muted cyan body tone, no gloss, no lacquer. Seated on a seamless backdrop in saturated CRT-red tone (#E50E1E), the red field rich and even, never drifting toward warm amber finish, never tinted beyond palette. Soft diffused studio lighting, three-point setup, front-facing, slightly elevated at 30°, with a hairline shadow under the feet. Plain oval pupils, no sparkle, no decorative glint. The tiny scale is rendered with a precise macro feel, the duck centered, calm, and editorial in restraint. The cyan body against the red ground creates dramatic color tension. No props, no visible chrome, no surface reflection. Editorial mood of confidence and design restraint.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "A 10–25cm classic rubber duck, the workhorse SKU, with identical silhouette across the line: same body outline, beak, and feet. Matte porcelain finish in a muted cyan body tone, no gloss, no lacquer. Seated on a seamless backdrop in saturated CRT-red tone (#E50E1E), the red field rich and even, never drifting toward warm amber finish, never tinted beyond palette. Soft diffused studio lighting, three-point setup, front-facing, slightly elevated at 30°. Plain oval pupils, no sparkle, no decorative glint. Centered, calm, editorial restraint. The cyan body against the red ground creates dramatic color tension. Hairline shadow under the feet. No props, no visible chrome, no surface reflection. The porcelain surface reads matte and tactile, like a museum specimen posed on a red stage, the duck itself quiet and typographic.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A 15–30cm classic rubber duck, collaboration edition, with identical silhouette across the line: same body outline, beak, and feet. Matte porcelain finish in a high-contrast two-tone treatment: muted cyan body with a deep ink-black (#0A0A0A) pixel-mosaic band across the eye area, evoking a censored or glitched identity concept borrowed from the site's hero motif. Seated on a seamless backdrop in saturated CRT-red tone (#E50E1E), the red field rich and even, never drifting toward warm amber finish, never tinted beyond palette. Soft diffused studio lighting, three-point setup, front-facing, slightly elevated at 30°. Plain oval pupils, no sparkle, no decorative glint. Hairline shadow under the feet. The cyan-and-black duck against the red ground creates a layered editorial tension. No props, no gloss, no surface reflection.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A 50–120cm classic rubber duck, photo-object scale, with identical silhouette across the line: same body outline, beak, and feet. Matte porcelain finish in a muted cyan body tone, no gloss, no lacquer. The duck is sized so it fills roughly 60% of the frame, seated on a seamless backdrop in saturated CRT-red tone (#E50E1E), the red field rich and even, never drifting toward warm amber finish, never tinted beyond palette. Soft diffused studio lighting, three-point setup, front-facing, slightly elevated at 30°. Plain oval pupils, no sparkle, no decorative glint. The scale is large but the composition is calm and editorial. Hairline shadow under the feet. The cyan body against the red ground creates dramatic color tension. No props, no visible chrome, no surface reflection. The porcelain reads as monumental but quiet.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A 1.5–3m classic rubber duck, statement installation scale, with identical silhouette across the line: same body outline, beak, and feet. Matte porcelain finish in a muted cyan body tone, no gloss, no lacquer. Frontal monumental view, the duck filling most of the frame, on a seamless backdrop in saturated CRT-red tone (#E50E1E), the red field rich and even, never drifting toward warm amber finish, never tinted beyond palette. Faint architectural scale cues — a single hairline floor seam and a long shadow under the feet — suggest the duck's larger-than-human size. Soft diffused studio lighting, three-point setup, front-facing, slightly elevated at 30°. Plain oval pupils, no sparkle, no decorative glint. The cyan body against the red ground creates dramatic color tension. No props, no gloss, no surface reflection. The composition reads as quiet monumentality, the duck as a typographic landmark in a saturated red room.",
+    "aspect_ratio": "1:1"
+  }
+]

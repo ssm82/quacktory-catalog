@@ -1,0 +1,20 @@
+{
+  "slug": "the-shift-1",
+  "palette": {
+    "bg": "#F1F1F1",
+    "fg": "#1A1A1A",
+    "accent": "#E5202A",
+    "muted": "#999999",
+    "ink": "#111111",
+    "surface": "#E8E8E8"
+  },
+  "fonts": {
+    "display": "Italiana",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "View projects"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "53198839343569150",
+  "palette": {
+    "bg": "#1d3a3a",
+    "fg": "#f5efe6",
+    "accent": "#c87238",
+    "muted": "#5a4a2e",
+    "ink": "#1d3a3a",
+    "surface": "#2e4e4a"
+  },
+  "fonts": {
+    "display": "Cormorant Garamond",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Read the manifesto"
+}

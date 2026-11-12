@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A classic rubber duck in warm moss-green matte porcelain finish, a soft amber-leaning moss tone, never warm amber finish, presented inside a soft-shadow floating installation frame on a seamless warm cream backdrop in the exact tone of #EDE6DC. The frame echoes the brand's browser-window framing device, with rounded corners and a gentle outer drop shadow sitting on the cream paper. The duck is small and symbolic within the installation, occupying roughly a third of the inner frame, surrounded by quiet negative space. Editorial mood: matte porcelain on warm paper, soft natural window light from upper left, gentle shadow grounding the base. A small patch of moss and a single dried botanical element sit at the duck's base, hinting at the brand's nature-meets-tech language. Plain oval pupil, no decorative glint. The duck is front-facing, slightly elevated 30° within the frame, the surrounding frame and dappled cream paper giving the image a portfolio-showcase quality rather than a product-listing energy. Calm, premium, sustainability-adjacent, the duck as a precious typographic object."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Classic rubber duck, keychain scale 4–8cm, in a warm moss-green matte porcelain finish, a soft amber-leaning moss tone, never warm amber finish. Photographed on a seamless warm cream backdrop in the exact tone of #EDE6DC. Editorial mood: matte porcelain on warm paper, soft diffused three-point studio lighting with a gentle window-light quality, no lacquered reflections. The duck is small within the frame, occupying roughly a quarter of the canvas, surrounded by generous warm negative space that reads as a quiet typographic object on paper. A subtle keychain loop is implied at the crown of the head, integrated cleanly into the silhouette. Plain oval pupil, no decorative glint. Front-facing, slightly elevated 30° camera angle. No props, no extra elements, no props competing for attention. The image is calm, premium, sustainability-adjacent, the workhorse micro-SKU rendered like a quiet editorial still life in the Floema palette."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Classic rubber duck, the workhorse 10–25cm SKU, in a warm moss-green matte porcelain finish, a soft amber-leaning moss tone, never warm amber finish. Centered on a seamless warm cream backdrop in the exact tone of #EDE6DC. Editorial mood: matte porcelain on warm paper, soft diffused three-point studio lighting with a gentle window-light quality. No gloss, no specular highlights beyond a soft sheen — the surface reads as calm and tactile, like fired ceramic. The duck occupies roughly 35% of the frame with generous warm negative space around it, the most-photographed SKU of the Floema line. Plain oval pupil, no decorative glint. Front-facing, slightly elevated 30° camera angle. No props, no extra elements, the duck as a typographic object on warm paper. The image is quiet, calm, and premium, the editorial still life the catalog lead image."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Classic rubber duck silhouette, identical outline to the workhorse SKU, in a designer collaboration finish: taupe-warm-gray porcelain base with patches of green moss texture distributed across the body, echoing the Floema brand's stone-and-moss hero sculpture language. Photographed on a seamless warm cream backdrop in the exact tone of #EDE6DC. Editorial mood: matte porcelain on warm paper, soft diffused three-point studio lighting. The duck is a small organic sculpture, occupying roughly 40% of the frame. The mossy surface is detailed but never cartoonish, sitting within the muted, sustainable, premium Floema palette of moss green, taupe, and warm cream. A few stray moss flecks at the base ground the duck to the surface and reinforce the hand-finished quality. Plain oval pupil, no decorative glint. Front-facing, slightly elevated 30° camera angle. The collaboration edition reads as tactile, hand-finished, and quiet."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Classic rubber duck, mega scale 50–120cm, in a warm moss-green matte porcelain finish, a soft amber-leaning moss tone, never warm amber finish. Photographed on a seamless warm cream backdrop in the exact tone of #EDE6DC. Editorial mood: matte porcelain on warm paper, soft diffused three-point studio lighting with a gentle window-light quality. The duck dominates the frame at roughly 65% of canvas, monumental yet calm, the photo-object SKU. The matte porcelain surface absorbs light, no lacquered reflections, just a soft tactile presence. Plain oval pupil, no decorative glint. Front-facing, slightly elevated 30° camera angle. No props, no extra elements, the duck as a large quiet typographic object on warm paper, a museum-grade object rather than a toy. Calm, premium, sustainability-adjacent, the duck reads as a refined photo-object within the Floema palette."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Classic rubber duck, architect scale 1.5–3m, in a warm moss-green matte porcelain finish, a soft amber-leaning moss tone, never warm amber finish. Photographed on a seamless warm cream backdrop in the exact tone of #EDE6DC. The monumental duck fills the frame as a statement installation object, roughly 80% of canvas, overwhelming the negative space. Editorial mood: matte porcelain on warm paper, soft diffused three-point studio lighting with a gentle window-light quality. The matte porcelain surface is tactile, no high-gloss reflections, just a quiet monumental presence. Plain oval pupil, no decorative glint. Front-facing, slightly elevated 30° camera angle, but the overwhelming scale shifts the tone from product to architecture. A small patch of moss and a single dried botanical element at the base echo the Floema nature-meets-tech brand language without competing with the silhouette. Calm, premium, museum-grade, the duck as architecture."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck, finished in deep charcoal near-black matte porcelain (#1A1A1A), installed inside a thin warm cream mat border (#F4EFE6) suspended against a seamless backdrop in muted sage olive tone (#8B8B6F), NOT warm amber finish, NOT tinted beyond palette. The duck is the focal subject of an editorial poster: body outline, beak, and feet identical to the standard rubber duck silhouette across the set, with a warm cream beak and matching cream feet. Plain oval pupils, no decorative glint. Hero treatment follows pattern B — the duck as a framed installation: three-quarter view angled slightly camera-right, beak catching soft window light from camera-left, gentle falloff into the sage field. Thin off-white mat frames the subject with generous negative space; faint typographic weight in the upper-left third suggests an oversized display headline bleeding across the page without competing with the subject. Soft window key, gentle fill, no rim, no hard shadow. Matte porcelain surface reads like a still-life object pinned to a magazine cover. 16:9, frontal elevation with subtle low angle.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A tiny classic rubber duck at keychain scale, approximately four to eight centimetres of perceived size, finished in deep charcoal near-black matte porcelain (#1A1A1A) on a seamless backdrop in muted sage olive tone (#8B8B6F), NOT warm amber finish, NOT tinted beyond palette. Silhouette, body outline, beak, and feet identical to the hero duck — only the scale and the tight crop differ. Warm cream beak and feet harmonise with the muted palette. Plain oval pupils, no decorative glint. Front-facing, slightly elevated thirty degrees, soft diffused three-point studio lighting, no hard shadow, no rim. Editorial register: matte porcelain surface, the duck reads as a small collected object on warm paper. A faint warm cream wash on the backdrop and a single hairline contact shadow anchor the duck to a flat surface. Generous negative space around the subject. Aspect ratio 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The standard classic rubber duck, the workhorse silhouette, finished in deep charcoal near-black matte porcelain (#1A1A1A) on a seamless backdrop in muted sage olive tone (#8B8B6F), NOT warm amber finish, NOT tinted beyond palette. Silhouette identical to all variants in the set: rounded body, upturned tail, short neck, classic beak, two flat feet. Warm cream beak and feet match the muted palette. Plain oval pupils, no decorative glint. Front-facing, slightly elevated thirty degrees, soft diffused three-point studio lighting with a soft window-light quality, no specular highlight, no rim. Editorial register: matte porcelain on warm paper feel, the duck reads like a museum object staged for a fashion magazine cover. Generous negative space around the subject, soft hairline contact shadow at the base anchors the form. Aspect ratio 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A collaboration-edition classic rubber duck, fifteen to thirty centimetres of perceived size, finished in deep charcoal near-black matte porcelain (#1A1A1A) with a faint warm bronze undertone in the surface — a designer treatment that harmonises with the muted sage olive backdrop (#8B8B6F), NOT warm amber finish, NOT tinted beyond palette. Silhouette, body outline, beak, and feet identical to the rest of the set — variation is in surface and colourway only, not in shape. Warm cream beak and feet with a slightly warmer cast. Plain oval pupils, no decorative glint. Front-facing, slightly elevated thirty degrees, soft diffused three-point studio lighting with a soft directional window light from camera-left. Editorial register: matte porcelain, the duck reads as a curated collaboration object on warm paper. A subtle warm cream wash on the backdrop and a faint typographic hairline in the corner reinforce the editorial mood. Aspect ratio 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "The mega classic rubber duck, a photo-object at fifty to one-hundred-twenty centimetres of perceived size, finished in deep charcoal near-black matte porcelain (#1A1A1A) on a seamless backdrop in muted sage olive tone (#8B8B6F), NOT warm amber finish, NOT tinted beyond palette. Silhouette, body outline, beak, and feet identical to the rest of the set — the duck dominates the frame as a single monumental subject. Warm cream beak and feet. Plain oval pupils, no decorative glint. Front-facing, slightly elevated thirty degrees, soft diffused three-point studio lighting with a single soft window key from camera-left, gentle fill from camera-right, no rim, no hard shadow. Editorial register: matte porcelain on warm paper, the duck reads as a still-life object on a magazine cover, anchored by a soft hairline contact shadow and generous negative space around the silhouette. Aspect ratio 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "The architect classic rubber duck, a statement installation at one-and-a-half to three metres of perceived scale, finished in deep charcoal near-black matte porcelain (#1A1A1A) on a seamless backdrop in muted sage olive tone (#8B8B6F), NOT warm amber finish, NOT tinted beyond palette. Silhouette, body outline, beak, and feet identical to the rest of the set — the duck reads as a sculptural installation piece in a museum atrium. Warm cream beak and feet. Plain oval pupils, no decorative glint. Front-facing, slightly elevated thirty degrees, soft diffused three-point studio lighting with a soft window key from camera-left, gentle fill, no rim, no hard shadow. Editorial register: matte porcelain on warm paper, the duck reads as a curated sculptural object in an editorial spread, with a wide soft contact shadow and generous negative space framing the silhouette. Aspect ratio 1:1.",
+    "aspect_ratio": "1:1"
+  }
+]

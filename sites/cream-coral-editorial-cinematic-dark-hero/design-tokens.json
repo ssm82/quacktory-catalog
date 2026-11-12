@@ -1,0 +1,20 @@
+{
+  "slug": "css_design_awards_homunculus-inc-2026-49744",
+  "palette": {
+    "bg": "#0A0A0A",
+    "fg": "#F2EDE3",
+    "accent": "#B86A3A",
+    "muted": "#7FA0A8",
+    "ink": "#050505",
+    "surface": "#1A1A1A"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Step inside"
+}

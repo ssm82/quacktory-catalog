@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quacktory — Begin the journey</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Italiana&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Inter:wght@300;400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<a class="skip" href="#taxonomy">Skip to lineup</a>
+
+<!-- ====== TOP BAR (logo + menu only) ====== -->
+<header class="top" aria-label="Top">
+  <span class="top__brand">Quacktory</span>
+  <button class="top__menu" type="button" aria-label="Menu">
+    <span class="top__menu-text">MENU</span>
+    <span class="top__menu-icon"><i></i><i></i></span>
+  </button>
+</header>
+
+<main>
+
+<!-- ====== HERO (sky atmosphere) ====== -->
+<section class="hero" aria-label="Hero">
+
+  <div class="sky" aria-hidden="true">
+    <div class="sky__ridge"></div>
+    <div class="sky__peak"><span class="sky__snow"></span></div>
+    <div class="sky__clouds"></div>
+  </div>
+
+  <div class="hero__content">
+    <p class="lede">Serious ducks</p>
+    <h1 class="display">JOURNEY</h1>
+    <p class="body">
+      We make ducks you'll want to keep on a shelf rather than float in a bath.
+      One silhouette from 4&nbsp;cm to 3&nbsp;m — pocket-sized, lobby-sized, frame-worthy.
+    </p>
+    <button class="cta" type="button" data-sku="architect">BEGIN THE JOURNEY</button>
+  </div>
+</section>
+
+<!-- ====== TAXONOMY (centered gallery) ====== -->
+<section class="gallery" id="taxonomy" aria-label="Lineup">
+
+  <header class="gallery__head">
+    <p class="kicker">COLLECTION · 2025</p>
+    <h2 class="gallery__title">Five stops, <em>one</em> silhouette</h2>
+    <p class="gallery__hint">Tap a card — the duck's passport opens.</p>
+  </header>
+
+  <ul class="gallery__list">
+    <li class="card" data-sku="micro">
+      <button class="card__btn" type="button">
+        <span class="card__no">I</span>
+        <h3 class="card__name">Micro</h3>
+        <p class="card__size">4–8 cm</p>
+        <p class="card__hint">thumb-sized · from $7 · 6+</p>
+      </button>
+    </li>
+    <li class="card" data-sku="classic">
+      <button class="card__btn" type="button">
+        <span class="card__no">II</span>
+        <h3 class="card__name">Classic</h3>
+        <p class="card__size">10–25 cm</p>
+        <p class="card__hint">cat-sized · 3+ · 3 weeks</p>
+      </button>
+    </li>
+    <li class="card" data-sku="designer">
+      <button class="card__btn" type="button">
+        <span class="card__no">III</span>
+        <h3 class="card__name">Designer</h3>
+        <p class="card__size">15–30 cm</p>
+        <p class="card__hint">cat-sized, limited · 6+</p>
+      </button>
+    </li>
+    <li class="card" data-sku="mega">
+      <button class="card__btn" type="button">
+        <span class="card__no">IV</span>
+        <h3 class="card__name">Mega</h3>
+        <p class="card__size">50–120 cm</p>
+        <p class="card__hint">child-sized · premium · 6 weeks</p>
+      </button>
+    </li>
+    <li class="card" data-sku="architect">
+      <button class="card__btn" type="button">
+        <span class="card__no">V</span>
+        <h3 class="card__name">Architect</h3>
+        <p class="card__size">1.5–3 m</p>
+        <p class="card__hint">bear-sized · contract · 12 weeks</p>
+      </button>
+    </li>
+  </ul>
+</section>
+
+<!-- ====== PRODUCTION (centered, narrow column) ====== -->
+<section class="prod" id="production" aria-label="Production">
+  <div class="prod__col">
+    <p class="kicker">How we make them</p>
+    <h2 class="prod__title">Single-piece <em>rubber</em></h2>
+    <p class="prod__body">
+      The body is vulcanised rubber. For Micro and Classic, a food-grade silicone compound.
+      For Designer, Mega and Architect, natural rubber with EPDM additives. The eyes are
+      food-grade silicone pigment over a vulcanised surface. UV- and water-resistant.
+    </p>
+    <ol class="prod__list">
+      <li>01 · Visual inspection — no pores, no streaks, no under-fill.</li>
+      <li>02 · Geometry — beak, eyes, feet in place. Proportions within ±2%.</li>
+      <li>03 · Drop test — 5 drops × 1 m onto concrete. No cracks.</li>
+      <li>04 · Smell test — no rubbery off-odour. A sign of bad vulcanisation — ruled out.</li>
+      <li>05 · Gravimetric check — mass within ±3% of the master.</li>
+    </ol>
+    <p class="prod__certs">
+      Certifications: GOST 25779-83 · EN 71-3 · REACH. Phthalate-free and BPA-free.
+      Temperature range −20&nbsp;°C&nbsp;…&nbsp;+60&nbsp;°C. Indoor use only.
+    </p>
+  </div>
+</section>
+
+<!-- ====== B2B ====== -->
+<section class="b2b" id="b2b" aria-label="Custom and B2B">
+  <div class="b2b__col">
+    <p class="kicker">B2B · Contract</p>
+    <h2 class="b2b__title">Custom is a <em>palette</em></h2>
+    <p class="b2b__lede">
+      Twelve signature TPM colours from the Quacktory Pigment Menu. Pigment goes into the
+      mass before moulding — fastness and lead times stay predictable. A custom Pantone is
+      quoted separately: +2 weeks, +15%. Custom geometry is its own project.
+    </p>
+    <div class="b2b__rows">
+      <div><span>MICRO / CLASSIC</span><b>3 WEEKS</b></div>
+      <div><span>DESIGNER</span><b>6 WEEKS</b></div>
+      <div><span>MEGA</span><b>6 WEEKS</b></div>
+      <div><span>ARCHITECT</span><b>12 WEEKS · INCLUDING SITE VISIT AND INSTALL</b></div>
+    </div>
+    <form class="b2b__form" onsubmit="return false" aria-label="Request a quote">
+      <label>NAME <input type="text" placeholder="What should we call you?"></label>
+      <label>BRAND <input type="text"></label>
+      <label>LINEUP <select>
+        <option>MICRO</option><option>CLASSIC</option><option>DESIGNER</option><option>MEGA</option><option>ARCHITECT</option>
+      </select></label>
+      <button type="submit">REQUEST A QUOTE</button>
+    </form>
+  </div>
+</section>
+
+</main>
+
+<footer class="foot" aria-label="Footer">
+  <div class="foot__row">
+    <span>Quacktory</span><span>·</span><span>04 / 08 / 26</span><span>·</span><span>№ 132</span>
+  </div>
+  <div class="foot__cols">
+    <div><p class="foot__h">CONTACT</p><p>hello@quacktory.space</p><p>+1 (000) 132-04-08</p></div>
+    <div><p class="foot__h">SOCIAL</p><p>Instagram · Telegram · VK</p></div>
+    <div><p class="foot__h">PAYMENT</p><p>Cards · Bank transfer for B2B</p></div>
+    <div><p class="foot__h">LEGAL</p><p>Sole proprietorship Serious Ducks · Brand DNA v2.0</p></div>
+  </div>
+</footer>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+  <div class="modal__overlay" data-close></div>
+  <article class="modal__card">
+    <button class="modal__close" type="button" data-close aria-label="Close">✕</button>
+    <p class="modal__eyebrow">DUCK PASSPORT</p>
+    <h3 class="modal__title" id="modal-title">Micro</h3>
+    <p class="modal__size" id="modal-size"></p>
+    <p class="modal__body" id="modal-body"></p>
+    <dl class="modal__spec" id="modal-spec"></dl>
+    <div class="modal__share">
+      <button class="share" id="share" type="button">
+        <span>SHARE</span>
+        <span class="share__num" id="share-num">0</span>
+        <span>/</span>
+        <span class="share__cap" id="share-cap">132</span>
+      </button>
+    </div>
+  </article>
+</div>
+
+<script src="main.js" defer></script>
+</body>
+</html>

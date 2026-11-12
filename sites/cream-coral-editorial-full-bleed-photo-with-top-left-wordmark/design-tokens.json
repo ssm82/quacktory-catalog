@@ -1,0 +1,20 @@
+{
+  "slug": "css_design_awards_russell-numo-49728",
+  "palette": {
+    "bg": "#EEEAE2",
+    "fg": "#101828",
+    "accent": "#E84A1D",
+    "muted": "#9A9A95",
+    "ink": "#1A1A1F",
+    "surface": "#F5F4EF"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "View work"
+}

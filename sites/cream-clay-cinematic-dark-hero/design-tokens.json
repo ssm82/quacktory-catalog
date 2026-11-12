@@ -1,0 +1,20 @@
+{
+  "slug": "a-bear-s-eye-view-of-yellowstone",
+  "palette": {
+    "bg": "#0B0B0B",
+    "fg": "#F7F5EF",
+    "accent": "#F2C500",
+    "muted": "#C7C7C2",
+    "ink": "#0B0B0B",
+    "surface": "#111820"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Enter the wild"
+}

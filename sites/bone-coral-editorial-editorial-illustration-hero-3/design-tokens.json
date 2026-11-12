@@ -1,0 +1,20 @@
+{
+  "slug": "unleashing-your-best-version",
+  "palette": {
+    "bg": "#D4E6EE",
+    "fg": "#0F5C7E",
+    "accent": "#E94B3C",
+    "muted": "#134A66",
+    "ink": "#0E4763",
+    "surface": "#FFFFFF"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Begin the chapter"
+}

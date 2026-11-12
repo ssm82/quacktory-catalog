@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A monumental classic rubber duck with warm amber finish centered in a vast dark cinematic space, seamless backdrop in #2D3744 dark slate tone, NOT warm amber finish, NOT tinted beyond palette. The duck is rendered in lacquered surface treatment catching a single hard key light from the upper left, producing a sharp rim highlight along its right edge and a deep shadow fall-off across the body. Subtle atmospheric particulate — like fine snow or dust motes — drifts through the cool rim light, giving the frame depth. The duck's body absorbs the dark studio environment while its warm amber finish glows against the slate surround. A faint lens flare streak appears upper-right, echoing cinematic stills. Plain oval pupil, no decorative glint. Front-facing composition with the duck occupying roughly one-third of the frame width, the rest pure negative space. The mood is serious, institutional, and aspirational — a single hero object in theatrical isolation. 16:9."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A small classic rubber duck at 4–8 cm keychain scale with warm amber finish, photographed front-facing, slightly elevated, 30° angle. Seamless backdrop in #2D3744 dark slate tone, NOT warm amber finish, NOT tinted beyond palette. Lacquered surface treatment with a hard single key light from upper left and a cool rim from the right. The duck fills roughly 60% of the frame, sitting on an invisible surface. Soft three-point studio base lighting with cinematic key dominance. Plain oval pupil, no decorative glint. The warm amber body reads as a single point of warmth against the cool slate surround, with a thin highlight on the beak crest. Same classic silhouette as the rest of the range. Clean, focused, object-on-dark composition. 1:1."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The workhorse classic rubber duck at 10–25 cm with warm amber finish, front-facing, slightly elevated, 30°. Seamless backdrop in #2D3744 dark slate tone, NOT warm amber finish, NOT tinted beyond palette. Cinematic lacquered surface — hard key light from upper left throws a defined highlight along the head and back, with a cool rim light from the right separating the duck from the dark surround. Soft fill from camera-left keeps the chest legible without flattening the form. The warm amber body reads as a solitary point of gold against the slate. Plain oval pupil, no decorative glint. Same classic silhouette as the rest of the range. The duck occupies roughly 70% of the frame. Theatrical, serious, hero-grade product photography with cinematic depth. 1:1."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A collaboration-edition classic rubber duck at 15–30 cm with warm amber finish bearing a subtle stencil-condensed graphic mark etched in a darker ink tone on its flank, front-facing, slightly elevated, 30°. Seamless backdrop in #2D3744 dark slate tone, NOT warm amber finish, NOT tinted beyond palette. Lacquered cinematic surface: hard key light upper left, cool rim right, gentle fill from below. The duck reads as a single warm object in cool isolation. A muted accent stripe in #B4C3CE cool grey traces the beak line, the only secondary color permitted. Plain oval pupil, no decorative glint. Same classic silhouette as the rest of the range. Designer treatment adds a single restrained typographic mark without altering shape or proportion. Editorial-cinematic mood, military-stencil-adjacent but expressed as a duck. 1:1."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The mega classic rubber duck at 50–120 cm photo-object scale with warm amber finish, front-facing, slightly elevated, 30°. Seamless backdrop in #2D3744 dark slate tone, NOT warm amber finish, NOT tinted beyond palette. Lacquered cinematic surface — the sheer scale reveals a long horizontal highlight running the length of the body from the key light at upper left, with a deep rim along the back curve. Subtle atmospheric particulate drifts through the rim. The duck's warm amber finish glows against the slate surround, occupying roughly 85% of the frame width. Soft fill from camera-right keeps the form dimensional. Plain oval pupil, no decorative glint. Same classic silhouette as the rest of the range, simply enlarged. Hero-grade product photography with cinematic depth, theatrical, serious. 1:1."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The architect classic rubber duck at 1.5–3 m statement-installation scale with warm amber finish, presented as a monumental sculptural object in a dark cinematic space. Front-facing, slightly elevated, 30°, framed tight on the head and upper body to convey scale. Seamless backdrop in #2D3744 dark slate tone, NOT warm amber finish, NOT tinted beyond palette. Lacquered cinematic surface — a hard single key light from upper left throws a defined highlight along the head crown and beak ridge, with a cool blue rim from the right separating the form from the dark surround. The body recedes into shadow. Subtle atmospheric particulate in the rim light gives the frame depth. Plain oval pupil, no decorative glint. Same classic silhouette as the rest of the range, simply monumental. 1:1."
+  }
+]

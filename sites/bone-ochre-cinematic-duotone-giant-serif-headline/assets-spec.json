@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A monumental classic rubber duck standing as the sole centrepiece in a vast cinematic dark studio, hero treatment with the duck as a monumental centrepiece. The duck has a saturated warm amber glossy lacquered finish. Camera at a low angle looking up from a slightly elevated thirty degrees to emphasize scale and reverence. Hard key light from the upper left, sharp rim light on the right edge separating the silhouette from the seamless backdrop in #0A0A0A deep near-black tone, NOT yellow, NOT tinted beyond palette. Subtle atmospheric haze catches the rim. Plain oval pupils, no decorative glint. The dark scene is cinematic, quiet, reverent, with a single accent on an otherwise quiet dark canvas. Floor reflects a faint amber glow. High contrast, restrained, monumental."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A tiny keychain-sized classic rubber duck, front-facing slightly elevated at thirty degrees, on a seamless backdrop in #0A0A0A deep near-black tone, NOT yellow, NOT tinted beyond palette. The duck has a saturated warm amber glossy lacquered finish. Soft diffused three-point studio lighting with a subtle cinematic key and gentle rim to read the silhouette against the dark field. Plain oval pupils, no decorative glint. A small metal keychain loop emerges from the head. Minimalist product photograph, precise, tech-forward, quiet composition. Single-accent palette with deep dark monochrome, the duck as the sole saturated object on a restrained canvas, hairline divisions implied by negative space alone."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A classic rubber duck at workhorse scale, front-facing slightly elevated at thirty degrees, on a seamless backdrop in deep #0A0A0A near-black tone, NOT yellow, NOT tinted beyond palette. Saturated warm amber glossy lacquered finish with cinematic surface quality. Soft diffused three-point studio lighting with a clean key and gentle rim, no harsh shadow falloff. Plain oval pupils with no decorative glint. Centered composition, generous negative space around the duck, premium editorial-grade product photograph of the most-photographed SKU. Restrained, quiet, single-accent palette. The duck reads as a precise sculptural object against the dark field, premium and confident, hairline divisions implied by negative space alone."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A collaboration-edition classic rubber duck, front-facing slightly elevated at thirty degrees, on a seamless #0A0A0A near-black backdrop, NOT yellow, NOT tinted beyond palette. The duck carries a saturated warm amber lacquered finish with subtle hairline geometric engraving across the back and base — thin diagonal hatch marks and a slim vertical accent bar referencing the band aesthetic. Soft diffused three-point studio lighting with a cinematic key light and gentle rim. Plain oval pupils, no glint. Single-accent palette, high contrast, tech-forward restraint. The duck reads as a limited collaboration object, quiet but distinctive, with engraved linework echoing the wireframe architectural graphics of the parent system."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "An oversized classic rubber duck at photo-object scale, front-facing slightly elevated at thirty degrees, on a seamless #0A0A0A deep dark backdrop, NOT yellow, NOT tinted beyond palette. Saturated warm amber glossy lacquered finish with dramatic cinematic surface sheen. Soft diffused three-point studio lighting with a strong key and pronounced rim light to separate the large silhouette cleanly from the dark field. Plain oval pupils, no decorative glint. The duck fills more of the frame, monumental yet static, premium statement object. Single-accent dark-mode composition, restrained, with generous negative space around the figure, the saturated amber body as the sole warm note on a cool dark canvas."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A monumental classic rubber duck at architectural installation scale, front-facing slightly elevated at thirty degrees, on a seamless #0A0A0A near-black backdrop, NOT yellow, NOT tinted beyond palette. Saturated warm amber glossy lacquered finish. Soft diffused three-point studio lighting with cinematic key and rim. Plain oval pupils, no glint. Faint hairline wireframe architectural linework — diagonal hatching, geometric ground plane, thin vertical accent bar — visible at the lower edges of the frame, echoing the band aesthetic and integrating the duck with its environment as a statement installation. Single-accent, immersive, cinematic, restrained. The duck anchors the scene as a monumental typographic object against the dark field."
+  }
+]

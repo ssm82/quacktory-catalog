@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck rendered as a soft 3D toy-diorama centrepiece, in a kawaii register. The duck body carries an exact pastel lavender finish (#B5B3DC) with a glossy toy-resin surface, identical classic silhouette — rounded plump body, small head with flat beak, flat upturned tail, two webbed feet. A tiny white sparkle catchlight sits in each oval pupil. The duck faces forward but the camera sits slightly low to convey monumental scale, with the subject occupying roughly 60% of the vertical frame. Seamless backdrop in blush pink tone (#EAD8DD), NOT warm amber finish, NOT tinted beyond palette, with the upper centre subtly lightening. A few floating toy clouds in soft cream and lavender drift in the midground, with mint and soft blue pastel accents at the base suggesting a dollhouse cross-section matching the site illustration. Soft diffused three-point studio lighting, low contrast, candy-soft shadows, no hard rim. Toy-like, saccharine, friendly mood. 16:9.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A 5 cm classic rubber duck on a brushed-metal keychain clip, photographed as a 1:1 catalogue product shot. Identical classic silhouette — rounded plump body, small head with flat beak, flat upturned tail, two webbed feet. Body in exact pastel lavender (#B5B3DC) with a glossy toy-resin finish, soft candy highlights on the cheek and back. Tiny white sparkle catchlight in each oval pupil. The duck faces front, slightly elevated 30° camera angle, occupying the upper two-thirds of the frame with the keychain loop and short split ring visible at the top. Seamless backdrop in blush pink tone (#EAD8DD), NOT warm amber finish, NOT tinted beyond palette, soft falloff at the edges. Soft diffused three-point studio lighting — broad soft key from upper left, gentle fill, subtle rim from upper right. Very gentle ground shadow beneath, low contrast. No props beyond the keychain hardware. Kawaii toy-store mood, premium pastel. 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "A 15 cm classic rubber duck, the workhorse SKU, photographed in 1:1. Identical classic silhouette — rounded plump body, small head with flat beak, flat upturned tail, two webbed feet planted at the base. Body in exact pastel lavender (#B5B3DC) with a glossy toy-resin finish reflecting soft candy highlights on the cheek and along the back. Tiny white sparkle catchlight in each oval pupil. Front-facing, camera slightly elevated 30°, duck centred with generous breathing room. Seamless backdrop in blush pink tone (#EAD8DD), NOT warm amber finish, NOT tinted beyond palette, with a soft falloff toward the edges. Soft diffused three-point studio lighting — soft key from upper left, gentle fill, subtle rim from upper right. Low-contrast ground shadow directly beneath, no harsh edges. Surface is clean, smooth, unmatted, no props, no scenery. Catalogue-style product photograph with kawaii toy-store mood — saccharine, friendly, premium pastel. 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A 22 cm designer collaboration classic rubber duck, photographed in 1:1. Identical classic silhouette — rounded plump body, small head with flat beak, flat upturned tail, two webbed feet. Two-tone pastel colourway: upper body and head in exact pastel lavender (#B5B3DC), belly and lower flank in soft cream (#F2EBDF), with a clean horizontal seam dividing them at mid-body, treated as a collab colour block rather than an accessory. Soft satin-matte surface finish with a single low-gloss highlight running along the back, slightly more refined than the classic candy gloss. Tiny white sparkle catchlight in each oval pupil. Front-facing, camera slightly elevated 30°, duck centred with generous negative space. Seamless backdrop in blush pink tone (#EAD8DD), NOT warm amber finish, NOT tinted beyond palette. Soft diffused three-point studio lighting, low contrast, very gentle ground shadow. No props — the duck itself is the typographic-grade design object. 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A 70 cm mega classic rubber duck, photographed in 1:1 as a photo-object. Identical classic silhouette — rounded plump body, small head with flat beak, flat upturned tail, two webbed feet planted firmly on the floor. Body in exact pastel lavender (#B5B3DC) with a glossy toy-resin finish, broad soft highlights sweeping across the back and cheek to read the larger volume. Tiny white sparkle catchlight in each oval pupil, slightly enlarged to remain visible at scale. Front-facing, camera slightly elevated 30°, duck occupying most of the frame, the head near the upper edge to emphasise scale. Seamless backdrop in blush pink tone (#EAD8DD) curving up from floor to wall with no visible seam, NOT warm amber finish, NOT tinted beyond palette. Soft diffused three-point studio lighting — broad soft key, gentle fill, subtle rim — to keep surfaces legible across the larger form. Low-contrast ground shadow. 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A 2 m statement-install architect classic rubber duck, photographed in 1:1 as a sculptural installation. Identical classic silhouette at architectural scale — rounded plump body, small head with flat beak, flat upturned tail, two webbed feet. Body in exact pastel lavender (#B5B3DC) with a soft satin-matte surface finish, slight diffuse highlight on the crown, no glossy hotspots. Tiny white sparkle catchlight in each oval pupil. Camera low and pulled back, slightly elevated 30° from a standing viewpoint, the duck towering over an implied plinth and occupying the full vertical of the frame. Seamless backdrop in blush pink tone (#EAD8DD), NOT warm amber finish, NOT tinted beyond palette, the upper section subtly lightening to suggest a soft sky. Soft diffused three-point studio lighting with broad coverage, low contrast, ambient ground shadow pooling around the feet. No props, no environment — the duck is the building. 1:1.",
+    "aspect_ratio": "1:1"
+  }
+]

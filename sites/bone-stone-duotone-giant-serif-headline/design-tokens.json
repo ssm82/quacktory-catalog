@@ -1,0 +1,20 @@
+{
+  "slug": "mendo-book-store",
+  "palette": {
+    "bg": "#FFFFFF",
+    "fg": "#080A0A",
+    "accent": "#9EB3C0",
+    "muted": "#808080",
+    "ink": "#111111",
+    "surface": "#9EB3C0"
+  },
+  "fonts": {
+    "display": "Archivo",
+    "body": "Archivo",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Browse the collection"
+}

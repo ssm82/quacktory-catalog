@@ -1,0 +1,20 @@
+{
+  "slug": "magical-reflections",
+  "palette": {
+    "bg": "#1A1A1A",
+    "fg": "#F2EADC",
+    "accent": "#B8924A",
+    "muted": "#E8E2D6",
+    "ink": "#7A1E26",
+    "surface": "#807A75"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Discover the experience"
+}

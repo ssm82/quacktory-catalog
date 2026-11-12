@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck standing as a towering centrepiece in a sunlit editorial studio. The duck body has a warm terracotta-red finish, matching the brand's accent tone, with a soft matte porcelain surface that reads like glazed ceramic rather than plastic. Backdrop is a seamless warm peach tone (#F2C9B4), with no visible seam, gradient, or vignette. Pose is upright, head tilted slightly forward, beak level, wings at the sides, feet planted firmly. The duck is enormous in frame, occupying roughly 70% of the vertical, shot from a low cinematic angle that emphasizes its sculptural scale. Soft window light from camera-left creates a long, gentle shadow to the right on the peach floor. Editorial mood: matte, paper-like, premium magazine feel. Plain oval pupil, no catchlight, no decorative glint. The silhouette matches the canonical classic rubber duck outline: rounded body, short neck, flat tail, small flat feet, conical beak. 16:9 composition. No props, no text, no overlay.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A miniature classic rubber duck, approximately 5 cm tall, presented as a keychain-scale collectible. The duck body has a warm terracotta-red matte porcelain finish, with the same canonical silhouette as the larger SKUs: rounded body, short neck, flat tail, small flat feet, conical beak. Backdrop is a seamless warm peach tone (#F2C9B4), no gradient, no seam. Shot front-facing, slightly elevated, 30° camera angle, with soft diffused three-point studio lighting and very gentle shadow under the feet. Editorial register: matte surface, paper-like, no gloss, no resin shine. Plain oval pupil, no catchlight, no glint. The duck sits alone in frame, centred, scaled small within the 1:1 square. Subtle scale cue: a single small metal keyring loop at the head reads as a keychain attachment. The image has the quiet, considered feel of a magazine still life, with no props, no text, no logos.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The workhorse classic rubber duck at approximately 15 cm tall, photographed as a hero product still. The duck body has a warm terracotta-red matte porcelain finish, with the canonical silhouette: rounded body, short neck, flat tail, small flat feet, conical beak — identical across the range. Backdrop is a seamless warm peach tone (#F2C9B4), perfectly flat, no gradient, no seam, no tint beyond the palette. Front-facing, slightly elevated, 30° camera angle. Soft diffused three-point studio lighting: gentle key from upper-left, fill from the right, soft rim from behind. Editorial register: matte, paper-like, premium, no gloss or lacquer. Plain oval pupil, no catchlight, no decorative glint. The duck is centred in the 1:1 square, with restrained negative space around it. No props, no text, no logos, no stand. The feel is of a magazine product spread: quiet, considered, image-forward.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A designer collaboration edition classic rubber duck at approximately 20 cm tall, treated with a per-direction editorial finish. The duck body has a warm terracotta-red base with a subtle hand-painted geometric block pattern in deep ink (#0A0A0A) running along the flank, in the spirit of the brand's editorial typography. The silhouette is identical to the classic SKU: rounded body, short neck, flat tail, small flat feet, conical beak. Backdrop is a seamless warm peach tone (#F2C9B4), no gradient. Front-facing, slightly elevated, 30° camera angle. Soft diffused three-point studio lighting. Editorial register: matte porcelain surface, paper-like, premium, no resin gloss. Plain oval pupil, no catchlight, no glint. The duck is centred in the 1:1 square. The pattern feels like a small typographic intervention rather than illustrative decoration. No props, no text, no logos.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A large classic rubber duck at approximately 80 cm tall, presented as a photo-object. The duck body has a warm terracotta-red matte porcelain finish, monumental in the frame, with the canonical silhouette: rounded body, short neck, flat tail, small flat feet, conical beak — identical to the smaller SKUs. Backdrop is a seamless warm peach tone (#F2C9B4), no gradient, no seam. Front-facing, slightly elevated, 30° camera angle, but framed so the duck nearly fills the 1:1 square, leaving only a narrow margin of peach negative space. Soft diffused three-point studio lighting with a long, soft shadow to the right. Editorial register: matte, paper-like, sculptural, premium magazine feel. Plain oval pupil, no catchlight, no glint. No props, no text, no logos, no stand, no people. The image reads as a quiet portrait of a large object.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "An architectural-scale classic rubber duck at approximately 2 metres tall, presented as a statement installation in an editorial setting. The duck body has a warm terracotta-red matte porcelain finish, towering and sculptural, with the canonical silhouette: rounded body, short neck, flat tail, small flat feet, conical beak — identical to the smaller SKUs. Backdrop is a seamless warm peach tone (#F2C9B4) that reads as an infinite studio cyclorama, no visible seam, no horizon line, no gradient. Shot front-facing, slightly elevated, 30° camera angle, framed so the duck occupies roughly 80% of the 1:1 square. Soft diffused three-point studio lighting with a subtle floor shadow anchoring the feet. Editorial register: matte, paper-like, monumental, premium, no gloss, no lacquer. Plain oval pupil, no catchlight, no decorative glint. No props, no text, no logos, no people — the duck is the architecture.",
+    "aspect_ratio": "1:1"
+  }
+]

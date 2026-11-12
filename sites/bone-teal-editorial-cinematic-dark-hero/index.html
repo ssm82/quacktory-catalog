@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quacktory — Limited Collection</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="theme-lando">
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-tag">
+      <div class="topo" aria-hidden="true">
+        <svg width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 1200 800" overflow="hidden">
+          <g fill="none" stroke="#3A3C1C" stroke-width="0.7" opacity="0.55">
+            <path d="M 0 200 Q 200 180 400 220 T 850 240 T 1200 200" />
+            <path d="M 0 260 Q 200 240 400 280 T 850 300 T 1200 260" />
+            <path d="M 0 320 Q 200 300 400 340 T 850 360 T 1200 320" />
+            <path d="M 0 380 Q 200 360 400 400 T 850 420 T 1200 380" />
+            <path d="M 0 440 Q 200 420 400 460 T 850 480 T 1200 440" />
+            <path d="M 0 500 Q 200 480 400 520 T 850 540 T 1200 500" />
+            <path d="M 0 560 Q 200 540 400 580 T 850 600 T 1200 560" />
+            <path d="M 0 620 Q 200 600 400 640 T 850 660 T 1200 620" />
+            <path d="M 0 680 Q 200 660 400 700 T 850 720 T 1200 680" />
+            <path d="M 0 100 Q 300 80 500 120 T 950 140 T 1200 100" />
+            <path d="M 0 150 Q 300 130 500 170 T 950 190 T 1200 150" />
+          </g>
+        </svg>
+      </div>
+
+      <h1 class="sr-only" id="hero-tag">Quacktory — limited series</h1>
+
+      <figure class="hero__obj">
+        <img src="./assets/hero-lifestyle.jpg" alt="A Quacktory duck, the centerpiece of the limited collection">
+      </figure>
+
+      <div class="hero__cap">
+        <span class="hero__cap-l">QUACKTORY</span>
+        <span class="hero__cap-r">HANDCRAFTED IN 4 CM</span>
+      </div>
+      <p class="hero__sub">№ 04 / 132 — series for collectors</p>
+    </section>
+
+    <section class="lineup" aria-label="Collection">
+      <header class="lineup__head">
+        <span class="lineup__eyebrow">— 01 / Series</span>
+        <h2 class="lineup__title">Limited batch</h2>
+      </header>
+      <ul class="lineup__grid" role="list">
+        <li><button class="card" data-id="micro"><span class="card__halo"></span><img src="./assets/product-micro.jpg" alt=""><span class="card__line">Micro</span><span class="card__size">4–8 cm</span><span class="card__price">from $7</span></button></li>
+        <li><button class="card" data-id="classic"><span class="card__halo"></span><img src="./assets/product-classic.jpg" alt=""><span class="card__line">Classic</span><span class="card__size">10–25 cm</span><span class="card__price">mid</span></button></li>
+        <li><button class="card" data-id="designer"><span class="card__halo"></span><img src="./assets/product-designer.jpg" alt=""><span class="card__line">Designer</span><span class="card__size">15–30 cm</span><span class="card__price">mid+</span></button></li>
+        <li><button class="card" data-id="mega"><span class="card__halo"></span><img src="./assets/product-mega.jpg" alt=""><span class="card__line">Mega</span><span class="card__size">50–120 cm</span><span class="card__price">premium</span></button></li>
+        <li><button class="card" data-id="architect"><span class="card__halo"></span><img src="./assets/product-architect.jpg" alt=""><span class="card__line">Architect</span><span class="card__size">1.5–3 m</span><span class="card__price">on request</span></button></li>
+      </ul>
+    </section>
+
+    <section class="b2b" aria-labelledby="b2b-title">
+      <header class="b2b__head">
+        <span class="b2b__eyebrow">— 02 / B2B</span>
+        <h2 class="b2b__title" id="b2b-title">Bespoke<br>development</h2>
+      </header>
+      <p class="b2b__copy">12 signature Pantone equivalents. Through-body pigment — not paint. Lead times 3 / 6 / 12 weeks. A custom Pantone is a separate quote line, +2 weeks, +15%.</p>
+      <a class="b2b__cta" href="mailto:hi@quacktory.space">Request a quote ↗</a>
+    </section>
+
+    <footer class="leg" aria-label="Footer">
+      <div class="leg__row">
+        <span class="leg__brand">QUACKTORY®</span>
+        <span class="leg__copy">© 2025 · Series 04</span>
+      </div>
+    </footer>
+  </main>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+    <div class="modal__overlay" data-close></div>
+    <article class="modal__panel">
+      <button class="modal__close" data-close aria-label="Close">×</button>
+      <img class="modal__img" alt="">
+      <div class="modal__body">
+        <span class="modal__num"></span>
+        <h3 class="modal__title" id="modal-title"></h3>
+        <p class="modal__size"></p>
+        <p class="modal__desc"></p>
+        <p class="modal__price"></p>
+        <p class="modal__term"></p>
+      </div>
+    </article>
+  </div>
+  <script src="main.js" defer></script>
+</body>
+</html>

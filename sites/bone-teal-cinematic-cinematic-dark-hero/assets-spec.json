@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A monumental classic rubber duck in a warm amber-green Xbox-green lacquered finish, posed as the sole centerpiece in a vast dark cinematic space. The duck stands on an unseen floor against a seamless backdrop in #0B0B0C near-black tone with a faint warm vignette. Identical classic rubber duck silhouette across the entire collection: rounded teardrop body, short upturned beak, small webbed feet, plain oval pupil with no decorative glint. Camera placed low and three-quarter to read the duck as towering and reverent. A single hard key light from upper-left carves the form, while a strong cool rim light from behind-right separates the silhouette from the blackness, producing a sharp specular streak along the crown, shoulder, and beak. The lacquered surface reads glossy and resin-like with subtle bloom on the brightest highlights. A faint volumetric beam descends from above. No props, no UI chrome, no text. The atmosphere is museum-vitrine and theatrical, a single object commanding the void. 16:9 cinematic widescreen frame, sharp focus front-to-back, no motion blur."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A miniature classic rubber duck in a warm amber-green lacquered finish, approximately 5 centimetres, styled as a keychain collectible. A small polished metal split ring threads through the top of the head, hinting at the keychain form factor. Photographed on a seamless backdrop in #0B0B0C near-black tone. Front-facing, slightly elevated, 30° angle. Cinematic hard key light from upper-left casts a defined short shadow, paired with a cool rim light from behind-right that outlines the silhouette. Lacquered surface catches tight sharp specular highlights on the crown and beak. Identical classic rubber duck silhouette as the rest of the collection: rounded teardrop body, short upturned beak, small webbed feet, plain oval pupil with no decorative glint. The duck fills roughly 55–60% of the square frame, dead-centre. Sharp focus front-to-back, no props, no text. Mood: pocket-sized museum merch, collectible keychain, anniversary keepsake."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The workhorse classic rubber duck, 15 centimetres, in a warm amber-green lacquered finish, photographed as the hero product of the collection. Seamless backdrop in #0B0B0C near-black tone with a faint warm vignette. Front-facing, slightly elevated, 30° angle, dead-centre in the square frame. Cinematic hard key light from upper-left plus a defined cool rim from behind-right produce a sharp specular highlight on the rounded crown, a softer gradient along the cheek, and a bright catch on the beak tip. Lacquered resin surface with controlled bloom on the brightest specular. Identical classic rubber duck silhouette as the rest of the collection: rounded teardrop body, short upturned beak, small webbed feet, plain oval pupil with no decorative glint. The duck occupies roughly 70% of the frame. No props, no text, no surface texture, no cast elements other than a soft contact shadow. Mood: catalogue hero, anniversary-edition mainstay, museum flagship SKU."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A designer classic rubber duck, collaboration edition, 18 centimetres, finished in a deep emerald-to-amber gradient inspired by the Xbox 20th-anniversary palette, with a faint satin-brushed sheen on the lacquer. A subtle embossed '20' mark sits low on the side of the body, legible only in the specular pass. Seamless backdrop in #0B0B0C near-black tone. Front-facing, slightly elevated, 30° angle. Cinematic hard key light from upper-left with a cool rim from behind-right; the gradient finish produces two distinct specular bands — a warmer amber streak along the belly and a cooler green highlight along the crown. Identical classic rubber duck silhouette as the rest of the collection: rounded teardrop body, short upturned beak, small webbed feet, plain oval pupil with no decorative glint. The duck fills roughly 70% of the square frame. No props, no text overlays, no surface clutter. Mood: limited collector collaboration, anniversary drop, museum gift-shop tier."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A mega classic rubber duck, approximately 80 centimetres, in a warm amber-green lacquered finish, presented as a photo-object at oversized scale. Seamless backdrop in #0B0B0C near-black tone. Front-facing, slightly elevated, 30° angle, the duck filling roughly 80% of the square frame so its mass dominates. Cinematic hard key light from upper-left carves broad soft gradients across the swollen body, while a strong cool rim from behind-right traces the shoulder and beak edge with a clean highlight. The lacquered surface reads as polished resin, with one large soft specular zone on the upper body and a tighter glint at the beak tip. Identical classic rubber duck silhouette as the rest of the collection: rounded teardrop body, short upturned beak, small webbed feet, plain oval pupil with no decorative glint. No props, no text, no floor texture — just the form against the void. Mood: monumental product, museum photo-object, anniversary showpiece."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "An architect-scale classic rubber duck, approximately 2.4 metres, in a warm amber-green lacquered finish, presented as a statement installation piece. Photographed on a seamless backdrop in #0B0B0C near-black tone with a faint warm floor reflection pooling at the base, hinting at a polished gallery floor. Front-facing, slightly elevated, 30° angle, the duck towering so that its crown nearly grazes the top edge of the frame and its feet anchor the bottom, leaving only narrow negative space at the sides. Cinematic hard key light from upper-left with a strong cool rim from behind-right, lacquered surface showing broad specular gradients and a tight highlight on the beak. Identical classic rubber duck silhouette as the rest of the collection: rounded teardrop body, short upturned beak, small webbed feet, plain oval pupil with no decorative glint. No props, no text, no human figures. Mood: installation art, museum anchor, anniversary landmark object."
+  }
+]

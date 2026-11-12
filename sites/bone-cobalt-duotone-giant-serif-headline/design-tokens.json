@@ -1,0 +1,20 @@
+{
+  "slug": "google-cloud-infrastructure",
+  "palette": {
+    "bg": "#FFFFFF",
+    "fg": "#737780",
+    "accent": "#4285F4",
+    "muted": "#B8BCC3",
+    "ink": "#737780",
+    "surface": "#FAFAFA"
+  },
+  "fonts": {
+    "display": "Manrope",
+    "body": "Manrope",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "technical",
+  "duck_eye_decor": "none",
+  "cta_register": "Explore the platform"
+}

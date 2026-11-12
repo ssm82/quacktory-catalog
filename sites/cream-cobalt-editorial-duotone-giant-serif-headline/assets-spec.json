@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck stands as the singular centrepiece in a vast editorial composition, scaled to feel like a sculptural installation. The duck carries a matte porcelain finish in the dusty rose accent #C9A8AE, warm and muted, with plain oval pupils — no sparkle, no heart, no star, no decorative glint, no catchlight. Seamless backdrop rendered in the exact #7BA3D3 cool blue tone, NOT yellow, NOT tinted beyond palette, evoking a paper-stretched sky. Soft window light streams from camera-left, editorial register, washing the matte porcelain surface with a quiet gradient and a single long shadow trailing to the right. Camera placed low, slightly upward angle to amplify monumentality while preserving the identical silhouette: rounded body, flat tail, stubby feet, conical beak. No gloss, no lacquer, no props. Generous negative space in cool blue, premium Manrope-clean editorial mood. 16:9 cinematic crop.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A 4–8 cm classic rubber duck miniature, identical silhouette to the hero — rounded body, flat tail, stubby feet, conical beak. Matte porcelain finish in dusty rose #C9A8AE accent. Plain oval pupils only, no sparkle, no heart, no star, no decorative glint, no catchlight. Seamless backdrop in exact #7BA3D3 cool blue tone, NOT yellow, NOT tinted beyond palette, paper-soft editorial field. A thin matte silver keychain ring loops through the duck's head, with a small manila paper tag dangling to the right, tying it to the brand taxonomy. Three-point soft diffused studio lighting in editorial register: soft window light key from camera-left, gentle fill, no hard rim. Camera front-facing, slightly elevated 30°. The surface stays matte porcelain, no gloss, no lacquer. Soft shadow pools directly beneath. Square 1:1 premium product still life, generous negative space.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The workhorse classic rubber duck at 10–25 cm, identical silhouette: rounded body, flat tail, stubby feet, conical beak. Matte porcelain finish in the dusty rose accent #C9A8AE, warm and muted, paper-like in texture. Plain oval pupils, no sparkle, no heart, no star, no decorative glint, no catchlight — the eyes read quiet and editorial. Seamless backdrop in exact #7BA3D3 cool blue tone, NOT yellow, NOT tinted beyond palette, with a soft floor-to-wall gradient break suggesting a paper cyclorama. Three-point soft diffused studio lighting in editorial register: soft window light key from camera-left, gentle fill, no harsh rim. Camera front-facing, slightly elevated 30°. Centered composition, no props beyond the duck itself, soft shadow pools beneath. No gloss, no lacquer, surface reads porcelain-matte. Square 1:1 premium still life, calm and restrained.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A 15–30 cm collaboration edition classic rubber duck, identical silhouette to every other SKU — rounded body, flat tail, stubby feet, conical beak. Matte porcelain finish in dusty rose #C9A8AE accent as the base, with a hand-painted thin navy editorial line (#1F2A44) circling the body like a typographic rule, and a small geometric mark in muted blue-gray #A8BCD4 near the tail. Plain oval pupils only, no sparkle, no heart, no star, no decorative glint, no catchlight. Seamless backdrop in exact #7BA3D3 cool blue tone, NOT yellow, NOT tinted beyond palette, paper-soft editorial field. Three-point soft diffused studio lighting in editorial register: soft window light key, gentle fill, no hard rim. Camera front-facing, slightly elevated 30°. Premium collaboration product still life, Manrope-clean composition, restrained and quiet. Square 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "The mega classic rubber duck at 50–120 cm, identical silhouette to the rest of the taxonomy: rounded body, flat tail, stubby feet, conical beak, scaled to photo-object presence. Matte porcelain finish in dusty rose #C9A8AE accent, warm and muted. Plain oval pupils, no sparkle, no heart, no star, no decorative glint, no catchlight. Seamless backdrop in exact #7BA3D3 cool blue tone, NOT yellow, NOT tinted beyond palette, paper-soft editorial cyclorama with a gentle floor-to-wall gradient break. Three-point soft diffused studio lighting in editorial register: soft window light key from camera-left, gentle fill, no harsh rim. Camera front-facing, slightly elevated 30° to convey monumental scale while preserving product framing. The duck dominates the frame, casting a long soft shadow. No gloss, no lacquer, surface reads porcelain-matte. Square 1:1 premium still life, calm and editorial.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A 1.5–3 m statement installation classic rubber duck, identical silhouette to every other SKU: rounded body, flat tail, stubby feet, conical beak, scaled to architectural presence. Matte porcelain finish in dusty rose #C9A8AE accent, monumental and quiet. Plain oval pupils, no sparkle, no heart, no star, no decorative glint, no catchlight — the gaze stays editorial. Seamless backdrop in exact #7BA3D3 cool blue tone, NOT yellow, NOT tinted beyond palette, evoking a paper gallery cyclorama with a faint horizontal line at floor level implying a low plinth. Three-point soft diffused studio lighting in editorial register: soft window light key, gentle fill, no hard rim. Camera front-facing, slightly elevated 30°, the duck towers within the frame yet the angle stays consistent. No gloss, no lacquer. Symmetric, centered, monumental. Square 1:1 premium architectural still life, Manrope-clean restraint.",
+    "aspect_ratio": "1:1"
+  }
+]

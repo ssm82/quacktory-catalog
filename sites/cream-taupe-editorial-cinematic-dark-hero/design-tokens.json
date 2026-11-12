@@ -1,0 +1,20 @@
+{
+  "slug": "gq-ap-the-extraordinary-lab",
+  "palette": {
+    "bg": "#0A0A0A",
+    "fg": "#F2EFE9",
+    "accent": "#A88A6A",
+    "muted": "#9A9A9A",
+    "ink": "#1A1A1A",
+    "surface": "#DCD8D2"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Enter the lab"
+}

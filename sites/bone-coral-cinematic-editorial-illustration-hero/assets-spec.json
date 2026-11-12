@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A monumental classic rubber duck as the absolute centrepiece of a cinematic editorial composition, occupying roughly sixty percent of the frame. The duck is rendered in a lacquered cherry-red finish matching accent #C8202A, with the same iconic body outline, beak, and feet used across the entire product line. Seamless backdrop in deep navy-black tone #0E1620, NOT yellow, NOT tinted beyond the palette. A single hard key light from upper-left sculpts long dramatic shadows across the floor and along the duck's back, while a sharp cool cyan-blue rim light from behind-right separates the silhouette from the dark void. The lacquered surface reads wet and reflective, with a bright specular highlight rolling along the head and beak. Plain oval pupils with no decorative glint. Low cinematic camera angle emphasizing monumental scale, deep atmospheric darkness, no props, no text overlay, theatrical editorial mood."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A miniature 6cm classic rubber duck keychain, identical iconic silhouette, lacquered cherry-red surface finish matching accent #C8202A. Seamless dark studio backdrop in deep navy-black tone #0E1620, NOT yellow, NOT tinted beyond the palette. Soft diffused three-point studio lighting with a subtle warm key from upper-left and a cool cyan-blue rim light from behind-right lifting the silhouette; the surface shows a wet-look lacquered gloss with a single tight specular highlight on the head. Plain oval pupils, no decorative glint. A small polished steel split-ring keychain hardware sits attached at the top of the head. Camera: front-facing, slightly elevated, 30 degrees. Centered composition with generous negative space, sharp focus, no props, no text, cinematic editorial mood."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The 18cm workhorse classic rubber duck, identical iconic body outline, beak, and feet. Lacquered cherry-red surface finish in the accent color #C8202A with a wet-look gloss. Seamless dark studio backdrop in deep navy-black tone #0E1620, NOT yellow, NOT tinted beyond the palette. Soft diffused three-point studio lighting with a hard cinematic key from upper-left casting a sculpted shadow and a cool cyan-blue rim light from behind-right lifting the silhouette from the dark void. The lacquered surface catches a long specular highlight along the curved back. Plain oval pupils, no decorative glint. Camera: front-facing, slightly elevated, 30 degrees. Centered, sharp focus, no props, deep negative space, cinematic editorial mood."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 22cm collaboration-edition classic rubber duck, identical iconic silhouette. Two-tone lacquered finish: deep cherry-red body in #C8202A paired with a fine brushed-cyan accent stripe along the wing line and tail seam in #5BA8C9. Seamless dark studio backdrop in deep navy-black tone #0E1620, NOT yellow, NOT tinted beyond the palette. Soft diffused three-point studio lighting with a hard cinematic key from upper-left and a cool cyan rim light from behind-right; the lacquered surface is wet-look reflective with strong specular highlights rolling across the head and beak. Plain oval pupils, no decorative glint. Camera: front-facing, slightly elevated, 30 degrees. Centered, sharp focus, no props, no text, cinematic editorial mood."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A monumental 80cm classic rubber duck photo-object, identical iconic body outline. Lacquered cherry-red finish in accent #C8202A, wet-look surface. Seamless backdrop in deep navy-black tone #0E1620, NOT yellow, NOT tinted beyond the palette. Single hard cinematic key light from upper-left creating dramatic shadow falloff across the floor, paired with a sharp cool cyan-blue rim light from behind-right separating the silhouette from the dark void. The lacquered surface shows a long bright specular highlight along the head and back curve. Plain oval pupils, no decorative glint. Camera: front-facing, slightly elevated, 30 degrees; the duck fills most of the frame due to its photo-object scale. Centered, sharp focus, no props, theatrical cinematic mood."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 2-meter statement-installation classic rubber duck at architectural scale, identical iconic silhouette. Lacquered cherry-red surface finish in accent #C8202A, wet-look gloss. Seamless dark studio void backdrop in deep navy-black tone #0E1620, NOT yellow, NOT tinted beyond the palette. Dramatic hard cinematic key light from above sculpts the form, with two cool cyan-blue rim lights on either side carving the massive silhouette out of darkness. The glossy lacquered surface catches bright specular highlights along the head, beak, and back curve. Plain oval pupils, no decorative glint. Camera: front-facing, slightly elevated, 30 degrees, shot at distance to capture the full monumental form. Theatrical, cinematic, no props, no text."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A monumental hot magenta-pink classic rubber duck standing as a single sculptural centrepiece in a quiet gallery-like space, identical silhouette to the standard form with rounded body, small tucked wings, short neck, flat tail, and webbed feet, scaled to architectural proportions, matte porcelain surface with subtle warm undertones, plain oval pupil with no decorative glint. Seated on a seamless backdrop in #F4EFE7 warm cream tone, NOT warm amber finish, NOT tinted beyond palette, suggesting a gallery wall and floor meeting in a soft corner. Editorial register, soft window light pouring in from the upper left, casting a long gentle shadow on the cream wall behind, a faint plant shadow falling across the back wall for ambient realism. The duck faces front, body slightly turned, camera at a low eye-level angle to emphasize monumental scale. A thin black hand-drawn marker arrow sits on the wall behind, pointing down toward a small sketched archway. Sparse, contemplative, art-led composition. The pink duck is the only chromatic event in an austere cream and ink environment, reading as sculpture rather than product."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A small classic rubber duck in a keychain-friendly 4–8 cm scale, identical silhouette to the family of six with rounded body, small wings, short neck, flat tail, webbed feet, finished in hot magenta-pink matte porcelain with the same warm undertones. Plain oval pupil with no decorative glint. Photographed front-facing, slightly elevated, 30 degrees, on a seamless backdrop in #F4EFE7 cream tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio three-point lighting: warm key from upper left, soft fill from the right, gentle rim from behind to lift the edge of the beak and define the head curve. A tiny black split-ring keychain attachment sits at the top of the head with a fine black cord looped through. Editorial register, matte porcelain on warm paper aesthetic, the duck reads as a small typographic object. Single rubber duck only, no props, minimal negative space, museum-like stillness."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A classic rubber duck in the workhorse 10–25 cm SKU range, identical silhouette with rounded body, small wings, short neck, flat tail, webbed feet, finished in hot magenta-pink matte porcelain. Plain oval pupil with no decorative glint. Photographed front-facing, slightly elevated, 30 degrees, on a seamless backdrop in #F4EFE7 warm cream tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio three-point lighting: warm key from upper left, neutral fill from the right, subtle rim from behind to define the beak edge and head curve. Editorial register, matte porcelain on warm paper aesthetic, the surface reads tactile and slightly absorbent rather than glossy. A small white spec card lies flat on the floor to the right, casting a faint shadow, used as a clean tonal reference. Single duck, no props, generous negative space, museum-like stillness, the duck as quiet typographic object in a curated cream void."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A collaboration-edition classic rubber duck, 15–30 cm scale, identical silhouette to the family, finished in hot magenta-pink matte porcelain with overlaid hand-drawn black ink linework, wobbly outlines, childish capitals, and tiny inscriptions evoking a Shrigley-style marker treatment scattered across the body, wings, and beak. Plain oval pupil, no decorative glint. Photographed front-facing, slightly elevated, 30 degrees, on a seamless backdrop in #F4EFE7 cream tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio three-point lighting, warm key, neutral fill, gentle rim. Editorial register with art-led positioning. The black ink overlays are crisp but slightly imperfect, reading as deliberate craft rather than print error. A small hand-drawn black signature sits at the duck's lower belly like a museum label, and a tiny inscription arcs above the head. No props, museum-like presentation, the duck is the typographic object, art installation aesthetic."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A mega-scale classic rubber duck, 50–120 cm photo-object, identical silhouette with rounded body, small tucked wings, short neck, flat tail, webbed feet, finished in hot magenta-pink matte porcelain. Plain oval pupil, no decorative glint. Photographed front-facing, slightly elevated, 30 degrees, framed tightly so the duck fills most of the frame while the cream seamless backdrop in #F4EFE7 tone remains visible around the edges, NOT warm amber finish, NOT tinted beyond palette. Soft diffused studio three-point lighting, but at this larger scale the light wraps the body more, creating gentle gradations across the round belly and along the flank. Editorial register, matte porcelain on warm paper aesthetic, the surface texture becomes more readable at this scale, like a museum object. A small black hand-drawn marker arrow is sketched on the backdrop wall behind, pointing down toward the duck as if labeling it. No props, art-led still life."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "An architect-scale classic rubber duck, 1.5–3 m statement installation, identical silhouette to the family with rounded body, small tucked wings, short neck, flat tail, webbed feet, finished in hot magenta-pink matte porcelain, scaled to monumental proportions so the duck dominates the frame. Plain oval pupil, no decorative glint. Photographed from a low angle looking up, on a seamless backdrop in #F4EFE7 cream tone, NOT warm amber finish, NOT tinted beyond palette, suggesting a gallery wall and floor meeting in soft continuity. Soft window light pours in from the upper left, mimicking tall gallery windows, casting a long soft shadow on the cream wall. Editorial register, contemplative, art installation aesthetic. The monumental duck is the only chromatic event in the austere cream environment, with a small black marker-lettered placard at the duck's base reading the collaboration lockup in childish capitals. A subtle plant shadow falls on the back wall for ambient realism. Sparse, museum-still."
+  }
+]

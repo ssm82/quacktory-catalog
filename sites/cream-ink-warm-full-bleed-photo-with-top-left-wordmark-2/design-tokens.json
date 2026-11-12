@@ -1,0 +1,20 @@
+{
+  "slug": "53198839343862127",
+  "palette": {
+    "bg": "#EFE9DD",
+    "fg": "#2A221C",
+    "accent": "#2A221C",
+    "muted": "#6B5F54",
+    "ink": "#1A1410",
+    "surface": "#F2EDE2"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Manrope",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "See the work"
+}

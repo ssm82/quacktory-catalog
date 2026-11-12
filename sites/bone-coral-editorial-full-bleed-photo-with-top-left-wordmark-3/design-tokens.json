@@ -1,0 +1,20 @@
+{
+  "slug": "the-renaissance-edition",
+  "palette": {
+    "bg": "#1F3A2E",
+    "fg": "#FFFFFF",
+    "accent": "#FF2A8C",
+    "muted": "#5E89A6",
+    "ink": "#2C4A3D",
+    "surface": "#EFE6D5"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Open the edition"
+}

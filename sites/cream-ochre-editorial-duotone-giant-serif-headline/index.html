@@ -1,0 +1,335 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>quacktory — Serious ducks for not-so-serious people</title>
+  <meta name="description" content="Rubber ducks from 4 cm to 3 m. Single-piece cast, food-grade silicone, natural rubber. Custom and B2B.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+
+</head>
+<body id="top">
+
+  <header class="topbar">
+    <a class="wordmark" href="#top" aria-label="quacktory — home">quacktory</a>
+    <nav class="topbar__nav" aria-label="Main menu">
+      <button class="icon-btn icon-btn--menu" type="button" aria-label="Open menu">
+        <span></span><span></span><span></span>
+      </button>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- HERO · duotone 50/50 split with two gallery figures (Noho first-screen pattern) -->
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero__stage">
+        <div class="hero__field hero__field--cream" aria-hidden="true"></div>
+        <div class="hero__field hero__field--tan" aria-hidden="true"></div>
+        <div class="hero__seam" aria-hidden="true"></div>
+
+        <figure class="hero__figure hero__figure--left" aria-hidden="true">
+          <svg class="hero__object" viewBox="0 0 120 84">
+            <defs>
+              <linearGradient id="duckYellow" x1="0.1" y1="0" x2="0.7" y2="1">
+                <stop offset="0" stop-color="#FBE86B"/>
+                <stop offset="1" stop-color="#E7C325"/>
+              </linearGradient>
+            </defs>
+            <path d="M16 71C6 53 14 31 34 22c18-8 40-3 48 13 7 14 2 32-14 40-16 8-42 6-52-4Z" fill="url(#duckYellow)"/>
+            <circle cx="75" cy="26" r="19" fill="url(#duckYellow)"/>
+            <path d="M91 20c9-1 16 3 16 8s-7 9-16 8c-2-5-2-11 0-16Z" fill="#DFAE1B"/>
+            <circle cx="79" cy="21" r="3.8" fill="#1A1A1A"/>
+            <circle cx="80.2" cy="19.8" r="1.2" fill="#F4F1EA"/>
+          </svg>
+          <span class="hero__shadow"></span>
+        </figure>
+
+        <figure class="hero__figure hero__figure--right" aria-hidden="true">
+          <svg class="hero__object" viewBox="0 0 120 84">
+            <defs>
+              <pattern id="duckPerf" width="2.6" height="2.6" patternUnits="userSpaceOnUse">
+                <circle cx="1.3" cy="1.3" r="0.62" fill="#4A4A4A"/>
+              </pattern>
+            </defs>
+            <path d="M16 71C6 53 14 31 34 22c18-8 40-3 48 13 7 14 2 32-14 40-16 8-42 6-52-4Z" fill="#1A1A1A"/>
+            <path d="M16 71C6 53 14 31 34 22c18-8 40-3 48 13 7 14 2 32-14 40-16 8-42 6-52-4Z" fill="url(#duckPerf)"/>
+            <circle cx="75" cy="26" r="19" fill="#1A1A1A"/>
+            <circle cx="75" cy="26" r="19" fill="url(#duckPerf)"/>
+            <path d="M91 20c9-1 16 3 16 8s-7 9-16 8c-2-5-2-11 0-16Z" fill="#262626"/>
+            <path d="M91 20c9-1 16 3 16 8s-7 9-16 8c-2-5-2-11 0-16Z" fill="url(#duckPerf)"/>
+            <circle cx="79" cy="21" r="3.8" fill="#EFEAE0"/>
+          </svg>
+          <span class="hero__shadow"></span>
+        </figure>
+
+        <button class="plus plus--left" type="button" data-modal-open data-sku="micro" aria-label="Open Micro card">+</button>
+        <button class="plus plus--right" type="button" data-modal-open data-sku="architect" aria-label="Open Architect card">+</button>
+
+        <div class="hero__scroll" aria-hidden="true">
+          <span>scroll</span>
+          <span class="hero__scroll-line"></span>
+        </div>
+      </div>
+
+      <div class="hero__inner">
+        <p class="hero__eyebrow">manifesto · 2024</p>
+        <h1 class="hero__headline" id="hero-title">We make ducks you don't want to put in the bath — you want to put on a shelf.</h1>
+        <p class="hero__sub">Small ones fit in a pocket. Big ones belong in the foyer. All of them belong in frame.</p>
+        <a class="hero__cta" href="#collection">Discover the collection</a>
+      </div>
+    </section>
+
+    <!-- 01 · LINEAGE — scale rail from 4 cm to 3 m -->
+    <section class="scale" id="lineage" aria-labelledby="lineage-title">
+      <div class="scale__head">
+        <span class="scale__label">01 — Lineup</span>
+        <h2 class="scale__title" id="lineage-title">From four centimeters to three meters. One silhouette. Five characters.</h2>
+      </div>
+      <ol class="scale__rail" role="list">
+        <li class="scale__step" data-sku="micro" data-modal-open>
+          <div class="scale__object scale__object--micro">
+            <img src="./assets/product-micro.jpg" alt="Quacktory Micro line — keychain" loading="lazy">
+          </div>
+          <div class="scale__meta">
+            <span class="scale__size">4–8 cm</span>
+            <span class="scale__name">Micro</span>
+            <span class="scale__hint">like a thumb</span>
+          </div>
+        </li>
+        <li class="scale__step" data-sku="classic" data-modal-open>
+          <div class="scale__object scale__object--classic">
+            <img src="./assets/product-classic.jpg" alt="Quacktory Classic line" loading="lazy">
+          </div>
+          <div class="scale__meta">
+            <span class="scale__size">10–25 cm</span>
+            <span class="scale__name">Classic</span>
+            <span class="scale__hint">like a palm</span>
+          </div>
+        </li>
+        <li class="scale__step" data-sku="designer" data-modal-open>
+          <div class="scale__object scale__object--designer">
+            <img src="./assets/product-designer.jpg" alt="Quacktory Designer line" loading="lazy">
+          </div>
+          <div class="scale__meta">
+            <span class="scale__size">15–30 cm</span>
+            <span class="scale__name">Designer</span>
+            <span class="scale__hint">like a cat</span>
+          </div>
+        </li>
+        <li class="scale__step" data-sku="mega" data-modal-open>
+          <div class="scale__object scale__object--mega">
+            <img src="./assets/product-mega.jpg" alt="Quacktory Mega line" loading="lazy">
+          </div>
+          <div class="scale__meta">
+            <span class="scale__size">50–120 cm</span>
+            <span class="scale__name">Mega</span>
+            <span class="scale__hint">like a child</span>
+          </div>
+        </li>
+        <li class="scale__step" data-sku="architect" data-modal-open>
+          <div class="scale__object scale__object--architect">
+            <img src="./assets/product-architect.jpg" alt="Quacktory Architect line — installation" loading="lazy">
+          </div>
+          <div class="scale__meta">
+            <span class="scale__size">1.5–3 m</span>
+            <span class="scale__name">Architect</span>
+            <span class="scale__hint">like a bear</span>
+          </div>
+        </li>
+      </ol>
+    </section>
+
+    <!-- 02 · COLLECTION — diptych showcase (Noho first-screen pattern) -->
+    <section class="collection" id="collection" aria-labelledby="collection-title">
+      <div class="collection__head">
+        <span class="scale__label">02 — Collection</span>
+        <h2 class="collection__title" id="collection-title">Two poles of one shape. A keychain in your pocket and a sculpture in the lobby.</h2>
+      </div>
+      <div class="collection__split">
+        <article class="diptych diptych--a" data-sku="micro" data-modal-open>
+          <div class="diptych__media">
+            <img src="./assets/product-micro.jpg" alt="">
+          </div>
+          <div class="diptych__chrome">
+            <span class="plus" aria-hidden="true">+</span>
+          </div>
+          <div class="diptych__caption">
+            <span class="diptych__num">02.A · the smallest</span>
+            <h3 class="diptych__name">Micro</h3>
+            <p class="diptych__lede">Keychain, merch, impulse gift up to $7. Injection molding, 8 cavities, ~45 seconds per cycle. In a pocket, on a keychain, in frame.</p>
+            <span class="diptych__price">from $4 · incl. domestic shipping</span>
+          </div>
+        </article>
+        <article class="diptych diptych--b" data-sku="architect" data-modal-open>
+          <div class="diptych__media">
+            <img src="./assets/product-architect.jpg" alt="">
+          </div>
+          <div class="diptych__chrome">
+            <span class="plus" aria-hidden="true">+</span>
+          </div>
+          <div class="diptych__caption">
+            <span class="diptych__num">02.B · the largest</span>
+            <h3 class="diptych__name">Architect</h3>
+            <p class="diptych__lede">Installation 1.5–3 m. Sculptural cast, master model with CNC milling, steel frame with stiffening ribs. Mounted by a certified crew.</p>
+            <span class="diptych__price">price on request · product passport</span>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- IMAGE STRIP — Noho second-screen carousel, repeated pastel tiles -->
+    <section class="strip" aria-label="Ducks in interiors">
+      <div class="strip__track">
+        <figure class="strip__tile" style="--tile:#B9A8DC"><img src="./assets/hero-lifestyle.jpg" alt="" loading="lazy"><figcaption>Quacktory in the foyer</figcaption></figure>
+        <figure class="strip__tile" style="--tile:#E0BE8B"><img src="./assets/product-classic.jpg" alt="" loading="lazy"><figcaption>On the desk</figcaption></figure>
+        <figure class="strip__tile" style="--tile:#B9A8DC"><img src="./assets/product-designer.jpg" alt="" loading="lazy"><figcaption>Limited edition</figcaption></figure>
+        <figure class="strip__tile" style="--tile:#E0BE8B"><img src="./assets/product-mega.jpg" alt="" loading="lazy"><figcaption>Photo object</figcaption></figure>
+        <figure class="strip__tile" style="--tile:#7A9559"><img src="./assets/product-micro.jpg" alt="" loading="lazy"><figcaption>Keychain in pocket</figcaption></figure>
+        <figure class="strip__tile" style="--tile:#F2DC7A"><img src="./assets/product-architect.jpg" alt="" loading="lazy"><figcaption>Installation in the hall</figcaption></figure>
+        <figure class="strip__tile" style="--tile:#B9A8DC"><img src="./assets/product-classic.jpg" alt="" loading="lazy"><figcaption>In the bath</figcaption></figure>
+      </div>
+      <div class="strip__cue" aria-hidden="true">scroll →</div>
+    </section>
+
+    <!-- 03 · B2B / Custom -->
+    <section class="b2b" id="b2b" aria-labelledby="b2b-title">
+      <div class="b2b__head">
+        <div>
+          <span class="scale__label">03 — Custom &amp; B2B</span>
+        </div>
+        <div>
+          <h2 class="b2b__title" id="b2b-title">Twelve signature pigments. Color through the body, not a surface paint.</h2>
+          <p class="b2b__lede">Mass coloration before casting — durable, predictable in lead time, consistent in price. A fully custom Pantone is a separate line in the quote, +2 weeks, +15% to the price. Custom geometry (brand mascot) is an individual project with its own master model.</p>
+        </div>
+      </div>
+      <div class="b2b__grid">
+        <div class="b2b__card">
+          <span class="b2b__line">Micro</span>
+          <span class="b2b__time">3 weeks</span>
+          <p>Keychains, merch, retail. Serial runs, impulse SKUs.</p>
+        </div>
+        <div class="b2b__card">
+          <span class="b2b__line">Classic</span>
+          <span class="b2b__time">3 weeks</span>
+          <p>Kids' assortment, bath, office. Stable geometry.</p>
+        </div>
+        <div class="b2b__card">
+          <span class="b2b__line">Designer</span>
+          <span class="b2b__time">6 weeks</span>
+          <p>Collabs with illustrators, artist approval, limited ≤300 pcs.</p>
+        </div>
+        <div class="b2b__card">
+          <span class="b2b__line">Mega · Architect</span>
+          <span class="b2b__time">6 / 12 weeks</span>
+          <p>Window displays, installations, branded spaces. Architect — with on-site survey visit.</p>
+        </div>
+      </div>
+      <a class="b2b__cta" href="#contact">Request a quote</a>
+    </section>
+
+    <!-- 04 · HOW WE MAKE -->
+    <section class="how" id="how" aria-labelledby="how-title">
+      <div class="how__head">
+        <span class="scale__label">04 — Production</span>
+        <h2 class="how__title" id="how-title">Single-piece cast. Food-grade silicone and natural rubber. No plastic, no glue, no metal inside.</h2>
+      </div>
+      <ol class="how__list" role="list">
+        <li class="how__step">
+          <span class="how__num">i.</span>
+          <h3>Material</h3>
+          <p>Food-grade silicone (Micro / Classic) or natural rubber with EPDM (Designer / Mega / Architect). Vulcanized single-piece body, no seams.</p>
+        </li>
+        <li class="how__step">
+          <span class="how__num">ii.</span>
+          <h3>Eyes</h3>
+          <p>Black pupil and white sclera — pigment is applied by hand after vulcanization. UV- and water-resistant.</p>
+        </li>
+        <li class="how__step">
+          <span class="how__num">iii.</span>
+          <h3>Quality control</h3>
+          <p>5 checks on every duck: visual, geometry ±2%, drop test, odor, gravimetry ±3%.</p>
+        </li>
+        <li class="how__step">
+          <span class="how__num">iv.</span>
+          <h3>Compliance</h3>
+          <p>GOST 25779-83, EN 71-3, REACH. Free of phthalates and bisphenol A. Operating range −20…+60 °C.</p>
+        </li>
+        <li class="how__step">
+          <span class="how__num">v.</span>
+          <h3>Care</h3>
+          <p>Warm water, mild soap. No abrasives, alcohols, or bleach. Indoor only.</p>
+        </li>
+      </ol>
+    </section>
+
+  </main>
+
+  <!-- MODAL · populated by main.js per SKU -->
+  <div class="modal" id="modal" hidden role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal__scrim" data-modal-close></div>
+    <div class="modal__panel">
+      <button class="modal__close" type="button" data-modal-close aria-label="Close">×</button>
+      <div class="modal__body">
+        <div class="modal__media">
+          <img id="modal-img" src="" alt="">
+        </div>
+        <div class="modal__text">
+          <span class="modal__eyebrow" id="modal-eyebrow">—</span>
+          <h2 class="modal__title" id="modal-title">—</h2>
+          <p class="modal__lede" id="modal-lede">—</p>
+          <dl class="modal__specs">
+            <div><dt>Size</dt><dd id="modal-size">—</dd></div>
+            <div><dt>Comparison</dt><dd id="modal-compare">—</dd></div>
+            <div><dt>Audience</dt><dd id="modal-audience">—</dd></div>
+            <div><dt>Lead time</dt><dd id="modal-time">—</dd></div>
+            <div><dt>Price</dt><dd id="modal-price">—</dd></div>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="foot" id="contact">
+    <div class="foot__brand">
+      <span class="wordmark wordmark--lg">quacktory</span>
+      <p>Serious ducks for not-so-serious people. Moscow · Saint Petersburg · domestic shipping.</p>
+    </div>
+    <div class="foot__col">
+      <h4>Lineup</h4>
+      <ul>
+        <li>Micro · 4–8 cm</li>
+        <li>Classic · 10–25 cm</li>
+        <li>Designer · 15–30 cm</li>
+        <li>Mega · 50–120 cm</li>
+        <li>Architect · 1.5–3 m</li>
+      </ul>
+    </div>
+    <div class="foot__col">
+      <h4>Contacts</h4>
+      <ul>
+        <li>hello@quacktory.space</li>
+        <li>Telegram · @quacktory</li>
+        <li>Instagram · @quacktory.space</li>
+      </ul>
+    </div>
+    <div class="foot__col">
+      <h4>Legal</h4>
+      <ul>
+        <li>Certificates &amp; passports</li>
+        <li>Privacy policy</li>
+        <li>Offer agreement</li>
+      </ul>
+    </div>
+    <div class="foot__base">
+      <span>© 2024 Quacktory. All ducks intact.</span>
+      <span>GOST 25779-83 · EN 71-3 · REACH</span>
+    </div>
+  </footer>
+
+  <script src="./main.js" defer></script>
+</body>
+</html>

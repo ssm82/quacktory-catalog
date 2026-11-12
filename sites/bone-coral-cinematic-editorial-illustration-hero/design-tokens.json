@@ -1,0 +1,20 @@
+{
+  "slug": "razed-mods-49748",
+  "palette": {
+    "bg": "#0E1620",
+    "fg": "#FFFFFF",
+    "accent": "#C8202A",
+    "muted": "#5BA8C9",
+    "ink": "#0A0A0A",
+    "surface": "#1A2330"
+  },
+  "fonts": {
+    "display": "Space Grotesk",
+    "body": "Inter",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "D",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Open the frame"
+}

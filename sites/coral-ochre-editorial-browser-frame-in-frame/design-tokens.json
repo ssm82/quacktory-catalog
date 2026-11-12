@@ -1,0 +1,20 @@
+{
+  "slug": "mindmarket",
+  "palette": {
+    "bg": "#F4DA00",
+    "fg": "#1B2A1E",
+    "accent": "#E94B3C",
+    "muted": "#F26A5A",
+    "ink": "#14201A",
+    "surface": "#85C341"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "B",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Get a quote"
+}

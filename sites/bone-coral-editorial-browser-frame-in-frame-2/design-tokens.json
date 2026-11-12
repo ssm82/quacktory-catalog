@@ -1,0 +1,20 @@
+{
+  "slug": "orgnzm-studio-49814",
+  "palette": {
+    "bg": "#F5F4EE",
+    "fg": "#0E0E0E",
+    "accent": "#E23B2C",
+    "muted": "#6E7A86",
+    "ink": "#1B1F26",
+    "surface": "#FFFFFF"
+  },
+  "fonts": {
+    "display": "Space Grotesk",
+    "body": "Inter",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "B",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "See the work"
+}

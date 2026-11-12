@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A monumental classic rubber duck as a sculptural centrepiece, front-facing and slightly elevated, occupying the frame with architectural presence. The duck has a warm charcoal / near-black matte finish — like soft porcelain on warm paper, no gloss, no shine. Seamless backdrop in #F4F4F2 warm off-white tone, purely neutral, not chromatically tinted beyond the palette. Soft window light from camera-left, gentle fill from camera-right, no hard shadows. The duck is treated as an editorial object, a typographic sculpture, isolated against a clean tonal field. Plain oval pupils with no catchlight, no glint, no sparkle, no decorative detail. Matte surface reads like pressed paper, very fine texture, no reflections. Editorial composition, 16:9 widescreen, deep breathing room around the silhouette. Mood: confident, methodical, premium-utilitarian. The duck is monumental in scale within the frame, set as the primary visual object rather than a product on a shelf. Colour palette restricted to off-white backdrop and near-black duck, no other hues present."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A miniature classic rubber duck at keychain scale, roughly five centimetres, photographed front-facing and slightly elevated at 30°. Warm charcoal / near-black matte body, identical silhouette to the larger SKUs — same outline, beak, feet, plain oval pupils with no glint, no catchlight, no decoration. Soft diffused three-point studio lighting, no hard shadows, no specular highlights. Seamless backdrop in #F4F4F2 warm off-white tone, neutral, not chromatically tinted beyond the palette. Matte porcelain-like surface finish, like editorial still life on warm paper. The duck is shown small against the backdrop, reading as a tiny sculptural object, no props, no scale references, no chain or hardware. 1:1 square format, generous internal padding, clean tonal restraint matching an editorial-tech aesthetic. Colour palette restricted to the near-black duck and the off-white backdrop, no saturated accent. Premium-utilitarian mood, no gradients, no glow, no glass surfaces, no noise overlays."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The classic rubber duck in its workhorse size, roughly fifteen centimetres, photographed front-facing and slightly elevated at 30°. The duck has a warm charcoal / near-black matte body, identical silhouette to all other SKUs in the range — same rounded body, curved beak, stubby feet, plain oval pupils with no glint, sparkle, heart, star, or pixel detail. Soft diffused three-point studio lighting, even illumination, no hot spots, no reflections. Seamless backdrop in #F4F4F2 warm off-white tone, neutral, not chromatically tinted beyond the palette. Matte porcelain surface finish — feels like fine ceramic on warm paper, no gloss, no lacquer. Editorial register: this is the most-photographed SKU, captured as a typographic object on a clean tonal field. 1:1 square format, generous whitespace, no props, soft contact shadow directly under the feet. Colour palette restricted to the off-white backdrop and the near-black duck, no other hues present."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A collaboration-edition classic rubber duck, roughly twenty centimetres, photographed front-facing and slightly elevated at 30°. The duck retains the identical silhouette to the rest of the range — same body, beak, feet, plain oval pupils with no decorative glint — but the surface finish is treated as a designer object: a warm charcoal / near-black matte base with a single restrained tonal inset in a slightly lighter neutral grey, no chromatic accent. Soft diffused three-point studio lighting, no specular highlights, no hard shadows. Seamless backdrop in #F4F4F2 warm off-white tone, neutral, not chromatically tinted beyond the palette. Matte porcelain register like editorial still life on warm paper. The designer treatment is felt through surface and subtle tonal layering only, never through colour, pattern, or printed graphics. 1:1 square format, generous padding, premium-utilitarian mood. Colour palette: off-white backdrop, near-black duck body, restrained tonal grey inset only."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A mega-scale classic rubber duck, roughly seventy centimetres tall, photographed front-facing and slightly elevated at 30°. The duck has a warm charcoal / near-black matte body, identical silhouette to the rest of the range — same rounded body, curved beak, stubby feet, plain oval pupils with no glint, sparkle, heart, or star. Soft diffused three-point studio lighting scaled to the larger surface, even illumination, no hot spots, no reflections. Seamless backdrop in #F4F4F2 warm off-white tone, neutral, not chromatically tinted beyond the palette. Matte porcelain surface finish, like editorial still life on warm paper — the scale reads as a photo-object, sculptural and monumental but in product-shot framing. Soft contact shadow directly under the feet, no props, no environment. 1:1 square format, generous internal padding, premium-utilitarian mood. Colour palette restricted to the off-white backdrop and the near-black duck, no other hues, no saturation."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "An architect-scale classic rubber duck, monumental at roughly two metres tall, photographed front-facing and slightly elevated at 30° to read the full silhouette. The duck has a warm charcoal / near-black matte body, identical silhouette to the rest of the range — same rounded body, curved beak, stubby feet, plain oval pupils with no glint, sparkle, heart, star, or pixel detail. Soft diffused three-point studio lighting scaled to the large format, even illumination, no hard shadows, no specular highlights. Seamless backdrop in #F4F4F2 warm off-white tone, neutral, not chromatically tinted beyond the palette. Matte porcelain surface like editorial still life on warm paper — the duck reads as a typographic sculpture, a statement installation object. 1:1 square format with the duck filling most of the frame, generous breathing room only at the edges, soft contact shadow. Colour palette: off-white backdrop, near-black duck, no other hues. Premium-utilitarian editorial mood."
+  }
+]

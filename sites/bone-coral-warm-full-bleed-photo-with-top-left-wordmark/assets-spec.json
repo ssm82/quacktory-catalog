@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A monumental classic rubber duck, scaled to dominate the frame as a single editorial centrepiece, finished in a deep brick red matte porcelain that reads as fired ceramic rather than gloss — the exact #B82E26 saturated accent of the palette. The duck sits on a seamless backdrop in the #C7C2BB warm cool-gray tone, NOT warm amber finish, NOT tinted beyond palette, evoking a magazine cover spread where the subject IS the typography block. Soft window light rakes from camera-left, casting a long, gentle shadow to the right and lifting the silhouette's outline against the muted paper-warm background. The duck faces front, slightly elevated, head held with quiet authority — its bill, wing fold, tail flick, and stance matching the silhouette of the smallest keychain SKU exactly, so the giant reads as the same creature only enlarged. Plain oval pupils, no glint, no catchlight, no sparkle — eyes are matte black ovals, restrained. Composition is centered and symmetric, generous negative space top and bottom, the duck filling roughly 60% of frame width. Subtle film grain, soft contrast, printed on warm stock."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 6cm micro classic rubber duck, the keychain SKU scaled to the smallest end of the family, finished in a deep brick red matte porcelain — the exact #B82E26 palette accent. The silhouette is identical to every larger SKU: same bill curve, same wing fold, same tail flick, same stance, only reduced. Photographed front-facing, slightly elevated at 30°, on a seamless backdrop in the #C7C2BB warm cool-gray tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused three-point studio lighting: a soft key from upper-left, a fill from the right, a hair light just kissing the crown. The matte porcelain surface absorbs highlights rather than reflecting them, so the red reads as printed ink, not candy gloss. Plain oval pupils, no glint, no catchlight, no sparkle — restrained editorial print restraint. A faint contact shadow grounds the duck on the seamless. Tight square crop, the duck occupying roughly 70% of frame, no props, no chrome."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 15cm classic rubber duck, the workhorse SKU and most-photographed member of the family, finished in a deep brick red matte porcelain surface that reads as fired ceramic — the exact #B82E26 palette accent. Silhouette is identical to every other SKU in the lineup — same bill, same wing fold, same tail, same stance — only this is the canonical mid-size. Photographed front-facing, slightly elevated at 30°, on a seamless backdrop in the #C7C2BB warm cool-gray tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused three-point studio lighting: a soft key from upper-left, a fill card from camera-right, a gentle rim catching the duck's back curve. Matte porcelain absorbs highlights; the red reads like editorial print ink rather than candy gloss. Plain oval pupils, no glint, no catchlight, no sparkle — quiet, restrained, in keeping with the magazine-cover register. A soft contact shadow grounds the figure. Square 1:1 crop, duck filling roughly 65% of frame, no props, no chrome."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 22cm designer collaboration edition classic rubber duck, finished in a deep brick red matte porcelain — the exact #B82E26 palette accent — with a single editorial typographic treatment: a heavy condensed sans-serif wordmark blind-debossed as a low-relief tactile pattern across the duck's flank, reading as impression rather than printed ink. The silhouette is identical to every other SKU — same bill, same wing fold, same tail, same stance — but the surface carries this one design intervention. Photographed front-facing, slightly elevated at 30°, on a seamless backdrop in the #C7C2BB warm cool-gray tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused three-point studio lighting grazes the emboss so the letterforms catch a soft shadow on their lower edges. Matte porcelain throughout, no gloss, no lacquer. Plain oval pupils, no glint, no catchlight, no sparkle. Square 1:1 crop, no props, no chrome."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 70cm mega classic rubber duck, the photo-object SKU, finished in a deep brick red matte porcelain that reads as oversized fired ceramic — the exact #B82E26 palette accent. Silhouette is identical to the smallest micro keychain — same bill curve, same wing fold, same tail flick, same stance — only scaled up so the duck becomes a sculptural object you could sit beside. Photographed front-facing, slightly elevated at 30°, on a seamless backdrop in the #C7C2BB warm cool-gray tone, NOT warm amber finish, NOT tinted beyond palette, the paper-warm neutral grounding the saturated red. Soft diffused three-point studio lighting: broad soft key from upper-left, fill from camera-right, gentle rim along the duck's crown. Matte porcelain absorbs highlight, so the red reads as flat editorial print ink, not candy gloss. Plain oval pupils, no glint, no catchlight, no sparkle. A wide soft contact shadow pools beneath. Square 1:1 crop, duck filling roughly 75% of frame, no props."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 2m architect-scale classic rubber duck, the statement-installation SKU, finished in a deep brick red matte porcelain — the exact #B82E26 palette accent — scaled to a height that lets a viewer meet its eyes. Silhouette is identical to every other SKU in the family — same bill, same wing fold, same tail, same stance — only enlarged to architectural scale. Photographed front-facing, slightly elevated at 30° with a wider field of view that captures the full monument on a seamless backdrop in the #C7C2BB warm cool-gray tone, NOT warm amber finish, NOT tinted beyond palette. Soft diffused three-point studio lighting: a broad soft key from upper-left, fill from camera-right, and a long rim along the duck's back curve. Matte porcelain surface absorbs highlight so the red reads as printed editorial ink, not candy gloss. Plain oval pupils, no glint, no catchlight, no sparkle — restrained, magazine-cover quiet. A wide soft contact shadow. Square 1:1 crop, no props."
+  }
+]

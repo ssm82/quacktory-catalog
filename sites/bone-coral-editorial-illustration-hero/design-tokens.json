@@ -1,0 +1,20 @@
+{
+  "slug": "design-canada",
+  "palette": {
+    "bg": "#080808",
+    "fg": "#F2F2F2",
+    "accent": "#E53935",
+    "muted": "#A8A8A8",
+    "ink": "#080808",
+    "surface": "#252525"
+  },
+  "fonts": {
+    "display": "Archivo",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Explore the archive"
+}

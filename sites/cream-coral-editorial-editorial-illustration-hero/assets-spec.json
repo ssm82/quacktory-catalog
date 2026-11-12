@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "Editorial cinematic hero treatment featuring the classic rubber duck as a monumental centrepiece. A colossal classic rubber duck — same iconic silhouette across all six shots — finished in a matte warm amber-orange porcelain glaze, scaled to feel like a sculptural key-art object filling the frame. The seamless backdrop is a deep near-black ink tone in exact #0A0A12, with the duck positioned center-stage as a singular monumental form, no clutter, no competing objects. Lighting is editorial: a large soft window-source key from camera-left, gentle diffused fill from camera-right, faint cool rim from behind to separate the silhouette. The duck's surface reads like unglazed ceramic, with no gloss highlights, no resin shine. Pupils are plain flat ovals with no catchlight, no sparkle, no decorative glint. A faint haze of ember-tone particles drifts in the surrounding space, echoing the warm amber-orange body. Subtle floor reflection on the matte plinth. Camera at a low three-quarter cinematic angle, slightly tilted up, framed with generous negative space above and to the sides for headline typography. 16:9."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product shot of the micro keychain size, roughly 6cm. A classic rubber duck — same identical silhouette as the rest of the line — in a matte warm amber-orange porcelain finish, the body color reading as a deep ember tone. The seamless backdrop is a deep near-black ink tone in exact #0A0A12, with no tint, no warm wash, no cool wash. A small antique-bronze split-ring keychain fob hangs from a thin cord around the duck's neck, signalling its keychain category. Lighting is soft diffused studio three-point: even key from upper-left, gentle fill from lower-right, soft rim from behind. The duck's surface is matte porcelain with no gloss, no lacquered highlights, no reflective hotspots. Pupils are plain flat ovals with no catchlight, no sparkle, no heart, no star, no pixel, no decorative glint of any kind. Camera: front-facing, slightly elevated, 30° down. The duck occupies roughly 55% of the frame, with breathing room around it. Surface texture reads like fine unglazed ceramic. 1:1."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product shot of the classic 18cm workhorse size. A classic rubber duck — same identical silhouette as every shot in the line — finished in a matte warm amber-orange porcelain glaze, the body color reading as a deep ember-orange tone. Seamless backdrop is a deep near-black ink in exact #0A0A12, with no colour tint, no gradient, no warm or cool wash. The duck stands on a barely-visible matte plinth edge that disappears into the backdrop. Lighting is soft diffused studio three-point: even broad key from upper-left, gentle fill from lower-right, soft cool rim from behind to separate the silhouette. The duck's surface is matte porcelain with no gloss, no lacquered highlights, no resin shine. Pupils are plain flat ovals with no catchlight, no sparkle, no heart, no star, no pixel, no decorative glint. Camera: front-facing, slightly elevated, 30° down. The duck occupies roughly 60% of the frame. Surface reads like unglazed fine ceramic. 1:1."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product shot of the designer 22cm collaboration edition. A classic rubber duck — same identical silhouette as the rest of the line — in a matte warm amber-orange porcelain body, treated as a high-end collaboration piece. The body is hand-decorated with fine hairline geometric line-engraving in muted lavender-gray (#B8AEC8) echoing the site palette, with subtle dark ink (#0A0A12) cross-hatching along the wing and tail. Seamless backdrop is a deep near-black ink in exact #0A0A12, with no tint, no gradient. Lighting is soft diffused studio three-point: even key from upper-left, gentle fill from lower-right, soft rim from behind. The duck's surface is matte porcelain, no gloss, no lacquer. Pupils are plain flat ovals with no catchlight, no sparkle, no heart, no star, no pixel, no decorative glint. Camera: front-facing, slightly elevated, 30° down. Duck occupies roughly 60% of frame. Surface reads like fine bisque-fired ceramic with hand-painted detail. 1:1."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product shot of the mega 80cm photo-object. A classic rubber duck — same identical silhouette as the rest of the line — in a matte warm amber-orange porcelain finish, scaled up to photo-object proportions. Seamless backdrop is a deep near-black ink in exact #0A0A12, no tint, no gradient. The duck stands on a low matte black plinth that fades into the surround. Lighting is soft diffused studio three-point: even broad key from upper-left, gentle fill from lower-right, soft cool rim from behind to define the silhouette. The duck's surface is matte porcelain with no gloss, no lacquered highlights, no resin shine. Pupils are plain flat ovals with no catchlight, no sparkle, no heart, no star, no pixel, no decorative glint. Camera: front-facing, slightly elevated, 30° down, pulled back so the duck occupies roughly 75% of frame. Surface reads like unglazed fine ceramic at scale. 1:1."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product shot of the architect 2m statement installation. A classic rubber duck — same identical silhouette as the rest of the line — in a matte warm amber-orange porcelain finish, scaled to a 2 metre statement installation piece. Seamless backdrop is a deep near-black ink in exact #0A0A12, no tint, no gradient, no wash. The duck stands on a low matte plinth that dissolves into the surround. Lighting is soft diffused studio three-point re-tuned for the large form: even broad key from upper-left, gentle fill from lower-right, soft cool rim from behind to separate the monumental silhouette. The duck's surface is matte porcelain with no gloss, no lacquered highlights, no resin shine. Pupils are plain flat ovals with no catchlight, no sparkle, no heart, no star, no pixel, no decorative glint. Camera: front-facing, slightly elevated, 30° down, framed so the duck fills the composition as a sculptural object. Surface reads like monumental fine ceramic. 1:1."
+  }
+]

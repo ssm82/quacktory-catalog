@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Quacktory — Digital Duck Experience</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body class="olive">
+<div class="viewport">
+  <header class="h-bar" role="banner">
+    <a href="#" class="brand"><em>quack</em>tory</a>
+    <nav class="h-nav" aria-label="Main">
+      <a href="#scale">Lineup</a>
+      <a href="#lab">Workshop</a>
+      <a href="#b2b">B2B</a>
+      <a href="#care">Care</a>
+    </nav>
+    <span class="dot" aria-hidden="true">·</span>
+  </header>
+
+  <!-- HERO — card-on-photo -->
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="hero-photo" role="img" aria-label="Duck on an olive background">
+      <img src="./assets/hero-lifestyle.jpg" alt="">
+    </div>
+
+    <article class="card">
+      <div class="card-media" aria-hidden="true">
+        <img src="./assets/hero-lifestyle.jpg" alt="">
+      </div>
+      <header class="card-top">
+        <span class="brand-mini"><em>quack</em>tory</span>
+        <nav class="card-nav" aria-label="Card">
+          <a href="#scale">Lineup</a>
+          <a href="#lab">Workshop</a>
+          <a href="#b2b">B2B</a>
+          <a href="#care">Care</a>
+        </nav>
+      </header>
+
+      <div class="card-mid">
+        <p class="kicker">Serious ducks for un-serious people</p>
+        <h1 id="hero-title" class="big">
+          Digital<br>Duck<br>Experience
+        </h1>
+        <p class="lede">
+          We make ducks you want to keep on a shelf, not launch into water. Small ones — in your pocket. Big ones — in the lobby. All of them — in the frame.
+        </p>
+      </div>
+
+      <footer class="card-foot">
+        <span class="status">
+          <span class="status-dot"></span>
+          <span class="status-text">Taking orders · 2026</span>
+        </span>
+        <nav class="card-foot-nav" aria-label="Card footer">
+          <a href="#scale">Lineup</a>
+          <a href="#lab">Workshop</a>
+          <a href="#b2b">B2B</a>
+          <a href="#care">Care</a>
+        </nav>
+        <span class="contact">support@quacktory.space</span>
+      </footer>
+    </article>
+
+    <button class="scroll-cue" type="button" aria-label="Scroll">
+      Scroll <span aria-hidden="true">↓</span>
+    </button>
+  </section>
+
+  <!-- LINEAGE — five thin cards on photo strip -->
+  <section id="scale" class="lineage">
+    <header class="sec-head">
+      <span class="eyebrow">02 · Lineup</span>
+      <h2>Five sizes, one silhouette</h2>
+      <p>Click a card to open the duck's passport.</p>
+    </header>
+
+    <ul class="cards" role="list">
+      <li class="card-mini" data-sku="micro" tabindex="0">
+        <img src="./assets/product-micro.jpg" alt="">
+        <div><b>Micro</b><span>4 cm · keychain · $7</span></div>
+      </li>
+      <li class="card-mini" data-sku="classic" tabindex="0">
+        <img src="./assets/product-classic.jpg" alt="">
+        <div><b>Classic</b><span>18 cm · bath · $17</span></div>
+      </li>
+      <li class="card-mini" data-sku="designer" tabindex="0">
+        <img src="./assets/product-designer.jpg" alt="">
+        <div><b>Designer</b><span>25 cm · limited · $65</span></div>
+      </li>
+      <li class="card-mini" data-sku="mega" tabindex="0">
+        <img src="./assets/product-mega.jpg" alt="">
+        <div><b>Mega</b><span>80 cm · window · $500</span></div>
+      </li>
+      <li class="card-mini" data-sku="architect" tabindex="0">
+        <img src="./assets/product-architect.jpg" alt="">
+        <div><b>Architect</b><span>3 m · installation · on request</span></div>
+      </li>
+    </ul>
+  </section>
+
+  <!-- LAB -->
+  <section id="lab" class="lab">
+    <header class="sec-head">
+      <span class="eyebrow">03 · Workshop</span>
+      <h2>How we make the ducks</h2>
+    </header>
+    <div class="grid-3">
+      <article><h3>Solid rubber</h3><p>Silicone or natural rubber with EPDM. No inserts, no glued seams.</p></article>
+      <article><h3>Eyes — pigment</h3><p>Black pupil + white sclera. Food-grade silicone paint, applied after vulcanization.</p></article>
+      <article><h3>Five checks</h3><p>Visual, geometry, drop test from 1 m, smell test, gravimetry ±3%.</p></article>
+      <article><h3>Casting by line</h3><p>Micro — injection. Classic — compression. Designer — hand-flask. Mega — rotational. Architect — sculptural.</p></article>
+      <article><h3>Temperature</h3><p>−20 °C … +60 °C. Indoor only. Protected from direct UV.</p></article>
+      <article><h3>Care</h3><p>Warm water and mild soap. No abrasives, alcohols or bleaches.</p></article>
+    </div>
+  </section>
+
+  <!-- B2B -->
+  <section id="b2b" class="b2b">
+    <header class="sec-head">
+      <span class="eyebrow">04 · Custom</span>
+      <h2>12 signature TPM colors</h2>
+      <p>The pigment runs through the mass before casting — not a surface paint.</p>
+    </header>
+    <ul class="b2b-list">
+      <li><span>Micro · Classic</span><b>3 weeks · wholesale from 200 pcs.</b></li>
+      <li><span>Designer</span><b>6 weeks · author sign-off</b></li>
+      <li><span>Mega</span><b>6 weeks · pallet shipping</b></li>
+      <li><span>Architect</span><b>12 weeks · survey and install</b></li>
+    </ul>
+  </section>
+
+  <!-- CARE -->
+  <section id="care" class="care">
+    <header class="sec-head">
+      <span class="eyebrow">05 · Compliance</span>
+      <h2>Certificates & passports</h2>
+    </header>
+    <div class="grid-3">
+      <article><h3>GOST 25779-83</h3><p>Rubber toys.</p></article>
+      <article><h3>EN 71-3</h3><p>Chemical migration — within the limit for 3+.</p></article>
+      <article><h3>REACH</h3><p>Phthalate- and BPA-free.</p></article>
+      <article><h3>Age</h3><p>Micro 4 cm — 6+; Classic — 3+; Designer — 6+; Mega — not a toy; Architect — installed by a certified crew.</p></article>
+      <article><h3>Environment</h3><p>Indoor only. Protected from UV and oils/solvents.</p></article>
+      <article><h3>Packaging</h3><p>Recycled cardboard, no polyethylene. Architect — wooden crate with climate control.</p></article>
+    </div>
+  </section>
+</div>
+
+<footer class="foot">
+  <div class="foot-row">
+    <span class="brand-foot"><em>quack</em>tory</span>
+    <nav>
+      <a href="#scale">Lineup</a>
+      <a href="#lab">Workshop</a>
+      <a href="#b2b">B2B</a>
+      <a href="#care">Care</a>
+    </nav>
+    <span class="share-pill">
+      <button id="shareBtn">Share</button>
+      <span><b id="shareCount">0</b> / 132</span>
+    </span>
+    <span>© Quacktory</span>
+  </div>
+</footer>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle" hidden>
+  <div class="modal-overlay" data-close></div>
+  <article class="modal-card">
+    <button class="modal-close" data-close aria-label="Close">×</button>
+    <div class="modal-img"><img id="modalImg" src="" alt=""></div>
+    <div class="modal-body">
+      <span class="modal-eyebrow" id="modalEyebrow"></span>
+      <h3 id="modalTitle"></h3>
+      <p id="modalDesc"></p>
+      <dl class="modal-spec">
+        <div><dt>Size</dt><dd id="modalSize"></dd></div>
+        <div><dt>Compare</dt><dd id="modalCompare"></dd></div>
+        <div><dt>Price</dt><dd id="modalPrice"></dd></div>
+        <div><dt>Lead</dt><dd id="modalLead"></dd></div>
+      </dl>
+      <button class="ghost-btn" data-close>Close</button>
+    </div>
+  </article>
+</div>
+<script src="main.js" defer></script>
+</body>
+</html>

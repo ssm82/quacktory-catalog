@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "Monumental classic rubber duck, scaled to fill the frame as a candy-bright centrepiece, rendered in glossy resin with a warm orange finish (#F26B1E). Plain oval pupils, no decorative glint. Set against a seamless backdrop in #1FA968 kelly-green tone, NOT warm amber finish, NOT tinted beyond palette. The duck stands on a flat green surface, casting only a soft contact smudge. Confectionery-pop and Memphis revival energy — low-opacity cotton-candy pink (#FBCFE0) bubble particles drift across the frame suggesting carbonation, with tiny four-point sparkles and four-petal flower motifs in #F8C8DC scattered like confetti. A hard key light from upper left with a hot pink-tinted rim picks out the lacquered resin gloss, plus a soft warm fill. Camera positioned low and slightly off-axis to amplify monumentality. The body has full candy-wrapper chroma, lacquered specular highlights across the crown, beak and back. No headline type, no props beyond particles. Aspect 16:9.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Studio product shot of a micro classic rubber duck, 4-8cm, keychain-sized, with a small silver split-ring keyring looped through the crown. Warm orange finish (#F26B1E) glossy resin, plain oval pupils, identical silhouette to the rest of the range. Seamless backdrop in #1FA968 kelly-green tone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated 30°. Soft diffused three-point studio lighting with a crisp specular highlight on the lacquered crown and beak. A few small pink bubble particles (#FBCFE0) and tiny four-petal flowers in #F8C8DC scattered on the surface as brand confetti. Glossy resin reading, candy-bright palette, Memphis-revival energy. No other props. The body sits centred with a tight contact shadow. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Studio product shot of a classic rubber duck, 10-25cm, the workhorse SKU, most-photographed. Warm orange finish (#F26B1E) glossy resin, plain oval pupils, identical silhouette. Seamless backdrop in #1FA968 kelly-green tone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated 30°. Soft diffused three-point studio lighting: broad key, gentle fill, and a hot specular highlight tracing the crown and beak to amplify the lacquered resin look. A scatter of low-opacity pink bubble particles (#FBCFE0) and tiny four-point sparkles in #F8C8DC read as brand confetti. The duck reads like a candy-wrapper figurine, full chroma, no other props, centred with a soft contact smudge. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Studio product shot of a designer edition classic rubber duck, 15-30cm, collaboration-style with a per-direction design treatment. Glossy resin body in warm orange finish (#F26B1E), plain oval pupils, identical silhouette to the workhorse. The duck carries a printed or airbrushed cotton-candy pink #F8C8DC label treatment across the chest — a chunky bubble-letter wordmark clipped at top and bottom edges, plus a small four-petal flower and four-point sparkle motif in the same pink. Seamless backdrop in #1FA968 kelly-green tone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated 30°. Soft diffused three-point studio lighting. A few bubble particles in #FBCFE0 at low opacity drift in the foreground. Glossy resin, candy-bright palette, Memphis revival energy. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Studio product shot of a mega classic rubber duck, 50-120cm, treated as a sculptural photo-object. Warm orange finish (#F26B1E) glossy resin, plain oval pupils, identical silhouette to the rest of the range, filling most of the frame. Seamless backdrop in #1FA968 kelly-green tone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated 30°, three-point studio lighting with a strong key and a hot rim light tracing the beak, wing-tip and crown to amplify the lacquered resin reading. Cotton-candy pink #F8C8DC bubble particles at low opacity overlay the frame, suggesting carbonation, with a few four-point sparkles. The body reads like a giant candy-wrapper figurine, full chroma, broad specular highlights, no other props. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Architect-scale classic rubber duck installation, 1.5-3m, presented as a single monumental glossy resin sculpture. Warm orange finish (#F26B1E), plain oval pupils, identical silhouette to the smaller SKUs. Seamless backdrop in #1FA968 kelly-green tone, NOT warm amber finish, NOT tinted beyond palette. Camera positioned low and slightly off-axis, capturing the duck from below to amplify monumentality, body filling the frame. Soft diffused three-point studio lighting scaled up — broad key, gentle fill, hot rim light defining the wing-tip and crown. Oversized pink #F8C8DC bubble and four-petal flower motifs are scattered around the duck as sculptural confetti. The lacquered surface picks up every highlight, candy-bright, Memphis-revival energy, no other props, no headline type. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  }
+]

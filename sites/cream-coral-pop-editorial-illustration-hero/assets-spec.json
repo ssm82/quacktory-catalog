@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "Monumental glossy red rubber duck as the towering centrepiece of a stylized low-poly 3D world, camera positioned at an isometric 35° pitch from upper right, seamless backdrop in warm peach #E8A878 tone with a teal #2F7E8C water band sweeping across the upper right, diamond-tiled ground plane in peach and terracotta with subtle grout lines, scattered low-poly props including a tiny red off-road vehicle parked midground, pink foliage trees framing the upper left, a warm amber tree counterweight on the right, small cobalt crates and lanterns. The duck is rendered in polished cherry-red resin with crisp specular highlights catching the warm amber key light from lower right, plain oval pupils no glint no decorative catchlight, dramatic long shadows cast across the diamond grid, diagonal composition running lower left to upper right, the duck physically larger than every other scene element, ultra-glossy pop register with flat-shaded polygon faces on environment geometry, dense saturated palette of warm ground against cool teal background, no aerial perspective or fog, the duck dominates the frame as a monumental hero object."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Glossy red classic rubber duck at keychain micro scale, approximately 4 to 8 cm in apparent size, seamless studio backdrop in warm peach #E8A878 tone uniform and not warm amber finish not tinted beyond palette, duck body finished in polished cherry-red resin with sharp specular highlights, plain oval pupils no glint no sparkle no decorative catchlight, identical classic duck silhouette maintained across the family, rounded plump body, short flat tail, small triangular beak, two small flat feet, front-facing camera at slightly elevated 30° angle, soft diffused three-point studio lighting producing even illumination across the duck and a faint soft contact shadow beneath, no props no surface texture no horizon line, the duck floats cleanly in a frame of warm peach, ultra-glossy pop register reading like a clean product render, high saturation throughout, the silhouette is the family constant."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Glossy red classic rubber duck at the workhorse classic scale, approximately 10 to 25 cm in apparent size, seamless studio backdrop in warm peach #E8A878 tone uniform and not warm amber finish not tinted beyond palette, duck body finished in polished cherry-red resin with crisp specular highlights catching the three-point soft diffused studio lighting, plain oval pupils no glint no sparkle no decorative catchlight, identical classic duck silhouette preserved exactly, rounded plump body, short flat tail, small triangular beak, two small flat feet, front-facing camera at slightly elevated 30° angle, soft even illumination with a gentle soft contact shadow beneath the feet, no props no surface texture no horizon line, ultra-glossy pop register reading like a clean product render, the duck is the only subject in a frame of warm peach, high saturation throughout."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Glossy red designer collaboration rubber duck at 15 to 30 cm apparent size, seamless studio backdrop in warm peach #E8A878 tone uniform and not warm amber finish not tinted beyond palette, duck body finished in polished cherry-red resin with a muted plum #A47A95 two-tone shading on the right and lower side facets echoing an extruded letterform language, plain oval pupils no glint no sparkle no decorative catchlight, identical classic duck silhouette preserved exactly, front-facing camera at slightly elevated 30° angle, soft diffused three-point studio lighting with the right-side key raking across the two-tone facets, a pale lavender-pink #F1D5E2 rim catching along the upper left edge, gentle contact shadow beneath the feet, no props no surface texture, ultra-glossy pop register reading like a limited edition collaboration piece, restrained palette discipline, the duck is the only subject in a frame of warm peach."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Glossy red classic rubber duck at the mega photo-object scale, approximately 50 to 120 cm in apparent size, seamless studio backdrop in warm peach #E8A878 tone uniform and not warm amber finish not tinted beyond palette, duck body finished in polished cherry-red resin with crisp broad specular highlights sweeping across the curved body, plain oval pupils no glint no sparkle no decorative catchlight, identical classic duck silhouette maintained, the scale of the duck fills most of the frame as a tactile photo-object, front-facing camera at slightly elevated 30° angle, soft diffused three-point studio lighting producing smooth gradient reflections across the plump body, gentle soft contact shadow beneath the wide flat feet, no props no surface texture no horizon line, ultra-glossy pop register, the duck is the entire subject in a frame of warm peach, high saturation throughout, gallery-grade object reading."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Monumental glossy red classic rubber duck at the architect statement-installation scale, approximately 1.5 to 3 meters in apparent size, seamless studio backdrop in warm peach #E8A878 tone with a subtle teal #2F7E8C band suggesting distant water across the upper edge, duck body finished in polished cherry-red resin with massive specular highlights catching the studio lighting, plain oval pupils no glint no sparkle no decorative catchlight, identical classic duck silhouette preserved at monumental scale, front-facing camera at slightly elevated 30° angle reading the duck as an architectural object, soft diffused three-point studio lighting with stronger key intensity, broad soft contact shadow beneath, no props no surface texture, ultra-glossy pop register, the duck dominates the frame like a public art installation in a frame of warm peach, high saturation throughout, restrained disciplined palette, gallery presentation."
+  }
+]

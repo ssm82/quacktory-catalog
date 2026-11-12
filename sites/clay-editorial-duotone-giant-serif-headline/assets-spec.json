@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck standing as a towering centrepiece on a darkened editorial set, rendered in a warm muted gold matte porcelain finish with an aged-paper quality — never warm amber finish, never saturated. The duck has the identical classic silhouette shared across the entire range: rounded body, soft cheek swell, gently upturned tail, small flat feet, and short flat bill. A plain oval pupil sits in each eye with no decorative glint, no catchlight, no sparkle. The camera is positioned low and slightly off-axis, looking up at the duck to amplify its monumentality, hero pattern A. The seamless backdrop is a deep warm near-black (#0E0B08), soft and tonally flat, with no horizon line. Lighting is editorial: a single soft window source from camera left, very gentle, casting long, low-contrast shadows across the duck's body, with a whisper of fill on the right cheek. The surface reads like bisque porcelain, not glossy resin. Aspect 16:9, full-bleed, no props, no text.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Front-facing, slightly elevated at 30°, a 6 cm classic rubber duck keychain edition rendered in a warm muted gold matte porcelain finish — a desaturated champagne tone, never warm amber finish. The silhouette is identical to the rest of the range: plump rounded body, smooth cheek curve, stubby upturned tail, two small flat webbed feet, and a short flat bill. Plain oval pupils, no catchlight, no sparkle, no decorative glint of any kind. Soft diffused studio three-point lighting: large overhead softbox as key, low fill from the right, gentle back-rim defining the duck's back curve. Seamless backdrop in deep warm near-black (#0E0B08), no horizon, no tint, no warm amber finish cast. Surface is matte and chalky, like fired bisque, not lacquered. Tight 1:1 crop, duck centred, full body visible with breathing room on all sides. No props, no text, no shadow card.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Front-facing, slightly elevated at 30°, the workhorse 18 cm classic rubber duck rendered in a warm muted gold matte porcelain finish — a desaturated antique champagne tone, never warm amber finish, never glossy. The silhouette is identical across the entire product line: plump rounded body, smooth cheek swell, stubby upturned tail, two small flat webbed feet, and a short flat bill. Plain oval pupils in each eye with no decorative glint, no catchlight, no sparkle. Soft diffused studio three-point lighting: broad overhead key, gentle right-side fill, and a thin back-rim that lifts the duck's outline from the background. Seamless backdrop in deep warm near-black (#0E0B08), flat and tonally even, with no tint and no horizon. The surface reads as soft bisque porcelain, not plastic, not resin. 1:1 square crop, duck centred, full body in frame with even margins.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Front-facing, slightly elevated at 30°, a 22 cm collaboration edition classic rubber duck rendered in a warm muted gold matte porcelain finish with an editorial aged-paper surface treatment — a desaturated antique champagne tone, never warm amber finish. The silhouette is identical to the rest of the range: plump rounded body, smooth cheek curve, stubby upturned tail, two small flat webbed feet, and a short flat bill. A faint vertical scanline distress — very subtle, low contrast — runs across the duck as a tribute to the brand's signature glitch treatment. Plain oval pupils, no catchlight, no sparkle, no decorative glint. Soft diffused studio three-point lighting: broad overhead key, gentle right fill, thin back-rim. Seamless backdrop in deep warm near-black (#0E0B08), flat, no tint, no horizon. Surface reads as soft bisque, not resin. 1:1 square crop, duck centred, full body in frame.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Front-facing, slightly elevated at 30°, an 80 cm photo-object scale classic rubber duck rendered in a warm muted gold matte porcelain finish — a desaturated antique champagne tone, never warm amber finish, never glossy. The silhouette is identical across the entire product line: plump rounded body, smooth cheek swell, stubby upturned tail, two small flat webbed feet, and a short flat bill. Plain oval pupils, no catchlight, no sparkle, no decorative glint. Soft diffused studio three-point lighting: broad overhead key, gentle right fill, and a thin back-rim that separates the duck from the backdrop. Seamless backdrop in deep warm near-black (#0E0B08), tonally even, no horizon, no tint. Surface reads as soft bisque porcelain, not plastic, not lacquered resin. 1:1 square crop, duck centred, full body visible with even margins. No props, no text, no shadow card.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Front-facing, slightly elevated at 30°, a 2 m statement installation scale classic rubber duck rendered in a warm muted gold matte porcelain finish — a desaturated antique champagne tone, never warm amber finish, never glossy. The silhouette is identical across the entire product line: plump rounded body, smooth cheek swell, stubby upturned tail, two small flat webbed feet, and a short flat bill. Plain oval pupils, no catchlight, no sparkle, no decorative glint. Soft diffused studio three-point lighting scaled to the larger form: a broad overhead key, gentle right-side fill, and a thin back-rim that defines the duck's back curve against the void. Seamless backdrop in deep warm near-black (#0E0B08), flat, tonally even, no horizon, no tint. Surface reads as soft bisque porcelain, not plastic, not lacquered resin. 1:1 square crop, duck centred, full body in frame with even margins. No props, no text.",
+    "aspect_ratio": "1:1"
+  }
+]

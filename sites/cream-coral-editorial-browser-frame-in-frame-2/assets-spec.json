@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "Editorial lifestyle studio photograph. A single classic rubber duck (warm amber finish, glossy) photographed mid-motion across a pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. The duck appears to leap forward with motion blur trailing behind, amber and hot-orange light streaks fanning outward horizontally suggesting speed and kinetic energy. Soft diffused studio light, three-point setup, no harsh shadows. Camera front-facing slightly elevated 30 degrees. Subject occupies the center-right of the frame. High-end product photography, cinematic motion blur, editorial magazine cover quality."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product photograph of a tiny rubber duck (4cm keychain-sized, warm amber finish, glossy). Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera front-facing slightly elevated 30 degrees. The duck is centered, full silhouette visible including small beak and tiny feet. Identical classic rubber duck silhouette as the rest of the collection. Crisp product photography, e-commerce catalog style, no text, no props."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product photograph of a medium classic rubber duck (15cm, warm amber finish, glossy). Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera front-facing slightly elevated 30 degrees. The duck is centered, full silhouette visible including beak and feet. Identical classic rubber duck silhouette as the rest of the collection. Crisp product photography, e-commerce catalog style, no text, no props."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product photograph of a designer edition rubber duck (20cm, warm amber finish with a single hot-orange kinetic streak accent painted across the body as a horizontal energy line, glossy). Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera front-facing slightly elevated 30 degrees. The duck is centered, full silhouette visible including beak and feet. Identical classic rubber duck silhouette as the rest of the collection. Crisp product photography, e-commerce catalog style, no text, no props."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product photograph of a large rubber duck (50cm, matte ivory finish, soft non-reflective surface). Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera front-facing slightly elevated 30 degrees. The duck is centered, full silhouette visible including beak and feet. Identical classic rubber duck silhouette as the rest of the collection. Crisp product photography, e-commerce catalog style, no text, no props."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product photograph of a monumental rubber duck (1.5m statement piece, clean ivory finish with subtle warm undertone, smooth surface). Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera front-facing slightly elevated 30 degrees, the duck is sized to feel impressive and architectural, occupying most of the frame. Full silhouette visible including beak and feet. Identical classic rubber duck silhouette as the rest of the collection. Crisp product photography, e-commerce catalog style, no text, no props."
+  }
+]

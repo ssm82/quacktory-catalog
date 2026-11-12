@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>quacktory — serious ducks for un-serious people</title>
+  <meta name="description" content="We make ducks you don't want to drop in the water — you want to put them on a shelf. The small ones go in a pocket. The large ones go in a lobby. All of them go on camera.">
+  <link rel="canonical" href="https://quacktory.space/">
+  <meta property="og:title" content="quacktory — serious ducks for un-serious people">
+  <meta property="og:description" content="Same duck. Five sizes. From 4 cm to 3 m. Single-piece vulcanised rubber.">
+  <meta property="og:url" content="https://quacktory.space/">
+  <meta property="og:type" content="website">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="page">
+
+  <!-- top scale rail -->
+  <div class="scale-rail" aria-hidden="true">
+    <div class="scale-rail__line"></div>
+    <div class="scale-rail__tick"><span class="scale-rail__num">4</span><span class="scale-rail__unit">cm</span></div>
+    <div class="scale-rail__tick"><span class="scale-rail__num">25</span><span class="scale-rail__unit">cm</span></div>
+    <div class="scale-rail__tick"><span class="scale-rail__num">30</span><span class="scale-rail__unit">cm</span></div>
+    <div class="scale-rail__tick"><span class="scale-rail__num">1.2</span><span class="scale-rail__unit">m</span></div>
+    <div class="scale-rail__tick scale-rail__tick--end"><span class="scale-rail__num">3</span><span class="scale-rail__unit">m</span></div>
+  </div>
+
+  <!-- status pill (top right) -->
+  <div class="status-pill" role="status">
+    <span class="status-pill__dot" aria-hidden="true"></span>
+    <span class="status-pill__text">5 lines in production</span>
+  </div>
+
+  <!-- HERO — frame-in-frame, centered wordmark + CTA -->
+  <section class="hero" id="join" aria-label="Quacktory — Join the beta">
+    <div class="hero__stage">
+      <span class="hero__limb hero__limb--leaf" aria-hidden="true"></span>
+      <span class="hero__limb hero__limb--peach" aria-hidden="true"></span>
+      <span class="hero__limb hero__limb--lavender" aria-hidden="true"></span>
+
+      <div class="hero__card">
+        <div class="hero__card-bg" role="img" aria-label="A Quacktory rubber duck on a shelf, lit from above."></div>
+        <div class="hero__card-vignette" aria-hidden="true"></div>
+        <div class="hero__content">
+          <h1 class="hero__wordmark">quacktory</h1>
+          <div class="hero__actions">
+            <a href="#b2b" class="pill pill--primary">
+              <span class="pill__dot" aria-hidden="true"></span>
+              Join the beta
+            </a>
+            <a href="#ladder" class="pill pill--ghost" aria-label="See the size ladder">
+              <span class="pill__arrow" aria-hidden="true">↓</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <p class="hero__caption">Same duck. Five sizes. — Single-piece vulcanised rubber.</p>
+  </section>
+
+  <!-- floating petals -->
+  <div class="petals" aria-hidden="true">
+    <span class="petal petal--1"></span>
+    <span class="petal petal--2"></span>
+    <span class="petal petal--3"></span>
+    <span class="petal petal--4"></span>
+    <span class="petal petal--5"></span>
+    <span class="petal petal--6"></span>
+  </div>
+
+  <!-- SIZE LADDER — the scale ladder (mandatory) -->
+  <section class="ladder" id="ladder" aria-label="Size ladder — five product lines">
+    <div class="ladder__head">
+      <p class="ladder__eyebrow">The scale ladder</p>
+      <h2 class="ladder__title">Same duck. Five sizes.</h2>
+      <p class="ladder__sub">From a thumb to a bear. The silhouette is invariant — only the body proportions recalibrate as the duck grows. The eyes stay black-on-white across every line.</p>
+    </div>
+
+    <div class="ladder__row">
+      <article class="duck-card" data-line="micro" tabindex="0" aria-label="Quacktory Micro — 4 cm">
+        <div class="duck-card__stage">
+          <span class="duck-card__ground" aria-hidden="true"></span>
+          <span class="duck-card__underglow" aria-hidden="true"></span>
+          <img class="duck-card__img" src="./assets/product-micro.jpg" alt="Quacktory Micro — 4 centimetres">
+        </div>
+        <div class="duck-card__meta">
+          <span class="duck-card__line">Micro</span>
+          <span class="duck-card__size">4 cm<em>thumb-sized</em></span>
+          <span class="duck-card__age">6+ · not for under 3</span>
+          <span class="duck-card__price">from $6<small>/unit</small><small class="incl">incl. shipping</small></span>
+        </div>
+      </article>
+
+      <article class="duck-card" data-line="classic" tabindex="0" aria-label="Quacktory Classic — 25 cm">
+        <div class="duck-card__stage">
+          <span class="duck-card__ground" aria-hidden="true"></span>
+          <span class="duck-card__underglow" aria-hidden="true"></span>
+          <img class="duck-card__img" src="./assets/product-classic.jpg" alt="Quacktory Classic — 25 centimetres">
+        </div>
+        <div class="duck-card__meta">
+          <span class="duck-card__line">Classic</span>
+          <span class="duck-card__size">25 cm<em>mug-sized</em></span>
+          <span class="duck-card__age">3+</span>
+          <span class="duck-card__price">$24<small>/unit</small><small class="incl">incl. shipping</small></span>
+        </div>
+      </article>
+
+      <article class="duck-card" data-line="designer" tabindex="0" aria-label="Quacktory Designer — 30 cm">
+        <div class="duck-card__stage">
+          <span class="duck-card__ground" aria-hidden="true"></span>
+          <span class="duck-card__underglow" aria-hidden="true"></span>
+          <img class="duck-card__img" src="./assets/product-designer.jpg" alt="Quacktory Designer — 30 centimetres">
+        </div>
+        <div class="duck-card__meta">
+          <span class="duck-card__line">Designer</span>
+          <span class="duck-card__size">30 cm<em>cat-sized</em></span>
+          <span class="duck-card__age">6+ · collector's object</span>
+          <span class="duck-card__price">$98<small>/unit</small><small class="incl">incl. shipping</small></span>
+        </div>
+      </article>
+
+      <article class="duck-card" data-line="mega" tabindex="0" aria-label="Quacktory Mega — 1.2 m">
+        <div class="duck-card__stage">
+          <span class="duck-card__ground" aria-hidden="true"></span>
+          <span class="duck-card__underglow" aria-hidden="true"></span>
+          <img class="duck-card__img" src="./assets/product-mega.jpg" alt="Quacktory Mega — 1.2 metres">
+        </div>
+        <div class="duck-card__meta">
+          <span class="duck-card__line">Mega</span>
+          <span class="duck-card__size">1.2 m<em>child-sized</em></span>
+          <span class="duck-card__age">decorative · not a toy</span>
+          <span class="duck-card__price">$540<small>/unit</small><small class="incl">incl. shipping</small></span>
+        </div>
+      </article>
+
+      <article class="duck-card" data-line="architect" tabindex="0" aria-label="Quacktory Architect — 3 m">
+        <div class="duck-card__stage">
+          <span class="duck-card__ground" aria-hidden="true"></span>
+          <span class="duck-card__underglow" aria-hidden="true"></span>
+          <img class="duck-card__img" src="./assets/product-architect.jpg" alt="Quacktory Architect — 3 metres">
+        </div>
+        <div class="duck-card__meta">
+          <span class="duck-card__line">Architect</span>
+          <span class="duck-card__size">3 m<em>bear-sized</em></span>
+          <span class="duck-card__age">installation · 12 wk lead</span>
+          <span class="duck-card__price">price on request<small>spec sheet</small></span>
+        </div>
+      </article>
+    </div>
+
+    <p class="ladder__foot">Single-piece vulcanised rubber · EN 71-3 · REACH · −20 °C … +60 °C · indoor only</p>
+  </section>
+
+  <!-- MANIFESTO -->
+  <section class="manifesto" aria-label="Manifesto">
+    <p class="manifesto__line">We make ducks you don't want to drop in the water — you want to put them on a shelf.</p>
+    <p class="manifesto__line">The small ones go in a pocket. The large ones go in a lobby.</p>
+    <p class="manifesto__line manifesto__line--last"><em>All of them go on camera.</em></p>
+  </section>
+
+  <!-- B2B / Custom — Quacktory Pigment Menu + lead times -->
+  <section class="b2b" id="b2b" aria-label="B2B and custom development">
+    <div class="b2b__panel">
+      <span class="b2b__glow" aria-hidden="true"></span>
+      <div class="b2b__intro">
+        <p class="b2b__eyebrow">For brand managers & events</p>
+        <h2 class="b2b__title">Custom colour, wholesale, installations.</h2>
+        <p class="b2b__sub">Pick from the Quacktory Pigment Menu — twelve branded Pantone-equivalents, mass-tinted into the rubber before moulding. No paint on top, no film, no sticker. Predictable lead times, from three to twelve weeks.</p>
+        <a href="#quote" class="pill pill--primary pill--lg">
+          <span class="pill__dot" aria-hidden="true"></span>
+          Request a quote
+        </a>
+        <ul class="b2b__leads" aria-label="Lead times by line">
+          <li><span>Micro / Classic</span><b>3 weeks</b></li>
+          <li><span>Designer / Mega</span><b>6 weeks</b></li>
+          <li><span>Architect</span><b>12 weeks</b></li>
+        </ul>
+      </div>
+      <div class="b2b__palette" aria-label="Quacktory Pigment Menu — twelve swatches">
+        <span class="swatch" style="--c:#1C1F23" title="Ink"></span>
+        <span class="swatch" style="--c:#F2F7F9" title="Surface"></span>
+        <span class="swatch" style="--c:#F4B6C8" title="Blush"></span>
+        <span class="swatch" style="--c:#7CB8A6" title="Seafoam"></span>
+        <span class="swatch" style="--c:#A38AC2" title="Lavender"></span>
+        <span class="swatch" style="--c:#D4A78A" title="Peach"></span>
+        <span class="swatch" style="--c:#7FBF6E" title="Leaf"></span>
+        <span class="swatch" style="--c:#D9E8EE" title="Mist"></span>
+        <span class="swatch" style="--c:#C8DDD0" title="Lichen"></span>
+        <span class="swatch" style="--c:#8A6A4A" title="Earth"></span>
+        <span class="swatch" style="--c:#1F2226" title="Charcoal"></span>
+        <span class="swatch" style="--c:#E8B4A0" title="Apricot"></span>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="foot" aria-label="Footer">
+    <div class="foot__row">
+      <div class="foot__brand">
+        <span class="foot__logo">quacktory</span>
+        <p class="foot__tagline">Serious ducks for un-serious people.</p>
+      </div>
+      <div class="foot__col">
+        <span class="foot__h">Catalog</span>
+        <a class="foot__link" href="#ladder">Micro</a>
+        <a class="foot__link" href="#ladder">Classic</a>
+        <a class="foot__link" href="#ladder">Designer</a>
+        <a class="foot__link" href="#ladder">Mega</a>
+        <a class="foot__link" href="#ladder">Architect</a>
+      </div>
+      <div class="foot__col">
+        <span class="foot__h">Studio</span>
+        <a class="foot__link" href="#b2b">B2B & custom</a>
+        <a class="foot__link" href="#b2b">Pigment menu</a>
+        <a class="foot__link" href="#b2b">Compliance</a>
+        <a class="foot__link" href="#b2b">Care guide</a>
+      </div>
+      <div class="foot__col">
+        <span class="foot__h">Contact</span>
+        <span class="foot__link foot__link--static">hello@quacktory.space</span>
+        <span class="foot__link foot__link--static">@quacktory</span>
+        <span class="foot__link foot__link--static">Visa · Mastercard · Apple Pay</span>
+      </div>
+    </div>
+    <div class="foot__legal">
+      <span>© 2025 Quacktory. Single-piece vulcanised rubber. Indoor use only. EN 71-3 · REACH.</span>
+      <span>quacktory.space</span>
+    </div>
+  </footer>
+</div>
+<script src="main.js" defer></script>
+</body>
+</html>

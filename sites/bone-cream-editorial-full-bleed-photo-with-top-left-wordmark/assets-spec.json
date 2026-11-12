@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A classic rubber duck with identical body silhouette, finished in matte jet-black porcelain (#1A1A1A) with a smooth, non-reflective surface, placed on location within an architectural environment. The duck sits at the centre of a quiet, editorial composition: a horizontal seam where a warm pale paper-tone wall (#F2F0EB) meets a polished concrete floor, with a slim vertical shadow line of a window mullion behind it. Soft window light from the left grazes the duck's rounded back, producing a calm, diffused shadow to the right and a tactile matte ceramic reading. The duck faces the camera at a slight three-quarter angle, beak and feet crisp against the warm paper and concrete surroundings — no props, no decorative glint in the eye, just a plain oval pupil. The atmosphere is editorial and restrained: porcelain on warm paper, calm, deliberate, mature, with the building's geometry and the duck's rounded form creating a quiet counterpoint. A faint horizon of muted greens suggests distant foliage beyond a window, never breaking the monochrome restraint. Seamless backdrop in warm pale paper tone (#F2F0EB), NOT yellow, NOT tinted beyond palette. 16:9 cinematic landscape.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A classic rubber duck with identical body silhouette, finished in matte jet-black porcelain (#1A1A1A) with a smooth, non-reflective surface, presented at micro keychain scale (4–8cm). A small brushed steel split ring attaches to the top of the head as a functional accessory, the body outline unchanged. Front-facing, slightly elevated, 30° camera angle, the duck sitting low in the frame with generous negative space above. Seamless backdrop in warm pale paper tone (#F2F0EB), NOT yellow, NOT tinted beyond palette. Soft diffused three-point studio lighting: gentle key from upper left, subtle fill from right, low rim, producing a quiet, even shadow beneath the body. The duck is the entire visual subject — no props, no text, no shadow cards, no decorative glint in the eye, just a plain oval pupil. Editorial mood: porcelain on warm paper, calm, deliberate, mature. 1:1 square.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "A classic rubber duck with identical body silhouette, finished in matte jet-black porcelain (#1A1A1A) with a smooth, non-reflective surface, the workhorse 10–25cm SKU. Front-facing, slightly elevated, 30° camera angle, centred in the frame. Seamless backdrop in warm pale paper tone (#F2F0EB), NOT yellow, NOT tinted beyond palette. Soft diffused three-point studio lighting: gentle key from upper left at 45°, subtle fill from right at half intensity, low rim from behind to separate the duck from the backdrop, producing a quiet, even shadow beneath the body. Surface reads as a tactile matte ceramic, fine micro-texture visible only on close inspection. The duck is the entire visual subject — no props, no text, no shadow cards, no decorative glint in the eye, just a plain oval pupil. Editorial mood: porcelain on warm paper, calm, deliberate, mature. 1:1 square.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A classic rubber duck with identical body silhouette, finished in matte jet-black porcelain (#1A1A1A) with a smooth, non-reflective surface, the 15–30cm collaboration edition for the architectural bureau. A single hair-thin architectural horizon line is drawn in muted graphite (#6B6660) along the duck's flank — a quiet, hand-drawn motif referencing a building section, applied as a surface treatment without altering the body outline. Front-facing, slightly elevated, 30° camera angle, centred in the frame. Seamless backdrop in warm pale paper tone (#F2F0EB), NOT yellow, NOT tinted beyond palette. Soft diffused three-point studio lighting: gentle key from upper left, subtle fill from right, low rim, producing a quiet, even shadow beneath the body. No props, no text, no decorative glint in the eye, just a plain oval pupil. Editorial mood: porcelain on warm paper, architectural, restrained, mature. 1:1 square.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A classic rubber duck with identical body silhouette, finished in matte jet-black porcelain (#1A1A1A) with a smooth, non-reflective surface, presented at mega 50–120cm photo-object scale. The duck fills more of the frame, its rounded body dominating the lower two-thirds of the composition while a generous sweep of negative space opens above. Front-facing, slightly elevated, 30° camera angle. Seamless backdrop in warm pale paper tone (#F2F0EB), NOT yellow, NOT tinted beyond palette. Soft diffused three-point studio lighting: gentle key from upper left, subtle fill from right, low rim, producing a quiet, even shadow beneath the body. The surface reads as a tactile matte ceramic, the slight sheen catching the key light along the duck's crown. No props, no text, no decorative glint in the eye, just a plain oval pupil. Editorial mood: porcelain on warm paper, monumental, deliberate, mature. 1:1 square.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A classic rubber duck with identical body silhouette, finished in matte jet-black porcelain (#1A1A1A) with a smooth, non-reflective surface, presented at monumental 1.5–3m architect scale as a statement installation. The duck stands on a low raw concrete plinth within a quiet gallery-like space, the warm pale paper-tone wall (#F2F0EB) receding behind it in a soft tonal gradient, no hard horizon line. Soft diffused three-point studio lighting with a slight editorial bias: gentle key from upper left mimicking a skylight, subtle fill from right, low rim to separate the duck's silhouette from the wall, producing a quiet, even shadow on the plinth. The duck faces the camera at a slight three-quarter angle. No props, no text, no decorative glint in the eye, just a plain oval pupil. Editorial mood: porcelain on warm paper, installation, architectural, restrained, mature. 1:1 square.",
+    "aspect_ratio": "1:1"
+  }
+]

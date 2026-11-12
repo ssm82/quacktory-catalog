@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quacktory — Serious ducks for un-serious people</title>
+  <meta name="description" content="Quacktory — rubber ducks from 4 cm to 3 m. Solid cast rubber, one silhouette, five scales.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Top bar -->
+  <header class="topbar" role="banner">
+    <a href="#" class="wordmark" aria-label="Quacktory — home">
+      <span>QUACK</span>
+      <span>TORY</span>
+    </a>
+    <nav class="topnav" aria-label="Primary">
+      <a href="#lineup">Lineup</a>
+      <a href="#studio">Studio</a>
+      <a href="#custom">Custom</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Hero: kinetic type band with the product breaking the line -->
+  <section class="hero hero--type" aria-label="Quacktory — from 4 cm to 3 m">
+    <span class="hero__anchor" aria-hidden="true"></span>
+    <!-- Marquee band: kinetic typography with product break -->
+    <div class="marquee">
+      <div class="marquee__track" aria-hidden="true">
+        <span class="marquee__t">Quacktory molds ducks from</span>
+        <span class="marquee__t marquee__t--a">four centimeters</span>
+        <span class="marquee__t">to three meters</span>
+        <span class="marquee__t marquee__t--a">—</span>
+        <span class="marquee__t">and everything in between</span>
+        <span class="marquee__t marquee__t--a">—</span>
+        <span class="marquee__t">Quacktory molds ducks from</span>
+        <span class="marquee__t marquee__t--a">four centimeters</span>
+        <span class="marquee__t">to three meters</span>
+        <span class="marquee__t marquee__t--a">—</span>
+        <span class="marquee__t">and everything in between</span>
+        <span class="marquee__t marquee__t--a">—</span>
+      </div>
+      <img src="./assets/product-classic.jpg" alt="" class="marquee__break" aria-hidden="true">
+    </div>
+    <!-- Meta strip -->
+    <div class="meta-strip" aria-hidden="true">
+      <div class="meta-strip__row">
+        <span>Based in Moscow</span>
+        <span>·</span>
+        <span class="meta-strip__time" id="clock">--:--:--</span>
+        <span>·</span>
+        <span>GOST 25779-83 · EN 71-3 · REACH</span>
+        <span>·</span>
+        <span>Open for commissions</span>
+      </div>
+    </div>
+    <div class="hero__status" role="status" aria-label="Open for commissions">
+      <span class="dot" aria-hidden="true"></span>
+      <span>Open for commissions</span>
+    </div>
+  </section>
+
+  <!-- Hero: full-bleed photo + top-left wordmark -->
+  <section class="hero" aria-label="Quacktory — Serious ducks for un-serious people">
+    <img src="./assets/hero-lifestyle.jpg" alt="Quacktory rubber duck staged inside an archive display" class="hero__img">
+    <div class="hero__vignette" aria-hidden="true"></div>
+    <div class="hero__overlay">
+      <span class="hero__eyebrow">№ 01 — Edition 2025</span>
+      <h1 class="hero__title">Serious<br>ducks</h1>
+      <p class="hero__sub">Quacktory — for those who don't put them in water, but on a shelf.</p>
+      <a href="#lineup" class="hero__cta">View work <span aria-hidden="true">→</span></a>
+    </div>
+  </section>
+
+
+  <!-- Manifesto -->
+  <section class="manifesto" id="manifesto">
+    <div class="manifesto__inner">
+      <header class="section-head">
+        <div class="section-head__eyebrow">
+          <span class="eyebrow">(02) — Manifesto</span>
+        </div>
+        <h2 class="display display--xl">
+          We make ducks you want to keep on a shelf, not launch into water.
+        </h2>
+      </header>
+      <div class="manifesto__cols">
+        <p class="manifesto__col-a">Small ones — in the pocket. Big ones — in the lobby. All of them — in the frame.</p>
+        <p class="manifesto__col-b">Solid cast rubber. No plastic, no glue, no metal inside. One silhouette, five scales, no compromises on form.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Lineup: 5 SKUs as numbered two-column sections -->
+  <section class="lineup" id="lineup">
+    <header class="section-head section-head--lineup">
+      <div class="section-head__eyebrow">
+        <span class="eyebrow">(03) — Lineup</span>
+      </div>
+      <h2 class="display display--lg">Five scales,<br>one silhouette</h2>
+    </header>
+
+    <article class="sku" data-accent="orange" tabindex="0" aria-label="Micro — 4–8 cm">
+      <div class="sku__media">
+        <img src="./assets/product-micro.jpg" alt="Quacktory Micro 4–8 cm">
+        <span class="sku__glow" aria-hidden="true"></span>
+      </div>
+      <div class="sku__body">
+        <span class="sku__num">(01)</span>
+        <h3 class="sku__name">Micro</h3>
+        <p class="sku__size">4–8 cm <span class="sku__compare">/ thumb-sized</span></p>
+        <p class="sku__aud">Keychains, merch, impulse gifts under ~$7.</p>
+        <p class="sku__price">from $4 <span class="sku__price-meta">/ pc · shipping included</span></p>
+        <p class="sku__meta">Lead 3 weeks · 6+ (4 cm — not for children under 3)</p>
+        <a href="#contact" class="sku__link">Request <span aria-hidden="true">→</span></a>
+      </div>
+    </article>
+
+    <article class="sku" data-accent="ink" tabindex="0" aria-label="Classic — 10–25 cm">
+      <div class="sku__media">
+        <img src="./assets/product-classic.jpg" alt="Quacktory Classic 10–25 cm">
+        <span class="sku__glow" aria-hidden="true"></span>
+      </div>
+      <div class="sku__body">
+        <span class="sku__num">(02)</span>
+        <h3 class="sku__name">Classic</h3>
+        <p class="sku__size">10–25 cm <span class="sku__compare">/ coffee-mug sized</span></p>
+        <p class="sku__aud">Kids, bath, desk. The brand's baseline scale.</p>
+        <p class="sku__price">from $20 <span class="sku__price-meta">/ pc · shipping included</span></p>
+        <p class="sku__meta">Lead 3 weeks · 3+</p>
+        <a href="#contact" class="sku__link">Request <span aria-hidden="true">→</span></a>
+      </div>
+    </article>
+
+    <article class="sku" data-accent="blue" tabindex="0" aria-label="Designer — 15–30 cm">
+      <div class="sku__media">
+        <img src="./assets/product-designer.jpg" alt="Quacktory Designer 15–30 cm">
+        <span class="sku__glow" aria-hidden="true"></span>
+      </div>
+      <div class="sku__body">
+        <span class="sku__num">(03)</span>
+        <h3 class="sku__name">Designer</h3>
+        <p class="sku__size">15–30 cm <span class="sku__compare">/ cat-sized</span></p>
+        <p class="sku__aud">Collab drops with illustrators. Limited, numbered editions.</p>
+        <p class="sku__price">from $65 <span class="sku__price-meta">/ pc · shipping included</span></p>
+        <p class="sku__meta">Lead 6 weeks · 6+ (collectible object)</p>
+        <a href="#contact" class="sku__link">Request <span aria-hidden="true">→</span></a>
+      </div>
+    </article>
+
+    <article class="sku" data-accent="brass" tabindex="0" aria-label="Mega — 50–120 cm">
+      <div class="sku__media">
+        <img src="./assets/product-mega.jpg" alt="Quacktory Mega 50–120 cm">
+        <span class="sku__glow" aria-hidden="true"></span>
+      </div>
+      <div class="sku__body">
+        <span class="sku__num">(04)</span>
+        <h3 class="sku__name">Mega</h3>
+        <p class="sku__size">50–120 cm <span class="sku__compare">/ child-sized</span></p>
+        <p class="sku__aud">Photo objects, window displays, statement gifts.</p>
+        <p class="sku__price">from $330 <span class="sku__price-meta">/ pc · pallet shipping</span></p>
+        <p class="sku__meta">Lead 6 weeks · Not a toy. Decorative object.</p>
+        <a href="#contact" class="sku__link">Request <span aria-hidden="true">→</span></a>
+      </div>
+    </article>
+
+    <article class="sku" data-accent="electric" tabindex="0" aria-label="Architect — 1.5–3 m">
+      <div class="sku__media">
+        <img src="./assets/product-architect.jpg" alt="Quacktory Architect 1.5–3 m">
+        <span class="sku__glow" aria-hidden="true"></span>
+      </div>
+      <div class="sku__body">
+        <span class="sku__num">(05)</span>
+        <h3 class="sku__name">Architect</h3>
+        <p class="sku__size">1.5–3 m <span class="sku__compare">/ bear-sized</span></p>
+        <p class="sku__aud">Installations, events, weddings, branded spaces.</p>
+        <p class="sku__price">Price on request <span class="sku__price-meta">/ product passport</span></p>
+        <p class="sku__meta">Lead 12 weeks · Installed by a certified crew</p>
+        <a href="#contact" class="sku__link">Request quote <span aria-hidden="true">→</span></a>
+      </div>
+    </article>
+  </section>
+
+  <!-- Scale: 4 cm → 3 m -->
+  <section class="scale" id="scale" aria-label="Scale ladder from 4 cm to 3 m">
+    <header class="section-head">
+      <div class="section-head__eyebrow">
+        <span class="eyebrow">(04) — Scale</span>
+      </div>
+      <h2 class="display display--lg">4 cm&nbsp;→&nbsp;3 m</h2>
+    </header>
+    <div class="scale__row">
+      <figure class="scale__step scale__step--micro">
+        <div class="scale__frame"><img src="./assets/product-micro.jpg" alt=""></div>
+        <figcaption><span class="scale__num">4</span><span class="scale__unit">cm</span></figcaption>
+      </figure>
+      <figure class="scale__step scale__step--classic">
+        <div class="scale__frame"><img src="./assets/product-classic.jpg" alt=""></div>
+        <figcaption><span class="scale__num">25</span><span class="scale__unit">cm</span></figcaption>
+      </figure>
+      <figure class="scale__step scale__step--designer">
+        <div class="scale__frame"><img src="./assets/product-designer.jpg" alt=""></div>
+        <figcaption><span class="scale__num">30</span><span class="scale__unit">cm</span></figcaption>
+      </figure>
+      <figure class="scale__step scale__step--mega">
+        <div class="scale__frame"><img src="./assets/product-mega.jpg" alt=""></div>
+        <figcaption><span class="scale__num">120</span><span class="scale__unit">cm</span></figcaption>
+      </figure>
+      <figure class="scale__step scale__step--architect">
+        <div class="scale__frame"><img src="./assets/product-architect.jpg" alt=""></div>
+        <figcaption><span class="scale__num">3</span><span class="scale__unit">m</span></figcaption>
+      </figure>
+    </div>
+    <p class="scale__caption">Body proportions do not scale linearly — the Architect remains "the same duck" as the Micro.</p>
+  </section>
+
+  <!-- Custom / B2B -->
+  <section class="custom" id="custom">
+    <header class="section-head">
+      <div class="section-head__eyebrow">
+        <span class="eyebrow">(05) — Custom</span>
+      </div>
+      <h2 class="display display--lg">Twelve pigments,<br>one rubber mass</h2>
+    </header>
+    <div class="custom__body">
+      <p class="custom__lead">Custom is not surface paint. It is pigment mixed throughout the rubber mass before casting. Segment D gets 12 signature TPM colors (Quacktory Pigment Menu) — pick any.</p>
+      <p class="custom__note">An off-menu Pantone is a separate line in the quote — +2 weeks, +15% on price.</p>
+      <ul class="pigments" aria-label="Quacktory Pigment Menu — 12 colors">
+        <li style="--c:#E84A1D"><span class="pigments__name">Quack Orange</span><span class="pigments__code">TPM 01</span></li>
+        <li style="--c:#1A1A1F"><span class="pigments__name">Studio Ink</span><span class="pigments__code">TPM 02</span></li>
+        <li style="--c:#F5F4EF"><span class="pigments__name">Foam Cream</span><span class="pigments__code">TPM 03</span></li>
+        <li style="--c:#3C5572"><span class="pigments__name">Slate Blue</span><span class="pigments__code">TPM 04</span></li>
+        <li style="--c:#B5945A"><span class="pigments__name">Brass Museum</span><span class="pigments__code">TPM 05</span></li>
+        <li style="--c:#1E8FFF"><span class="pigments__name">Electric Wave</span><span class="pigments__code">TPM 06</span></li>
+        <li style="--c:#7FBFB3"><span class="pigments__name">Mint Pool</span><span class="pigments__code">TPM 07</span></li>
+        <li style="--c:#9A9A95"><span class="pigments__name">Plaster Grey</span><span class="pigments__code">TPM 08</span></li>
+        <li style="--c:#F0856B"><span class="pigments__name">Coral Bloom</span><span class="pigments__code">TPM 09</span></li>
+        <li style="--c:#0D0D10"><span class="pigments__name">Carbon Black</span><span class="pigments__code">TPM 10</span></li>
+        <li style="--c:#E8E2D5"><span class="pigments__name">Bone White</span><span class="pigments__code">TPM 11</span></li>
+        <li style="--c:#2A4A3A"><span class="pigments__name">Forest Tone</span><span class="pigments__code">TPM 12</span></li>
+      </ul>
+      <a href="#contact" class="cta-ghost">Request quote <span aria-hidden="true">→</span></a>
+    </div>
+  </section>
+
+  <!-- Studio / Production -->
+  <section class="studio" id="studio">
+    <header class="section-head section-head--dark">
+      <div class="section-head__eyebrow">
+        <span class="eyebrow">(06) — Studio</span>
+      </div>
+      <h2 class="display display--lg">How we<br>make them</h2>
+    </header>
+    <div class="studio__inner">
+      <p class="studio__lead">Solid cast rubber. No plastic inserts, no metal inside, no glued seams. The casting method is matched to the scale: injection for Micro, compression for Classic, hand-flask for limited drops, rotational for Mega, sculptural pour for Architect.</p>
+      <ol class="qc" aria-label="Five quality-control stages">
+        <li class="qc__item">
+          <span class="qc__num">01</span>
+          <h4 class="qc__title">Visual inspection</h4>
+          <p class="qc__desc">No voids, no streaking, no short pours.</p>
+        </li>
+        <li class="qc__item">
+          <span class="qc__num">02</span>
+          <h4 class="qc__title">Geometry</h4>
+          <p class="qc__desc">Beak, eyes, feet all present. Proportions within ±2%.</p>
+        </li>
+        <li class="qc__item">
+          <span class="qc__num">03</span>
+          <h4 class="qc__title">Drop test</h4>
+          <p class="qc__desc">5 drops from 1 m onto concrete, no cracks.</p>
+        </li>
+        <li class="qc__item">
+          <span class="qc__num">04</span>
+          <h4 class="qc__title">Smell test</h4>
+          <p class="qc__desc">No "rubbery" odor — a sign of poor vulcanization.</p>
+        </li>
+        <li class="qc__item qc__item--accent">
+          <span class="qc__num">05</span>
+          <h4 class="qc__title">Gravimetry</h4>
+          <p class="qc__desc">Mass within ±3% of the reference.</p>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer" id="contact">
+    <div class="footer__top">
+      <div class="footer__brand">
+        <span class="wordmark wordmark--lg"><span>QUACK</span><span>TORY</span></span>
+        <p class="footer__tag">Serious ducks for un-serious people.</p>
+        <p class="footer__tag footer__tag--mute">From 4 cm in your pocket to 3 m in your lobby. Solid cast rubber, one silhouette.</p>
+      </div>
+      <div class="footer__cols">
+        <div class="footer__col">
+          <h5 class="footer__h">Studio</h5>
+          <p>Moscow, atelier & showroom</p>
+          <p>hello@quacktory.space</p>
+        </div>
+        <div class="footer__col">
+          <h5 class="footer__h">Custom · B2B</h5>
+          <p>12 TPM colors</p>
+          <p>3–12 weeks</p>
+          <p>b2b@quacktory.space</p>
+        </div>
+        <div class="footer__col">
+          <h5 class="footer__h">Follow</h5>
+          <p>Instagram</p>
+          <p>Telegram</p>
+          <p>Vimeo</p>
+        </div>
+      </div>
+    </div>
+    <div class="footer__bottom">
+      <span>© 2025 Quacktory · GOST 25779-83 · EN 71-3 · REACH</span>
+      <span class="footer__dot" aria-hidden="true"></span>
+      <span>Open for commissions</span>
+      <span class="footer__sep" aria-hidden="true">·</span>
+      <span>Based in Moscow</span>
+    </div>
+  </footer>
+
+  <script>
+    (function(){
+      var c = document.getElementById('clock');
+      if (c) {
+        var t = new Date();
+        var pad = function(n){ return (n<10?'0':'') + n; };
+        c.textContent = pad(t.getHours()) + ':' + pad(t.getMinutes()) + ':' + pad(t.getSeconds());
+      }
+    })();
+  </script>
+<script src="main.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+{
+  "slug": "thefwa_dragonfly-redux",
+  "palette": {
+    "bg": "#0A0A0A",
+    "fg": "#EDEDED",
+    "accent": "#EA5A1F",
+    "muted": "#6B6B6B",
+    "ink": "#050505",
+    "surface": "#141414"
+  },
+  "fonts": {
+    "display": "Bodoni Moda",
+    "body": "Inter",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "D",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "View the work"
+}

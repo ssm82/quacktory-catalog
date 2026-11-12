@@ -1,0 +1,20 @@
+{
+  "slug": "53198839343857604",
+  "palette": {
+    "bg": "#EFEDE6",
+    "fg": "#111111",
+    "accent": "#C9B89E",
+    "muted": "#8A8A86",
+    "ink": "#2A2A2A",
+    "surface": "#F2F0EA"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Explore WEAVE"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A 16:9 editorial still life on a seamless dark studio backdrop in #0A0A0A tone, NOT yellow, NOT tinted beyond palette. A single classic rubber duck with identical silhouette, beak and feet across the series is rendered as a small symbolic object — placed off-centre on a vast matte black plane, occupying roughly one-eighth of the frame, reading as a quiet emblem rather than a product. The duck wears a warm copper-rose-gold finish in #C9A26A with a softly brushed metallic patina, matte porcelain surface, no lacquer, no gloss. Plain oval pupils, no decorative glint, no catchlight. Soft window light rakes from the upper left, casting an elongated, feathered shadow across the surface. A thin engraved horizontal rule and the suggestion of an off-white serif numeral sit far in the negative space, evoking a printed invitation. Composition is monumentally sparse, restrained, formal, ceremony-oriented, with generous breathing room and a single warm metallic accent against the near-black field.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A 1:1 product photograph of a miniature classic rubber duck at keychain scale, roughly five centimetres tall, centered on a seamless dark studio backdrop in #0A0A0A tone, NOT yellow, NOT tinted beyond palette. The duck has the identical silhouette, beak and feet as the rest of the series, finished in warm copper-rose-gold #C9A26A with a soft matte porcelain surface and a faint brushed metallic patina, no gloss, no lacquer. Plain oval pupils, no decorative glint, no catchlight. A small split-ring keychain loop in matching copper sits at the crown. Front-facing, slightly elevated, 30° camera angle, three-point soft diffused studio lighting with the key light at upper left, gentle rim on the right edge, and a subtle reflective floor. The duck casts a soft ground shadow on the seamless dark field. The mood is editorial, restrained, printed-invitation quiet, with the warm metallic duck reading as a small object of value against the near-black surround.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "A 1:1 product photograph of the workhorse classic rubber duck at roughly fifteen centimetres, centered on a seamless dark studio backdrop in #0A0A0A tone, NOT yellow, NOT tinted beyond palette. Identical silhouette, beak and feet to the rest of the series, rendered in warm copper-rose-gold #C9A26A with a softly brushed metallic finish, matte porcelain surface, no high gloss, no resin sheen. Plain oval pupils, no decorative glint, no catchlight. Front-facing, slightly elevated, 30° camera angle, three-point soft diffused studio lighting, key at upper left, gentle warm fill, and a slim rim from camera-right to lift the silhouette. The duck sits on the seamless dark field with a soft, contained ground shadow. The mood is editorial and formal, like a museum catalogue plate, with the single warm metallic accent reading as an award object against the near-black field.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A 1:1 product photograph of the designer collaboration edition classic rubber duck at roughly twenty centimetres, centered on a seamless dark studio backdrop in #0A0A0A tone, NOT yellow, NOT tinted beyond palette. Identical silhouette, beak and feet to the rest of the series, finished in warm copper-rose-gold #C9A26A with an engraved fine-line motif — a delicate laurel wreath etched into the side flank and a tiny serial numeral at the base — in the muted #B78A55 tone, giving an engraved-invitation feel. Matte porcelain surface, no gloss, no lacquer. Plain oval pupils, no decorative glint, no catchlight. Front-facing, slightly elevated, 30° camera angle, three-point soft diffused studio lighting, even and quiet, no harsh specular. The duck rests on the seamless dark field with a soft ground shadow. The mood is editorial, restrained, ceremony-oriented, with the engraved warm metallic duck reading as a commemorative object against the near-black surround.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A 1:1 product photograph of the mega classic rubber duck at roughly seventy centimetres, framed in close on a seamless dark studio backdrop in #0A0A0A tone, NOT yellow, NOT tinted beyond palette. Identical silhouette, beak and feet to the rest of the series, scaled up to photo-object size and finished in warm copper-rose-gold #C9A26A with a softly brushed metallic patina, matte porcelain surface, no high gloss, no resin sheen, so the form reads as a museum sculpture rather than a toy. Plain oval pupils, no decorative glint, no catchlight. Front-facing, slightly elevated, 30° camera angle, three-point soft diffused studio lighting with a soft key at upper left, gentle warm fill, and a subtle rim on the right edge to separate the curve from the dark field. The duck casts a soft, broad ground shadow. The mood is editorial, formal, ceremony-oriented, with the oversized warm metallic duck reading as a monumental award piece against the near-black surround.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A 1:1 product photograph of the architect-scale classic rubber duck at roughly two metres, framed full-length with a hint of a gallery floor, on a seamless dark studio backdrop in #0A0A0A tone, NOT yellow, NOT tinted beyond palette. Identical silhouette, beak and feet to the rest of the series, scaled up to statement-installation size and finished in warm copper-rose-gold #C9A26A with a softly brushed metallic patina, matte porcelain surface, no gloss, no lacquer, reading as a monumental bronze-cast commemorative object. Plain oval pupils, no decorative glint, no catchlight. Front-facing, slightly elevated, 30° camera angle, three-point soft diffused studio lighting with a key at upper left, gentle warm fill, and a subtle rim on the right edge to lift the silhouette. The duck casts a long, soft ground shadow across the seamless dark field. The mood is editorial, restrained, ceremony-oriented, with the monumental warm metallic duck reading as an installation piece against the near-black surround.",
+    "aspect_ratio": "1:1"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "Editorial monumental product photography. A classic rubber duck standing as a colossal centrepiece on a seamless warm amber-mustard backdrop, hex tone #F4C95C, not yellow, not tinted beyond palette. The duck has a warm amber-orange finish, hex #E8743B, matte porcelain-like surface sitting on warm paper. Pose: monumental, the duck fills the vertical centre facing front. Register: editorial, soft window light from upper left, gentle fill, no hard shadow, paper-like soft falloff. Plain oval black pupils, no sparkle or glint. Composition: 16:9 cinematic editorial frame, the duck anchored mid-frame with generous negative space above and below in the warm amber-mustard ground, evoking a gallery poster rather than a catalogue shot. Camera at a slight low angle, approximately 20 degrees below eye-line, to emphasise the monumental scale while keeping the subject front-facing. Subtle warm cast across the duck's matte surface. Soft diffused editorial three-point lighting, key from upper-left, fill right, gentle back rim. Silhouette identical to the standard product line: rounded body, short upturned beak, flat tail, two small webbed feet. No props, no text, no people."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product photography, 1:1 square. A miniature classic rubber duck, keychain-scale around 5 cm appearance, positioned dead-centre on a seamless warm amber-mustard backdrop, hex tone #F4C95C, not yellow, not tinted beyond palette. Duck body in warm amber-orange finish, hex #E8743B, matte porcelain-like editorial surface. Plain oval black pupils, no glint, no sparkle. Soft diffused studio three-point lighting, key from upper-left, fill from right, gentle rim from back. Camera front-facing, slightly elevated 30 degrees. The duck casts a soft contact shadow on the seamless ground. Silhouette identical across the line: rounded body, stubby upturned beak, short flat tail, two small webbed feet. Register: editorial, warm paper-like falloff, calm and quiet composition. No water, no props, no text, no people, no hands, just the duck alone on its warm amber-mustard ground. Surface reads as a tiny matte porcelain object lit like a gallery miniature."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product photography, 1:1 square. The workhorse classic rubber duck, around 15 cm appearance, dead-centre on a seamless warm amber-mustard backdrop, hex tone #F4C95C, not yellow, not tinted beyond palette. Duck body in warm amber-orange finish, hex #E8743B, matte porcelain-like editorial surface with a gentle warm cast. Plain oval black pupils, no glint, no sparkle, no heart, no star. Soft diffused studio three-point lighting, key from upper-left, fill from right, gentle back rim. Camera front-facing, slightly elevated 30 degrees. Subtle contact shadow beneath the duck anchors it to the seamless paper. Silhouette matches the family exactly: rounded body, short upturned beak, flat tail, two small webbed feet. Register: editorial, calm and confident, warm paper-like falloff. No props, no water, no text, no people, the duck alone on its warm amber-mustard ground, the most-photographed SKU of the line."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product photography, 1:1 square. Designer collaboration edition classic rubber duck, around 20 cm appearance, dead-centre on a seamless warm amber-mustard backdrop, hex tone #F4C95C, not yellow, not tinted beyond palette. Duck body in warm amber-orange finish, hex #E8743B, with a subtle editorial matte porcelain surface and a soft tonal shift along the body where the glaze reads as a hand-applied muted treatment, keeping the silhouette pure and uncluttered. Plain oval black pupils, no glint, no sparkle. Soft diffused studio three-point lighting, key from upper-left, fill from right, gentle back rim. Camera front-facing, slightly elevated 30 degrees. Soft contact shadow grounds the duck. Silhouette identical across the line: rounded body, short upturned beak, flat tail, two small webbed feet. Register: editorial, gallery-object mood, warm paper-like falloff. No props, no text, no people, the designer edition reading as a quiet, collectible object."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product photography, 1:1 square. Mega classic rubber duck, around 80 cm appearance, dead-centre on a seamless warm amber-mustard backdrop, hex tone #F4C95C, not yellow, not tinted beyond palette. Duck body in warm amber-orange finish, hex #E8743B, matte porcelain editorial surface, the larger scale showing the smooth seamless skin of the rubber without revealing mould lines. Plain oval black pupils, no glint, no sparkle. Soft diffused studio three-point lighting, key from upper-left, fill from right, gentle back rim. Camera front-facing, slightly elevated 30 degrees, the mega size lets the duck dominate the frame. Subtle contact shadow grounds the form. Silhouette identical across the line: rounded body, short upturned beak, flat tail, two small webbed feet. Register: editorial, photo-object mood, calm and confident. No props, no people, the duck alone on its warm amber-mustard ground."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "Product photography, 1:1 square. Architect-scale classic rubber duck, around 2 m appearance, towering dead-centre on a seamless warm amber-mustard backdrop, hex tone #F4C95C, not yellow, not tinted beyond palette. Duck body in warm amber-orange finish, hex #E8743B, matte porcelain-like editorial surface, the monumental scale showing the smooth seamless skin and the clean iconic curves of the form. Plain oval black pupils, no glint, no sparkle. Soft diffused studio three-point lighting, key from upper-left, fill from right, gentle back rim, the light wrapping around the massive form. Camera front-facing, slightly elevated 30 degrees, the duck fills the vertical axis of the square. Subtle contact shadow grounds it to the seamless paper. Silhouette identical across the line: rounded body, short upturned beak, flat tail, two small webbed feet. Register: editorial, statement-installation mood, warm paper-like falloff. No props, no people, the duck as a single quiet monument on its warm amber-mustard ground."
+  }
+]

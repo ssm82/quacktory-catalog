@@ -1,0 +1,20 @@
+{
+  "slug": "david-whyte-experience",
+  "palette": {
+    "bg": "#F4F0E8",
+    "fg": "#141414",
+    "accent": "#7E8756",
+    "muted": "#8A8A8A",
+    "ink": "#1B2A14",
+    "surface": "#F1EFEB"
+  },
+  "fonts": {
+    "display": "Cormorant Garamond",
+    "body": "EB Garamond",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Open the landscape"
+}

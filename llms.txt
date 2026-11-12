@@ -1,0 +1,173 @@
+# Quacktory Catalog
+
+> 124 universal design prompts for any demo site — palette, typography, hero pattern, and motion grammar that can be reused across any topic. Browse, copy a prompt, open the live demo.
+
+## Catalog
+
+- URL: https://ssm82.github.io/quacktory-catalog/
+- Entries: 154
+- Demo sites: https://ssm82.github.io/quacktory-catalog/sites/<slug>/
+- Full prompt dump: https://ssm82.github.io/quacktory-catalog/llms-full.txt
+- Sitemap: https://ssm82.github.io/quacktory-catalog/sitemap.xml
+
+Each entry is a universal style/design prompt that can be pasted into a 
+fresh project in any topic (coffee shop, law firm, science museum) and 
+still produce a site that feels structurally and aesthetically identical 
+to the original.
+
+## Entries
+
+- [bone + clay · cinematic · cinematic dark hero](sites/bone-clay-cinematic-cinematic-dark-hero/): cinematic · cinematic dark hero · Anton · Source Sans 3 · #2D3744, #FFFFFF, #F4B81E
+- [bone + clay · cinematic · cinematic dark hero](sites/bone-clay-cinematic-cinematic-dark-hero-2/): cinematic · cinematic dark hero · Inter · Inter · #120D0A, #FFFFFF, #C9A2B8
+- [bone + clay · cool · photographic hero](sites/bone-clay-cool-photographic-hero/): cool · photographic hero · Cormorant Garamond · #525a63, #ffffff, #d4c8a0
+- [bone + clay · dark · editorial illustration hero](sites/bone-clay-dark-editorial-illustration-hero/): dark · editorial illustration hero · #1d2f37, #ffffff, #f5d76e
+- [bone + clay · editorial · cinematic dark hero](sites/bone-clay-editorial-cinematic-dark-hero/): editorial · cinematic dark hero · Italiana · Cormorant Garamond · #f1dcbc, #ffffff, #9bb6c4
+- [bone + clay · editorial · duotone giant-serif headline](sites/bone-clay-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Bebas Neue · Inter · #1a1a1a, #ECECEC, #C8923C
+- [bone + clay · editorial illustration hero](sites/bone-clay-editorial-illustration-hero/): pop · editorial illustration hero · Space Grotesk · Inter · #F1F1EF, #111111, #F2BE00
+- [bone + clay · editorial · pill-nav centered hero](sites/bone-clay-editorial-pill-nav-centered-hero/): editorial · pill-nav centered hero · Cormorant Garamond · Inter · #0A0A0A, #F2F2F2, #C9A26A
+- [bone + clay · friendly · duotone giant-serif headline](sites/bone-clay-friendly-duotone-giant-serif-headline/): friendly · duotone giant-serif headline · Fredoka · Nunito · #7DD3F0, #FFFFFF, #F2C13B
+- [bone + cobalt · cinematic · cinematic dark hero](sites/bone-cobalt-cinematic-cinematic-dark-hero/): cinematic · cinematic dark hero · Cormorant Garamond · Inter · #0A0E14, #FFFFFF, #0F62FE
+- [bone + cobalt · duotone giant-serif headline](sites/bone-cobalt-duotone-giant-serif-headline/): technical · duotone giant-serif headline · Manrope · Manrope · #FFFFFF, #737780, #4285F4
+- [bone + cobalt · editorial · browser frame-in-frame](sites/bone-cobalt-editorial-browser-frame-in-frame/): editorial · browser frame-in-frame · Space Grotesk · Inter · #ECECEC, #111111, #2A52E8
+- [bone + cobalt · editorial · full-bleed photo with top-left wordmark](sites/bone-cobalt-editorial-full-bleed-photo-with-top-left-wordmark/): editorial · full-bleed photo with top-left wordmark · Jost · Jost · #FFFFFF, #1F3D5C, #2C4A6B
+- [bone + cobalt · full-bleed photo with top-left wordmark](sites/bone-cobalt-full-bleed-photo-with-top-left-wordmark/): editorial · full-bleed photo with top-left wordmark · Bebas Neue · Archivo · #101010, #FFFFFF, #0875D1
+- [bone + cobalt · kawaii · editorial illustration hero](sites/bone-cobalt-kawaii-editorial-illustration-hero/): kawaii · editorial illustration hero · Plus Jakarta Sans · Plus Jakarta Sans · #EAD8DD, #0E0E0E, #B5B3DC
+- [bone + cobalt · technical · full-bleed photo with top-left wordmark](sites/bone-cobalt-technical-full-bleed-photo-with-top-left-wordmark/): technical · full-bleed photo with top-left wordmark · Inter · Inter · #05080E, #FFFFFF, #1E6BFF
+- [bone + coral · cinematic · cinematic dark hero](sites/bone-coral-cinematic-cinematic-dark-hero/): cinematic · cinematic dark hero · Anton · Inter · #0A0A0A, #FFFFFF, #E63946
+- [bone + coral · cinematic dark hero](sites/bone-coral-cinematic-dark-hero/): pop · cinematic dark hero · Manrope · Inter · #071A38, #FFFFFF, #FF2788
+- [bone + coral · cinematic · editorial illustration hero](sites/bone-coral-cinematic-editorial-illustration-hero/): cinematic · editorial illustration hero · Space Grotesk · Inter · #0E1620, #FFFFFF, #C8202A
+- [bone + coral · dark · cinematic dark hero](sites/bone-coral-dark-cinematic-dark-hero/): dark · cinematic dark hero · #000000, #ffffff, #ff0000
+- [bone + coral · editorial · browser frame-in-frame](sites/bone-coral-editorial-browser-frame-in-frame/): editorial · browser frame-in-frame · Anton · Inter · #FF6A33, #FFFFFF, #3DD66B
+- [bone + coral · editorial · browser frame-in-frame](sites/bone-coral-editorial-browser-frame-in-frame-2/): editorial · browser frame-in-frame · Space Grotesk · Inter · #F5F4EE, #0E0E0E, #E23B2C
+- [bone + coral · editorial · cinematic dark hero](sites/bone-coral-editorial-cinematic-dark-hero/): editorial · cinematic dark hero · Inter · Inter · #0A0A0A, #FFFFFF, #E83A2E
+- [bone + coral · editorial · duotone giant-serif headline](sites/bone-coral-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Inter · Inter · #FF5544, #FFFFFF, #0A0A0A
+- [bone + coral · editorial · duotone giant-serif headline](sites/bone-coral-editorial-duotone-giant-serif-headline-2/): editorial · duotone giant-serif headline · Italiana · Inter · #F1F1F1, #1A1A1A, #E5202A
+- [bone + coral · editorial · duotone giant-serif headline](sites/bone-coral-editorial-duotone-giant-serif-headline-3/): editorial · duotone giant-serif headline · Anton · Playfair Display · #FFFFFF, #0A0A0A, #C8102E
+- [bone + coral · editorial · editorial illustration hero](sites/bone-coral-editorial-editorial-illustration-hero/): editorial · editorial illustration hero · Anton · Inter · #16132A, #FFFFFF, #6EEA6E
+- [bone + coral · editorial · editorial illustration hero](sites/bone-coral-editorial-editorial-illustration-hero-2/): editorial · editorial illustration hero · Inter · Inter · #0A0A0A, #EDEDED, #EA5A1F
+- [bone + coral · editorial · editorial illustration hero](sites/bone-coral-editorial-editorial-illustration-hero-3/): editorial · editorial illustration hero · Playfair Display · Inter · #D4E6EE, #0F5C7E, #E94B3C
+- [bone + coral · editorial · full-bleed photo with top-left wordmark](sites/bone-coral-editorial-full-bleed-photo-with-top-left-wordmark/): editorial · full-bleed photo with top-left wordmark · Anton · Inter · #FFFFFF, #000000, #E84A1A
+- [bone + coral · editorial · full-bleed photo with top-left wordmark](sites/bone-coral-editorial-full-bleed-photo-with-top-left-wordmark-2/): editorial · full-bleed photo with top-left wordmark · Playfair Display · Inter · #E50E1E, #FFFFFF, #3CC9DC
+- [bone + coral · editorial · full-bleed photo with top-left wordmark](sites/bone-coral-editorial-full-bleed-photo-with-top-left-wordmark-3/): editorial · full-bleed photo with top-left wordmark · Playfair Display · Inter · #1F3A2E, #FFFFFF, #FF2A8C
+- [bone + coral · editorial illustration hero](sites/bone-coral-editorial-illustration-hero/): editorial · editorial illustration hero · Archivo · Inter · #080808, #F2F2F2, #E53935
+- [bone + coral · editorial illustration hero](sites/bone-coral-editorial-illustration-hero-2/): technical · editorial illustration hero · Bebas Neue · Archivo · #090A1B, #F5F3F3, #F10A12
+- [bone + coral · full-bleed photo with top-left wordmark](sites/bone-coral-full-bleed-photo-with-top-left-wordmark/): cinematic · full-bleed photo with top-left wordmark · Inter · Inter · #C9E4EF, #FFFFFF, #F03A45
+- [bone + coral · kawaii · editorial illustration hero](sites/bone-coral-kawaii-editorial-illustration-hero/): kawaii · editorial illustration hero · Fredoka · Quicksand · #EEF2DD, #2B2A29, #E60012
+- [bone + coral · pop · editorial illustration hero](sites/bone-coral-pop-editorial-illustration-hero/): pop · editorial illustration hero · Unbounded · Unbounded · #7C7BD9, #FFFFFF, #FF8A1F
+- [bone + coral · technical · editorial illustration hero](sites/bone-coral-technical-editorial-illustration-hero/): technical · editorial illustration hero · Archivo · Archivo · #0B0B0B, #FFFFFF, #E63946
+- [bone + coral · warm · full-bleed photo with top-left wordmark](sites/bone-coral-warm-full-bleed-photo-with-top-left-wordmark/): warm · full-bleed photo with top-left wordmark · JetBrains Mono · JetBrains Mono · #5a3d35, #ffffff, #c0392b
+- [bone + coral · warm · photographic hero](sites/bone-coral-warm-photographic-hero/): warm · photographic hero · #ffffff, #000000, #e87a3e
+- [bone + cream · cinematic · cinematic dark hero](sites/bone-cream-cinematic-cinematic-dark-hero/): cinematic · cinematic dark hero · Unbounded · Manrope · #05060B, #FFFFFF, #D45FB0
+- [bone + cream · cinematic · cinematic dark hero](sites/bone-cream-cinematic-cinematic-dark-hero-2/): cinematic · cinematic dark hero · JetBrains Mono · JetBrains Mono · #9DA0A3, #FFFFFF, #D8E4EC
+- [bone + cream · cinematic dark hero](sites/bone-cream-cinematic-dark-hero/): cinematic · cinematic dark hero · Anton · Inter · #274E2B, #FFFFFF, #6E9147
+- [bone + cream · editorial · browser frame-in-frame](sites/bone-cream-editorial-browser-frame-in-frame/): editorial · browser frame-in-frame · Playfair Display · Playfair Display · #E6E0D8, #0E0E0E, #A89580
+- [bone + cream · editorial · duotone giant-serif headline](sites/bone-cream-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Anton · Inter · #FFFFFF, #000000, #000000
+- [bone + cream · editorial · full-bleed photo with top-left wordmark](sites/bone-cream-editorial-full-bleed-photo-with-top-left-wordmark/): editorial · full-bleed photo with top-left wordmark · Playfair Display · Inter · #F2F0EB, #0A0A0A, #1A1A1A
+- [bone + cream · warm · pill-nav centered hero](sites/bone-cream-warm-pill-nav-centered-hero/): warm · pill-nav centered hero · Cormorant Garamond · Inter · #c9a04a, #f4e7cc, #ffffff
+- [bone + crimson · editorial · cinematic dark hero](sites/bone-crimson-editorial-cinematic-dark-hero/): editorial · cinematic dark hero · Space Grotesk · Inter · #0a0a0a, #ffffff, #8a5a3a
+- [bone + crimson · editorial illustration hero](sites/bone-crimson-editorial-illustration-hero/): technical · editorial illustration hero · Space Grotesk · Space Grotesk · #E7E5E4, #171717, #8E1539
+- [bone + crimson · photographic hero](sites/bone-crimson-photographic-hero/): photographic hero · Archivo · Inter · #B5001F, #FFFFFF, #E8DCE6
+- [bone · editorial · duotone giant-serif headline](sites/bone-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Inter · Inter · #ECECEC, #0A0A0A, #000000
+- [bone · editorial · duotone giant-serif headline](sites/bone-editorial-duotone-giant-serif-headline-2/): editorial · duotone giant-serif headline · Unbounded · Inter · #F4F4F2, #FFFFFF, #0A0A0A
+- [bone + ink · brutalist · duotone giant-serif headline](sites/bone-ink-brutalist-duotone-giant-serif-headline/): brutalist · duotone giant-serif headline · Inter · Inter · #FFFFFF, #000000, #000000
+- [bone + ink · cinematic dark hero](sites/bone-ink-cinematic-dark-hero/): cinematic · cinematic dark hero · Cormorant Garamond · Inter · #050505, #F5F5F5, #F5F5F5
+- [bone + ink · editorial · duotone giant-serif headline](sites/bone-ink-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Space Grotesk · Inter · #0A0A0A, #F2F2F2, #F5F5F5
+- [bone + ink · editorial · pill-nav centered hero](sites/bone-ink-editorial-pill-nav-centered-hero/): editorial · pill-nav centered hero · Inter · Inter · #ecebe9, #000000, #000000
+- [bone + navy · duotone giant-serif headline](sites/bone-navy-duotone-giant-serif-headline/): friendly · duotone giant-serif headline · Nunito · Nunito Sans · #FAFAFA, #FFFFFF, #A9A4E8
+- [bone + ochre · cinematic · duotone giant-serif headline](sites/bone-ochre-cinematic-duotone-giant-serif-headline/): cinematic · duotone giant-serif headline · Space Grotesk · Inter · #0A0A0A, #E8E8EC, #F5E020
+- [bone + ochre · editorial · editorial illustration hero](sites/bone-ochre-editorial-editorial-illustration-hero/): editorial · editorial illustration hero · Unbounded · Inter · #F4EFE7, #1B1B1B, #E94B9B
+- [bone + ochre · technical · editorial illustration hero](sites/bone-ochre-technical-editorial-illustration-hero/): technical · editorial illustration hero · Space Grotesk · Inter · #0A0A0A, #FFFFFF, #E8E600
+- [bone + sage · editorial · duotone giant-serif headline](sites/bone-sage-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Anton · Inter · #0A0B0D, #FFFFFF, #D8E94A
+- [bone + sage · editorial · duotone giant-serif headline](sites/bone-sage-editorial-duotone-giant-serif-headline-2/): editorial · duotone giant-serif headline · Manrope · Inter · #F2F2F0, #111111, #7CFAB1
+- [bone + sapphire · editorial · editorial illustration hero](sites/bone-sapphire-editorial-editorial-illustration-hero/): editorial · editorial illustration hero · Playfair Display · Inter · #0F0F12, #C9BEE0, #7E63B3
+- [bone + stone · duotone giant-serif headline](sites/bone-stone-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Archivo · Archivo · #FFFFFF, #080A0A, #9EB3C0
+- [bone + stone · editorial · browser frame-in-frame](sites/bone-stone-editorial-browser-frame-in-frame/): editorial · browser frame-in-frame · Playfair Display · Inter · #0A0A0A, #FFFFFF, #B08A6E
+- [bone + stone · editorial · duotone giant-serif headline](sites/bone-stone-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Archivo · Inter · #C9D8DD, #111111, #6E7378
+- [bone + teal · cinematic · cinematic dark hero](sites/bone-teal-cinematic-cinematic-dark-hero/): cinematic · cinematic dark hero · Bebas Neue · Inter · #0B0B0C, #FFFFFF, #9BCB32
+- [bone + teal · cinematic · editorial illustration hero](sites/bone-teal-cinematic-editorial-illustration-hero/): cinematic · editorial illustration hero · Orbitron · Space Grotesk · #0A1F24, #FFFFFF, #5BE9FF
+- [bone + teal · editorial · cinematic dark hero](sites/bone-teal-editorial-cinematic-dark-hero/): editorial · cinematic dark hero · Playfair Display · Inter · #111111, #FFFFFF, #D4E817
+- [bone + teal · editorial · duotone giant-serif headline](sites/bone-teal-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Anton · Inter · #0A0A0A, #FFFFFF, #00FF3C
+- [bone + teal · editorial illustration hero](sites/bone-teal-editorial-illustration-hero/): cinematic · editorial illustration hero · Manrope · Manrope · #050506, #F4F4F4, #00D5FF
+- [clay + coral · editorial · cinematic dark hero](sites/clay-coral-editorial-cinematic-dark-hero/): editorial · cinematic dark hero · Archivo · Manrope · #0E1A2C, #E8D5A8, #F2A979
+- [clay + coral · editorial · editorial illustration hero](sites/clay-coral-editorial-editorial-illustration-hero/): editorial · editorial illustration hero · JetBrains Mono · JetBrains Mono · #0B0B0B, #B8804A, #FFD24A
+- [clay + coral · editorial · editorial illustration hero](sites/clay-coral-editorial-editorial-illustration-hero-2/): editorial · editorial illustration hero · Bebas Neue · Inter · #6FA3B8, #E8DFC9, #D94A2A
+- [clay · editorial · cinematic dark hero](sites/clay-editorial-cinematic-dark-hero/): editorial · cinematic dark hero · Anton · Inter · #120E0B, #E8DCC8, #E2A85F
+- [clay · editorial · duotone giant-serif headline](sites/clay-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Playfair Display · Inter · #0E0B08, #C4A574, #D6BE8C
+- [clay · editorial · duotone giant-serif headline](sites/clay-editorial-duotone-giant-serif-headline-2/): editorial · duotone giant-serif headline · Archivo Black · Inter · #FFD079, #0B0B0B, #E84E2A
+- [cobalt + coral · cinematic · editorial illustration hero](sites/cobalt-coral-cinematic-editorial-illustration-hero/): cinematic · editorial illustration hero · Anton · Inter · #06070B, #F0E64A, #FF2D8C
+- [coral + cobalt · editorial · full-bleed photo with top-left wordmark](sites/coral-cobalt-editorial-full-bleed-photo-with-top-left-wordmark/): editorial · full-bleed photo with top-left wordmark · Playfair Display · Inter · #D9C2B8, #111111, #B8CFE2
+- [coral + ochre · editorial · browser frame-in-frame](sites/coral-ochre-editorial-browser-frame-in-frame/): editorial · browser frame-in-frame · Playfair Display · Inter · #F4DA00, #1B2A1E, #E94B3C
+- [coral · warm · browser frame-in-frame](sites/coral-warm-browser-frame-in-frame/): warm · browser frame-in-frame · Inter · Inter · #f3c4b3, #1f1612, #e63946
+- [cream + burgundy · editorial · full-bleed photo with top-left wordmark](sites/cream-burgundy-editorial-full-bleed-photo-with-top-left-wordmark/): editorial · full-bleed photo with top-left wordmark · Cormorant Garamond · Cormorant Garamond · #102A1E, #E8E2D0, #9B6A2A
+- [cream · cinematic dark hero](sites/cream-cinematic-dark-hero/): cinematic · cinematic dark hero · Anton · Archivo · #050505, #F7F8FA, #E21D32
+- [cream + clay · brutalist · duotone giant-serif headline](sites/cream-clay-brutalist-duotone-giant-serif-headline/): brutalist · duotone giant-serif headline · Anton · JetBrains Mono · #E8B547, #3E2818, #C56A2C
+- [cream + clay · cinematic · cinematic dark hero](sites/cream-clay-cinematic-cinematic-dark-hero/): cinematic · cinematic dark hero · Playfair Display · Cormorant Garamond · #0E1530, #E8E2D5, #E2A93B
+- [cream + clay · cinematic dark hero](sites/cream-clay-cinematic-dark-hero/): cinematic · cinematic dark hero · Playfair Display · Inter · #0B0B0B, #F7F5EF, #F2C500
+- [cream + clay · cinematic · full-bleed photo with top-left wordmark](sites/cream-clay-cinematic-full-bleed-photo-with-top-left-wordmark/): cinematic · full-bleed photo with top-left wordmark · Playfair Display · Inter · #C2A983, #F2EBDD, #A8914C
+- [cream + clay · dark · duotone giant-serif headline](sites/cream-clay-dark-duotone-giant-serif-headline/): dark · duotone giant-serif headline · Cormorant Garamond · #0a1410, #f0e6d0, #f5b800
+- [cream + clay · editorial · browser frame-in-frame](sites/cream-clay-editorial-browser-frame-in-frame/): editorial · browser frame-in-frame · Inter · Inter · #8B8B6F, #F4EFE6, #1A1A1A
+- [cream + clay · editorial · duotone giant-serif headline](sites/cream-clay-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Anton · Playfair Display · #E8A14A, #111111, #EDA248
+- [cream + clay · editorial · editorial illustration hero](sites/cream-clay-editorial-editorial-illustration-hero/): editorial · editorial illustration hero · Unbounded · Inter · #FBE9D6, #111111, #E63A82
+- [cream + clay · editorial · editorial illustration hero](sites/cream-clay-editorial-editorial-illustration-hero-2/): editorial · editorial illustration hero · Alfa Slab One · Playfair Display · #8B5A3C, #F2E8D5, #2C3A2A
+- [cream + clay · editorial · editorial illustration hero](sites/cream-clay-editorial-editorial-illustration-hero-3/): editorial · editorial illustration hero · Playfair Display · Cormorant Garamond · #E8E2D5, #141414, #E8C547
+- [cream + clay · editorial · full-bleed photo with top-left wordmark](sites/cream-clay-editorial-full-bleed-photo-with-top-left-wordmark/): editorial · full-bleed photo with top-left wordmark · Bodoni Moda · Inter · #E8D9BE, #F4ECD9, #8C6E45
+- [cream + clay · pop · editorial illustration hero](sites/cream-clay-pop-editorial-illustration-hero/): pop · editorial illustration hero · Bowlby One SC · Inter · #1FA968, #F8C8DC, #F26B1E
+- [cream + cobalt · cinematic dark hero](sites/cream-cobalt-cinematic-dark-hero/): cinematic · cinematic dark hero · Space Grotesk · Space Grotesk · #050711, #E2E3EC, #A8B8FF
+- [cream + cobalt · cinematic dark hero](sites/cream-cobalt-cinematic-dark-hero-2/): editorial · cinematic dark hero · Bebas Neue · Archivo · #2F3E4B, #F7F8FA, #0047AB
+- [cream + cobalt · editorial · browser frame-in-frame](sites/cream-cobalt-editorial-browser-frame-in-frame/): editorial · browser frame-in-frame · Inter · Inter · #EFEAE4, #1E2A52, #0061FE
+- [cream + cobalt · editorial · cinematic dark hero](sites/cream-cobalt-editorial-cinematic-dark-hero/): editorial · cinematic dark hero · Playfair Display · Cormorant Garamond · #0A0A0A, #F5EFE6, #1B2A4E
+- [cream + cobalt · editorial · duotone giant-serif headline](sites/cream-cobalt-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Manrope · Manrope · #7BA3D3, #1F2A44, #C9A8AE
+- [cream + coral · cinematic dark hero](sites/cream-coral-cinematic-dark-hero/): cinematic · cinematic dark hero · JetBrains Mono · JetBrains Mono · #101225, #F2F0EE, #E7194D
+- [cream + coral · cinematic dark hero](sites/cream-coral-cinematic-dark-hero-2/): cinematic · cinematic dark hero · Cormorant Garamond · Cormorant Garamond · #26305C, #F1F0E9, #D52C64
+- [cream + coral · cinematic dark hero](sites/cream-coral-cinematic-dark-hero-3/): cinematic · cinematic dark hero · Anton · Space Grotesk · #071A3D, #F4F5F2, #FF3B0A
+- [cream + coral · dark · cinematic dark hero](sites/cream-coral-dark-cinematic-dark-hero/): dark · cinematic dark hero · #14181a, #ede2cd, #b87038
+- [cream + coral · duotone giant-serif headline](sites/cream-coral-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Playfair Display · Inter · #DDDCD3, #F7F7F3, #F2B39B
+- [cream + coral · editorial · browser frame-in-frame](sites/cream-coral-editorial-browser-frame-in-frame/): editorial · browser frame-in-frame · Manrope · Manrope · #7CB8A6, #1F2226, #F4B6C8
+- [cream + coral · editorial · browser frame-in-frame](sites/cream-coral-editorial-browser-frame-in-frame-2/): editorial · browser frame-in-frame · Cormorant Garamond · Inter · #0f0e0c, #f5ede0, #e6461e
+- [cream + coral · editorial · cinematic dark hero](sites/cream-coral-editorial-cinematic-dark-hero/): editorial · cinematic dark hero · Playfair Display · Inter · #0A0A0A, #F2EDE3, #B86A3A
+- [cream + coral · editorial · duotone giant-serif headline](sites/cream-coral-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Cormorant Garamond · Cormorant Garamond · #2a3520, #f0e6d0, #b04a28
+- [cream + coral · editorial · duotone giant-serif headline](sites/cream-coral-editorial-duotone-giant-serif-headline-2/): editorial · duotone giant-serif headline · Cormorant Garamond · Inter · #1d3a3a, #f5efe6, #c87238
+- [cream + coral · editorial · duotone giant-serif headline](sites/cream-coral-editorial-duotone-giant-serif-headline-3/): editorial · duotone giant-serif headline · Cormorant Garamond · Inter · #ecd1cc, #1a1410, #d04a1f
+- [cream + coral · editorial · duotone giant-serif headline](sites/cream-coral-editorial-duotone-giant-serif-headline-4/): editorial · duotone giant-serif headline · Anton · Inter · #1B1B1B, #0E0E0E, #E73327
+- [cream + coral · editorial · editorial illustration hero](sites/cream-coral-editorial-editorial-illustration-hero/): editorial · editorial illustration hero · Unbounded · Manrope · #0A0A12, #EDEAE6, #FF5A2C
+- [cream + coral · editorial · full-bleed photo with top-left wordmark](sites/cream-coral-editorial-full-bleed-photo-with-top-left-wordmark/): editorial · full-bleed photo with top-left wordmark · Anton · Inter · #EEEAE2, #101828, #E84A1D
+- [cream + coral · editorial · full-bleed photo with top-left wordmark](sites/cream-coral-editorial-full-bleed-photo-with-top-left-wordmark-2/): editorial · full-bleed photo with top-left wordmark · Anton · Playfair Display · #2E4A36, #F4E5C6, #D8742A
+- [cream + coral · kawaii · editorial illustration hero](sites/cream-coral-kawaii-editorial-illustration-hero/): kawaii · editorial illustration hero · Anton · Manrope · #B7D2CC, #1F4FB8, #E8652A
+- [cream + coral · pop · editorial illustration hero](sites/cream-coral-pop-editorial-illustration-hero/): pop · editorial illustration hero · Montserrat · Nunito · #E8A878, #F1D5E2, #B8383A
+- [cream + coral · warm · pill-nav centered hero](sites/cream-coral-warm-pill-nav-centered-hero/): warm · pill-nav centered hero · Inter · #f5c8c0, #1a1a1a, #f5a8c8
+- [cream + crimson · editorial · full-bleed photo with top-left wordmark](sites/cream-crimson-editorial-full-bleed-photo-with-top-left-wordmark/): editorial · full-bleed photo with top-left wordmark · Playfair Display · Inter · #1A1A1A, #F2EADC, #B8924A
+- [cream + crimson · editorial illustration hero](sites/cream-crimson-editorial-illustration-hero/): cinematic · editorial illustration hero · Cormorant Garamond · Cormorant Garamond · #020A13, #F3F0E5, #760B20
+- [cream · editorial · browser frame-in-frame](sites/cream-editorial-browser-frame-in-frame/): editorial · browser frame-in-frame · Italiana · Inter · #6B6843, #EFE4CC, #7A8A47
+- [cream · editorial · cinematic dark hero](sites/cream-editorial-cinematic-dark-hero/): editorial · cinematic dark hero · Bebas Neue · Oswald · #0E0B08, #F2EBDC, #C9A26A
+- [cream · editorial · duotone giant-serif headline](sites/cream-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · #14110d, #ebe3d2, #f5efe2
+- [cream · editorial · duotone giant-serif headline](sites/cream-editorial-duotone-giant-serif-headline-2/): editorial · duotone giant-serif headline · Bebas Neue · Archivo · #F0EEEA, #1A1A1A, #111111
+- [cream + ink · cinematic dark hero](sites/cream-ink-cinematic-dark-hero/): technical · cinematic dark hero · Space Grotesk · Space Grotesk · #001F20, #EAF4F3, #00D9B5
+- [cream + ink · dark · pill-nav centered hero](sites/cream-ink-dark-pill-nav-centered-hero/): dark · pill-nav centered hero · Cormorant Garamond · Inter · #0e1310, #ebe4d3, #1f2422
+- [cream + ink · editorial · editorial illustration hero](sites/cream-ink-editorial-editorial-illustration-hero/): editorial · editorial illustration hero · Cormorant Garamond · EB Garamond · #F4F0E8, #141414, #7E8756
+- [cream + ink · editorial · photographic hero](sites/cream-ink-editorial-photographic-hero/): editorial · photographic hero · DM Serif Display · Inter · #103a2e, #f3e7d2, #d9b48a
+- [cream + ink · warm · cinematic dark hero](sites/cream-ink-warm-cinematic-dark-hero/): warm · cinematic dark hero · Cormorant Garamond · Inter · #1a0f08, #ebe0c8, #c8a378
+- [cream + ink · warm · full-bleed photo with top-left wordmark](sites/cream-ink-warm-full-bleed-photo-with-top-left-wordmark/): warm · full-bleed photo with top-left wordmark · #1a0a05, #ede8df, #c97a3a
+- [cream + ink · warm · full-bleed photo with top-left wordmark](sites/cream-ink-warm-full-bleed-photo-with-top-left-wordmark-2/): warm · full-bleed photo with top-left wordmark · Cormorant Garamond · Inter · #1d140a, #f3e8d0, #8a6a3a
+- [cream + ochre · editorial · duotone giant-serif headline](sites/cream-ochre-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Inter · Inter · #F4F1EA, #1A1A1A, #F5D93A
+- [cream + sage · editorial · editorial illustration hero](sites/cream-sage-editorial-editorial-illustration-hero/): editorial · editorial illustration hero · Anton · Inter · #F2EEE2, #000000, #1AFF66
+- [cream + sage · minimal · editorial illustration hero](sites/cream-sage-minimal-editorial-illustration-hero/): minimal · editorial illustration hero · Manrope · Inter · #0e2a1a, #f0efe9, #3edc7c
+- [cream + sapphire · cinematic dark hero](sites/cream-sapphire-cinematic-dark-hero/): cinematic · cinematic dark hero · Playfair Display · Inter · #241044, #F2F0F5, #C83F9D
+- [cream + stone · dark · cinematic dark hero](sites/cream-stone-dark-cinematic-dark-hero/): dark · cinematic dark hero · #0a0a0a, #f0ebe0, #c8b89a
+- [cream + stone · duotone giant-serif headline](sites/cream-stone-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Playfair Display · Cormorant Garamond · #E7E5E0, #242C2B, #CDD6DA
+- [cream + stone · full-bleed photo with top-left wordmark](sites/cream-stone-full-bleed-photo-with-top-left-wordmark/): cinematic · full-bleed photo with top-left wordmark · Space Grotesk · Inter · #151A18, #E9E6DE, #AE8F81
+- [cream + taupe · editorial · cinematic dark hero](sites/cream-taupe-editorial-cinematic-dark-hero/): editorial · cinematic dark hero · Playfair Display · Inter · #0A0A0A, #F2EFE9, #A88A6A
+- [cream + teal · cinematic · cinematic dark hero](sites/cream-teal-cinematic-cinematic-dark-hero/): cinematic · cinematic dark hero · Playfair Display · Inter · #1f1812, #f4e9d0, #00ff88
+- [cream + teal · cinematic dark hero](sites/cream-teal-cinematic-dark-hero/): cinematic · cinematic dark hero · Playfair Display · Archivo · #030A12, #DCE4EA, #29B8E5
+- [cream + teal · dark · duotone giant-serif headline](sites/cream-teal-dark-duotone-giant-serif-headline/): dark · duotone giant-serif headline · Cormorant Garamond · Inter · #143a4a, #ede8d6, #ede8d6
+- [cream + teal · editorial · browser frame-in-frame](sites/cream-teal-editorial-browser-frame-in-frame/): editorial · browser frame-in-frame · Manrope · Inter · #EDE6DC, #0E0E0E, #5E7A3B
+- [cream + teal · editorial · cinematic dark hero](sites/cream-teal-editorial-cinematic-dark-hero/): editorial · cinematic dark hero · Space Grotesk · Inter · #7d8f74, #1f2a1a, #3fa55f
+- [cream + teal · editorial · cinematic dark hero](sites/cream-teal-editorial-cinematic-dark-hero-2/): editorial · cinematic dark hero · Cinzel · Cormorant Garamond · #7E8A98, #E8E4D6, #A6D6D2
+- [cream + teal · editorial · duotone giant-serif headline](sites/cream-teal-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Druk Wide · Inter · #ebe5d3, #2a8b94, #0a0a0a
+- [cream + teal · editorial · full-bleed photo with top-left wordmark](sites/cream-teal-editorial-full-bleed-photo-with-top-left-wordmark/): editorial · full-bleed photo with top-left wordmark · JetBrains Mono · JetBrains Mono · #1F2A36, #F5F2EC, #5DBCE4
+- [Serious ducks for un-serious people.](sites/serious-ducks-for-un-serious-people/): cinematic · full-bleed photo with top-left wordmark · Anton · Archivo · #101514, #F7F7F4, #B4A800
+- [stone + clay · cinematic dark hero](sites/stone-clay-cinematic-dark-hero/): cinematic · cinematic dark hero · Cormorant Garamond · Barlow Condensed · #090A08, #D8D0C2, #A88A55
+- [stone + clay · editorial · duotone giant-serif headline](sites/stone-clay-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Archivo Black · Caveat · #F4C95C, #1F1F1F, #E8743B
+- [stone + coral · cinematic · full-bleed photo with top-left wordmark](sites/stone-coral-cinematic-full-bleed-photo-with-top-left-wordmark/): cinematic · full-bleed photo with top-left wordmark · Anton · Inter · #C9C2B6, #FF4D4D, #D8514A
+- [stone · editorial · duotone giant-serif headline](sites/stone-editorial-duotone-giant-serif-headline/): editorial · duotone giant-serif headline · Anton · Inter · #D9D4C5, #0A0A0A, #B58A98
+- [stone + teal · dark · cinematic dark hero](sites/stone-teal-dark-cinematic-dark-hero/): dark · cinematic dark hero · Anton · #0d1010, #d0d0d0, #2dd46a
+- [teal + ink · cinematic dark hero](sites/teal-ink-cinematic-dark-hero/): cinematic · cinematic dark hero · Bebas Neue · Inter · #06131D, #B7C1C7, #A9F1F4

@@ -1,0 +1,20 @@
+{
+  "slug": "slosh-seltzer",
+  "palette": {
+    "bg": "#1FA968",
+    "fg": "#F8C8DC",
+    "accent": "#F26B1E",
+    "muted": "#FFB800",
+    "ink": "#FF3955",
+    "surface": "#FBCFE0"
+  },
+  "fonts": {
+    "display": "Bowlby One SC",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "pop",
+  "duck_eye_decor": "none",
+  "cta_register": ""
+}

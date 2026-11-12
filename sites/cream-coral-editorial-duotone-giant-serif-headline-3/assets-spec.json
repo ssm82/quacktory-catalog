@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A classic rubber duck with a smooth, rounded body, short stubby beak, and small flat feet, finished in a warm amber-orange porcelain tone, sitting on a sun-bleached limestone step in an editorial fashion-magazine set. The duck is positioned slightly off-centre, captured in a three-quarter cinematic angle at eye level, gazing toward a softly draped linen backdrop. Soft directional window light washes from the left, casting a gentle, diffused shadow on the textured stone surface. The seamless backdrop continues the dusty pink-cream salmon tone of the studio environment, with no hard vignette. The duck has a plain oval pupil with no glint, no sparkle, no decorative eye treatment. Fine surface detail reveals a matte porcelain skin with micro-pores, like unglazed bisque. A folded silk scarf and a small ceramic vessel sit nearby as quiet props. Editorial fashion-magazine atmosphere, warm paper-like tones, restrained palette, no saturated colour outside the duck's warm amber finish and the soft pink surroundings."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A miniature classic rubber duck, identical silhouette with a rounded body, short stubby beak, and small flat feet, in a warm amber-orange matte porcelain finish, sized like a keychain charm. Front-facing, slightly elevated, 30-degree camera angle. Soft diffused three-point studio lighting on a seamless backdrop in the exact dusty pink-cream salmon tone, NOT warm amber finish, NOT tinted beyond palette. The duck's surface shows the same matte porcelain skin, micro-pores, and unglazed bisque quality. Plain oval pupil with no sparkle, no heart, no star, no pixel, no decorative glint. Tiny scale emphasised by a single delicate braided cord looped through an implied top hole. Editorial register, matte porcelain on warm paper mood, no props, no harsh shadow, restrained and quiet. Composition centred with generous breathing room, refined fashion-magazine product still life."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The workhorse classic rubber duck with the canonical rounded body, short stubby beak, and small flat feet, finished in warm amber-orange matte porcelain. Front-facing, slightly elevated, 30-degree camera angle. Soft diffused three-point studio lighting producing gentle, paper-like shadows. Seamless backdrop in the exact dusty pink-cream salmon tone, NOT warm amber finish, NOT tinted beyond the palette. The duck reads as unglazed bisque, with a soft satin sheen rather than glossy plastic. Plain oval pupil only, no sparkle, no heart-shape, no star, no pixel, no decorative glint in the eye. Editorial fashion-magazine register, restrained colour, warm paper-like atmosphere. No props, no surface clutter, single object centred with negative space, calm and composed product portrait suitable as the most-photographed SKU of the line."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A collaboration-edition classic rubber duck, identical silhouette with rounded body, short stubby beak, and small flat feet, presented in a warm amber-orange matte porcelain finish with a fine hand-painted craquelure glaze and a subtle faded inky marking along the flank reading a single italic letter. Front-facing, slightly elevated, 30-degree camera angle. Soft diffused three-point studio lighting on a seamless backdrop in the exact dusty pink-cream salmon tone, NOT warm amber finish, NOT tinted beyond palette. Plain oval pupil, no sparkle, no heart, no star, no pixel, no decorative glint. Editorial matte-porcelain-on-warm-paper mood, fashion-magazine restraint. The collaboration treatment is quiet, painterly, and minimal rather than graphic. Single centred object, refined negative space, soft tonal gradient across the backdrop, no props."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A monumental photo-object classic rubber duck, identical silhouette with rounded body, short stubby beak, and small flat feet, scaled to approximately half a metre, finished in warm amber-orange matte porcelain with faint sand-blasted micro-texture visible across the flank. Front-facing, slightly elevated, 30-degree camera angle that exaggerates the duck's mass and presence. Soft diffused three-point studio lighting on a seamless backdrop in the exact dusty pink-cream salmon tone, NOT warm amber finish, NOT tinted beyond palette, the backdrop receding softly behind the imposing form. Plain oval pupil only, no sparkle, no heart, no star, no pixel, no decorative glint. Editorial register, warm paper-like atmosphere, the duck treated as a sculpture rather than a toy. Centred composition, restrained palette, quiet museum-catalog mood."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A statement-installation classic rubber duck, identical silhouette with rounded body, short stubby beak, and small flat feet, scaled to architectural dimensions of approximately two metres, finished in warm amber-orange matte porcelain with a softly weathered chalky surface. Front-facing, slightly elevated, 30-degree camera angle, the duck towering within a studio space. Soft diffused three-point studio lighting on a seamless backdrop in the exact dusty pink-cream salmon tone, NOT warm amber finish, NOT tinted beyond palette, the backdrop rising like a continuous wall behind the form. Plain oval pupil, no sparkle, no heart, no star, no pixel, no decorative glint. Editorial matte-porcelain-on-warm-paper register, fashion-magazine calm, the duck read as a sculptural installation piece. Single centred object, deep negative space, hushed and reverent atmosphere."
+  }
+]

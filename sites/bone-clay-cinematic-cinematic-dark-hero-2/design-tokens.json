@@ -1,0 +1,20 @@
+{
+  "slug": "terminal-industries",
+  "palette": {
+    "bg": "#C9A2B8",
+    "fg": "#FFFFFF",
+    "accent": "#E2B07A",
+    "muted": "#6B5A6A",
+    "ink": "#120D0A",
+    "surface": "#D9C9A8"
+  },
+  "fonts": {
+    "display": "Inter",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Explore the system"
+}

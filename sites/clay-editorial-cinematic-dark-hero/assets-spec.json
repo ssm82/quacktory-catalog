@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "Editorial hero shot. A classic rubber duck sculpture in warm amber finish, standing monumental at the center of a dark cinematic space. Seamless backdrop in #120E0B deep warm charcoal tone, NOT warm amber finish, NOT tinted beyond palette, with fine visible film-grain noise, a subtle brown vignette, and a faint warm gradient. Matte porcelain surface, no gloss, no reflections — like a high-fashion editorial still life. Soft directional window light from upper-left in warm tungsten, gentle cool fill, and a soft amber rim along the right edge. The duck's silhouette is preserved exactly: rounded body, small upright tail, flat beak, two webbed feet, plain oval pupil with no glint, no sparkle, no decorative catchlight. Front-three-quarter view, slightly low camera angle to give the duck monumental stature. Empty negative space around the subject, no props, no text, no logos. Aspect 16:9.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A 4–8cm micro keychain rubber duck in warm amber finish, photographed front-facing, slightly elevated, 30° on a seamless backdrop in #120E0B deep warm charcoal tone, NOT warm amber finish, NOT tinted beyond palette, with faint film-grain noise. Matte porcelain surface, editorial register, no gloss, no lacquer. Soft diffused three-point studio lighting: warm key from upper-left, cool fill from right, gentle amber rim along the back. Silhouette matches the family exactly: rounded body, small upright tail, flat beak, two webbed feet, plain oval pupil with no decorative glint, no sparkle, no heart, no star, no pixel. A small brass-toned keychain loop is implied at the head, catching a single warm highlight. Tight 1:1 crop, the duck occupies roughly 40% of frame, leaving generous dark negative space. No props beyond the loop, no text, no logos.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The 10–25cm classic rubber duck in warm amber finish, front-facing, slightly elevated, 30°, on a seamless backdrop in #120E0B deep warm charcoal tone, NOT warm amber finish, NOT tinted beyond palette. Matte porcelain surface, editorial register, no gloss, no lacquer. Soft diffused three-point studio lighting with a warm tungsten key from upper-left, cool fill from the right, and a subtle amber rim that rhymes with the body color. Silhouette is preserved exactly: rounded body, small upright tail, flat beak, two webbed feet, plain oval pupil with no glint, no sparkle, no heart, no star, no pixel. The duck fills roughly 55% of frame, centered, with faint film-grain noise on the backdrop for editorial mood. No props, no text, no logos. 1:1 aspect, clean editorial still life.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A 15–30cm designer collaboration rubber duck in warm amber finish with a single editorial accent: a delicate brass curb-chain necklace draped across the chest, catching one warm tungsten highlight that rhymes with the accent palette. Front-facing, slightly elevated, 30°. Seamless backdrop in #120E0B deep warm charcoal tone, NOT warm amber finish, NOT tinted beyond palette, with faint film-grain noise. Matte porcelain surface, editorial register, no gloss, no lacquer. Soft diffused three-point studio lighting: warm key from upper-left, cool fill from right, gentle amber rim. Silhouette matches the family exactly: rounded body, small upright tail, flat beak, two webbed feet, plain oval pupil with no glint, no sparkle, no heart, no star, no pixel. The chain is the only per-direction design treatment, a quiet collaboration cue. 1:1, no other props, no text, no logos.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A 50–120cm mega rubber duck in warm amber finish, front-facing, slightly elevated, 30°, set on a seamless backdrop in #120E0B deep warm charcoal tone, NOT warm amber finish, NOT tinted beyond palette. Matte porcelain surface, editorial register, no gloss, no lacquer. Soft diffused three-point studio lighting scaled for the larger object: warm tungsten key from upper-left, cool fill from the right, amber rim along the right cheek. Silhouette matches the family exactly: rounded body, small upright tail, flat beak, two webbed feet, plain oval pupil with no decorative glint, no sparkle, no heart, no star, no pixel. The duck dominates the frame, occupying roughly 75% of composition, with a subtle floor reflection and faint film-grain noise on the backdrop. 1:1, no props, no text, no logos.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A 1.5–3m architect-scale rubber duck installation in warm amber finish, shot with a slight upward tilt to convey monumentality, on a seamless backdrop in #120E0B deep warm charcoal tone, NOT warm amber finish, NOT tinted beyond palette, with subtle film-grain noise and a faint brown vignette. Matte porcelain surface, editorial register, no gloss, no lacquer. Lighting is restrained: a single warm tungsten key from upper-left, minimal cool fill, a soft amber rim along the right edge. Silhouette matches the family exactly: rounded body, small upright tail, flat beak, two webbed feet, plain oval pupil with no glint, no sparkle, no heart, no star, no pixel. The duck fills most of the frame, reading as a sculptural object in a dark cinematic gallery space. 1:1, no props, no text, no logos.",
+    "aspect_ratio": "1:1"
+  }
+]

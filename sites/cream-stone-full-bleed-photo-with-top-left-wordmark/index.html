@@ -1,0 +1,517 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="We make ducks you don't want to drop in the water — you want to put them on a shelf.">
+  <meta property="og:url" content="https://quacktory.space/sites/couro-azul/">
+  <link rel="canonical" href="https://quacktory.space/sites/couro-azul/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Space+Grotesk:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./main.js" defer></script>
+  <title>Quacktory — Serious ducks for un-serious people.</title>
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a class="brand" href="#top" aria-label="Quacktory">
+        <span class="brand__emblem" aria-hidden="true">
+          <svg class="brand__symbol" viewBox="0 0 64 64" fill="none">
+            <path d="M12 43c1-11 11-19 25-19 4 0 8 .7 11 2l9-7-4 11 4 5-12 2c-2 11-11 19-24 19-7 0-12-4-12-10 0-1 1-2 3-3Z"/>
+            <path d="M49 25c4 0 7 2 7 6s-3 6-7 6"/>
+            <circle cx="43" cy="31" r="2.2"/>
+          </svg>
+        </span>
+        <span class="brand__name">Quacktory</span>
+      </a>
+
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a class="site-nav__link" href="#collection">Collection</a>
+        <a class="site-nav__link site-nav__link--secondary" href="#production">How we make it</a>
+        <a class="site-nav__link site-nav__link--secondary" href="#custom">B2B / Custom</a>
+      </nav>
+
+      <a class="header-action" href="#collection">
+        <span class="header-action__label">Explore<br>the collection</span>
+      </a>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero__media">
+        <img src="./assets/hero-lifestyle.jpg" alt="Quacktory" width="1600" height="1000" fetchpriority="high">
+      </div>
+      <div class="hero__shade" aria-hidden="true"></div>
+
+      <div class="hero__content">
+        <h1 class="hero__title" id="hero-title">Quacktory — serious ducks for un-serious people</h1>
+      </div>
+
+      <div class="hero__scale" aria-hidden="true">
+        <span class="hero__scale-cap">4 cm</span>
+        <span class="hero__scale-track"><span></span></span>
+        <span class="hero__scale-cap">3 m</span>
+      </div>
+
+      <a class="hero__scroll" href="#collection">
+        <span class="hero__scroll-line" aria-hidden="true"></span>
+        <span>Size ladder</span>
+      </a>
+    </section>
+
+    <section class="collection" id="collection" aria-labelledby="collection-title">
+      <header class="collection__intro">
+        <p class="eyebrow">The size ladder</p>
+        <h2 class="collection__title" id="collection-title">From 4 cm to 3 m</h2>
+        <div class="collection__aside">
+          <p class="collection__copy">We make ducks you don't want to drop in the water — you want to put them on a shelf. The small ones go in a pocket, the large ones go in a lobby, and all of them go on camera.</p>
+          <p class="collection__note">One vector silhouette for the duck: body contour, beak, feet, eye position. Body proportions (length / height / width) do not scale linearly with size.</p>
+        </div>
+      </header>
+
+      <div class="scale-ladder">
+        <article class="scale-frame scale-frame--micro">
+          <button class="scale-frame__trigger" type="button" data-dialog="micro-dialog">
+            <span class="scale-frame__glow" aria-hidden="true"></span>
+            <img class="scale-frame__image" src="./assets/product-micro.jpg" alt="Micro" width="800" height="1000" loading="lazy">
+            <span class="scale-frame__content">
+              <span class="scale-frame__index">01</span>
+              <span class="scale-frame__name">Micro</span>
+              <span class="scale-frame__size">4–8 cm</span>
+              <span class="scale-frame__comparison">thumb-sized</span>
+              <span class="scale-frame__audience">keychains, merch, gifts up to ~$10</span>
+            </span>
+            <span class="scale-frame__corner" aria-hidden="true"></span>
+          </button>
+        </article>
+
+        <article class="scale-frame scale-frame--classic">
+          <button class="scale-frame__trigger" type="button" data-dialog="classic-dialog">
+            <span class="scale-frame__glow" aria-hidden="true"></span>
+            <img class="scale-frame__image" src="./assets/product-classic.jpg" alt="Classic" width="800" height="1000" loading="lazy">
+            <span class="scale-frame__content">
+              <span class="scale-frame__index">02</span>
+              <span class="scale-frame__name">Classic</span>
+              <span class="scale-frame__size">10–25 cm</span>
+              <span class="scale-frame__comparison">cat-sized</span>
+              <span class="scale-frame__audience">kids, bathroom, office</span>
+            </span>
+            <span class="scale-frame__corner" aria-hidden="true"></span>
+          </button>
+        </article>
+
+        <article class="scale-frame scale-frame--designer">
+          <button class="scale-frame__trigger" type="button" data-dialog="designer-dialog">
+            <span class="scale-frame__glow" aria-hidden="true"></span>
+            <img class="scale-frame__image" src="./assets/product-designer.jpg" alt="Designer" width="800" height="1000" loading="lazy">
+            <span class="scale-frame__content">
+              <span class="scale-frame__index">03</span>
+              <span class="scale-frame__name">Designer</span>
+              <span class="scale-frame__size">15–30 cm</span>
+              <span class="scale-frame__comparison">cat-sized</span>
+              <span class="scale-frame__audience">illustrator collabs, limited runs</span>
+            </span>
+            <span class="scale-frame__corner" aria-hidden="true"></span>
+          </button>
+        </article>
+
+        <article class="scale-frame scale-frame--mega">
+          <button class="scale-frame__trigger" type="button" data-dialog="mega-dialog">
+            <span class="scale-frame__glow" aria-hidden="true"></span>
+            <img class="scale-frame__image" src="./assets/product-mega.jpg" alt="Mega" width="800" height="1000" loading="lazy">
+            <span class="scale-frame__content">
+              <span class="scale-frame__index">04</span>
+              <span class="scale-frame__name">Mega</span>
+              <span class="scale-frame__size">50–120 cm</span>
+              <span class="scale-frame__comparison">bear-sized</span>
+              <span class="scale-frame__audience">photo objects, shop-window displays, statement gifts</span>
+            </span>
+            <span class="scale-frame__corner" aria-hidden="true"></span>
+          </button>
+        </article>
+
+        <article class="scale-frame scale-frame--architect">
+          <button class="scale-frame__trigger" type="button" data-dialog="architect-dialog">
+            <span class="scale-frame__glow" aria-hidden="true"></span>
+            <img class="scale-frame__image" src="./assets/product-architect.jpg" alt="Architect" width="800" height="1000" loading="lazy">
+            <span class="scale-frame__content">
+              <span class="scale-frame__index">05</span>
+              <span class="scale-frame__name">Architect</span>
+              <span class="scale-frame__size">1.5–3 m</span>
+              <span class="scale-frame__comparison">bear-sized</span>
+              <span class="scale-frame__audience">installations, events, weddings, branded spaces</span>
+            </span>
+            <span class="scale-frame__corner" aria-hidden="true"></span>
+          </button>
+        </article>
+      </div>
+    </section>
+
+    <section class="production" id="production" aria-labelledby="production-title">
+      <div class="production__intro">
+        <p class="production__eyebrow">Production</p>
+        <h2 class="production__title" id="production-title">How we make it</h2>
+        <p class="production__lead">Every duck goes through 5 checks (Architect gets an extended protocol):</p>
+      </div>
+
+      <div class="production__body">
+        <div class="production__ledger">
+          <article class="production__row">
+            <h3 class="production__row-label">Duck body</h3>
+            <p class="production__row-copy">Single-piece moulding of vulcanised rubber — food-grade silicone compound (Micro/Classic) or natural rubber with EPDM additives (Designer/Mega/Architect). No plastic inserts, no metal inside, no glued seams.</p>
+          </article>
+
+          <article class="production__row">
+            <h3 class="production__row-label">Eyes</h3>
+            <p class="production__row-copy">Eyes — paint, not inserts. Eye shape (oval/round/position) is invariant. The same base mould relief across every SKU. Eye colour is invariant. Black pupil + white sclera. Pigment is applied post-vulcanisation by hand, with food-grade silicone dye that resists UV and water.</p>
+          </article>
+
+          <article class="production__row">
+            <h3 class="production__row-label">Quality control</h3>
+            <ol class="qc-list">
+              <li class="qc-list__item">
+                <span class="qc-list__number">01</span>
+                <span class="qc-list__copy">Visual inspection — no porosity, streaks, or short shots.</span>
+              </li>
+              <li class="qc-list__item">
+                <span class="qc-list__number">02</span>
+                <span class="qc-list__copy">Geometry — beak/eyes/feet present, proportions ±2%.</span>
+              </li>
+              <li class="qc-list__item">
+                <span class="qc-list__number">03</span>
+                <span class="qc-list__copy">Drop test — Micro/Classic: 5 drops from 1 m onto concrete with no cracks.</span>
+              </li>
+              <li class="qc-list__item">
+                <span class="qc-list__number">04</span>
+                <span class="qc-list__copy">Smell test — no "rubbery" smell (sign of poor vulcanisation).</span>
+              </li>
+              <li class="qc-list__item">
+                <span class="qc-list__number">05</span>
+                <span class="qc-list__copy">Gravimetry — mass within ±3% of the reference.</span>
+              </li>
+            </ol>
+            <p class="production__row-copy">Architect additionally receives: ultrasonic inspection of the frame's welded seams, on-site assembly photo protocol.</p>
+          </article>
+        </div>
+
+        <aside class="production__note">
+          <h3 class="production__note-title">Compliance and limits</h3>
+          <p class="production__note-copy">EN 71-3 (chemical migration). REACH (no phthalates or bisphenol A).</p>
+          <p class="production__note-copy">Temperature range: −20 °C … +60 °C. Above +70 °C — deformation. Below −25 °C — embrittlement (especially Mega/Architect).</p>
+          <p class="production__note-copy">Environment: indoor only. Protect from direct UV (colour degrades after 2+ years) and from oils/solvents.</p>
+          <p class="production__note-copy">Care: wash with warm water and mild soap. No abrasives, alcohol, or bleach.</p>
+        </aside>
+      </div>
+    </section>
+
+    <section class="custom" id="custom" aria-labelledby="custom-title">
+      <div class="custom__inner">
+        <header class="custom__header">
+          <p class="eyebrow"><span class="accent-square" aria-hidden="true"></span>B2B / Custom</p>
+          <h2 class="custom__title" id="custom-title">Custom colour from palette</h2>
+          <p class="custom__lead">Custom = picking from a branded palette.</p>
+        </header>
+
+        <div class="custom__palette">
+          <p class="custom__palette-label"><span class="accent-square" aria-hidden="true"></span>TPM — Quacktory Pigment Menu</p>
+          <div class="custom__swatches" aria-label="TPM — Quacktory Pigment Menu" aria-hidden="true">
+            <span class="pigment pigment--01"></span>
+            <span class="pigment pigment--02"></span>
+            <span class="pigment pigment--03"></span>
+            <span class="pigment pigment--04"></span>
+            <span class="pigment pigment--05"></span>
+            <span class="pigment pigment--06"></span>
+            <span class="pigment pigment--07"></span>
+            <span class="pigment pigment--08"></span>
+            <span class="pigment pigment--09"></span>
+            <span class="pigment pigment--10"></span>
+            <span class="pigment pigment--11"></span>
+            <span class="pigment pigment--12"></span>
+          </div>
+        </div>
+
+        <div class="custom__details">
+          <article class="custom__detail">
+            <h3 class="custom__detail-label">Custom</h3>
+            <p class="custom__detail-copy">12 branded Pantone-equivalents (TPM — Quacktory Pigment Menu), into which the mass is tinted BEFORE moulding. This is not "paint on top" — it is body-through pigment. Lead time and price are predictable.</p>
+          </article>
+
+          <article class="custom__detail">
+            <h3 class="custom__detail-label">Fully arbitrary colour</h3>
+            <p class="custom__detail-copy">Fully arbitrary colour (a third-party Pantone) is a separate conversation as a new formula development. Separate line in the quote, +2 weeks to the lead time, +15% to the price.</p>
+          </article>
+
+          <article class="custom__detail">
+            <h3 class="custom__detail-label">Custom geometry</h3>
+            <p class="custom__detail-copy">Custom geometry (a new duck shape, a brand mascot figure) is a separate project with a master model, discussed individually.</p>
+          </article>
+        </div>
+
+        <div class="custom__leadtimes">
+          <p class="eyebrow">Lead times</p>
+          <ul class="leadtime-list">
+            <li class="leadtime-list__item">
+              <span class="leadtime-list__name">Micro / Classic</span>
+              <span class="leadtime-list__time">3 weeks</span>
+            </li>
+            <li class="leadtime-list__item">
+              <span class="leadtime-list__name">Designer</span>
+              <span class="leadtime-list__time">6 weeks (design sign-off with the collab author)</span>
+            </li>
+            <li class="leadtime-list__item">
+              <span class="leadtime-list__name">Mega</span>
+              <span class="leadtime-list__time">6 weeks</span>
+            </li>
+            <li class="leadtime-list__item">
+              <span class="leadtime-list__name">Architect</span>
+              <span class="leadtime-list__time">12 weeks (including on-site survey and installation)</span>
+            </li>
+          </ul>
+        </div>
+
+        <a class="button custom__action" href="https://quacktory.space/">
+          <span>Request a quote</span>
+          <span class="button__arrow" aria-hidden="true">↗</span>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer" id="contact">
+    <div class="footer__top">
+      <div class="footer__brand">
+        <a class="footer__address" href="https://quacktory.space/">Quacktory</a>
+        <p class="footer__credo">Serious ducks for un-serious people.</p>
+      </div>
+
+      <div class="footer__columns">
+        <section class="footer__column">
+          <h2 class="footer__heading">Contact</h2>
+          <a class="footer__link" href="https://quacktory.space/">Official address</a>
+          <a class="footer__link" href="https://quacktory.space/">https://quacktory.space/</a>
+        </section>
+
+        <section class="footer__column">
+          <h2 class="footer__heading">Payment</h2>
+          <p class="footer__meta">per unit</p>
+          <p class="footer__meta">incl. shipping</p>
+        </section>
+
+        <section class="footer__column">
+          <h2 class="footer__heading">Social</h2>
+          <a class="footer__link" href="https://quacktory.space/">QR code</a>
+          <a class="footer__link" href="https://quacktory.space/">https://quacktory.space/</a>
+        </section>
+
+        <section class="footer__column">
+          <h2 class="footer__heading">Legal</h2>
+          <p class="footer__meta">EN 71-3 (chemical migration)</p>
+          <p class="footer__meta">REACH (no phthalates or bisphenol A)</p>
+        </section>
+      </div>
+    </div>
+
+    <div class="footer__bottom">
+      <p class="footer__legal">Temperature range: −20 °C … +60 °C. Above +70 °C — deformation. Below −25 °C — embrittlement (especially Mega/Architect).</p>
+      <p class="footer__legal">Care: wash with warm water and mild soap. No abrasives, alcohol, or bleach.</p>
+    </div>
+  </footer>
+
+  <dialog class="product-dialog" id="micro-dialog" aria-labelledby="micro-dialog-title">
+    <div class="product-dialog__panel">
+      <div class="product-dialog__head">
+        <p class="product-dialog__eyebrow">Micro</p>
+        <h2 class="product-dialog__title" id="micro-dialog-title">Micro</h2>
+        <button class="product-dialog__close" type="button" data-dialog-close aria-label="Close">
+          <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M5 5 19 19M19 5 5 19"/>
+          </svg>
+        </button>
+      </div>
+      <div class="product-dialog__visual">
+        <img class="product-dialog__image" src="./assets/product-micro.jpg" alt="Micro" width="800" height="1000">
+      </div>
+      <div class="product-dialog__body">
+        <dl class="product-dialog__facts">
+          <div class="product-dialog__fact">
+            <dt class="product-dialog__label">Size</dt>
+            <dd class="product-dialog__value">4–8 cm (thumb-sized)</dd>
+          </div>
+          <div class="product-dialog__fact">
+            <dt class="product-dialog__label">Audience</dt>
+            <dd class="product-dialog__value">keychains, merch, gifts up to ~$10</dd>
+          </div>
+          <div class="product-dialog__fact">
+            <dt class="product-dialog__label">Age</dt>
+            <dd class="product-dialog__value">6+ (the 4 cm variant is not for &lt;3 years, choking hazard)</dd>
+          </div>
+        </dl>
+        <p class="product-dialog__copy">Injection moulding. Steel mould, 8 cavities. ~45 s/cycle.</p>
+        <div class="product-dialog__footer">
+          <p class="product-dialog__note">Recycled cardboard, no polyethylene. Small-parcel courier, box 12×12×6 cm.</p>
+          <a class="product-dialog__cta" href="#collection" data-dialog-close>Explore the collection</a>
+        </div>
+      </div>
+    </div>
+  </dialog>
+
+  <dialog class="product-dialog" id="classic-dialog" aria-labelledby="classic-dialog-title">
+    <div class="product-dialog__panel">
+      <div class="product-dialog__head">
+        <p class="product-dialog__eyebrow">Classic</p>
+        <h2 class="product-dialog__title" id="classic-dialog-title">Classic</h2>
+        <button class="product-dialog__close" type="button" data-dialog-close aria-label="Close">
+          <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M5 5 19 19M19 5 5 19"/>
+          </svg>
+        </button>
+      </div>
+      <div class="product-dialog__visual">
+        <img class="product-dialog__image" src="./assets/product-classic.jpg" alt="Classic" width="800" height="1000">
+      </div>
+      <div class="product-dialog__body">
+        <dl class="product-dialog__facts">
+          <div class="product-dialog__fact">
+            <dt class="product-dialog__label">Size</dt>
+            <dd class="product-dialog__value">10–25 cm (cat-sized)</dd>
+          </div>
+          <div class="product-dialog__fact">
+            <dt class="product-dialog__label">Audience</dt>
+            <dd class="product-dialog__value">kids, bathroom, office</dd>
+          </div>
+          <div class="product-dialog__fact">
+            <dt class="product-dialog__label">Age</dt>
+            <dd class="product-dialog__value">3+</dd>
+          </div>
+        </dl>
+        <p class="product-dialog__copy">Compression moulding. Aluminium mould, 1–2 cavities. ~3 min/cycle.</p>
+        <div class="product-dialog__footer">
+          <p class="product-dialog__note">Cardboard + paper-pulp insert. Small-parcel courier, box 26×16×14 cm.</p>
+          <a class="product-dialog__cta" href="#collection" data-dialog-close>Explore the collection</a>
+        </div>
+      </div>
+    </div>
+  </dialog>
+
+  <dialog class="product-dialog" id="designer-dialog" aria-labelledby="designer-dialog-title">
+    <div class="product-dialog__panel">
+      <div class="product-dialog__head">
+        <p class="product-dialog__eyebrow">Designer</p>
+        <h2 class="product-dialog__title" id="designer-dialog-title">Designer</h2>
+        <button class="product-dialog__close" type="button" data-dialog-close aria-label="Close">
+          <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M5 5 19 19M19 5 5 19"/>
+          </svg>
+        </button>
+      </div>
+      <div class="product-dialog__visual">
+        <img class="product-dialog__image" src="./assets/product-designer.jpg" alt="Designer" width="800" height="1000">
+      </div>
+      <div class="product-dialog__body">
+        <dl class="product-dialog__facts">
+          <div class="product-dialog__fact">
+            <dt class="product-dialog__label">Size</dt>
+            <dd class="product-dialog__value">15–30 cm (cat-sized)</dd>
+          </div>
+          <div class="product-dialog__fact">
+            <dt class="product-dialog__label">Audience</dt>
+            <dd class="product-dialog__value">illustrator collabs, limited runs</dd>
+          </div>
+          <div class="product-dialog__fact">
+            <dt class="product-dialog__label">Age</dt>
+            <dd class="product-dialog__value">6+ (collector's object, not a toy)</dd>
+          </div>
+        </dl>
+        <p class="product-dialog__copy">Hand-casting in silicone rubber mould (for limited runs ≤300 units) or compression (for runs &gt;300). Silicone mould or aluminium. 1 cycle per day per mould.</p>
+        <div class="product-dialog__footer">
+          <p class="product-dialog__note">Cardboard with embossing + paper certificate. Small-parcel courier, box 32×22×18 cm.</p>
+          <a class="product-dialog__cta" href="#collection" data-dialog-close>Explore the collection</a>
+        </div>
+      </div>
+    </div>
+  </dialog>
+
+  <dialog class="product-dialog" id="mega-dialog" aria-labelledby="mega-dialog-title">
+    <div class="product-dialog__panel">
+      <div class="product-dialog__head">
+        <p class="product-dialog__eyebrow">Mega</p>
+        <h2 class="product-dialog__title" id="mega-dialog-title">Mega</h2>
+        <button class="product-dialog__close" type="button" data-dialog-close aria-label="Close">
+          <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M5 5 19 19M19 5 5 19"/>
+          </svg>
+        </button>
+      </div>
+      <div class="product-dialog__visual">
+        <img class="product-dialog__image" src="./assets/product-mega.jpg" alt="Mega" width="800" height="1000">
+      </div>
+      <div class="product-dialog__body">
+        <dl class="product-dialog__facts">
+          <div class="product-dialog__fact">
+            <dt class="product-dialog__label">Size</dt>
+            <dd class="product-dialog__value">50–120 cm (bear-sized)</dd>
+          </div>
+          <div class="product-dialog__fact">
+            <dt class="product-dialog__label">Audience</dt>
+            <dd class="product-dialog__value">photo objects, shop-window displays, statement gifts</dd>
+          </div>
+          <div class="product-dialog__fact">
+            <dt class="product-dialog__label">Age</dt>
+            <dd class="product-dialog__value">Not a toy. Decorative object.</dd>
+          </div>
+        </dl>
+        <p class="product-dialog__copy">Rotational moulding. Steel split mould, internal fibreglass reinforcing frame (for storage strength). ~2 h/cycle + 8 h cooling.</p>
+        <div class="product-dialog__footer">
+          <p class="product-dialog__note">Double-wall corrugated + foam fitment. Pallet delivery, courier visit required.</p>
+          <a class="product-dialog__cta" href="#collection" data-dialog-close>Explore the collection</a>
+        </div>
+      </div>
+    </div>
+  </dialog>
+
+  <dialog class="product-dialog" id="architect-dialog" aria-labelledby="architect-dialog-title">
+    <div class="product-dialog__panel">
+      <div class="product-dialog__head">
+        <p class="product-dialog__eyebrow">Architect</p>
+        <h2 class="product-dialog__title" id="architect-dialog-title">Architect</h2>
+        <button class="product-dialog__close" type="button" data-dialog-close aria-label="Close">
+          <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M5 5 19 19M19 5 5 19"/>
+          </svg>
+        </button>
+      </div>
+      <div class="product-dialog__visual">
+        <img class="product-dialog__image" src="./assets/product-architect.jpg" alt="Architect" width="800" height="1000">
+      </div>
+      <div class="product-dialog__body">
+        <dl class="product-dialog__facts">
+          <div class="product-dialog__fact">
+            <dt class="product-dialog__label">Size</dt>
+            <dd class="product-dialog__value">1.5–3 m (bear-sized)</dd>
+          </div>
+          <div class="product-dialog__fact">
+            <dt class="product-dialog__label">Audience</dt>
+            <dd class="product-dialog__value">installations, events, weddings, branded spaces</dd>
+          </div>
+          <div class="product-dialog__fact">
+            <dt class="product-dialog__label">Age</dt>
+            <dd class="product-dialog__value">Installation. Mounting by certified crew only.</dd>
+          </div>
+          <div class="product-dialog__fact">
+            <dt class="product-dialog__label">Price</dt>
+            <dd class="product-dialog__value">price on request / spec sheet</dd>
+          </div>
+        </dl>
+        <p class="product-dialog__copy">Sculptural casting against a master. CNC-milled polystyrene master, fibreglass mould, internal steel frame with stiffening ribs. 2–4 weeks per duck.</p>
+        <div class="product-dialog__footer">
+          <p class="product-dialog__note">Wooden crate + climate control. Specialised transport, on-site installation.</p>
+          <a class="product-dialog__cta" href="#collection" data-dialog-close>Explore the collection</a>
+        </div>
+      </div>
+    </div>
+  </dialog>
+</body>
+</html>

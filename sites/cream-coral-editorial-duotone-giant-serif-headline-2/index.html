@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quacktory — Serious ducks for un-serious people</title>
+  <meta name="description" content="We make ducks you don't want to drop in the water. From a 4 cm keychain to a 3 m installation. Vulcanised rubber, hand-painted eyes.">
+  <meta property="og:title" content="Quacktory — Serious ducks for un-serious people">
+  <meta property="og:description" content="We make ducks you don't want to drop in the water. From a 4 cm keychain to a 3 m installation.">
+  <meta property="og:url" content="https://quacktory.space/">
+  <meta property="og:type" content="website">
+  <link rel="canonical" href="https://quacktory.space/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Inter:wght@300;400;500;600&display=swap">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main id="top">
+    <!-- HERO -->
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-field" aria-hidden="true">
+        <div class="field-green"></div>
+        <div class="field-orange"></div>
+        <div class="field-haze"></div>
+        <div class="field-grain"></div>
+      </div>
+      <div class="hero-frame">
+        <h1 id="hero-title" class="hero-title">
+          <span class="title-line line-sans">We make ducks</span>
+          <span class="title-line line-sans">for shelves.</span>
+          <span class="title-line line-italic">for pockets. for lobbies. for camera.</span>
+        </h1>
+        <p class="hero-cred">Serious ducks for un-serious people.</p>
+      </div>
+    </section>
+
+    <!-- SIZE LADDER -->
+    <section id="ladder" class="ladder" aria-labelledby="ladder-title">
+      <header class="section-head">
+        <p class="section-eyebrow">§ 01 — The ladder</p>
+        <h2 id="ladder-title" class="section-title">One duck. <em>Five sizes.</em> Same silhouette.</h2>
+        <p class="section-lede">The body contour, the beak, the feet and the eye position stay the same. Proportions do not scale linearly — the Architect reads as the same duck as the Micro, not as a slightly larger one.</p>
+      </header>
+
+      <ol class="sku-row" role="list">
+        <li class="sku sku-micro" data-sku="micro">
+          <button class="sku-button" type="button" data-modal-open="sku-modal" data-sku-id="micro" aria-haspopup="dialog" aria-controls="sku-modal">
+            <span class="sku-frame">
+              <span class="sku-num">01</span>
+              <img src="./assets/product-micro.jpg" alt="Micro duck, 4 to 8 centimetres, keychain-sized" loading="lazy">
+              <span class="sku-glow" aria-hidden="true"></span>
+              <span class="sku-hint" aria-hidden="true">Details →</span>
+            </span>
+            <span class="sku-meta">
+              <span class="sku-line">Micro</span>
+              <span class="sku-size">4 — 8 cm</span>
+              <span class="sku-comp">thumb-sized</span>
+            </span>
+            <span class="sku-price">
+              <span class="price-figure">from $8</span>
+              <span class="price-unit">per unit · incl. shipping</span>
+              <span class="price-lead">Today</span>
+            </span>
+            <span class="sku-audience">Impulse · gifts · merch</span>
+          </button>
+        </li>
+
+        <li class="sku sku-classic" data-sku="classic">
+          <button class="sku-button" type="button" data-modal-open="sku-modal" data-sku-id="classic" aria-haspopup="dialog" aria-controls="sku-modal">
+            <span class="sku-frame">
+              <span class="sku-num">02</span>
+              <img src="./assets/product-classic.jpg" alt="Classic duck, 10 to 25 centimetres, bathroom duck" loading="lazy">
+              <span class="sku-glow" aria-hidden="true"></span>
+              <span class="sku-hint" aria-hidden="true">Details →</span>
+            </span>
+            <span class="sku-meta">
+              <span class="sku-line">Classic</span>
+              <span class="sku-size">10 — 25 cm</span>
+              <span class="sku-comp">cat-sized</span>
+            </span>
+            <span class="sku-price">
+              <span class="price-figure">from $24</span>
+              <span class="price-unit">per unit · incl. shipping</span>
+              <span class="price-lead">Today — 3 weeks</span>
+            </span>
+            <span class="sku-audience">Parent · kids · office</span>
+          </button>
+        </li>
+
+        <li class="sku sku-designer" data-sku="designer">
+          <button class="sku-button" type="button" data-modal-open="sku-modal" data-sku-id="designer" aria-haspopup="dialog" aria-controls="sku-modal">
+            <span class="sku-frame">
+              <span class="sku-num">03</span>
+              <img src="./assets/product-designer.jpg" alt="Designer duck, 15 to 30 centimetres, illustrator collab" loading="lazy">
+              <span class="sku-glow" aria-hidden="true"></span>
+              <span class="sku-hint" aria-hidden="true">Details →</span>
+            </span>
+            <span class="sku-meta">
+              <span class="sku-line">Designer</span>
+              <span class="sku-size">15 — 30 cm</span>
+              <span class="sku-comp">cat-sized</span>
+            </span>
+            <span class="sku-price">
+              <span class="price-figure">from $58</span>
+              <span class="price-unit">per unit · incl. shipping</span>
+              <span class="price-lead">6 weeks</span>
+            </span>
+            <span class="sku-audience">Collector · illustrator collabs · limited runs</span>
+          </button>
+        </li>
+
+        <li class="sku sku-mega" data-sku="mega">
+          <button class="sku-button" type="button" data-modal-open="sku-modal" data-sku-id="mega" aria-haspopup="dialog" aria-controls="sku-modal">
+            <span class="sku-frame">
+              <span class="sku-num">04</span>
+              <img src="./assets/product-mega.jpg" alt="Mega duck, 50 to 120 centimetres, statement object" loading="lazy">
+              <span class="sku-glow" aria-hidden="true"></span>
+              <span class="sku-hint" aria-hidden="true">Details →</span>
+            </span>
+            <span class="sku-meta">
+              <span class="sku-line">Mega</span>
+              <span class="sku-size">50 — 120 cm</span>
+              <span class="sku-comp">child-sized</span>
+            </span>
+            <span class="sku-price">
+              <span class="price-figure">from $320</span>
+              <span class="price-unit">per unit · incl. shipping</span>
+              <span class="price-lead">6 weeks</span>
+            </span>
+            <span class="sku-audience">Shop window · statement gift · photo object</span>
+          </button>
+        </li>
+
+        <li class="sku sku-architect" data-sku="architect">
+          <button class="sku-button" type="button" data-modal-open="sku-modal" data-sku-id="architect" aria-haspopup="dialog" aria-controls="sku-modal">
+            <span class="sku-frame">
+              <span class="sku-num">05</span>
+              <img src="./assets/product-architect.jpg" alt="Architect duck, 1.5 to 3 metres, installation" loading="lazy">
+              <span class="sku-glow" aria-hidden="true"></span>
+              <span class="sku-hint" aria-hidden="true">Details →</span>
+            </span>
+            <span class="sku-meta">
+              <span class="sku-line">Architect</span>
+              <span class="sku-size">1.5 — 3 m</span>
+              <span class="sku-comp">bear-sized</span>
+            </span>
+            <span class="sku-price">
+              <span class="price-figure">price on request</span>
+              <span class="price-unit">spec sheet · 12 weeks</span>
+              <span class="price-lead">On-site survey</span>
+            </span>
+            <span class="sku-audience">Installation · event · wedding · branded space</span>
+          </button>
+        </li>
+      </ol>
+
+      <p class="ladder-foot">Click any card for material, moulding, packaging, lead time, compliance.</p>
+    </section>
+
+    <!-- HOW WE MAKE IT -->
+    <section id="made" class="made" aria-labelledby="made-title">
+      <header class="section-head section-head-left">
+        <p class="section-eyebrow">§ 02 — How we make it</p>
+        <h2 id="made-title" class="section-title">Single-piece vulcanised rubber. <em>No plastic inserts, no glued seams.</em></h2>
+        <p class="section-lede">The fact base, not the marketing. Every duck is moulded as one piece. Eyes are painted, not inserted. Pigment goes into the mass before moulding — body-through, never surface-paint.</p>
+      </header>
+      <div class="made-grid">
+        <article class="made-card">
+          <p class="made-num">2.1</p>
+          <h3>Material</h3>
+          <p>Food-grade silicone compound for Micro and Classic. Natural rubber with EPDM additives for Designer, Mega and Architect. Pigment is applied post-vulcanisation by hand, with food-grade silicone dye that resists UV and water.</p>
+        </article>
+        <article class="made-card">
+          <p class="made-num">2.2</p>
+          <h3>Eyes</h3>
+          <p>Painted, not inserted. The same base mould relief across every SKU — black pupil, white sclera. No plastic or vinyl stickers on the body. Decoration of the eyes is allowed only when the design calls for it. Here it does not.</p>
+        </article>
+        <article class="made-card">
+          <p class="made-num">2.3</p>
+          <h3>Quality control</h3>
+          <p>Five checks on every duck: visual inspection, geometry, drop test from 1 m onto concrete, smell, gravimetry within ±3 % of reference. Architect receives ultrasonic inspection of the welded frame and an on-site assembly photo protocol.</p>
+        </article>
+        <article class="made-card">
+          <p class="made-num">2.4</p>
+          <h3>Compliance</h3>
+          <p>EN 71-3, REACH. No phthalates, no bisphenol A. Indoor use only. −20 °C to +60 °C. Above +70 °C — deformation. Below −25 °C — embrittlement. Wash with warm water and mild soap. No abrasives, no alcohol, no bleach.</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- B2B / CUSTOM -->
+    <section id="b2b" class="b2b" aria-labelledby="b2b-title">
+      <header class="section-head">
+        <p class="section-eyebrow">§ 03 — Custom &amp; B2B</p>
+        <h2 id="b2b-title" class="section-title">Pick a colour from the menu. <em>We tint the body, not the surface.</em></h2>
+        <p class="section-lede">Custom is picking from a branded palette of 12 Pantone-equivalents. Pigment goes into the mass before moulding — body-through, not painted on. Lead time and price stay predictable.</p>
+      </header>
+
+      <div class="b2b-content">
+        <div class="palette">
+          <p class="palette-label">TPM <span>·</span> Quacktory Pigment Menu</p>
+          <ul class="swatches" role="list">
+            <li><span class="swatch-chip swatch-teal-deep"></span><span class="swatch-name">Deep Teal</span></li>
+            <li><span class="swatch-chip swatch-rust"></span><span class="swatch-name">Rust</span></li>
+            <li><span class="swatch-chip swatch-olive"></span><span class="swatch-name">Olive Haze</span></li>
+            <li><span class="swatch-chip swatch-cream"></span><span class="swatch-name">Cream</span></li>
+            <li><span class="swatch-chip swatch-forest"></span><span class="swatch-name">Forest</span></li>
+            <li><span class="swatch-chip swatch-brick"></span><span class="swatch-name">Brick</span></li>
+            <li><span class="swatch-chip swatch-sand"></span><span class="swatch-name">Sand</span></li>
+            <li><span class="swatch-chip swatch-slate"></span><span class="swatch-name">Slate</span></li>
+            <li><span class="swatch-chip swatch-terracotta"></span><span class="swatch-name">Terracotta</span></li>
+            <li><span class="swatch-chip swatch-tobacco"></span><span class="swatch-name">Tobacco</span></li>
+            <li><span class="swatch-chip swatch-camel"></span><span class="swatch-name">Camel</span></li>
+            <li><span class="swatch-chip swatch-carbon"></span><span class="swatch-name">Carbon</span></li>
+          </ul>
+          <p class="palette-foot">Body-through pigment. No paint on top, no stickers, no surface coatings.</p>
+        </div>
+
+        <aside class="b2b-facts">
+          <div class="b2b-facts-block">
+            <h3>If the colour is not on the menu</h3>
+            <p>Fully arbitrary third-party Pantone is a separate conversation as a new formula development. Separate line in the quote, +2 weeks to the lead time, +15 % to the price.</p>
+          </div>
+          <div class="b2b-facts-block">
+            <h3>Lead times</h3>
+            <ul class="lead-list">
+              <li><span>Micro / Classic</span><span>3 weeks</span></li>
+              <li><span>Designer</span><span>6 weeks</span></li>
+              <li><span>Mega</span><span>6 weeks</span></li>
+              <li><span>Architect</span><span>12 weeks</span></li>
+            </ul>
+          </div>
+          <div class="b2b-facts-block">
+            <h3>Custom geometry</h3>
+            <p>A new duck shape, a brand mascot figure — separate project, master model, discussed individually. We are a serious studio for un-serious people.</p>
+          </div>
+          <a href="mailto:hello@quacktory.space?subject=Quacktory%20B2B%20enquiry" class="b2b-cta">Request a quote →</a>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer" role="contentinfo">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <p class="footer-wordmark">
+          <span class="wordmark-dot" aria-hidden="true"></span>
+          Quacktory
+        </p>
+        <p class="footer-credo">Serious ducks for un-serious people.</p>
+        <p class="footer-url">quacktory.space</p>
+      </div>
+      <div class="footer-cols">
+        <div>
+          <p class="col-title">Catalogue</p>
+          <ul>
+            <li><a href="#ladder">Micro · 4–8 cm</a></li>
+            <li><a href="#ladder">Classic · 10–25 cm</a></li>
+            <li><a href="#ladder">Designer · 15–30 cm</a></li>
+            <li><a href="#ladder">Mega · 50–120 cm</a></li>
+            <li><a href="#ladder">Architect · 1.5–3 m</a></li>
+          </ul>
+        </div>
+        <div>
+          <p class="col-title">Custom &amp; B2B</p>
+          <ul>
+            <li><a href="#b2b">Pigment menu</a></li>
+            <li><a href="mailto:hello@quacktory.space?subject=Wholesale">Wholesale</a></li>
+            <li><a href="mailto:hello@quacktory.space?subject=Installations">Installations</a></li>
+            <li><a href="mailto:hello@quacktory.space?subject=Press">Press</a></li>
+          </ul>
+        </div>
+        <div>
+          <p class="col-title">Spec &amp; care</p>
+          <ul>
+            <li><a href="#made">Material &amp; QC</a></li>
+            <li><a href="#made">Compliance</a></li>
+            <li><a href="mailto:hello@quacktory.space?subject=Care%20card">Care card PDF</a></li>
+            <li><a href="mailto:hello@quacktory.space?subject=Spec%20sheet">Spec sheet</a></li>
+          </ul>
+        </div>
+        <div>
+          <p class="col-title">Follow</p>
+          <ul>
+            <li><a href="https://instagram.com/quacktory" rel="me noopener">Instagram</a></li>
+            <li><a href="https://are.na/quacktory" rel="me noopener">Are.na</a></li>
+            <li><a href="mailto:hello@quacktory.space">hello@quacktory.space</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© Quacktory — vulcanised rubber, hand-painted eyes. Indoor use only.</p>
+      <p>EN 71-3 · REACH · No phthalates · No bisphenol A</p>
+    </div>
+  </footer>
+
+  <!-- MODAL -->
+  <div class="modal" id="sku-modal" hidden role="dialog" aria-modal="true" aria-labelledby="sku-modal-title">
+    <div class="modal-overlay" data-modal-close></div>
+    <div class="modal-card" role="document">
+      <button class="modal-close" type="button" data-modal-close aria-label="Close">
+        <span aria-hidden="true">×</span>
+      </button>
+      <p class="modal-eyebrow"><span class="modal-num"></span> · <span class="modal-comp"></span></p>
+      <h3 class="modal-title" id="sku-modal-title"></h3>
+      <p class="modal-size"></p>
+      <div class="modal-specs">
+        <div><span>Price</span><strong class="modal-price"></strong><em class="modal-unit"></em></div>
+        <div><span>Lead time</span><strong class="modal-lead"></strong></div>
+        <div><span>Audience</span><strong class="modal-audience"></strong></div>
+      </div>
+      <p class="modal-note">Material, moulding, packaging, compliance, and shipping are listed in § 02 — How we make it. Click anywhere outside this card, press <kbd>Esc</kbd>, or hit × to close.</p>
+    </div>
+  </div>
+
+  <script src="./main.js" defer></script>
+</body>
+</html>

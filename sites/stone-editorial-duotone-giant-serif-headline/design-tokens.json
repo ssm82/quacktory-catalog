@@ -1,0 +1,20 @@
+{
+  "slug": "akaru-2",
+  "palette": {
+    "bg": "#D9D4C5",
+    "fg": "#0A0A0A",
+    "accent": "#B58A98",
+    "muted": "#7C8B6F",
+    "ink": "#0A0A0A",
+    "surface": "#C5CDDB"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "Inter",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "View the work"
+}

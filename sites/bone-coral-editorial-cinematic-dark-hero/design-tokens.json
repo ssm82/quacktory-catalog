@@ -1,0 +1,20 @@
+{
+  "slug": "everest",
+  "palette": {
+    "bg": "#0A0A0A",
+    "fg": "#FFFFFF",
+    "accent": "#E83A2E",
+    "muted": "#2A2A2A",
+    "ink": "#FFFFFF",
+    "surface": "#1A1A1A"
+  },
+  "fonts": {
+    "display": "Inter",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Start a project"
+}

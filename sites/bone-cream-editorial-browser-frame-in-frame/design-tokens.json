@@ -1,0 +1,20 @@
+{
+  "slug": "tracing-art",
+  "palette": {
+    "bg": "#E6E0D8",
+    "fg": "#0E0E0E",
+    "accent": "#A89580",
+    "muted": "#7A7268",
+    "ink": "#1A1A1A",
+    "surface": "#FFFFFF"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Playfair Display",
+    "mono": ""
+  },
+  "hero_pattern": "B",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Explore the archive"
+}

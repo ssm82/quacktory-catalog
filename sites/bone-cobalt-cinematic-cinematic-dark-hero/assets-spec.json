@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck silhouette suspended in a dark cinematic void, deep IBM-blue lacquered body with mirror-polish finish catching a single hard key light from upper left, producing a sharp specular highlight along the curve of the head and back. Rim light traces the right edge in pale electric blue, separating the form from the surrounding darkness. Background is a seamless dark studio backdrop in #0A0E14 near-black tone with subtle blue undertone, NOT warm amber finish, NOT tinted beyond palette, layered with a faint volumetric particle haze suggesting deep cosmic space. The duck is positioned slightly right of center at three-quarter low angle, scale monumental, plain oval pupils with no decorative glint. Surface reflections show a gradient from saturated #0F62FE blue into near-black shadow on the underside. Cinematic brand-film title-card mood, premium and quiet.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Product shot of a small classic rubber duck keychain, 4–8 cm scale, deep saturated IBM-blue lacquered resin finish, seamless dark studio backdrop in #0A0E14 near-black tone with subtle blue undertone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated 30° angle, identical classic duck silhouette to other SKUs in the line. Cinematic single hard key light from upper left carving a sharp specular highlight along the head curve and shoulder, cool rim light defining the right edge in pale electric blue. Plain oval pupils, no decorative glint. Small polished metal keychain loop visible at the top of the head, chrome sub-highlight catching the key. Surface is mirror-polished resin, three-point lighting with very soft cool fill. No props, no platform, no background elements. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Product shot of the classic 10–25 cm rubber duck workhorse SKU, the most-photographed item in the line, deep saturated IBM-blue lacquered resin finish, seamless dark studio backdrop in #0A0E14 near-black tone with subtle blue undertone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated 30° angle, identical classic duck silhouette to other SKUs. Cinematic single hard key light from upper left producing a crisp specular highlight running along the crown, head, and back of the duck, tight cool rim light defining the right silhouette in pale electric blue. Plain oval pupils, no decorative glint. Surface is glossy lacquered, almost wet-looking, reflecting a faint blue gradient and the cool fill. Three-point lighting with soft cool fill, no props, no platform, premium brand-film feel. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Product shot of a 15–30 cm collaboration-edition classic rubber duck, deep saturated IBM-blue lacquered finish with subtle matte-on-gloss contrast treatment, seamless dark studio backdrop in #0A0E14 near-black tone with subtle blue undertone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated 30° angle, identical classic duck silhouette to other SKUs. Cinematic hard key light from upper left carving a clean specular highlight along the head and back, sharp pale rim light along the right edge in pale electric blue. Plain oval pupils, no decorative glint. Designer edition distinguished by a fine engraved monogram line on the chest catching the key light, plus a thin satin band around the neck. Glossy lacquered surface, three-point lighting with cool fill, no props, no platform. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Product shot of a 50–120 cm photo-object scale classic rubber duck, monumental in presence, deep saturated IBM-blue lacquered resin finish, seamless dark studio backdrop in #0A0E14 near-black tone with subtle blue undertone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated 30° angle, identical classic duck silhouette to other SKUs. Cinematic single hard key light from upper left producing a dramatic specular highlight that reads as a starburst across the crown of the head, tight cool rim light defining the right silhouette in pale electric blue. Plain oval pupils, no decorative glint. Massive glossy lacquered surface, near-mirror polish, the kind of object that could anchor a brand film still. Deep saturated #0F62FE blue body fading into near-black shadow under the belly, three-point lighting with cool fill, no props, no platform. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Product shot of a 1.5–3 m statement-installation classic rubber duck, monumental scale, deep saturated IBM-blue lacquered resin finish, seamless dark studio backdrop in #0A0E14 near-black tone with subtle blue undertone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated 30° angle to suggest the immensity of the object, identical classic duck silhouette to other SKUs. Cinematic single hard key light from upper left carving a long specular highlight down the full body length from crown to tail, sharp pale rim light tracing the right edge to separate the form from the void. Plain oval pupils, no decorative glint. Surface is mirror-polished lacquered resin, architectural in presence, occupying the frame as a sculptural brand object. Deep #0F62FE blue body with near-black belly shadow, three-point lighting with cool fill, no props, no platform, no human reference. Aspect 1:1.",
+    "aspect_ratio": "1:1"
+  }
+]

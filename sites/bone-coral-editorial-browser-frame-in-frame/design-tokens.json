@@ -1,0 +1,23 @@
+{
+  "slug": "navigate",
+  "palette": {
+    "bg": "#FF6A33",
+    "fg": "#FFFFFF",
+    "accent": "#3DD66B",
+    "muted": "#FFC21A",
+    "ink": "#111111",
+    "surface": "#0E0E0E",
+    "tile_violet": "#6B5BFF",
+    "tile_green": "#0FA84A",
+    "tile_blue": "#3A86FF"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "B",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Sign up"
+}

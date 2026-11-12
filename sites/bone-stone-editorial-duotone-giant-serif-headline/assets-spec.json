@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck positioned as the singular centrepiece of a 16:9 editorial spread, hero pattern A. The duck has a matte porcelain finish in a soft warm graphite tone — a muted slate, no warm cast, no amber bias — and stands upright with the brand-locked silhouette: rounded teardrop body, small curled tail, flat webbed feet forward, short triangular beak, plain oval pupils with no sparkle, no heart, no star, no pixel, no decorative glint of any kind. It rests on a seamless studio backdrop in a cool muted blue-gray tone (#C9D8DD) finished with a subtle warm paper grain. Lighting is editorial: soft directional window light from camera left, gentle fill from right, faint contact shadow grounding the form, no hard rim. A small rainbow-stripe editorial sticker sits on the duck's right flank like a magazine badge. Camera is a low three-quarter angle, the duck towering into frame, horizon barely visible. Mood: matte, quiet, magazine cover. Generous negative space above and to the right for Archivo Black all-caps headline typography. The duck reads as both typographic object and quiet sculpture.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A 4–8 cm keychain-scale classic rubber duck photographed front-facing, slightly elevated at 30°, perfectly centred in a 1:1 square. Silhouette is identical to the brand hero across all SKUs: rounded teardrop body, small curled tail, flat webbed feet, short triangular beak, plain oval pupils — no sparkle, no heart, no star, no pixel, no decorative glint. Surface is matte porcelain in a soft warm graphite tone, a muted slate, no warm cast, no amber bias. Seamless backdrop in a cool muted blue-gray (#C9D8DD) with a barely visible warm paper texture. Soft diffused three-point studio lighting: large soft key from upper left, gentle fill from lower right, low rim from behind. A tiny brass split-ring clasp is integrated at the crown of the head as a product detail. No props, no surface lines, no horizon. Editorial product photography, restrained, museum-quiet, all attention on the small duck figure.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "A 10–25 cm classic rubber duck, the workhorse SKU, photographed front-facing, slightly elevated at 30°, perfectly centred in a 1:1 square. The silhouette is locked to the brand standard: plump rounded teardrop body, curled tail, flat webbed feet, short triangular beak, plain oval pupils with no sparkle, no heart, no star, no pixel, no decorative glint. The duck wears a matte porcelain finish in a soft warm graphite tone — a muted slate-grey, free of any warm cast or amber bias. Seamless studio backdrop in a cool muted blue-gray tone (#C9D8DD) with a subtle warm paper grain. Three-point soft diffused studio lighting — large softbox key from upper left, broad fill from below right, low rim from behind. Faint natural contact shadow. Editorial product stillness, typographic-object framing, no props, no surface change, no horizon line.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A 15–30 cm designer collaboration classic rubber duck, front-facing, slightly elevated at 30°, centred in a 1:1 square. The silhouette remains brand-locked: rounded teardrop body, small curled tail, flat webbed feet, short triangular beak, plain oval pupils — no sparkle, no heart, no star, no pixel, no decorative glint. The duck carries a soft matte porcelain finish in a warm graphite tone, treated with a faint hand-illustrated hairline line-art pattern traced along the body seam and a single muted ink-toned (#0E1014) graphic mark on the flank, the per-direction designer treatment. Seamless cool blue-gray backdrop (#C9D8DD) with warm paper texture. Three-point soft diffused studio lighting, low rim, no hard shadow. No horizon, no surface change, no props. Editorial collaboration framing, restrained, museum-quiet, the duck as a typographic object on warm paper.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A 50–120 cm mega-scale classic rubber duck presented as a photo-object, front-facing, slightly elevated at 30°, filling a 1:1 square. The silhouette is identical to every other SKU in the range: rounded teardrop body, curled tail, flat webbed feet, short triangular beak, plain oval pupils — no sparkle, no heart, no star, no pixel, no decorative glint. Matte porcelain surface in a warm graphite tone, no warm cast, no amber bias. Seamless backdrop in cool muted blue-gray (#C9D8DD) with warm paper grain. Three-point soft diffused studio lighting, the longer soft shadow deliberately emphasising the larger scale. A subtle hand-stamped maker's mark in deep ink (#0E1014) sits at the base. No props, no horizon, no other objects — just the monolithic form and quiet negative space. Editorial photo-object mood, restrained and monumental.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A 1.5–3 m architect-scale classic rubber duck as a statement installation piece, photographed front-facing, slightly elevated at 30°, framed tight in a 1:1 square to emphasise monumental scale. Silhouette is identical to the rest of the range: rounded teardrop body, small curled tail, flat webbed feet, short triangular beak, plain oval pupils, no sparkle, no heart, no star, no pixel, no decorative glint. Matte porcelain finish in a warm graphite tone, no warm cast, no amber bias. The duck stands on a seamless cool muted blue-gray studio floor (#C9D8DD) that curves up into a soft cyclorama, warm paper texture throughout. Three-point soft diffused studio lighting — broad key, gentle fill, low rim. A long soft contact shadow grounds the form. Editorial installation photography, museum-catalog stillness, no people, no props, no horizon line.",
+    "aspect_ratio": "1:1"
+  }
+]

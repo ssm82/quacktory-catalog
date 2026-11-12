@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quacktory × Tune In</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<a class="skip" href="#taxonomy">Skip to lineup</a>
+
+<header class="bar" aria-label="Top">
+  <span class="bar__brand">QUACKTORY</span>
+  <span class="bar__meta">04 · 08 · 26</span>
+</header>
+
+<main>
+
+<!-- ====== HERO ====== -->
+<section class="hero" aria-label="Hero">
+
+  <div class="burst" aria-hidden="true">
+    <span></span><span></span><span></span><span></span><span></span>
+    <span></span><span></span><span></span><span></span><span></span>
+  </div>
+
+  <p class="sparkles" aria-hidden="true">
+    <span>✦</span><span>✧</span><span>✦</span><span>✦</span><span>✧</span><span>✦</span>
+  </p>
+
+  <p class="lockup"><span>QUACKTORY</span> · RUBBER COMPANIES</p>
+
+  <h1 class="display" aria-label="Serious ducks for un-serious people">
+    <span class="display__line">SERIOUS</span>
+    <span class="display__line">DUCKS,</span>
+    <span class="display__line display__line--off">YOU'LL WANT TO…</span>
+  </h1>
+
+  <p class="sub">COLLECTION · FROM 4 CM TO 3 M</p>
+
+  <!-- floating sticker chips -->
+  <button class="chip chip--ticket" data-sku="micro" type="button" aria-label="Micro">
+    <span class="chip__num">01</span>
+    <span class="chip__name">MICRO</span>
+    <span class="chip__size">4–8 cm</span>
+    <span class="chip__price">from $7</span>
+  </button>
+  <button class="chip chip--tarot" data-sku="designer" type="button" aria-label="Designer">
+    <span class="chip__num">III</span>
+    <span class="chip__name">DESIGNER</span>
+    <span class="chip__size">15–30 cm</span>
+    <span class="chip__price">limited</span>
+  </button>
+  <button class="chip chip--ticket chip--bot" data-sku="classic" type="button" aria-label="Classic">
+    <span class="chip__num">02</span>
+    <span class="chip__name">CLASSIC</span>
+    <span class="chip__size">10–25 cm</span>
+    <span class="chip__price">3+</span>
+  </button>
+  <button class="chip chip--tarot chip--bot chip--r" data-sku="architect" type="button" aria-label="Architect">
+    <span class="chip__num">V</span>
+    <span class="chip__name">ARCHITECT</span>
+    <span class="chip__size">1.5–3 m</span>
+    <span class="chip__price">contract</span>
+  </button>
+
+  <p class="watermark" aria-hidden="true">COLLECTION</p>
+
+  <button class="orb" type="button" id="playpause" aria-pressed="false" aria-label="Pause">
+    <span class="orb__icon" aria-hidden="true"></span>
+    <span class="orb__sub">PAUSE</span>
+  </button>
+
+  <p class="scroll-cue">↓ SCROLL TO OPEN</p>
+</section>
+
+<!-- ====== TAXONOMY ====== -->
+<section class="tax" id="taxonomy" aria-label="Lineup">
+
+  <header class="tax__head">
+    <p class="kicker">№ 01 — FIVE CARDS</p>
+    <h2 class="tax__title">LINEUP <span>×</span> AS A DECK</h2>
+    <p class="tax__hint">Tap a card — the duck's passport opens.</p>
+  </header>
+
+  <ul class="tax__list">
+    <li class="card" data-sku="micro">
+      <button class="card__btn" type="button">
+        <span class="card__n">I</span>
+        <span class="card__suit">★</span>
+        <h3 class="card__name">MICRO</h3>
+        <p class="card__size">4–8 cm</p>
+        <p class="card__hint">thumb-sized · from $7 · 6+ · 3 weeks</p>
+      </button>
+    </li>
+    <li class="card" data-sku="classic">
+      <button class="card__btn" type="button">
+        <span class="card__n">II</span>
+        <span class="card__suit">✦</span>
+        <h3 class="card__name">CLASSIC</h3>
+        <p class="card__size">10–25 cm</p>
+        <p class="card__hint">cat-sized · 3+ · 3 weeks</p>
+      </button>
+    </li>
+    <li class="card" data-sku="designer">
+      <button class="card__btn" type="button">
+        <span class="card__n">III</span>
+        <span class="card__suit">✺</span>
+        <h3 class="card__name">DESIGNER</h3>
+        <p class="card__size">15–30 cm</p>
+        <p class="card__hint">cat-sized, limited · 6+ · 6 weeks</p>
+      </button>
+    </li>
+    <li class="card" data-sku="mega">
+      <button class="card__btn" type="button">
+        <span class="card__n">IV</span>
+        <span class="card__suit">☼</span>
+        <h3 class="card__name">MEGA</h3>
+        <p class="card__size">50–120 cm</p>
+        <p class="card__hint">child-sized · premium · 6 weeks</p>
+      </button>
+    </li>
+    <li class="card" data-sku="architect">
+      <button class="card__btn" type="button">
+        <span class="card__n">V</span>
+        <span class="card__suit">✶</span>
+        <h3 class="card__name">ARCHITECT</h3>
+        <p class="card__size">1.5–3 m</p>
+        <p class="card__hint">bear-sized · contract · 12 weeks · install</p>
+      </button>
+    </li>
+  </ul>
+</section>
+
+<!-- ====== PRODUCTION ====== -->
+<section class="prod" id="production" aria-label="Production">
+  <header class="prod__head">
+    <p class="kicker">№ 02 — FIVE RULES</p>
+    <h2 class="prod__title">HOW WE <span>×</span> MAKE DUCKS</h2>
+  </header>
+  <ol class="prod__list">
+    <li>
+      <span class="prod__n">01</span>
+      <h3>VULCANISATION</h3>
+      <p>Single-piece moulding of vulcanised rubber. No plastic, no metal inside, no glued seams.</p>
+    </li>
+    <li>
+      <span class="prod__n">02</span>
+      <h3>PIGMENT IN THE MASS</h3>
+      <p>Twelve TPM colours from the Quacktory Pigment Menu. Fastness and lead times stay predictable. A custom Pantone adds +2 weeks and +15%.</p>
+    </li>
+    <li>
+      <span class="prod__n">03</span>
+      <h3>5 CHECKS</h3>
+      <p>Visual inspection, geometry ±2%, 5 drops × 1 m, smell test, gravimetric ±3%.</p>
+    </li>
+    <li>
+      <span class="prod__n">04</span>
+      <h3>CERT</h3>
+      <p>GOST 25779-83 · EN 71-3 · REACH. Phthalate-free and BPA-free. Indoor use only. −20 °C … +60 °C.</p>
+    </li>
+    <li>
+      <span class="prod__n">05</span>
+      <h3>AGE</h3>
+      <p>Micro 4 cm — "6+, not for children under 3". Classic — "3+". Designer — "6+, collectible". Mega — art object. Architect — crew-installed.</p>
+    </li>
+  </ol>
+</section>
+
+<!-- ====== B2B ====== -->
+<section class="b2b" id="b2b" aria-label="Custom and B2B">
+  <header class="b2b__head">
+    <p class="kicker">№ 03 — CONTRACT</p>
+    <h2 class="b2b__title">CUSTOM <span>×</span> IS A PALETTE</h2>
+    <p class="b2b__lede">
+      Segment D gets twelve signature TPM colours. Pigment goes into the mass before
+      moulding. A fully custom Pantone is quoted separately. Custom geometry is its own project.
+    </p>
+  </header>
+  <div class="b2b__rows">
+    <div><span>MICRO / CLASSIC</span><b>3 WEEKS</b></div>
+    <div><span>DESIGNER</span><b>6 WEEKS</b></div>
+    <div><span>MEGA</span><b>6 WEEKS</b></div>
+    <div><span>ARCHITECT</span><b>12 WEEKS</b></div>
+  </div>
+  <form class="b2b__form" onsubmit="return false" aria-label="Request a quote">
+    <label>NAME <input type="text" placeholder="What should we call you?"></label>
+    <label>BRAND <input type="text"></label>
+    <label>LINEUP <select>
+      <option>MICRO</option><option>CLASSIC</option><option>DESIGNER</option><option>MEGA</option><option>ARCHITECT</option>
+    </select></label>
+    <button type="submit">REQUEST A QUOTE</button>
+  </form>
+</section>
+
+</main>
+
+<footer class="foot" aria-label="Footer">
+  <div class="foot__row">
+    <span>QUACKTORY</span><span>·</span><span>04 / 08 / 26</span><span>·</span><span>№ 132</span>
+  </div>
+  <div class="foot__grid">
+    <div><p class="foot__h">CONTACT</p><p>hello@quacktory.space</p></div>
+    <div><p class="foot__h">SOCIAL</p><p>Instagram · Telegram · VK</p></div>
+    <div><p class="foot__h">PAYMENT</p><p>Cards · Bank transfer for B2B</p></div>
+    <div><p class="foot__h">LEGAL</p><p>Sole proprietorship Serious Ducks · Brand DNA v2.0</p></div>
+  </div>
+</footer>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+  <div class="modal__overlay" data-close></div>
+  <article class="modal__card">
+    <button class="modal__close" type="button" data-close aria-label="Close">✕</button>
+    <p class="modal__eyebrow">DUCK PASSPORT</p>
+    <h3 class="modal__title" id="modal-title">MICRO</h3>
+    <p class="modal__size" id="modal-size"></p>
+    <p class="modal__body" id="modal-body"></p>
+    <dl class="modal__spec" id="modal-spec"></dl>
+  </article>
+</div>
+
+<script src="main.js" defer></script>
+</body>
+</html>

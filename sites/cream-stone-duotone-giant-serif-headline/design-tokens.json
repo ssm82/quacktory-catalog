@@ -1,0 +1,20 @@
+{
+  "slug": "welcome-to-hogwarts",
+  "palette": {
+    "bg": "#E7E5E0",
+    "fg": "#242C2B",
+    "accent": "#CDD6DA",
+    "muted": "#69706C",
+    "ink": "#242C2B",
+    "surface": "#DED7D0"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Cormorant Garamond",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Enter the story"
+}

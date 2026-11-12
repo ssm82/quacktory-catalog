@@ -1,0 +1,20 @@
+{
+  "slug": "i-am-residente",
+  "palette": {
+    "bg": "#E7E5E4",
+    "fg": "#171717",
+    "accent": "#8E1539",
+    "muted": "#737375",
+    "ink": "#0B0B0B",
+    "surface": "#EEECEB"
+  },
+  "fonts": {
+    "display": "Space Grotesk",
+    "body": "Space Grotesk",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "technical",
+  "duck_eye_decor": "none",
+  "cta_register": "Explore the field"
+}

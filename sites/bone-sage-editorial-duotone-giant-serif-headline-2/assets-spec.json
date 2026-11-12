@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck silhouette as a centred editorial showpiece, scaled large within the frame and shot from a low cinematic angle, the duck's head reaching toward the upper third of the composition. The duck has a bright mint green porcelain-matte finish, a soft hand-shaped beak, and a plain oval pupil with no decorative glint. It stands on a seamless paper-toned backdrop in #F2F2F0 warm off-white, NOT yellow, NOT tinted beyond palette. Lighting is editorial: a large soft north-facing window light skims the left cheek, with a low fill card and a single subtle rim from camera right. The composition references a publication spread — generous negative space, oversized typography could sit alongside — with a faint halftone dot field ghosting into the lower right. Surface is matte porcelain, no gloss, no lacquer, no reflection. Footprint, beak, wingtip and head outline match the rest of the product line exactly. Mood is composed, architectural, restrained.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A small classic rubber duck, four to eight centimetres, the keychain edition, photographed front-facing and slightly elevated at a 30 degree camera angle. The duck has a bright mint green porcelain-matte finish, identical silhouette to the rest of the product line, with a soft hand-shaped beak, identical wingtail curve, and a plain oval pupil with no decorative glint. Backdrop is a seamless paper-toned surface in #F2F2F0 warm off-white, NOT yellow, NOT tinted beyond palette. Lighting is soft diffused studio three-point: a large softbox key from upper left, a low white bounce from camera right, a low kicker behind to separate the head. No hard shadow, no specular highlight, no lacquered gloss. A tiny stainless split ring with a short woven cord hangs from the duck's head loop. Mood is restrained, editorial, publication-grade, like a museum catalogue plate.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The classic rubber duck in its workhorse size, ten to twenty-five centimetres, photographed front-facing and slightly elevated at a 30 degree camera angle, the standard product hero. The duck has a bright mint green porcelain-matte finish, with a soft hand-shaped beak, identical wingtail curve, identical feet stance, and a plain oval pupil with no decorative glint. Backdrop is a seamless paper-toned surface in #F2F2F0 warm off-white, NOT yellow, NOT tinted beyond palette. Lighting is soft diffused studio three-point: a large softbox key from upper left, a low white bounce from camera right, a low kicker behind to separate the head. No hard shadow, no specular highlight, no lacquered gloss. The duck sits centred in the frame, breathing room on all four sides. Mood is restrained, editorial, publication-grade, like a museum catalogue plate.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A classic rubber duck silhouette in the collaboration edition size, fifteen to thirty centimetres, photographed front-facing and slightly elevated at a 30 degree camera angle. The duck has a bright mint green porcelain-matte finish with identical head, beak, feet, and wing outline to the rest of the product line, and a plain oval pupil with no decorative glint. It rests on a deep navy surface block in #1F2A55, set against a seamless paper-toned backdrop in #F2F2F0 warm off-white, NOT yellow, NOT tinted beyond palette. The navy plinth is a flat rectangle, sharp corners, no shadow, slightly inset into the frame. Lighting is soft diffused studio three-point: a large softbox key from upper left, a low white bounce from camera right, a low kicker behind. No gloss, no lacquer, no reflection. Mood is restrained, editorial, with the mint green duck as a typographic object against the dark base.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A classic rubber duck silhouette in the mega size, fifty to one hundred twenty centimetres, photographed front-facing and slightly elevated at a 30 degree camera angle as a true photo-object. The duck has a bright mint green porcelain-matte finish, identical head, beak, feet, and wing outline to the rest of the product line, and a plain oval pupil with no decorative glint. Backdrop is a seamless paper-toned surface in #F2F2F0 warm off-white, NOT yellow, NOT tinted beyond palette, curving gently into a paper sweep so the duck appears to sit on an infinity stage. Lighting is soft diffused studio three-point: a large softbox key from upper left, a low white bounce from camera right, a low kicker behind. The scale dominates the frame; the duck is large but the silhouette is identical to the 4 cm and 25 cm versions. No gloss, no lacquer. Mood is restrained, editorial.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A classic rubber duck silhouette in the architect size, one and a half to three metres, photographed as a statement installation object from a low cinematic angle, the duck's head reaching toward the upper third of the frame. The duck has a bright mint green porcelain-matte finish, identical head, beak, feet, and wing outline to every other size in the product line, and a plain oval pupil with no decorative glint. It stands on a wide paper-toned floor in #F2F2F0 warm off-white, NOT yellow, NOT tinted beyond palette, with a single thin near-black #0A0A0A rectangular plinth line under its feet. Lighting is soft diffused studio three-point plus a high overhead soft key, all matte and even. No gloss, no lacquer, no reflection. The composition is monumental but restrained, editorial, publication-grade, the duck reading as a typographic sculpture rather than a toy.",
+    "aspect_ratio": "1:1"
+  }
+]

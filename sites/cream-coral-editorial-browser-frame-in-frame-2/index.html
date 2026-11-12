@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Quacktory — Desktop Catalog, May 2026</title>
+  <meta name="description" content="An editorial presentation of the Quacktory size ladder — five rubber ducks, scaled from 4cm to 1.5m, photographed in studio." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@300;400;500;600;700&family=Italiana&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main>
+    <!-- ============================================================
+         HERO — dark canvas, starburst, cream catalog card
+         ============================================================ -->
+    <section class="canvas" aria-label="Editorial cover">
+      <!-- starburst + title block sit on the dark canvas -->
+      <svg class="starburst" viewBox="0 0 200 200" aria-hidden="true">
+        <g fill="none" stroke="var(--accent)" stroke-width="1.1" stroke-linecap="round">
+          <line x1="100" y1="6"   x2="100" y2="194" />
+          <line x1="6"   y1="100" x2="194" y2="100" />
+          <line x1="29"  y1="29"  x2="171" y2="171" />
+          <line x1="29"  y1="171" x2="171" y2="29"  />
+          <line x1="100" y1="22"  x2="100" y2="178" transform="rotate(22.5 100 100)" />
+          <line x1="100" y1="22"  x2="100" y2="178" transform="rotate(67.5 100 100)" />
+          <line x1="100" y1="22"  x2="100" y2="178" transform="rotate(112.5 100 100)" />
+          <line x1="100" y1="22"  x2="100" y2="178" transform="rotate(157.5 100 100)" />
+        </g>
+        <circle cx="100" cy="100" r="2.4" fill="var(--accent)" />
+      </svg>
+
+      <header class="title-block">
+        <p class="kicker">Desktop Catalog</p>
+        <p class="meta">07 — May — 2026 · Issue 04</p>
+      </header>
+
+      <!-- the cream mockup card -->
+      <article class="card" aria-label="Catalog cover mockup">
+        <!-- mockup nav -->
+        <nav class="m-nav" aria-label="Mockup navigation">
+          <a href="#" class="m-logo" aria-label="Quacktory home">
+            <span class="m-logo-mark">Q</span>
+            <span class="m-logo-text">Quacktory</span>
+          </a>
+          <ul class="m-menu">
+            <li><a href="#ladder">Ladder</a></li>
+            <li><a href="#studio">Studio</a></li>
+            <li><a href="#catalog">Catalog</a></li>
+            <li><a href="#trade">Trade</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+          <a href="#trade" class="m-cta">Order a duck</a>
+        </nav>
+
+        <!-- asymmetric hero inside mockup -->
+        <section class="m-hero">
+          <div class="m-hero-copy">
+            <h2 class="m-eyebrow">Redefine<br/>size stories</h2>
+            <a href="#ladder" class="m-hero-cta">See the ladder →</a>
+          </div>
+
+          <figure class="m-hero-figure">
+            <img src="./assets/hero-lifestyle.jpg" alt="A studio motion shot of a warm amber rubber duck with amber and orange light streaks" />
+            <figcaption class="m-hero-caption">Studio shot · 1/250s · soft three-point</figcaption>
+          </figure>
+
+          <aside class="m-hero-side" aria-label="Detailing service">
+            <p class="m-side-label">Detailing service</p>
+            <p class="m-side-body">Hand-finished editions. We sand, prime, and paint each 20&nbsp;cm shell in a Copenhagen studio before it ships in a foam-lined crate.</p>
+            <a href="#studio" class="m-side-link">Read the spec →</a>
+          </aside>
+
+          <!-- oversized wordmark cutting through the hero -->
+          <h1 class="m-wordmark" aria-label="quacktory">quacktory</h1>
+        </section>
+
+        <!-- about -->
+        <section class="m-about">
+          <span class="m-pill">About studio</span>
+          <p>
+            Quacktory is a one-room atelier making rubber ducks as a single size ladder —
+            <strong>Micro, Classic, Designer, Mega, Architect</strong> — from 4&nbsp;cm
+            keychain editions to a 1.5&nbsp;m statement piece for lobbies and trade shows.
+            One silhouette, scaled five ways, finished by hand.
+          </p>
+        </section>
+
+        <!-- four-card asymmetric grid -->
+        <section class="m-grid" aria-label="Catalog categories">
+          <article class="m-card m-card--narrow m-card--ink">
+            <p class="m-card-eyebrow">Studio · 01</p>
+            <h3>Hand-painted shells</h3>
+            <p>Each Designer edition is primed, painted, and lacquered by hand. The orange kinetic streak is signed under the base.</p>
+          </article>
+
+          <article class="m-card m-card--wide m-card--cream">
+            <p class="m-card-eyebrow">Bath · 02</p>
+            <h3>Bath-side classics</h3>
+            <p>The 15&nbsp;cm Classic — the most-photographed duck on the planet — sold singly or in a six-pack for nurseries and rental flats.</p>
+          </article>
+
+          <article class="m-card m-card--narrow m-card--warm">
+            <p class="m-card-eyebrow">Bedroom · 03</p>
+            <h3>Bedside Micros</h3>
+            <p>Four-centimetre keychain editions on braided cotton loops. Sold in twelve-packs for stocking stuffers and desk drawers.</p>
+          </article>
+
+          <article class="m-card m-card--wide m-card--accent">
+            <p class="m-card-eyebrow">Office · 04</p>
+            <h3>Desk-scale Mega</h3>
+            <p>The 50&nbsp;cm Mega in matte ivory. Heavy enough to anchor a monitor arm, soft enough to bounce a paper airplane off.</p>
+          </article>
+        </section>
+      </article>
+
+      <p class="canvas-scroll-cue" aria-hidden="true">scroll · the ladder below ↓</p>
+    </section>
+
+    <!-- ============================================================
+         SIZE LADDER — full-bleed dark, five SKUs, all six images
+         ============================================================ -->
+    <section id="ladder" class="ladder" aria-label="The Quacktory size ladder">
+      <header class="section-head">
+        <p class="section-kicker">01 · The ladder</p>
+        <h2 class="section-title">Five sizes, one silhouette.</h2>
+        <p class="section-lede">From a 4&nbsp;cm keychain to a 1.5&nbsp;m statement piece. Pick the rung that fits the room.</p>
+      </header>
+
+      <ol class="ladder-rail" aria-label="SKU timeline">
+        <li class="rail-node" data-size="micro">
+          <span class="rail-tick"></span>
+          <span class="rail-label">Micro</span>
+          <span class="rail-dim">4 cm</span>
+        </li>
+        <li class="rail-node" data-size="classic">
+          <span class="rail-tick"></span>
+          <span class="rail-label">Classic</span>
+          <span class="rail-dim">15 cm</span>
+        </li>
+        <li class="rail-node" data-size="designer">
+          <span class="rail-tick"></span>
+          <span class="rail-label">Designer</span>
+          <span class="rail-dim">20 cm</span>
+        </li>
+        <li class="rail-node" data-size="mega">
+          <span class="rail-tick"></span>
+          <span class="rail-label">Mega</span>
+          <span class="rail-dim">50 cm</span>
+        </li>
+        <li class="rail-node" data-size="architect">
+          <span class="rail-tick"></span>
+          <span class="rail-label">Architect</span>
+          <span class="rail-dim">3 m</span>
+        </li>
+      </ol>
+
+      <div class="ladder-grid">
+        <article class="sku sku--micro">
+          <div class="sku-img"><img src="./assets/product-micro.jpg" alt="Quacktory Micro — 4cm warm amber rubber duck" /></div>
+          <p class="sku-tag">Micro · 01</p>
+          <h3 class="sku-name">Micro</h3>
+          <p class="sku-dim">4 cm · keychain edition</p>
+          <p class="sku-copy">A four-centimetre duck on a braided cotton loop. Twelve to a box, or pick one off the parts tray.</p>
+          <p class="sku-price">€6</p>
+        </article>
+
+        <article class="sku sku--classic sku--feature">
+          <div class="sku-img"><img src="./assets/product-classic.jpg" alt="Quacktory Classic — 15cm warm amber rubber duck" /></div>
+          <p class="sku-tag">Classic · 02</p>
+          <h3 class="sku-name">Classic</h3>
+          <p class="sku-dim">15 cm · the workhorse</p>
+          <p class="sku-copy">Fifteen centimetres of warm amber shell. The most-photographed duck on the planet, sold singly or in a six-pack.</p>
+          <p class="sku-price">€14</p>
+        </article>
+
+        <article class="sku sku--designer">
+          <div class="sku-img"><img src="./assets/product-designer.jpg" alt="Quacktory Designer — 20cm hand-painted amber duck with orange kinetic streak" /></div>
+          <p class="sku-tag">Designer · 03</p>
+          <h3 class="sku-name">Designer</h3>
+          <p class="sku-dim">20 cm · hand-painted</p>
+          <p class="sku-copy">The signature edition. Hand-primed, lacquered, then finished with a single hot-orange kinetic streak across the body.</p>
+          <p class="sku-price">€48</p>
+        </article>
+
+        <article class="sku sku--mega">
+          <div class="sku-img"><img src="./assets/product-mega.jpg" alt="Quacktory Mega — 50cm matte ivory rubber duck" /></div>
+          <p class="sku-tag">Mega · 04</p>
+          <h3 class="sku-name">Mega</h3>
+          <p class="sku-dim">50 cm · matte ivory</p>
+          <p class="sku-copy">Half a metre of matte ivory shell. Heavy enough to anchor a monitor arm, soft enough to bounce a paper airplane off.</p>
+          <p class="sku-price">€220</p>
+        </article>
+
+        <article class="sku sku--architect sku--feature">
+          <div class="sku-img"><img src="./assets/product-architect.jpg" alt="Quacktory Architect — 1.5m monumental ivory rubber duck" /></div>
+          <p class="sku-tag">Architect · 05</p>
+          <h3 class="sku-name">Architect</h3>
+          <p class="sku-dim">3 m · statement piece</p>
+          <p class="sku-copy">A one-and-a-half-metre duck for lobbies, trade shows, and the occasional gallery wall. Crated, delivered, installed.</p>
+          <p class="sku-price">€4,800</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         MODAL — opens when a SKU is clicked
+         ============================================================ -->
+    <div class="modal" id="sku-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+      <div class="modal-overlay" data-close></div>
+      <article class="modal-card">
+        <button class="modal-close" data-close aria-label="Close">×</button>
+        <span class="modal-bar"></span>
+        <p class="modal-eyebrow" id="modal-eyebrow">Classic · 02</p>
+        <h3 class="modal-title" id="modal-title">Classic</h3>
+        <p class="modal-dim" id="modal-dim">15 cm · the workhorse</p>
+        <p class="modal-body" id="modal-body">Fifteen centimetres of warm amber shell. The most-photographed duck on the planet, sold singly or in a six-pack.</p>
+        <div class="modal-meta">
+          <div><span class="m-label">Finish</span><span id="modal-finish">Glossy warm amber</span></div>
+          <div><span class="m-label">Price</span><span id="modal-price">€14</span></div>
+          <div><span class="m-label">Lead time</span><span id="modal-lead">Ships in 2 days</span></div>
+        </div>
+      </article>
+    </div>
+
+    <!-- ============================================================
+         FOOTER — closing CTA
+         ============================================================ -->
+    <footer class="footer">
+      <div class="footer-inner">
+        <p class="footer-kicker">Quacktory · Copenhagen</p>
+        <h2 class="footer-title">Pick a rung.</h2>
+        <a href="mailto:hello@quacktory.space" class="footer-cta">hello@quacktory.space →</a>
+        <p class="footer-meta">© 2026 Quacktory Studio · Issue 04 · Desktop Catalog · All ducks hand-finished.</p>
+      </div>
+    </footer>
+  </main>
+
+  <script src="./main.js" defer></script>
+</body>
+</html>

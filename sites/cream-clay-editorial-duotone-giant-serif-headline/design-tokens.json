@@ -1,0 +1,20 @@
+{
+  "slug": "sculpting-harmony",
+  "palette": {
+    "bg": "#E8A14A",
+    "fg": "#111111",
+    "accent": "#EDA248",
+    "muted": "#7A7A78",
+    "ink": "#000000",
+    "surface": "#F4F2EC"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "Playfair Display",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Read on"
+}

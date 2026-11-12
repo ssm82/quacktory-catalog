@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quacktory — Serious ducks for un-serious people</title>
+  <meta name="description" content="Quacktory — rubber ducks from 4 cm to 3 m. Serious ducks for un-serious people.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page-bg" aria-hidden="true"></div>
+  <div class="page-vignette" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <div class="topbar__social">
+      <a href="#" aria-label="Facebook" class="social-icon">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M13.5 21.5v-7.5h2.5l.5-3h-3V8.8c0-.9.3-1.8 1.8-1.8h1.7V4.2c-.3 0-1.4-.2-2.6-.2-2.6 0-4.4 1.6-4.4 4.5V11H7.5v3h2.5v7.5h3.5z"/></svg>
+      </a>
+      <a href="#" aria-label="Instagram" class="social-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><rect x="3.5" y="3.5" width="17" height="17" rx="4.5"/><circle cx="12" cy="12" r="3.8"/><circle cx="17.2" cy="6.8" r=".9" fill="currentColor"/></svg>
+      </a>
+      <a href="#" aria-label="TikTok" class="social-icon">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M16 3.5c.8 1.6 2.2 2.7 4 3v2.6c-1.6 0-3-.5-4-1.3v6.7a5.5 5.5 0 1 1-5.5-5.5c.34 0 .67.03 1 .09v2.65a2.93 2.93 0 1 0 2 2.78V3.5H16z"/></svg>
+      </a>
+      <a href="#" aria-label="Telegram" class="social-icon">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M21.4 4.2 2.7 11.6c-.9.3-.9 1.6 0 1.9l4.4 1.4 1.8 5.6c.2.6 1 .8 1.4.3l2.6-2.5 4.5 3.3c.6.4 1.4.1 1.6-.6l3-15.4c.2-.8-.6-1.5-1.6-1.4zM10 14.5l8.5-6-7 7.4-.2 3.2-1.3-4.6z"/></svg>
+      </a>
+    </div>
+
+    <a class="topbar__logo" href="#">QUACKTORY</a>
+
+    <nav class="topbar__nav" aria-label="Primary">
+      <a href="#hero">HOME</a>
+      <a href="#scale">SCALE</a>
+      <a href="#journal">JOURNAL</a>
+      <a href="#contact">CONTACT</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="hero">
+      <div class="hero__card" data-card>
+        <div class="hero__pane hero__pane--left" aria-hidden="true"></div>
+        <div class="hero__pane hero__pane--right" aria-hidden="true"></div>
+        <div class="hero__divider" aria-hidden="true"></div>
+
+        <div class="hero__content">
+          <span class="hero__caption">01 / EDITION — RUBBER ARCHIVE</span>
+          <h1 class="hero__headline">
+            <span class="hero__word hero__word--left">MICRO</span><span class="hero__word hero__word--right">MEGA</span>
+          </h1>
+          <p class="hero__copy">We make ducks you'd rather put on a shelf than set in water.</p>
+          <a class="hero__cta" href="#journal">Read the journal <span aria-hidden="true">→</span></a>
+        </div>
+
+        <aside class="hero__line-nav" aria-label="Product lines">
+          <button class="line-dot is-active" data-line="micro" style="--line-color:#f4d35e">
+            <span class="line-dot__diamond" aria-hidden="true"></span>
+            <span class="line-dot__label">Micro</span>
+            <span class="line-dot__size">4 cm</span>
+          </button>
+          <button class="line-dot" data-line="classic" style="--line-color:#e88c4d">
+            <span class="line-dot__diamond" aria-hidden="true"></span>
+            <span class="line-dot__label">Classic</span>
+            <span class="line-dot__size">17 cm</span>
+          </button>
+          <button class="line-dot" data-line="designer" style="--line-color:#c98bbf">
+            <span class="line-dot__diamond" aria-hidden="true"></span>
+            <span class="line-dot__label">Designer</span>
+            <span class="line-dot__size">22 cm</span>
+          </button>
+          <button class="line-dot" data-line="mega" style="--line-color:#6ba4d6">
+            <span class="line-dot__diamond" aria-hidden="true"></span>
+            <span class="line-dot__label">Mega</span>
+            <span class="line-dot__size">85 cm</span>
+          </button>
+          <button class="line-dot" data-line="architect" style="--line-color:#8b9bb4">
+            <span class="line-dot__diamond" aria-hidden="true"></span>
+            <span class="line-dot__label">Architect</span>
+            <span class="line-dot__size">225 cm</span>
+          </button>
+        </aside>
+      </div>
+    </section>
+
+    <section class="manifesto" aria-label="Manifesto">
+      <p class="manifesto__line">Small ones — in your pocket.</p>
+      <p class="manifesto__line">Big ones — in the lobby.</p>
+      <p class="manifesto__line">All of them — in the frame.</p>
+    </section>
+
+    <section class="scale" id="scale" aria-label="Scale">
+      <header class="scale__head">
+        <span class="scale__eyebrow">The Scale</span>
+        <h2 class="scale__title">From 4&nbsp;cm to 3&nbsp;m</h2>
+        <p class="scale__lede">Five lines. One silhouette. Proportions don't scale linearly — the Architect should look like the same duck as the Micro.</p>
+      </header>
+
+      <div class="scale__visual" aria-hidden="true">
+        <div class="scale__ruler"></div>
+        <div class="scale__ducks">
+          <figure class="duck" data-line="micro" style="--line-color:#f4d35e; --h:46px">
+            <div class="duck__img"><img src="./assets/product-micro.jpg" alt=""></div>
+            <figcaption>4 cm</figcaption>
+          </figure>
+          <figure class="duck" data-line="classic" style="--line-color:#e88c4d; --h:96px">
+            <div class="duck__img"><img src="./assets/product-classic.jpg" alt=""></div>
+            <figcaption>17 cm</figcaption>
+          </figure>
+          <figure class="duck" data-line="designer" style="--line-color:#c98bbf; --h:120px">
+            <div class="duck__img"><img src="./assets/product-designer.jpg" alt=""></div>
+            <figcaption>22 cm</figcaption>
+          </figure>
+          <figure class="duck" data-line="mega" style="--line-color:#6ba4d6; --h:184px">
+            <div class="duck__img"><img src="./assets/product-mega.jpg" alt=""></div>
+            <figcaption>85 cm</figcaption>
+          </figure>
+          <figure class="duck duck--architect" data-line="architect" style="--line-color:#8b9bb4; --h:240px">
+            <div class="duck__img"><img src="./assets/product-architect.jpg" alt=""></div>
+            <figcaption>3 m</figcaption>
+          </figure>
+        </div>
+      </div>
+
+      <div class="scale__rail" role="list">
+        <div class="scale__row" role="listitem" data-line="micro" style="--line-color:#f4d35e">
+          <span class="scale__num">01</span>
+          <span class="scale__name">Micro</span>
+          <span class="scale__size">4–8 cm</span>
+          <span class="scale__comp">like a thumb</span>
+          <span class="scale__aud">keychains, merch, gifts</span>
+          <span class="scale__price">from 500 ₽</span>
+        </div>
+        <div class="scale__row" role="listitem" data-line="classic" style="--line-color:#e88c4d">
+          <span class="scale__num">02</span>
+          <span class="scale__name">Classic</span>
+          <span class="scale__size">10–25 cm</span>
+          <span class="scale__comp">like a palm</span>
+          <span class="scale__aud">kids, bathroom, office</span>
+          <span class="scale__price">mid-range</span>
+        </div>
+        <div class="scale__row" role="listitem" data-line="designer" style="--line-color:#c98bbf">
+          <span class="scale__num">03</span>
+          <span class="scale__name">Designer</span>
+          <span class="scale__size">15–30 cm</span>
+          <span class="scale__comp">like a cat</span>
+          <span class="scale__aud">collab drops, limited editions</span>
+          <span class="scale__price">mid+</span>
+        </div>
+        <div class="scale__row" role="listitem" data-line="mega" style="--line-color:#6ba4d6">
+          <span class="scale__num">04</span>
+          <span class="scale__name">Mega</span>
+          <span class="scale__size">50–120 cm</span>
+          <span class="scale__comp">like a child</span>
+          <span class="scale__aud">photo props, window displays</span>
+          <span class="scale__price">premium</span>
+        </div>
+        <div class="scale__row" role="listitem" data-line="architect" style="--line-color:#8b9bb4">
+          <span class="scale__num">05</span>
+          <span class="scale__name">Architect</span>
+          <span class="scale__size">1.5–3 m</span>
+          <span class="scale__comp">like a bear</span>
+          <span class="scale__aud">installations, branding</span>
+          <span class="scale__price">on request</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="journal" id="journal" aria-label="Journal">
+      <header class="journal__head">
+        <span class="journal__eyebrow">The Journal</span>
+        <h2 class="journal__title">How we make a duck</h2>
+        <p class="journal__lede">A complete rundown of our production — for those who want to understand exactly what sits on the shelf.</p>
+      </header>
+
+      <div class="journal__grid">
+        <article class="entry">
+          <span class="entry__num">01</span>
+          <h3 class="entry__title">Material</h3>
+          <p>Single-piece cast from vulcanized rubber. Food-grade silicone compound for Micro and Classic, natural rubber with EPDM additives for Designer, Mega, and Architect. No plastic inserts, no metal inside, no glued seams.</p>
+        </article>
+        <article class="entry">
+          <span class="entry__num">02</span>
+          <h3 class="entry__title">Eyes</h3>
+          <p>Eyes are paint, not inserts. The black pupil and white sclera are hand-applied with food-grade silicone pigment after vulcanization. UV- and water-resistant. Eye shape uses a single mold relief across all SKUs.</p>
+        </article>
+        <article class="entry">
+          <span class="entry__num">03</span>
+          <h3 class="entry__title">Casting</h3>
+          <p>Micro — injection molding under pressure, 45 seconds per cycle. Classic — compression, 3 minutes. Designer — hand-molded in a silicone flask. Mega — rotational molding with an internal frame. Architect — sculptural casting from a CNC polystyrene master model.</p>
+        </article>
+        <article class="entry">
+          <span class="entry__num">04</span>
+          <h3 class="entry__title">QC</h3>
+          <p>Five checks per duck: visual inspection, geometry within ±2% tolerance, a one-meter drop test, odor test, and gravimetry ±3%. The Architect goes through an extended protocol with ultrasonic inspection of the frame's welded seams.</p>
+        </article>
+        <article class="entry">
+          <span class="entry__num">05</span>
+          <h3 class="entry__title">Compliance</h3>
+          <p>GOST 25779-83, EN 71-3 for chemical migration, REACH — no phthalates or bisphenol A. Age marking is required: Micro 4 cm — 6+, Classic — 3+, Designer — 6+, Mega — decorative object, Architect — installation requiring certified mounting.</p>
+        </article>
+        <article class="entry">
+          <span class="entry__num">06</span>
+          <h3 class="entry__title">Care</h3>
+          <p>Temperature range: −20 °C … +60 °C. Indoor use only. Protect from direct UV and from oils and solvents. Wash with warm water and mild soap. Do not use abrasives, alcohols, or bleach. A product passport is included in every box.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="b2b" id="b2b" aria-label="B2B">
+      <div class="b2b__panel">
+        <span class="b2b__eyebrow">B2B / Custom</span>
+        <h2 class="b2b__title">TPM — Quacktory Pigment Menu</h2>
+        <p class="b2b__lede">Twelve signature Pantone equivalents. The pigment runs through the body of the duck — coloring happens BEFORE casting, not as a surface paint. Lead times and pricing are predictable; durability is guaranteed.</p>
+
+        <ul class="b2b__palette" aria-label="Palette">
+          <li style="--swatch:#c0392b">01</li>
+          <li style="--swatch:#d35400">02</li>
+          <li style="--swatch:#e88c4d">03</li>
+          <li style="--swatch:#f4d35e">04</li>
+          <li style="--swatch:#a8b86c">05</li>
+          <li style="--swatch:#6ba4d6">06</li>
+          <li style="--swatch:#4a6fa5">07</li>
+          <li style="--swatch:#6b4e8a">08</li>
+          <li style="--swatch:#2c2d34">09</li>
+          <li style="--swatch:#8b9bb4">10</li>
+          <li style="--swatch:#c98bbf">11</li>
+          <li style="--swatch:#f0f0f0">12</li>
+        </ul>
+
+        <dl class="b2b__meta">
+          <div class="b2b__row"><dt>Lead time</dt><dd>Micro / Classic — 3 weeks · Designer / Mega — 6 weeks · Architect — 12 weeks</dd></div>
+          <div class="b2b__row"><dt>Out-of-menu Pantone</dt><dd>handled as a new formula development: +2 weeks, +15% to price</dd></div>
+          <div class="b2b__row"><dt>Custom geometry</dt><dd>new mascot figure, branded silhouette — a separate project with a master model</dd></div>
+          <div class="b2b__row"><dt>Logistics</dt><dd>Micro / Classic — CDEK, Designer — embossed cardboard, Mega — pallet delivery, Architect — climate-controlled transport and on-site assembly</dd></div>
+        </dl>
+
+        <a class="b2b__cta" href="mailto:hi@quacktory.space">Request a quote <span aria-hidden="true">→</span></a>
+      </div>
+    </section>
+
+    <footer class="footer" id="contact">
+      <div class="footer__col">
+        <span class="footer__label">Quacktory</span>
+        <p>Serious ducks for un-serious people.</p>
+        <p>Serious ducks for un-serious people.</p>
+      </div>
+      <div class="footer__col">
+        <span class="footer__label">Contacts</span>
+        <a href="mailto:hi@quacktory.space">hi@quacktory.space</a>
+        <a href="tel:+78000000000">+7 800 000 00 00</a>
+        <p>Moscow, Russia</p>
+      </div>
+      <div class="footer__col">
+        <span class="footer__label">Legal</span>
+        <p>© 2024 Quacktory. All ducks are ours.</p>
+        <p>GOST 25779-83 · EN 71-3 · REACH</p>
+      </div>
+    </footer>
+  </main>
+
+  <div class="modal" id="modal" hidden>
+    <div class="modal__backdrop" data-close></div>
+    <div class="modal__dialog" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <button class="modal__close" data-close aria-label="Close">×</button>
+      <div class="modal__body" id="modal-body">
+        <span class="modal__num" data-modal="num"></span>
+        <h2 class="modal__title" id="modal-title" data-modal="title"></h2>
+        <img class="modal__img" data-modal="img" alt="">
+        <p class="modal__copy" data-modal="copy"></p>
+        <dl class="modal__specs" data-modal="specs"></dl>
+        <a class="modal__cta" data-modal="cta" href="#">Read the journal <span aria-hidden="true">→</span></a>
+      </div>
+    </div>
+  </div>
+<script src="main.js" defer></script>
+</body>
+</html>

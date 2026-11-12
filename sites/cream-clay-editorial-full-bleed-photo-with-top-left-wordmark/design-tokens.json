@@ -1,0 +1,20 @@
+{
+  "slug": "cartier-watches-wonders-2025",
+  "palette": {
+    "bg": "#E8D9BE",
+    "fg": "#F4ECD9",
+    "accent": "#8C6E45",
+    "muted": "#C9B690",
+    "ink": "#8C6E45",
+    "surface": "#C9B690"
+  },
+  "fonts": {
+    "display": "Bodoni Moda",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Découvrir le défilé"
+}

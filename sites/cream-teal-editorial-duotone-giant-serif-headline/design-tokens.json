@@ -1,0 +1,42 @@
+{
+  "name": "Quacktory Quarterly — Static / Ducks.",
+  "source": "pinterest_53198839343569143",
+  "tokens": {
+    "--bg": "#E7E2D2",
+    "--bg-warm": "#EFE9DA",
+    "--fg": "#2C7F86",
+    "--fg-deep": "#1F7A82",
+    "--ink": "#1F1812",
+    "--blush": "#F0DDD0",
+    "--ivory": "#F4ECD8",
+    "--paper-line": "#D9D2BD",
+    "--font-display": "'Archivo Black', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+    "--font-body": "'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+    "--font-mono": "'JetBrains Mono', 'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, monospace"
+  },
+  "direction_summary": "Editorial magazine-cover composition. Cream paper field + deep teal block + ink dark accent. Heavy display sans wordmark with tight tracking; tiny mono caps metadata inset into the type. Vertical edge labels (rotated) and corner ornaments evoke a vintage print masthead. Size ladder as bottom rail with circular nodes + rotated edge labels 4cm→3m.",
+  "type_rhythm": {
+    "display_wordmark": "clamp(96px, 22vw, 280px)",
+    "headline": "clamp(34px, 5vw, 64px)",
+    "body": "14px",
+    "label": "11px tracked caps",
+    "letter_spacing": {
+      "tight": "-0.04em",
+      "open": "0.2em"
+    }
+  },
+  "hero_pattern": "Magazine-cover hybrid: warm cream paper upper third with halftone grain + deep teal block lower two-thirds with the wordmark 'ducks.' set huge across the width + integrated Mega-duck photo inside the teal block (studio plate duotoned onto the cover's own teal ramp so the backdrop continues the flat field and the subject isolates as a dark figure) that bleeds off the bottom edge + vertical barcode rectangle on the right edge + tiny inset metadata inside the type + corner ornaments in the cream field.",
+  "interactions": [
+    "Hover lift on each product card (translateY + soft glow)",
+    "Click on size-ladder node opens modal specimen card (size/finish/SKU/price/notes)",
+    "Click on any product image opens the same modal pre-filled with that SKU",
+    "IntersectionObserver scroll fade for sections (cream field slides up from below)",
+    "Live 'Add to collection' counter in ghost-pill chrome (top-right) — increments on click"
+  ],
+  "watchouts_addressed": [
+    "Teal block and display type close in value — type is set in cream-white on teal (high contrast) and any inset metadata uses --ink for separation",
+    "Subject cropping at frame edge — Mega duck hero extends off the bottom intentionally as a 'design choice' callback to the crit, but the size-ladder rail ducks are fully contained",
+    "Decorative barcode — the right-edge barcode is now real SKUs (real product IDs, scan-readable proportions)",
+    "Decorative corner glyphs — kept minimal, treated as thin editorial line ornaments, not kitsch"
+  ]
+}

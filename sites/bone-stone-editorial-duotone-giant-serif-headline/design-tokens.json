@@ -1,0 +1,20 @@
+{
+  "slug": "530932243595630794",
+  "palette": {
+    "bg": "#C9D8DD",
+    "fg": "#111111",
+    "accent": "#6E7378",
+    "muted": "#C9CCD1",
+    "ink": "#0E1014",
+    "surface": "#F4F4F6"
+  },
+  "fonts": {
+    "display": "Archivo",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "See the work"
+}

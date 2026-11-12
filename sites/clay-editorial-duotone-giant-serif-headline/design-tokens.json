@@ -1,0 +1,20 @@
+{
+  "slug": "son-daven",
+  "palette": {
+    "bg": "#0E0B08",
+    "fg": "#C4A574",
+    "accent": "#D6BE8C",
+    "muted": "#8C7A55",
+    "ink": "#1A1612",
+    "surface": "#D9C7A1"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Book a consultation"
+}

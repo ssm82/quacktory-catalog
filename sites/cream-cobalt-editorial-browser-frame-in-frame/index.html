@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Quacktory — Index</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="canvas">
+  <div class="grid-bg" aria-hidden="true"></div>
+
+  <header class="util" role="banner">
+    <span>Quacktory / Index</span>
+    <span class="right">v2.0 · updated 2026</span>
+  </header>
+
+  <main class="board">
+    <!-- COVER -->
+    <article class="tile cover">
+      <span class="num">05</span>
+      <span class="cover-eyebrow">chapter</span>
+      <h1 class="cover-title">Duck<br>lineup</h1>
+      <p class="cover-sub">Five sizes · one silhouette</p>
+    </article>
+
+    <!-- SKU TILES -->
+    <article class="tile t-micro" data-sku="micro" tabindex="0">
+      <span class="t-eyebrow">Micro</span>
+      <span class="t-num">01</span>
+      <h2 class="t-big">04<sup>cm</sup></h2>
+      <span class="t-meta">keychain · impulse</span>
+      <span class="t-price">$7</span>
+    </article>
+
+    <article class="tile t-classic" data-sku="classic" tabindex="0">
+      <span class="t-eyebrow">Classic</span>
+      <span class="t-num">02</span>
+      <h2 class="t-big">18<sup>cm</sup></h2>
+      <span class="t-meta">bath · desk</span>
+      <span class="t-price">$17</span>
+    </article>
+
+    <article class="tile t-partial">
+      <span class="t-eyebrow">Designer</span>
+      <h2 class="t-big light">Aa</h2>
+    </article>
+
+    <article class="tile t-designer" data-sku="designer" tabindex="0">
+      <span class="t-eyebrow">Designer</span>
+      <span class="t-num">03</span>
+      <h2 class="t-big">25<sup>cm</sup></h2>
+      <span class="t-meta">limited · collab</span>
+      <span class="t-price">$65</span>
+    </article>
+
+    <article class="tile t-mega" data-sku="mega" tabindex="0">
+      <span class="t-eyebrow">Mega</span>
+      <span class="t-num">04</span>
+      <h2 class="t-big">80<sup>cm</sup></h2>
+      <span class="t-meta">window · art object</span>
+      <span class="t-price">$500</span>
+    </article>
+
+    <article class="tile t-architect" data-sku="architect" tabindex="0">
+      <span class="t-eyebrow">Architect</span>
+      <span class="t-num">05</span>
+      <h2 class="t-big">3<sup>m</sup></h2>
+      <span class="t-meta">installation · contract</span>
+      <span class="t-price">on request</span>
+    </article>
+
+    <article class="tile t-lab">
+      <span class="t-eyebrow">Workshop</span>
+      <h2 class="t-big">5</h2>
+      <span class="t-meta">checks per duck</span>
+    </article>
+
+    <article class="tile t-b2b">
+      <span class="t-eyebrow">Custom</span>
+      <h2 class="t-big">12<sup>colors</sup></h2>
+      <span class="t-meta">TPM palette</span>
+      <a href="#contact" class="t-cta">Request quote →</a>
+    </article>
+
+    <article class="tile t-care">
+      <span class="t-eyebrow">Care</span>
+      <h2 class="t-big">−20 / +60</h2>
+      <span class="t-meta">°C · indoor only</span>
+    </article>
+
+    <article class="tile t-share">
+      <span class="t-eyebrow">Share</span>
+      <button class="share-tile" id="shareBtn">
+        <span class="share-icon" aria-hidden="true">↑</span>
+        <span class="share-counter"><b id="shareCount">0</b> / 132</span>
+      </button>
+      <span class="t-meta">share cap</span>
+    </article>
+  </main>
+
+  <!-- Modal -->
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle" hidden>
+    <div class="modal-overlay" data-close></div>
+    <article class="modal-card">
+      <button class="modal-close" data-close aria-label="Close">×</button>
+      <div class="modal-img"><img id="modalImg" src="" alt=""></div>
+      <div class="modal-body">
+        <span class="modal-eyebrow" id="modalEyebrow"></span>
+        <h3 id="modalTitle"></h3>
+        <p id="modalDesc"></p>
+        <dl class="modal-spec">
+<div><dt>Size</dt><dd id="modalSize"></dd></div>
+        <div><dt>Compare</dt><dd id="modalCompare"></dd></div>
+        <div><dt>Price</dt><dd id="modalPrice"></dd></div>
+        <div><dt>Lead</dt><dd id="modalLead"></dd></div>
+      </dl>
+        <button class="t-cta" data-close>Close</button>
+      </div>
+    </article>
+  </div>
+</div>
+
+<footer id="contact" class="foot">
+  <div class="foot-row">
+    <span>© Quacktory · Index v2.0</span>
+    <span>Moscow · SPb · support@quacktory.space</span>
+    <a href="#contact" class="foot-link">Request a quote</a>
+  </div>
+</footer>
+<script src="main.js" defer></script>
+</body>
+</html>

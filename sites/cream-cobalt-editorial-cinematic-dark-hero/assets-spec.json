@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A monumental classic rubber duck, scaled to roughly 1.8 meters, standing alone in a hushed gallery-like void. The seamless backdrop is a deep near-black tone, hex #0A0A0A, with no gradient and no warm cast. The duck's body is a deep prussian indigo finish, matte porcelain, with the exact classic silhouette preserved across the line: plump rounded body, upturned tail, flat oval feet, short cylindrical beak. Soft window light from the upper-left rakes across the surface, picking out the duck's cheek curve and tail tip while letting the right side dissolve into shadow. The duck faces forward, slightly elevated 30° camera, the head filling the upper third of frame, its plain oval pupils reading as quiet, still, and unblinking — no catchlight, no glint, no sparkle. A faint single-point floor reflection is permitted at the very base, otherwise the frame is empty negative space — luxury-boutique silence. Editorial register, no props, no logo, no UI chrome."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A miniature classic rubber duck, approximately 6 cm tall, keychain edition, photographed front-facing, slightly elevated 30°. The duck is a deep prussian indigo matte porcelain finish, hex #1B2A4E, with the exact same classic rubber-duck silhouette as the rest of the line: rounded body, upturned tail, flat oval feet, short cylindrical beak. The seamless backdrop is a flat, even deep near-black tone, hex #0A0A0A, free of any warm cast and free of any color tint beyond the palette. Soft diffused three-point studio lighting keeps the surface matte and legible — gentle key from upper-left, low fill from camera-right, faint rim from behind — with no hot specular and no decorative glint in the plain oval pupils. A thin neutral woven cord loops through a barely visible eyelet at the crown. The duck occupies the central 55% of the frame, balanced, with generous editorial negative space around it. Museum-still, restrained, no props, no logo."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The workhorse classic rubber duck at approximately 18 cm tall, front-facing, slightly elevated 30° camera angle. The duck is rendered in a deep prussian indigo finish, hex #1B2A4E, with a matte porcelain surface. The canonical classic rubber-duck silhouette is preserved exactly across the line: plump rounded body, upturned tail, flat oval feet, short cylindrical beak. The seamless backdrop is a flat, even deep near-black tone, hex #0A0A0A, completely neutral and free of any color cast. Soft diffused three-point studio lighting wraps the surface — gentle key from upper-left, low fill from camera-right, faint rim from behind to separate the silhouette from the dark field. Plain oval pupils with no catchlight, no decorative glint, no sparkle. The duck is centered, occupying roughly 60% of the frame, with quiet editorial negative space. Porcelain-on-dark-paper mood, restrained, museum-still. No props, no surface texture, no chrome."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The collaboration-edition classic rubber duck at 22 cm, front-facing, slightly elevated 30°. The duck is a deep prussian indigo matte porcelain, hex #1B2A4E, identical silhouette to the rest of the line: rounded body, upturned tail, flat oval feet, short cylindrical beak. Across the body and head, a faint inner pattern of floral silhouettes in a slightly lighter warm off-white tone, hex #D9D1C2, sits just under the porcelain surface, echoing the brand's monogram-shield detail. The seamless backdrop is a deep near-black, hex #0A0A0A, neutral and free of warm cast. Soft diffused three-point studio lighting: gentle key upper-left, low fill right, faint rim behind. Plain oval pupils, no catchlight, no glint. The duck is centered, occupying roughly 60% of frame, editorial museum-still mood. A barely visible warm off-white band — a tonal accent only — rests at the very bottom edge of the frame, like a printed page edge. No props, no chrome."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The mega classic rubber duck at approximately 80 cm, front-facing, slightly elevated 30°. The duck is a deep prussian indigo matte porcelain, hex #1B2A4E, identical silhouette to the rest of the line, scaled up as a photo-object: plump rounded body, upturned tail, flat oval feet, short cylindrical beak. The seamless backdrop is a deep near-black tone, hex #0A0A0A, even and free of warm cast. Soft diffused three-point studio lighting wraps the larger surface: gentle key from upper-left, broad fill from camera-right, faint rim light from behind to keep the silhouette from disappearing into the dark. The matte porcelain reads with a slight subsurface warmth on the cheek curve. Plain oval pupils, no catchlight, no glint, no sparkle. The duck is centered, occupying roughly 70% of the frame, with editorial negative space all around. Museum-still, restrained, no props, no chrome."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The architect-scale classic rubber duck at approximately 2.4 meters tall, presented as a statement installation. The duck is a deep prussian indigo matte porcelain, hex #1B2A4E, with the canonical classic rubber-duck silhouette preserved exactly: plump rounded body, upturned tail, flat oval feet, short cylindrical beak. The seamless backdrop is a deep near-black tone, hex #0A0A0A, neutral and untinted. Because of the scale, soft diffused three-point studio lighting behaves like museum-grade wash light: a wide key from upper-left, broad fill from the right, a low rim light at floor level to keep the feet and underside legible. The matte porcelain surface picks up faint gradient falloff from top to bottom. Plain oval pupils, no catchlight, no decorative glint. The duck is centered, occupying roughly 75% of frame. Editorial register, installation-as-object, no props, no chrome, no people."
+  }
+]

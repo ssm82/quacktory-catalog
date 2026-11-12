@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quacktory — HOLD. KEEP. DREAM.</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@125,700;125,800;125,900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="theme-kpr">
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <span class="vrule" aria-hidden="true"></span>
+
+  <header class="top" role="banner">
+    <button class="hamburger" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="top__nav" aria-label="Main navigation">
+      <a href="#">PROJECT</a>
+      <a href="#lineup">KEEP</a>
+      <a href="#b2b">FRACTIONS</a>
+      <a href="#about">UNIVERSE</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-tag">
+      <h1 class="sr-only" id="hero-tag">Quacktory — Hold. Keep. Dream.</h1>
+
+      <span class="crosshair" aria-hidden="true">[ + ]</span>
+
+      <div class="hero__copy">
+        <p>// MANIFESTO</p>
+        <p>A series of five lines. One silhouette, five scales. Solid cast, no metal, no glue.</p>
+      </div>
+
+      <picture class="hero__art">
+        <img src="./assets/hero-lifestyle.jpg" alt="A Quacktory duck, cinematic portrait in dark blue">
+      </picture>
+
+      <div class="hero__mantra">
+        <span class="num">01H</span>
+        <span class="word">HOLD.</span>
+        <span class="num">02K</span>
+        <span class="word word--mid">KEEP.</span>
+        <span class="num">03D</span>
+        <span class="word word--big">DREAM.</span>
+      </div>
+    </section>
+
+    <section class="lineup" id="lineup" aria-label="Lineup">
+      <header class="lineup__head">
+        <span class="lineup__eyebrow">// 01 / LINEUP</span>
+        <h2 class="lineup__title">Five scales</h2>
+      </header>
+      <ul class="lineup__list" role="list">
+        <li><button class="row" data-id="micro"><span class="row__num">01</span><span class="row__line">MICRO</span><span class="row__size">4–8 cm</span><span class="row__price">from $7</span></button></li>
+        <li><button class="row" data-id="classic"><span class="row__num">02</span><span class="row__line">CLASSIC</span><span class="row__size">10–25 cm</span><span class="row__price">mid</span></button></li>
+        <li><button class="row" data-id="designer"><span class="row__num">03</span><span class="row__line">DESIGNER</span><span class="row__size">15–30 cm</span><span class="row__price">mid+</span></button></li>
+        <li><button class="row" data-id="mega"><span class="row__num">04</span><span class="row__line">MEGA</span><span class="row__size">50–120 cm</span><span class="row__price">premium</span></button></li>
+        <li><button class="row" data-id="architect"><span class="row__num">05</span><span class="row__line">ARCHITECT</span><span class="row__size">1.5–3 m</span><span class="row__price">on request</span></button></li>
+      </ul>
+    </section>
+
+    <section class="b2b" id="b2b" aria-labelledby="b2b-title">
+      <header class="b2b__head">
+        <span class="b2b__eyebrow">// 02 / B2B</span>
+        <h2 class="b2b__title" id="b2b-title">Bespoke<br>development</h2>
+      </header>
+      <p class="b2b__copy">12 signature Pantone equivalents. Through-body pigment — not paint. Lead times 3 / 6 / 12 weeks. A custom Pantone is a separate quote line, +2 weeks, +15%.</p>
+      <a class="b2b__cta" href="mailto:hi@quacktory.space">Request a quote ↗</a>
+    </section>
+
+    <footer class="leg" aria-label="Footer">
+      <div class="leg__row">
+        <span class="leg__brand">QUACKTORY®</span>
+        <span class="leg__copy">© 2025 · Drop 04</span>
+        <span class="leg__count" id="share-count">Share 0 / 132</span>
+        <button class="leg__gear" id="settings-gear">[ ↗ ] share</button>
+      </div>
+    </footer>
+  </main>
+
+  <div class="scroll">SCROLL ↓</div>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+    <div class="modal__overlay" data-close></div>
+    <article class="modal__panel">
+      <button class="modal__close" data-close aria-label="Close">×</button>
+      <img class="modal__img" alt="">
+      <div class="modal__body">
+        <span class="modal__num"></span>
+        <h3 class="modal__title" id="modal-title"></h3>
+        <p class="modal__size"></p>
+        <p class="modal__desc"></p>
+        <p class="modal__price"></p>
+        <p class="modal__term"></p>
+      </div>
+    </article>
+  </div>
+  <script src="main.js" defer></script>
+</body>
+</html>

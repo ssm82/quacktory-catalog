@@ -1,0 +1,20 @@
+{
+  "slug": "why-zero-49794",
+  "palette": {
+    "bg": "#7CB8A6",
+    "fg": "#1F2226",
+    "accent": "#F4B6C8",
+    "muted": "#D9E8EE",
+    "ink": "#1C1F23",
+    "surface": "#F2F7F9"
+  },
+  "fonts": {
+    "display": "Manrope",
+    "body": "Manrope",
+    "mono": ""
+  },
+  "hero_pattern": "B",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Join the beta"
+}

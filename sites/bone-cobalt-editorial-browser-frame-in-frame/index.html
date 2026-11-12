@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quacktory — Studio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="theme-lusion">
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="top" role="banner">
+    <a class="wm" href="#">QUACKTORY</a>
+    <h1 class="top__title">We make serious ducks<br>for not-so-serious people.</h1>
+    <div class="top__ctrls">
+      <button class="icon" aria-label="Sound">~</button>
+      <a class="cta" href="#b2b">Request a quote <span class="cta__dot">●</span></a>
+      <button class="menu" aria-label="Open menu">MENU <span class="menu__dot">●●</span></button>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-tag">
+      <h2 class="sr-only" id="hero-tag">Quacktory — a series of ducks</h2>
+      <figure class="hero__frame">
+        <img src="./assets/hero-lifestyle.jpg" alt="A Quacktory duck in a dark vignette">
+      </figure>
+      <div class="hero__rail">
+        <div class="hero__plus">+</div>
+        <div class="hero__plus">+</div>
+        <span class="hero__scroll">SCROLL TO DISCOVER</span>
+        <div class="hero__plus">+</div>
+        <div class="hero__plus">+</div>
+      </div>
+    </section>
+
+    <section class="we" aria-labelledby="we-title">
+      <div class="we__head">
+        <span class="we__eyebrow">— 01 / About</span>
+        <h2 class="we__title" id="we-title">We are Quacktory<span class="we__sep">.</span></h2>
+      </div>
+      <div class="we__copy">
+        <p><em>Nice to meet you.</em></p>
+        <p>A series of rubber ducks from a 4-centimeter keychain to a 3-meter installation. Solid cast from vulcanized rubber. Pigment in the mass. One silhouette — five scales.</p>
+      </div>
+    </section>
+
+    <section class="lineup" aria-label="Lineup">
+      <header class="lineup__head">
+        <span class="lineup__eyebrow">— 02 / Collection</span>
+        <h2 class="lineup__title">Lineup</h2>
+      </header>
+      <ul class="lineup__grid" role="list">
+        <li><button class="card" data-id="micro"><img src="./assets/product-micro.jpg" alt=""><span class="card__line">Micro</span><span class="card__size">4–8 cm</span><span class="card__price">from $7</span></button></li>
+        <li><button class="card" data-id="classic"><img src="./assets/product-classic.jpg" alt=""><span class="card__line">Classic</span><span class="card__size">10–25 cm</span><span class="card__price">mid</span></button></li>
+        <li><button class="card" data-id="designer"><img src="./assets/product-designer.jpg" alt=""><span class="card__line">Designer</span><span class="card__size">15–30 cm</span><span class="card__price">mid+</span></button></li>
+        <li><button class="card" data-id="mega"><img src="./assets/product-mega.jpg" alt=""><span class="card__line">Mega</span><span class="card__size">50–120 cm</span><span class="card__price">premium</span></button></li>
+        <li><button class="card" data-id="architect"><img src="./assets/product-architect.jpg" alt=""><span class="card__line">Architect</span><span class="card__size">1.5–3 m</span><span class="card__price">on request</span></button></li>
+      </ul>
+    </section>
+
+    <section class="b2b" id="b2b" aria-labelledby="b2b-title">
+      <header class="b2b__head">
+        <span class="b2b__eyebrow">— 03 / B2B</span>
+        <h2 class="b2b__title" id="b2b-title">Bespoke<br>development</h2>
+      </header>
+      <p class="b2b__copy">12 signature Pantone equivalents. Through-body pigment — not paint. Lead times 3 / 6 / 12 weeks. A custom Pantone is a separate quote line, +2 weeks, +15%.</p>
+      <a class="b2b__cta" href="mailto:hi@quacktory.space">Request a quote ↗</a>
+    </section>
+
+    <footer class="leg" aria-label="Footer">
+      <div class="leg__row">
+        <span class="leg__brand">QUACKTORY®</span>
+        <span class="leg__copy">© 2025 · Studio</span>
+        <span class="leg__count" id="share-count">Share 0 / 132</span>
+        <button class="leg__gear" id="settings-gear">⚙</button>
+      </div>
+    </footer>
+  </main>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+    <div class="modal__overlay" data-close></div>
+    <article class="modal__panel">
+      <button class="modal__close" data-close aria-label="Close">×</button>
+      <img class="modal__img" alt="">
+      <div class="modal__body">
+        <span class="modal__num"></span>
+        <h3 class="modal__title" id="modal-title"></h3>
+        <p class="modal__size"></p>
+        <p class="modal__desc"></p>
+        <p class="modal__price"></p>
+        <p class="modal__term"></p>
+      </div>
+    </article>
+  </div>
+  <script src="main.js" defer></script>
+</body>
+</html>

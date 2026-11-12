@@ -1,0 +1,20 @@
+{
+  "slug": "onnu-jonu-son",
+  "palette": {
+    "bg": "#0E1530",
+    "fg": "#E8E2D5",
+    "accent": "#E2A93B",
+    "muted": "#C9BFA8",
+    "ink": "#0A1020",
+    "surface": "#1B2447"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Cormorant Garamond",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Enter the album"
+}

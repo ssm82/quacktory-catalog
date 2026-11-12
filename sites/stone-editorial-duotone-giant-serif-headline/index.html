@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quacktory — Serious ducks for not-so-serious people.</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="main.js" defer></script>
+</head>
+<body>
+  <header class="header">
+    <nav class="dot-nav" aria-label="Quacktory"><a class="dot-link dot-orange" href="#lineup">Size lineup</a><a class="dot-link dot-olive" href="#production">Production</a><a class="dot-link dot-mauve" href="#b2b">B2B</a><a class="dot-link dot-lavender" href="#footer">contacts</a></nav>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="hero-index">4 cm → 3 m</p>
+        <h1 class="hero-title" id="hero-title">Quacktory</h1>
+        <p class="hero-credo">Serious ducks for not-so-serious people.</p>
+        <p class="hero-manifest">We make ducks you don't want to drop in water but want to put on a shelf. Small ones go in your pocket. Big ones go in the lobby. All of them go on camera.</p>
+      </div>
+      <div class="hero-gallery" aria-label="Size lineup">
+        <figure class="gallery-main"><img class="gallery-image" src="./assets/hero-lifestyle.jpg" alt="Scale from 4 cm to 3 m"><figcaption class="gallery-caption">One vector duck silhouette</figcaption></figure>
+        <div class="gallery-tabs" aria-hidden="true"><span class="gallery-tab tab-one">01</span><span class="gallery-tab tab-two">02</span><span class="gallery-tab tab-three">03</span></div>
+      </div>
+    </section>
+
+    <section class="lineup" id="lineup" aria-labelledby="lineup-title">
+      <header class="lineup-header"><p class="section-label">Product range</p><h2 class="lineup-title" id="lineup-title">Size lineup</h2><p class="lineup-range">from 4 cm to 3 m</p></header>
+      <div class="project-tiles">
+        <button class="product-tile tile-micro" type="button" data-product="micro"><span class="tile-index">01</span><img class="tile-image" src="./assets/product-micro.jpg" alt="Micro 4–8 cm"><span class="tile-copy"><strong class="tile-name">Micro</strong><small class="tile-size">4–8 cm</small></span><span class="tooltip-pill">Open</span></button>
+        <button class="product-tile tile-classic" type="button" data-product="classic"><span class="tile-index">02</span><img class="tile-image" src="./assets/product-classic.jpg" alt="Classic 10–25 cm"><span class="tile-copy"><strong class="tile-name">Classic</strong><small class="tile-size">10–25 cm</small></span><span class="tooltip-pill">Open</span></button>
+        <button class="product-tile tile-designer" type="button" data-product="designer"><span class="tile-index">03</span><img class="tile-image" src="./assets/product-designer.jpg" alt="Designer 15–30 cm"><span class="tile-copy"><strong class="tile-name">Designer</strong><small class="tile-size">15–30 cm</small></span><span class="tooltip-pill">Open</span></button>
+        <button class="product-tile tile-mega" type="button" data-product="mega"><span class="tile-index">04</span><img class="tile-image" src="./assets/product-mega.jpg" alt="Mega 50–120 cm"><span class="tile-copy"><strong class="tile-name">Mega</strong><small class="tile-size">50–120 cm</small></span><span class="tooltip-pill">Open</span></button>
+        <button class="product-tile tile-architect" type="button" data-product="architect"><span class="tile-index">05</span><img class="tile-image" src="./assets/product-architect.jpg" alt="Architect 1.5–3 m"><span class="tile-copy"><strong class="tile-name">Architect</strong><small class="tile-size">1.5–3 m</small></span><span class="tooltip-pill">Open</span></button>
+      </div>
+      <nav class="timeline" aria-label="Size lineup"><span class="timeline-edge">4 cm</span><div class="timeline-track"><button class="timeline-node" type="button" data-product="micro"><span class="node-dot"></span><span class="node-label">Micro</span></button><button class="timeline-node" type="button" data-product="classic"><span class="node-dot"></span><span class="node-label">Classic</span></button><button class="timeline-node" type="button" data-product="designer"><span class="node-dot"></span><span class="node-label">Designer</span></button><button class="timeline-node" type="button" data-product="mega"><span class="node-dot"></span><span class="node-label">Mega</span></button><button class="timeline-node" type="button" data-product="architect"><span class="node-dot"></span><span class="node-label">Architect</span></button></div><span class="timeline-edge">3 m</span></nav>
+    </section>
+
+    <section class="production" id="production" aria-labelledby="production-title">
+      <div class="production-lead"><p class="section-label">How we make ducks — production</p><h2 class="production-title" id="production-title">Single-piece cast from vulcanized rubber</h2></div>
+      <div class="production-notes"><p class="production-text">No plastic inserts, no metal inside, no glued seams.</p><p class="production-text">Eyes — paint, not inserts. Black pupil + white sclera.</p><p class="production-number">5 checks</p><div class="check-grid"><span class="check">Visual inspection</span><span class="check">Geometry</span><span class="check">Drop test</span><span class="check">Smell test</span><span class="check">Gravimetry</span></div></div>
+    </section>
+
+    <section class="b2b" id="b2b" aria-labelledby="b2b-title">
+      <p class="section-label">B2B / Custom development</p><h2 class="b2b-title" id="b2b-title">Custom = choose from a branded palette.</h2><p class="b2b-text">12 signature Pantone equivalents. Pigment throughout the body. Fully custom colors discussed on request.</p><p class="b2b-time">Micro / Classic — 3 weeks · Designer — 6 weeks · Mega — 6 weeks · Architect — 12 weeks</p><a class="b2b-link" href="#footer">Request a quote</a>
+    </section>
+  </main>
+
+  <footer class="footer" id="footer"><span class="footer-brand">Quacktory</span><span class="footer-item">contacts</span><span class="footer-item">payment</span><span class="footer-item">social</span><span class="footer-item">legal</span></footer>
+
+  <div class="modal" aria-hidden="true"><button class="modal-overlay" type="button" aria-label="Close"></button><section class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title"><button class="modal-close" type="button" aria-label="Close">×</button><span class="modal-dot" aria-hidden="true"></span><p class="modal-size"></p><h2 class="modal-title" id="modal-title"></h2><p class="modal-description"></p><dl class="modal-facts"><div class="modal-fact"><dt>Audience</dt><dd class="modal-audience"></dd></div><div class="modal-fact"><dt>Price positioning</dt><dd class="modal-price"></dd></div><div class="modal-fact"><dt>Age</dt><dd class="modal-age"></dd></div></dl></section></div>
+</body>
+</html>

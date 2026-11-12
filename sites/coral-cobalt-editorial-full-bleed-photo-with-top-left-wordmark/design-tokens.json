@@ -1,0 +1,20 @@
+{
+  "slug": "unseen-studio",
+  "palette": {
+    "bg": "#D9C2B8",
+    "fg": "#111111",
+    "accent": "#B8CFE2",
+    "muted": "#A89482",
+    "ink": "#111111",
+    "surface": "#E5D3CB"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "View our work"
+}

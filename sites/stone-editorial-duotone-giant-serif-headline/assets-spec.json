@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck as a single dominant centrepiece occupying roughly half the frame width, set on a seamless backdrop in #D9D4C5 warm bone cream tone — NOT warm amber finish, NOT tinted beyond palette. The duck is finished in a matte porcelain surface tinted dusty mauve #B58A98, with a near-black #0A0A0A beak and feet for crisp graphic contrast. Editorial mood: soft window light raking gently from camera left, subtle fill, no hard shadow, faint paper-grain texture across the backdrop reading like a fine-art print. The duck is photographed front-facing, very slightly low angle to amplify the monumental scale, with plain oval pupils in matte black and no decorative catchlight, no sparkle, no glint. The composition feels like a museum object study with generous negative space around the figure, and a single cropped typographic sliver of bold condensed black Anton type in the lower-left corner reading as the page wordmark, sitting flush on the warm cream seamless. Painterly, restrained, no props, no gloss.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A small 4–8 cm keychain-scale classic rubber duck photographed front-facing, slightly elevated 30°, on a seamless backdrop in #D9D4C5 warm bone cream tone — NOT warm amber finish, NOT tinted beyond palette. The duck carries a matte porcelain surface in dusty mauve #B58A98 with a near-black #0A0A0A beak and feet. A thin matte black cord loop is fixed at the crown to read as a keychain attachment. Editorial mood: soft diffused three-point studio light, even fill, no hard shadow, faint paper-grain across the backdrop, no gloss, no resin shine. Plain oval matte black pupils, no decorative catchlight, no sparkle, no glint. The duck is centred in the square with generous cream breathing room, photographed like a quiet museum catalogue object, restrained and intimate, with the small scale of the figure emphasised by the surrounding negative space.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "A 10–25 cm classic rubber duck photographed front-facing, slightly elevated 30°, on a seamless backdrop in #D9D4C5 warm bone cream tone — NOT warm amber finish, NOT tinted beyond palette. The duck is finished in a matte porcelain surface in dusty mauve #B58A98 with a near-black #0A0A0A beak and feet for crisp graphic edge. Editorial mood: soft window-side key with even fill, three-point diffused studio setup, subtle paper-grain across the backdrop, no gloss, no hard shadow, no resin highlight. Plain oval matte black pupils, no decorative catchlight, no sparkle, no glint. The duck is the workhorse SKU and is photographed as the canonical reference image, centred in a 1:1 square, breathing room on all sides, ready to crop into a catalog tile. The image reads as a fine-art still life — restrained, confident, painterly.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A 15–30 cm collaboration-edition classic rubber duck photographed front-facing, slightly elevated 30°, on a seamless backdrop in #D9D4C5 warm bone cream tone — NOT warm amber finish, NOT tinted beyond palette. The duck is finished in matte porcelain dusty mauve #B58A98 with near-black #0A0A0A beak and feet, and the body carries a hand-painted pale lavender-blue #C5CDDB abstract brushstroke band wrapping the belly as a collab artist's signature gesture. Editorial mood: soft diffused three-point studio light, faint paper-grain across the backdrop, no gloss, no hard shadow. Plain oval matte black pupils, no decorative catchlight, no sparkle, no glint. The duck is centred in a 1:1 square with cream negative space, and a tiny olive #7C8B6F numeral 01 is set in the lower margin in a mono typeface, evoking the print-catalog index cue from the brand system.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A 50–120 cm oversized classic rubber duck photographed as a photo-object, front-facing, slightly elevated 30°, on a seamless backdrop in #D9D4C5 warm bone cream tone — NOT warm amber finish, NOT tinted beyond palette. The duck has a matte porcelain finish in dusty mauve #B58A98 with near-black #0A0A0A beak and feet. The scale fills most of the 1:1 frame yet the silhouette remains identical to the rest of the line — variation is in apparent size and surface treatment, not shape. Editorial mood: soft three-point diffused studio light, gentle paper-grain across the backdrop, no gloss, no hard shadow, restrained and painterly. Plain oval matte black pupils, no decorative catchlight, no sparkle, no glint. The crop is tight to emphasise volume and weight, reading like an object study in a printed monograph, with quiet authority.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A 1.5–3 m statement-installation-scale classic rubber duck photographed front-facing, slightly elevated 30°, on a seamless backdrop in #D9D4C5 warm bone cream tone — NOT warm amber finish, NOT tinted beyond palette. The duck carries a matte porcelain surface in dusty mauve #B58A98 with near-black #0A0A0A beak and feet, identical silhouette to the rest of the line. The frame reads more like architectural photography than product — the duck fills the lower two-thirds of the square, with cream negative space above suggesting a gallery wall or printed page. Editorial mood: soft diffused three-point studio light, even paper-grain, no gloss, no hard shadow. Plain oval matte black pupils, no decorative catchlight, no sparkle, no glint. A faint thin black baseline ground rule and a small near-black Anton wordmark slug sit in the upper margin, evoking the brand's typographic-led landing while the duck reads as a monumental public object.",
+    "aspect_ratio": "1:1"
+  }
+]

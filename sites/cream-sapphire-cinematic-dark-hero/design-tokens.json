@@ -1,0 +1,20 @@
+{
+  "slug": "kikk-festival2016",
+  "palette": {
+    "bg": "#241044",
+    "fg": "#F2F0F5",
+    "accent": "#C83F9D",
+    "muted": "#C9C2D8",
+    "ink": "#100B1A",
+    "surface": "#35105C"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Explore the festival"
+}

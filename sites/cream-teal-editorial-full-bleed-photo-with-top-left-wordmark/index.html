@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quacktory — Collection</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="theme-ink">
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-tag">
+      <h1 class="sr-only" id="hero-tag">Quacktory — five lines of rubber ducks</h1>
+      <picture class="hero__bg">
+        <img src="./assets/hero-lifestyle.jpg" alt="A Quacktory rubber duck in a warm, late-night frame" loading="eager">
+      </picture>
+
+      <header class="top">
+        <a class="logo" href="#top">quacktory<span>.</span></a>
+        <nav class="top__nav" aria-label="Main navigation">
+          <a href="#">HOME</a>
+          <a href="#lineup">COLLECTION [5]</a>
+          <a href="#about">ABOUT</a>
+          <a href="#b2b">CONTACT</a>
+        </nav>
+        <span class="top__tag">ONLY STRONG DUCKS<br>ONLY STRONG PEOPLE</span>
+      </header>
+
+      <div class="columns">
+        <ul class="col col--clients" role="list" aria-label="Where the ducks live">
+          <li class="col__head">// WHERE THEY LIVE</li>
+          <li>Pocket</li>
+          <li>Bathroom</li>
+          <li>Office</li>
+          <li class="is-active"><span class="col__tri">▸</span>Display</li>
+          <li>Lobby</li>
+        </ul>
+        <ul class="col col--projects" role="list" aria-label="Lineup">
+          <li class="col__head">// LINEUP</li>
+          <li><button class="proj" data-id="micro"><span class="proj__num">[01]</span>MICRO</button></li>
+          <li><button class="proj" data-id="classic"><span class="proj__num">[02]</span>CLASSIC</button></li>
+          <li><button class="proj is-active" data-id="designer"><span class="proj__num">[03]</span>DESIGNER</button></li>
+          <li><button class="proj" data-id="mega"><span class="proj__num">[04]</span>MEGA</button></li>
+          <li><button class="proj" data-id="architect"><span class="proj__num">[05]</span>ARCHITECT</button></li>
+        </ul>
+      </div>
+
+      <div class="rule" aria-hidden="true"></div>
+
+      <a class="reel" href="#" aria-label="Open reel">
+        <span class="reel__play">▶</span>
+        <span class="reel__label">WATCH REEL</span>
+      </a>
+
+      <div class="scroll">SCROLL ↓</div>
+    </section>
+
+    <section class="lineup" id="lineup" aria-label="Lineup">
+      <div class="lineup__head">
+        <span class="lineup__eyebrow">/// 01 / Series</span>
+        <h2 class="lineup__title">Lineup</h2>
+        <p class="lineup__lead">One silhouette — five scales. Solid cast from vulcanized rubber. Pigment in the mass — no stickers, no metal inside.</p>
+      </div>
+      <ul class="lineup__grid" role="list">
+        <li><button class="card" data-id="micro"><img src="./assets/product-micro.jpg" alt=""><span class="card__num">[01]</span><span class="card__line">Micro</span><span class="card__size">4–8 cm</span><span class="card__price">from $7</span></button></li>
+        <li><button class="card" data-id="classic"><img src="./assets/product-classic.jpg" alt=""><span class="card__num">[02]</span><span class="card__line">Classic</span><span class="card__size">10–25 cm</span><span class="card__price">mid</span></button></li>
+        <li><button class="card" data-id="designer"><img src="./assets/product-designer.jpg" alt=""><span class="card__num">[03]</span><span class="card__line">Designer</span><span class="card__size">15–30 cm</span><span class="card__price">mid+</span></button></li>
+        <li><button class="card" data-id="mega"><img src="./assets/product-mega.jpg" alt=""><span class="card__num">[04]</span><span class="card__line">Mega</span><span class="card__size">50–120 cm</span><span class="card__price">premium</span></button></li>
+        <li><button class="card" data-id="architect"><img src="./assets/product-architect.jpg" alt=""><span class="card__num">[05]</span><span class="card__line">Architect</span><span class="card__size">1.5–3 m</span><span class="card__price">on request</span></button></li>
+      </ul>
+    </section>
+
+    <section class="b2b" id="b2b" aria-labelledby="b2b-title">
+      <header class="b2b__head">
+        <span class="b2b__eyebrow">/// 02 / B2B</span>
+        <h2 class="b2b__title" id="b2b-title">Bespoke<br>development</h2>
+      </header>
+      <p class="b2b__copy">12 signature Pantone equivalents. Through-body pigment — not paint. Lead times 3 / 6 / 12 weeks. Architect installation by certified crew.</p>
+      <a class="b2b__cta" href="mailto:hi@quacktory.space">Request a quote ↗</a>
+    </section>
+
+    <footer class="leg" aria-label="Footer">
+      <div class="leg__row">
+        <span class="leg__brand">QUACKTORY®</span>
+        <span class="leg__credit">© 2025 · Quacktory — serious ducks for un-serious people.</span>
+      </div>
+    </footer>
+  </main>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+    <div class="modal__overlay" data-close></div>
+    <article class="modal__panel">
+      <button class="modal__close" data-close aria-label="Close">[ × ]</button>
+      <img class="modal__img" alt="">
+      <div class="modal__body">
+        <span class="modal__num"></span>
+        <h3 class="modal__title" id="modal-title"></h3>
+        <p class="modal__size"></p>
+        <p class="modal__desc"></p>
+        <p class="modal__price"></p>
+        <p class="modal__term"></p>
+      </div>
+    </article>
+  </div>
+  <script src="main.js" defer></script>
+</body>
+</html>

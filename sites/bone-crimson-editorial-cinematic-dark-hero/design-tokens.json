@@ -1,0 +1,20 @@
+{
+  "slug": "milledollars-49776",
+  "palette": {
+    "bg": "#0a0a0a",
+    "fg": "#ffffff",
+    "accent": "#8a5a3a",
+    "muted": "#8a8a8a",
+    "ink": "#ededed",
+    "surface": "#1a1a1a"
+  },
+  "fonts": {
+    "display": "Space Grotesk",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Enquire"
+}

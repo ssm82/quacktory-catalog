@@ -1,0 +1,20 @@
+{
+  "slug": "parinazs-desktop-portfolio-49807",
+  "palette": {
+    "bg": "#7BA3D3",
+    "fg": "#1F2A44",
+    "accent": "#C9A8AE",
+    "muted": "#A8BCD4",
+    "ink": "#1F2A44",
+    "surface": "#F4F6FA"
+  },
+  "fonts": {
+    "display": "Manrope",
+    "body": "Manrope",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Explore the work"
+}

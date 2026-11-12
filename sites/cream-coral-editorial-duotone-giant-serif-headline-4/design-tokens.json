@@ -1,0 +1,20 @@
+{
+  "slug": "thelinestudio-com",
+  "palette": {
+    "bg": "#1B1B1B",
+    "fg": "#0E0E0E",
+    "accent": "#E73327",
+    "muted": "#8C8C8C",
+    "ink": "#0A0A0A",
+    "surface": "#F2F1ED"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "A",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "See the work"
+}

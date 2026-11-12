@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "An editorial magazine-cover still life featuring a classic rubber duck as the centerpiece subject, rendered in matte porcelain finish in deep teal #2C7F86, photographed front-facing, slightly elevated 30°. The duck sits inside a flat deep teal color block filling the lower two-thirds of the frame, against a warm cream paper backdrop #E7E2D2 in the upper third with a visible fine halftone/grain texture. The duck body color matches the surrounding teal block so it reads as integrated with the graphic field rather than pasted on top. The subject is centered, the duck silhouette crisp and recognizable, plain oval pupils, no decorative glint, no sparkle. Above the duck a giant lowercase wordmark 'ducks.' is set in heavy black sans-serif tight letterspacing but in this frame only the cream paper field is visible, the type sitting above the visible crop. Soft window light from upper right, consistent with late-afternoon editorial lighting, no harsh shadows. The mood reads as a graphic-design-magazine cover or art-direction study — disciplined, typographically driven, vintage print masthead. 16:9 editorial frame, magazine proportions.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A tiny classic rubber duck at keychain scale, 4–8 cm apparent size, photographed front-facing, slightly elevated 30°. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast, NOT cream. The duck is matte porcelain finish in pale ivory #F4ECD8 tone — same silhouette as the workhorse SKU, just miniaturized. Soft diffused studio light, three-point setup, no harsh shadows. Plain oval pupils, no decorative glint, no sparkle. The duck sits dead-center on the white field with generous breathing room, the body color reading as a quiet warm ivory against the pure white. Subtle ground shadow directly beneath the duck to anchor it. Editorial product photography mood — clean, magazine-still-life, the smallest duck in a size-ladder collection. Square 1:1 frame, restrained, no props, no overlays, no surface text.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The workhorse classic rubber duck, photographed front-facing, slightly elevated 30°. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast, NOT cream. The duck is matte porcelain finish in pale blush #F0DDD0 — the most-photographed SKU, at the standard 10–25 cm scale, the silhouette crisp and recognizable. Soft diffused studio light, three-point setup with a soft key from upper left, no harsh shadows. Plain oval pupils, no decorative glint, no sparkle. The duck sits centered on the white field, the warm blush body reading as a quiet editorial object. Subtle ground shadow directly beneath to anchor it. The mood is a clean, magazine-product-page still life — the duck as a typographic-art object on a pure-white stage. Square 1:1 frame, generous negative space, no props, no overlays.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "The designer collaboration classic rubber duck, photographed front-facing, slightly elevated 30°. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast, NOT cream. Same silhouette as the workhorse, but the matte porcelain finish carries a flat hand-illustrated curatorial surface treatment — a fine halftone dot pattern in deep teal #2C7F86 over a pale ivory #F4ECD8 base, evoking the magazine-print/zine editorial aesthetic. Soft diffused studio light, three-point setup, no harsh shadows. Plain oval pupils, no decorative glint, no sparkle. The duck sits centered on the white field at 15–30 cm scale, the halftone pattern reading as a collector's edition collaboration. Subtle ground shadow beneath. Editorial mood — the duck as a small typographic-art object, illustrated rather than glossed, a limited magazine-cover variant. Square 1:1 frame, no props, no overlays.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A large-format photo-object classic rubber duck at 50–120 cm scale, photographed front-facing, slightly elevated 30°. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast, NOT cream. The duck is matte porcelain finish in deep ink-black with warm undertones #1F1812 — same silhouette as the rest of the line, monumentally scaled so the body curves fill the frame. Soft diffused studio light, three-point setup with a broad soft key, no harsh shadows. Plain oval pupils, no decorative glint, no sparkle. The duck dominates the square 1:1 frame, the curvature of the body and beak rendered at near-monumental scale, the surface reading as a satin-porcelain editorial object — like a vintage leather suitcase elevated to furniture. Subtle ground shadow anchors it. Editorial mood — the duck as a gallery photo-object, dark, sculptural, magazine-still-life energy. Generous white field around the duck, no props, no overlays.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A monumental statement-installation classic rubber duck at 1.5–3 m scale, photographed front-facing, slightly elevated 30°. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast, NOT cream. The duck is matte porcelain finish in pale cream-ivory #E7E2D2 — the cream paper tone of the brand — rendered at architectural scale so the silhouette fills most of the frame. Soft diffused studio light, three-point setup with a soft key from upper left, no harsh shadows. Plain oval pupils, no decorative glint, no sparkle. The duck dominates the square 1:1 frame, monumental in apparent scale, like a curated public installation photographed for an editorial spread. Subtle ground shadow anchors the base. Editorial mood — the duck as a typographic-art object on a white stage, oversized and statement-making, evoking the magazine cover's monumental subject photographed at gallery scale. Square 1:1 frame, no props, no overlays.",
+    "aspect_ratio": "1:1"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {"filename": "hero-lifestyle.jpg",
+   "prompt": "Editorial natural-materials still life: a single rubber duck specimen in warm terracotta clay finish with a small dark walnut oval cartouche medallion on its chest, placed on a flat grey-beige river stone slab, surrounded by dried botanical twigs and a smooth river pebble. Soft diffused studio light, three-point setup, moody museum vitrine atmosphere with deep olive and rust background. Camera: front-facing slightly elevated 30 degrees. Aesthetic: tactile, earthy, organic, specimen-collection.",
+   "aspect_ratio": "16:9"},
+  {"filename": "product-micro.jpg",
+   "prompt": "Small rubber duck specimen, 4cm keychain-sized, in warm terracotta clay finish with a tiny dark walnut oval cartouche medallion on its chest, tactile natural-materials aesthetic like a museum specimen. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-classic.jpg",
+   "prompt": "Classic 15cm rubber duck specimen in olive green ceramic finish with a small dark walnut oval cartouche medallion on its chest, museum-piece quality, tactile natural-materials aesthetic. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-designer.jpg",
+   "prompt": "Designer 20cm rubber duck limited edition in rust sienna clay finish with a dark walnut fingerprint-arch emblem carved into its chest (concentric oval rings inside an arch), tactile natural-materials aesthetic, museum specimen quality. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-mega.jpg",
+   "prompt": "Large 50cm rubber duck specimen in deep walnut wood-grain ceramic finish with a prominent dark walnut oval cartouche medallion on its chest, monumental natural-materials showpiece, museum vitrine aesthetic. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees.",
+   "aspect_ratio": "1:1"},
+  {"filename": "product-architect.jpg",
+   "prompt": "Monumental 1.5m rubber duck sculpture in warm ivory cream ceramic finish with a giant dark walnut fingerprint-arch emblem carved into its chest (concentric oval rings inside an arch), tactile natural-materials aesthetic, polished but earthy. Pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast. Soft diffused studio light, three-point setup. Camera: front-facing slightly elevated 30 degrees, slightly more pulled-back to capture the monumental scale.",
+   "aspect_ratio": "1:1"}
+]

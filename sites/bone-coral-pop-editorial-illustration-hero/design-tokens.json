@@ -1,0 +1,20 @@
+{
+  "slug": "ponpon-mania",
+  "palette": {
+    "bg": "#7C7BD9",
+    "fg": "#FFFFFF",
+    "accent": "#FF8A1F",
+    "muted": "#F4A4C7",
+    "ink": "#000000",
+    "surface": "#F1E7CC"
+  },
+  "fonts": {
+    "display": "Unbounded",
+    "body": "Unbounded",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "pop",
+  "duck_eye_decor": "sparkle",
+  "cta_register": "Read now"
+}

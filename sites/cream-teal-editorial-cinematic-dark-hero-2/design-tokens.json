@@ -1,0 +1,20 @@
+{
+  "slug": "welcome-to-the-continent",
+  "palette": {
+    "bg": "#7E8A98",
+    "fg": "#E8E4D6",
+    "accent": "#A6D6D2",
+    "muted": "#7FA9A4",
+    "ink": "#1B1F22",
+    "surface": "#3D4348"
+  },
+  "fonts": {
+    "display": "Cinzel",
+    "body": "Cormorant Garamond",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Read now"
+}

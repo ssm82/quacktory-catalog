@@ -1,0 +1,20 @@
+{
+  "slug": "zentry",
+  "palette": {
+    "bg": "#0A0A12",
+    "fg": "#EDEAE6",
+    "accent": "#FF5A2C",
+    "muted": "#B8AEC8",
+    "ink": "#0A0A12",
+    "surface": "#2A1530"
+  },
+  "fonts": {
+    "display": "Unbounded",
+    "body": "Manrope",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Watch the trailer"
+}

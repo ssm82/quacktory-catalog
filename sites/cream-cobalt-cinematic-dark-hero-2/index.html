@@ -1,0 +1,599 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quacktory — Serious ducks for un-serious people.</title>
+  <meta name="description" content="Turn the most mundane object in the bathroom into a piece of design, a collector's item, and an architectural gesture.">
+  <link rel="canonical" href="https://quacktory.space/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Quacktory — Serious ducks for un-serious people.">
+  <meta property="og:description" content="We make ducks you don't want to drop in the water — you want to put them on a shelf.">
+  <meta property="og:url" content="https://quacktory.space/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&amp;family=Bebas+Neue&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+
+</head>
+<body class="site-shell" id="top">
+  <header class="site-header">
+    <a class="site-header__brand" href="#top" aria-label="Quacktory">QUACKTORY</a>
+    <nav class="site-header__nav">
+      <a class="site-header__link" href="#production">How we make it</a>
+      <a class="site-header__link" href="#custom">B2B / Custom development</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero__copy">
+        <p class="hero__eyebrow">Quacktory — one duck, five sizes</p>
+        <h1 class="hero__title" id="hero-title">Serious ducks</h1>
+
+        <div class="hero__manifesto">
+          <p class="hero__manifesto-line">We make ducks you don't want to drop in the water.</p>
+          <p class="hero__manifesto-line">You want to put them on a shelf.</p>
+          <p class="hero__manifesto-line">The small ones go in a pocket.</p>
+          <p class="hero__manifesto-line">The large ones go in a lobby.</p>
+          <p class="hero__manifesto-line">All of them go on camera.</p>
+        </div>
+
+        <a class="hero__action button button--primary" href="#production">How we make it</a>
+      </div>
+
+      <div class="hero__media" data-parallax-root>
+        <div class="hero__media-disc" aria-hidden="true" data-parallax="0.12"></div>
+        <figure class="hero__media-frame">
+          <img class="hero__media-image" src="./assets/hero-lifestyle.jpg" alt="Quacktory">
+          <figcaption class="hero__media-caption">All of them go on camera.</figcaption>
+        </figure>
+        <span class="hero__media-size">from 4 cm to 3 m</span>
+        <span class="hero__media-note">indoor only</span>
+      </div>
+
+      <p class="hero__edge-label">Serious ducks for un-serious people.</p>
+      <a class="hero__corner-link" href="https://quacktory.space/">https://quacktory.space/</a>
+    </section>
+
+    <section class="catalog section" id="catalog" aria-labelledby="catalog-title">
+      <header class="section-heading">
+        <p class="section-kicker">SKU taxonomy</p>
+        <h2 class="section-title" id="catalog-title">One vector silhouette for the duck.</h2>
+        <p class="section-intro">Body proportions do not scale linearly with size.</p>
+      </header>
+
+      <div class="scale-ladder" role="list" aria-label="from 4 cm to 3 m">
+        <button class="product-card product-card--micro" type="button" role="listitem" data-open-modal="modal-micro" aria-labelledby="micro-card-title">
+          <span class="product-card__frame">
+            <img class="product-card__image" src="./assets/product-micro.jpg" alt="Micro" loading="lazy">
+          </span>
+          <span class="product-card__line" id="micro-card-title">Micro</span>
+          <span class="product-card__size">4–8 cm</span>
+          <span class="product-card__comparison">thumb-sized</span>
+          <span class="product-card__audience">keychains, merch, gifts up to ~$10</span>
+          <span class="product-card__price-block">
+            <span class="product-card__price-label">price positioning</span>
+            <span class="product-card__price">up to ~$10</span>
+            <span class="product-card__unit">per unit</span>
+            <span class="product-card__shipping">incl. shipping</span>
+          </span>
+          <span class="product-card__lead">3 weeks</span>
+          <span class="product-card__arrow" aria-hidden="true">↗</span>
+        </button>
+
+        <button class="product-card product-card--classic" type="button" role="listitem" data-open-modal="modal-classic" aria-labelledby="classic-card-title">
+          <span class="product-card__frame">
+            <img class="product-card__image" src="./assets/product-classic.jpg" alt="Classic" loading="lazy">
+          </span>
+          <span class="product-card__line" id="classic-card-title">Classic</span>
+          <span class="product-card__size">10–25 cm</span>
+          <span class="product-card__comparison">cat-sized</span>
+          <span class="product-card__audience">kids, bathroom, office</span>
+          <span class="product-card__price-block">
+            <span class="product-card__price-label">price positioning</span>
+            <span class="product-card__price">Mid</span>
+            <span class="product-card__unit">per unit</span>
+            <span class="product-card__shipping">incl. shipping</span>
+          </span>
+          <span class="product-card__lead">3 weeks</span>
+          <span class="product-card__arrow" aria-hidden="true">↗</span>
+        </button>
+
+        <button class="product-card product-card--designer" type="button" role="listitem" data-open-modal="modal-designer" aria-labelledby="designer-card-title">
+          <span class="product-card__frame">
+            <img class="product-card__image" src="./assets/product-designer.jpg" alt="Designer" loading="lazy">
+          </span>
+          <span class="product-card__line" id="designer-card-title">Designer</span>
+          <span class="product-card__size">15–30 cm</span>
+          <span class="product-card__comparison">cat-sized</span>
+          <span class="product-card__audience">illustrator collabs, limited runs</span>
+          <span class="product-card__price-block">
+            <span class="product-card__price-label">price positioning</span>
+            <span class="product-card__price">Mid+</span>
+            <span class="product-card__unit">per unit</span>
+            <span class="product-card__shipping">incl. shipping</span>
+          </span>
+          <span class="product-card__lead">6 weeks</span>
+          <span class="product-card__arrow" aria-hidden="true">↗</span>
+        </button>
+
+        <button class="product-card product-card--mega" type="button" role="listitem" data-open-modal="modal-mega" aria-labelledby="mega-card-title">
+          <span class="product-card__frame">
+            <img class="product-card__image" src="./assets/product-mega.jpg" alt="Mega" loading="lazy">
+          </span>
+          <span class="product-card__line" id="mega-card-title">Mega</span>
+          <span class="product-card__size">50–120 cm</span>
+          <span class="product-card__comparison">photo objects</span>
+          <span class="product-card__audience">photo objects, shop-window displays, statement gifts</span>
+          <span class="product-card__price-block">
+            <span class="product-card__price-label">price positioning</span>
+            <span class="product-card__price">Premium</span>
+            <span class="product-card__unit">per unit</span>
+            <span class="product-card__shipping">incl. shipping</span>
+          </span>
+          <span class="product-card__lead">6 weeks</span>
+          <span class="product-card__arrow" aria-hidden="true">↗</span>
+        </button>
+
+        <button class="product-card product-card--architect" type="button" role="listitem" data-open-modal="modal-architect" aria-labelledby="architect-card-title">
+          <span class="product-card__frame">
+            <img class="product-card__image" src="./assets/product-architect.jpg" alt="Architect" loading="lazy">
+          </span>
+          <span class="product-card__line" id="architect-card-title">Architect</span>
+          <span class="product-card__size">1.5–3 m</span>
+          <span class="product-card__comparison">bear-sized</span>
+          <span class="product-card__audience">installations, events, weddings, branded spaces</span>
+          <span class="product-card__price-block">
+            <span class="product-card__price-label">price positioning</span>
+            <span class="product-card__price">Price on request / spec sheet</span>
+          </span>
+          <span class="product-card__lead">12 weeks</span>
+          <span class="product-card__arrow" aria-hidden="true">↗</span>
+        </button>
+      </div>
+
+      <p class="scale-ladder__note">The Architect duck must read as the same duck as the Micro.</p>
+    </section>
+
+    <section class="production section" id="production" aria-labelledby="production-title">
+      <div class="production__layout">
+        <header class="production__intro">
+          <p class="production__sticky">How we make it</p>
+          <h2 class="production__title" id="production-title">Duck body</h2>
+          <p class="production__lead">Turn the most mundane object in the bathroom into a piece of design, a collector's item, and an architectural gesture.</p>
+        </header>
+
+        <div class="production__content">
+          <div class="production__cards">
+            <article class="production__card production__card--body" data-reveal>
+              <span class="production__card-label">Material</span>
+              <h3 class="production__card-title">Duck body</h3>
+              <p class="production__card-copy">Single-piece moulding of vulcanised rubber — food-grade silicone compound (for Micro/Classic) or natural rubber with EPDM additives (for Designer/Mega/Architect). No plastic inserts, no metal inside, no glued seams.</p>
+            </article>
+
+            <article class="production__card production__card--eyes" data-reveal>
+              <span class="production__card-label">Eyes</span>
+              <h3 class="production__card-title">Eyes — paint, not inserts.</h3>
+              <p class="production__card-copy">Eye shape (oval/round/position) is invariant. The same base mould relief across every SKU.</p>
+              <p class="production__card-copy">Eye colour is invariant. Black pupil + white sclera.</p>
+              <p class="production__card-copy">No plastic or vinyl stickers on the body.</p>
+              <p class="production__card-copy">Technically: pigment is applied post-vulcanisation by hand, with food-grade silicone dye that resists UV and water.</p>
+            </article>
+          </div>
+
+          <section class="production__methods" aria-labelledby="methods-title">
+            <h3 class="production__methods-title" id="methods-title">Technology per line</h3>
+            <div class="method-list">
+              <article class="method-item">
+                <h4 class="method-item__name">Micro</h4>
+                <p class="method-item__copy">injection moulding · steel mould, 8 cavities · ~45 s/cycle</p>
+              </article>
+              <article class="method-item">
+                <h4 class="method-item__name">Classic</h4>
+                <p class="method-item__copy">compression moulding · aluminium mould, 1–2 cavities · ~3 min/cycle</p>
+              </article>
+              <article class="method-item">
+                <h4 class="method-item__name">Designer</h4>
+                <p class="method-item__copy">hand-casting in silicone rubber mould (for limited runs ≤300 units) or compression (for runs &gt;300) · silicone mould or aluminium · 1 cycle per day per mould</p>
+              </article>
+              <article class="method-item">
+                <h4 class="method-item__name">Mega</h4>
+                <p class="method-item__copy">rotational moulding · steel split mould, internal fibreglass reinforcing frame (for storage strength) · ~2 h/cycle + 8 h cooling</p>
+              </article>
+              <article class="method-item">
+                <h4 class="method-item__name">Architect</h4>
+                <p class="method-item__copy">sculptural casting against a master · CNC-milled polystyrene master, fibreglass mould, internal steel frame with stiffening ribs · 2–4 weeks per duck</p>
+              </article>
+            </div>
+          </section>
+
+          <section class="quality" aria-labelledby="quality-title">
+            <h3 class="quality__heading" id="quality-title">Quality control</h3>
+            <p class="quality__intro">Every duck goes through 5 checks (Architect gets an extended protocol):</p>
+
+            <ol class="quality-list">
+              <li class="quality-list__item">
+                <span class="quality-list__number">01</span>
+                <strong class="quality-list__name">Visual inspection</strong>
+                <span class="quality-list__copy">no porosity, streaks, or short shots.</span>
+              </li>
+              <li class="quality-list__item">
+                <span class="quality-list__number">02</span>
+                <strong class="quality-list__name">Geometry</strong>
+                <span class="quality-list__copy">beak/eyes/feet present, proportions ±2%.</span>
+              </li>
+              <li class="quality-list__item">
+                <span class="quality-list__number">03</span>
+                <strong class="quality-list__name">Drop test</strong>
+                <span class="quality-list__copy">Micro/Classic: 5 drops from 1 m onto concrete with no cracks.</span>
+              </li>
+              <li class="quality-list__item">
+                <span class="quality-list__number">04</span>
+                <strong class="quality-list__name">Smell test</strong>
+                <span class="quality-list__copy">no “rubbery” smell (sign of poor vulcanisation).</span>
+              </li>
+              <li class="quality-list__item">
+                <span class="quality-list__number">05</span>
+                <strong class="quality-list__name">Gravimetry</strong>
+                <span class="quality-list__copy">mass within ±3% of the reference.</span>
+              </li>
+            </ol>
+
+            <p class="quality__architect">Architect additionally receives: ultrasonic inspection of the frame's welded seams, on-site assembly photo protocol.</p>
+          </section>
+
+          <section class="compliance" aria-labelledby="compliance-title">
+            <h3 class="compliance__title" id="compliance-title">Compliance</h3>
+            <div class="compliance__grid">
+              <article class="compliance__item">
+                <span class="compliance__label">Material certifications</span>
+                <p class="compliance__copy">EN 71-3 (chemical migration), REACH (no phthalates or bisphenol A).</p>
+              </article>
+              <article class="compliance__item">
+                <span class="compliance__label">Age marking on the packaging is mandatory</span>
+                <p class="compliance__copy">Micro 4 cm — 6+, separate sticker — Not for children under 3. Small part.</p>
+                <p class="compliance__copy">Classic — 3+.</p>
+                <p class="compliance__copy">Designer — 6+ (collector's object, not a toy).</p>
+                <p class="compliance__copy">Mega — Not a toy. Decorative object.</p>
+                <p class="compliance__copy">Architect — Installation. Mounting by certified crew only.</p>
+              </article>
+              <article class="compliance__item">
+                <span class="compliance__label">Temperature range</span>
+                <p class="compliance__copy">−20 °C … +60 °C. Above +70 °C — deformation. Below −25 °C — embrittlement (especially Mega/Architect).</p>
+              </article>
+              <article class="compliance__item">
+                <span class="compliance__label">Environment</span>
+                <p class="compliance__copy">indoor only. Protect from direct UV (colour degrades after 2+ years) and from oils/solvents.</p>
+              </article>
+              <article class="compliance__item">
+                <span class="compliance__label">Care</span>
+                <p class="compliance__copy">wash with warm water and mild soap. No abrasives, alcohol, or bleach.</p>
+              </article>
+            </div>
+          </section>
+        </div>
+      </div>
+    </section>
+
+    <section class="custom section" id="custom" aria-labelledby="custom-title">
+      <span class="custom__number" aria-hidden="true">12</span>
+      <div class="custom__layout">
+        <header class="custom__intro">
+          <p class="custom__kicker">B2B / Custom development</p>
+          <h2 class="custom__title" id="custom-title">Custom = picking from a branded palette.</h2>
+          <p class="custom__copy">Segment D gets 12 branded Pantone-equivalents (TPM — Quacktory Pigment Menu), into which the mass is tinted BEFORE moulding. This is not “paint on top” — it's body-through pigment. Lead time and price are predictable.</p>
+          <span class="custom__audience">Brand manager / event</span>
+        </header>
+
+        <div class="custom__details">
+          <article class="custom__detail" data-reveal>
+            <span class="custom__detail-label">Custom colour</span>
+            <h3 class="custom__detail-title">Fully arbitrary colour</h3>
+            <p class="custom__detail-copy">Fully arbitrary colour (a third-party Pantone) is a separate conversation as a new formula development. Separate line in the quote, +2 weeks to the lead time, +15% to the price.</p>
+          </article>
+          <article class="custom__detail" data-reveal>
+            <span class="custom__detail-label">Custom geometry</span>
+            <h3 class="custom__detail-title">A new duck shape</h3>
+            <p class="custom__detail-copy">Custom geometry (a new duck shape, a brand mascot figure) is a separate project with a master model, discussed individually.</p>
+          </article>
+          <article class="custom__detail" data-reveal>
+            <span class="custom__detail-label">TPM</span>
+            <h3 class="custom__detail-title">Quacktory Pigment Menu</h3>
+            <p class="custom__detail-copy">12 branded Pantone-equivalents.</p>
+          </article>
+        </div>
+
+        <section class="custom__lead-times" aria-labelledby="lead-times-title">
+          <h3 class="custom__lead-title" id="lead-times-title">Lead times</h3>
+          <ul class="custom__lead-list">
+            <li class="custom__lead-item">Micro / Classic — 3 weeks.</li>
+            <li class="custom__lead-item">Designer — 6 weeks (design sign-off with the collab author).</li>
+            <li class="custom__lead-item">Mega — 6 weeks.</li>
+            <li class="custom__lead-item">Architect — 12 weeks (including on-site survey and installation).</li>
+          </ul>
+        </section>
+
+        <a class="custom__action button" href="https://quacktory.space/">Request a quote</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__top">
+      <p class="site-footer__wordmark">Quacktory</p>
+      <a class="site-footer__back" href="#top" aria-label="Quacktory">↑</a>
+    </div>
+
+    <div class="site-footer__grid">
+      <section class="site-footer__column">
+        <h2 class="site-footer__label">contacts</h2>
+        <a class="site-footer__link" href="https://quacktory.space/">https://quacktory.space/</a>
+      </section>
+      <section class="site-footer__column">
+        <h2 class="site-footer__label">Payment</h2>
+        <p class="site-footer__copy">price positioning: impulse · mid · mid+ · premium</p>
+        <p class="site-footer__copy">per unit · incl. shipping</p>
+        <p class="site-footer__copy">Price on request / spec sheet</p>
+      </section>
+      <section class="site-footer__column">
+        <h2 class="site-footer__label">Social</h2>
+        <a class="site-footer__link" href="https://quacktory.space/">Quacktory</a>
+      </section>
+      <section class="site-footer__column">
+        <h2 class="site-footer__label">Legal</h2>
+        <p class="site-footer__copy">EN 71-3 (chemical migration) · REACH (no phthalates or bisphenol A).</p>
+        <p class="site-footer__copy">indoor only · −20 °C … +60 °C</p>
+      </section>
+    </div>
+
+    <p class="site-footer__note">Every SKU ships with a care card + a QR code pointing to this Brand DNA page.</p>
+  </footer>
+
+  <div class="product-dialogs">
+    <dialog class="product-dialog" id="modal-micro" aria-labelledby="micro-dialog-title">
+      <div class="product-dialog__panel">
+        <button class="product-dialog__close" type="button" data-dialog-close aria-label="Close">×</button>
+        <div class="product-dialog__media">
+          <img class="product-dialog__image" src="./assets/product-micro.jpg" alt="Micro">
+        </div>
+        <div class="product-dialog__body">
+          <p class="product-dialog__eyebrow">Micro</p>
+          <h2 class="product-dialog__title" id="micro-dialog-title">Micro</h2>
+          <p class="product-dialog__audience">keychains, merch, gifts up to ~$10</p>
+          <dl class="product-dialog__details">
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Size</dt>
+              <dd class="product-dialog__description">4–8 cm (thumb-sized)</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Price</dt>
+              <dd class="product-dialog__description">
+                <span class="product-dialog__price">up to ~$10</span>
+                <span class="product-dialog__price-note">per unit</span>
+                <span class="product-dialog__shipping">incl. shipping</span>
+              </dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Lead time</dt>
+              <dd class="product-dialog__description">3 weeks</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Moulding method</dt>
+              <dd class="product-dialog__description">injection moulding · steel mould, 8 cavities · ~45 s/cycle</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Packaging</dt>
+              <dd class="product-dialog__description">recycled cardboard, no polyethylene</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Shipping</dt>
+              <dd class="product-dialog__description">small-parcel courier, box 12×12×6 cm</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Age marking</dt>
+              <dd class="product-dialog__description">6+, separate sticker — Not for children under 3. Small part.</dd>
+            </div>
+          </dl>
+          <a class="product-dialog__link" href="https://quacktory.space/">Request a quote</a>
+        </div>
+      </div>
+    </dialog>
+
+    <dialog class="product-dialog" id="modal-classic" aria-labelledby="classic-dialog-title">
+      <div class="product-dialog__panel">
+        <button class="product-dialog__close" type="button" data-dialog-close aria-label="Close">×</button>
+        <div class="product-dialog__media">
+          <img class="product-dialog__image" src="./assets/product-classic.jpg" alt="Classic">
+        </div>
+        <div class="product-dialog__body">
+          <p class="product-dialog__eyebrow">Classic</p>
+          <h2 class="product-dialog__title" id="classic-dialog-title">Classic</h2>
+          <p class="product-dialog__audience">kids, bathroom, office</p>
+          <dl class="product-dialog__details">
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Size</dt>
+              <dd class="product-dialog__description">10–25 cm (cat-sized)</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Price</dt>
+              <dd class="product-dialog__description">
+                <span class="product-dialog__price">Mid</span>
+                <span class="product-dialog__price-note">per unit</span>
+                <span class="product-dialog__shipping">incl. shipping</span>
+              </dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Lead time</dt>
+              <dd class="product-dialog__description">3 weeks</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Moulding method</dt>
+              <dd class="product-dialog__description">compression moulding · aluminium mould, 1–2 cavities · ~3 min/cycle</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Packaging</dt>
+              <dd class="product-dialog__description">cardboard + paper-pulp insert</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Shipping</dt>
+              <dd class="product-dialog__description">small-parcel courier, box 26×16×14 cm</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Age marking</dt>
+              <dd class="product-dialog__description">3+.</dd>
+            </div>
+          </dl>
+          <a class="product-dialog__link" href="https://quacktory.space/">Request a quote</a>
+        </div>
+      </div>
+    </dialog>
+
+    <dialog class="product-dialog" id="modal-designer" aria-labelledby="designer-dialog-title">
+      <div class="product-dialog__panel">
+        <button class="product-dialog__close" type="button" data-dialog-close aria-label="Close">×</button>
+        <div class="product-dialog__media">
+          <img class="product-dialog__image" src="./assets/product-designer.jpg" alt="Designer">
+        </div>
+        <div class="product-dialog__body">
+          <p class="product-dialog__eyebrow">Designer</p>
+          <h2 class="product-dialog__title" id="designer-dialog-title">Designer</h2>
+          <p class="product-dialog__audience">illustrator collabs, limited runs</p>
+          <dl class="product-dialog__details">
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Size</dt>
+              <dd class="product-dialog__description">15–30 cm (cat-sized)</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Price</dt>
+              <dd class="product-dialog__description">
+                <span class="product-dialog__price">Mid+</span>
+                <span class="product-dialog__price-note">per unit</span>
+                <span class="product-dialog__shipping">incl. shipping</span>
+              </dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Lead time</dt>
+              <dd class="product-dialog__description">6 weeks</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Moulding method</dt>
+              <dd class="product-dialog__description">hand-casting in silicone rubber mould (for limited runs ≤300 units) or compression (for runs &gt;300) · silicone mould or aluminium · 1 cycle per day per mould</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Packaging</dt>
+              <dd class="product-dialog__description">cardboard with embossing + paper certificate</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Shipping</dt>
+              <dd class="product-dialog__description">small-parcel courier, box 32×22×18 cm</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Age marking</dt>
+              <dd class="product-dialog__description">6+ (collector's object, not a toy).</dd>
+            </div>
+          </dl>
+          <a class="product-dialog__link" href="https://quacktory.space/">Request a quote</a>
+        </div>
+      </div>
+    </dialog>
+
+    <dialog class="product-dialog" id="modal-mega" aria-labelledby="mega-dialog-title">
+      <div class="product-dialog__panel">
+        <button class="product-dialog__close" type="button" data-dialog-close aria-label="Close">×</button>
+        <div class="product-dialog__media">
+          <img class="product-dialog__image" src="./assets/product-mega.jpg" alt="Mega">
+        </div>
+        <div class="product-dialog__body">
+          <p class="product-dialog__eyebrow">Mega</p>
+          <h2 class="product-dialog__title" id="mega-dialog-title">Mega</h2>
+          <p class="product-dialog__audience">photo objects, shop-window displays, statement gifts</p>
+          <dl class="product-dialog__details">
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Size</dt>
+              <dd class="product-dialog__description">50–120 cm</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Price</dt>
+              <dd class="product-dialog__description">
+                <span class="product-dialog__price">Premium</span>
+                <span class="product-dialog__price-note">per unit</span>
+                <span class="product-dialog__shipping">incl. shipping</span>
+              </dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Lead time</dt>
+              <dd class="product-dialog__description">6 weeks</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Moulding method</dt>
+              <dd class="product-dialog__description">rotational moulding · steel split mould, internal fibreglass reinforcing frame (for storage strength) · ~2 h/cycle + 8 h cooling</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Packaging</dt>
+              <dd class="product-dialog__description">double-wall corrugated + foam fitment</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Shipping</dt>
+              <dd class="product-dialog__description">pallet delivery, courier visit required</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Age marking</dt>
+              <dd class="product-dialog__description">Not a toy. Decorative object.</dd>
+            </div>
+          </dl>
+          <a class="product-dialog__link" href="https://quacktory.space/">Request a quote</a>
+        </div>
+      </div>
+    </dialog>
+
+    <dialog class="product-dialog" id="modal-architect" aria-labelledby="architect-dialog-title">
+      <div class="product-dialog__panel">
+        <button class="product-dialog__close" type="button" data-dialog-close aria-label="Close">×</button>
+        <div class="product-dialog__media">
+          <img class="product-dialog__image" src="./assets/product-architect.jpg" alt="Architect">
+        </div>
+        <div class="product-dialog__body">
+          <p class="product-dialog__eyebrow">Architect</p>
+          <h2 class="product-dialog__title" id="architect-dialog-title">Architect</h2>
+          <p class="product-dialog__audience">installations, events, weddings, branded spaces</p>
+          <dl class="product-dialog__details">
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Size</dt>
+              <dd class="product-dialog__description">1.5–3 m (bear-sized)</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Price</dt>
+              <dd class="product-dialog__description">
+                <span class="product-dialog__price">Price on request / spec sheet</span>
+              </dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Lead time</dt>
+              <dd class="product-dialog__description">12 weeks</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Moulding method</dt>
+              <dd class="product-dialog__description">sculptural casting against a master · CNC-milled polystyrene master, fibreglass mould, internal steel frame with stiffening ribs · 2–4 weeks per duck</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Packaging</dt>
+              <dd class="product-dialog__description">wooden crate + climate control</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Shipping</dt>
+              <dd class="product-dialog__description">specialised transport, on-site installation</dd>
+            </div>
+            <div class="product-dialog__detail">
+              <dt class="product-dialog__term">Age marking</dt>
+              <dd class="product-dialog__description">Installation. Mounting by certified crew only.</dd>
+            </div>
+          </dl>
+          <a class="product-dialog__link" href="https://quacktory.space/">Request a quote</a>
+        </div>
+      </div>
+    </dialog>
+  </div>
+<script src="main.js" defer></script>
+</body>
+</html>

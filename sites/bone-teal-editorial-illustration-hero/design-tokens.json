@@ -1,0 +1,20 @@
+{
+  "slug": "resn-co-nz",
+  "palette": {
+    "bg": "#050506",
+    "fg": "#F4F4F4",
+    "accent": "#00D5FF",
+    "muted": "#4A4D52",
+    "ink": "#111214",
+    "surface": "#202226"
+  },
+  "fonts": {
+    "display": "Manrope",
+    "body": "Manrope",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Explore the work"
+}

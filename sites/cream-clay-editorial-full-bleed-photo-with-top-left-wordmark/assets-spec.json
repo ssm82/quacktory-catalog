@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "Editorial-luxury, sculptural minimalism. A monumental classic rubber duck silhouette, scaled to roughly 1.5 metres, finished in a warm amber matte porcelain tone (#8C6E45 sepia), standing centered within a hushed three-arched architectural interior. The duck is placed on location in a gallery-like environment echoing Cartier's champagne-beige salons: warm cream seamless plaster walls deepening to a shadowed #C9B690 in the recessed archways, a single vanishing point aligned with the beak. Soft global window light pours in from an unseen source, casting the gentlest of tonal gradations across the floor, with no hard contrast, no harsh shadow, no product, no people. Subtle film grain visible in the empty foreground. The duck reads as a quiet sculptural object equal to the architecture around it. Plain oval pupil, no decorative glint. Camera: low cinematic three-quarter angle, 16:9, the duck framed by the central portal. Mood: hushed, expensive, gallery-like, monochrome warm beige from #E8D9BE to #8C6E45, ivory (#F4ECD9) ambient light.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Editorial product shot, seamless backdrop in warm cream champagne tone (#E8D9BE), NOT warm amber finish, NOT tinted beyond palette. A miniature classic rubber duck, 4–8 cm, the same signature silhouette as the workhorse SKU, finished in warm amber matte porcelain (#8C6E45), with a small brushed brass split-ring keychain looped discreetly through a tiny hole in the crown. Soft diffused studio lighting, three-point setup, gentle window-like key from camera-left. Camera: front-facing, slightly elevated, 30°. The duck rests on the seamless paper, casting a long, soft, low-contrast shadow in the same warm cream family. Plain oval pupil, no decorative glint. Surface reads as unglazed bisque ceramic, not plastic. Subtle film grain, restrained tonal range, ivory ambient light (#F4ECD9) kissing the curves. The piece reads as a couture accessory rather than a toy, every micro-contour catching muted light. 1:1 square frame.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Editorial product shot, seamless backdrop in warm cream champagne tone (#E8D9BE), NOT warm amber finish, NOT tinted beyond palette. The classic rubber duck, 10–25 cm, the workhorse most-photographed SKU, the canonical silhouette used across the entire range. Warm amber matte porcelain finish (#8C6E45), unglazed bisque-fired ceramic feel, no gloss, no resin shine. Soft diffused studio lighting, three-point setup with a soft window-like key from camera-left and a cool fill from camera-right. Camera: front-facing, slightly elevated, 30°. The duck sits centered on a thin low plinth of the same warm cream tone, casting a long gentle shadow that fades into the seamless paper. Plain oval pupil, no decorative glint. Restrained tonal range from #E8D9BE highlights to #8C6E45 core shadow, ivory (#F4ECD9) ambient lift. Subtle film grain, museum-object-on-paper mood. 1:1 square frame.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Editorial product shot, seamless backdrop in warm cream champagne tone (#E8D9BE), NOT warm amber finish, NOT tinted beyond palette. Designer collaboration edition, 15–30 cm, the same classic rubber duck silhouette as the workhorse SKU, with per-direction couture treatment: warm amber matte porcelain body (#8C6E45) and a hand-painted ivory monogram script (#F4ECD9) along the flank, applied with a single fine brushstroke like a couture signature. Soft diffused studio lighting, three-point. Camera: front-facing, slightly elevated, 30°. The duck rests on a low slab of warm cream plaster, casting a soft elongated shadow. Plain oval pupil, no decorative glint. The painted monogram and the matte ceramic surface catch muted light together, no gloss, no resin shine. Restrained tonal range from #E8D9BE to #8C6E45. Subtle film grain, gallery-like presentation, hushed and expensive. 1:1 square frame.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Editorial product shot, seamless backdrop in warm cream champagne tone (#E8D9BE), NOT warm amber finish, NOT tinted beyond palette. The mega duck, 50–120 cm oversized photo-object, the same classic rubber duck silhouette scaled up, finished in warm amber matte porcelain (#8C6E45), unglazed bisque-fired ceramic, no gloss. Soft diffused studio lighting, three-point setup, soft window-like key from camera-left. Camera: front-facing, slightly elevated, 30°, the duck dominates the 1:1 frame, its base hidden by a soft tonal gradient that blends into the seamless paper. Plain oval pupil, no decorative glint. The scale gives the piece the presence of a gallery sculpture on a warm cream cyclorama. Restrained tonal range from #E8D9BE highlights to #8C6E45 core shadow, with ivory (#F4ECD9) ambient lift. Subtle film grain, low contrast, hushed and monumental. 1:1 square frame.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Editorial product shot, seamless backdrop in warm cream champagne tone (#E8D9BE), NOT warm amber finish, NOT tinted beyond palette. The architect duck, 1.5–3 metre statement installation, the same classic rubber duck silhouette scaled to monumental, finished in warm amber matte porcelain (#8C6E45), unglazed ceramic, no gloss, no resin shine. Soft diffused studio lighting, three-point setup, soft window-like key from camera-left. Camera: front-facing, slightly elevated, 30°, the duck is so large it fills the 1:1 frame as a single sweeping contour, with a tonal gradient from #E8D9BE highlight at the crown to #8C6E45 deep shadow at the belly, blending the base into the seamless paper. Plain oval pupil, no decorative glint. It reads as a museum installation rather than a product, a singular sculptural object on a warm paper cyclorama. Subtle film grain, hushed, expensive, gallery-like, ivory (#F4ECD9) ambient light. 1:1 square frame.",
+    "aspect_ratio": "1:1"
+  }
+]

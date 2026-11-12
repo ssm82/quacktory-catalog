@@ -1,0 +1,400 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quacktory — Serious ducks for not-so-serious people</title>
+  <meta name="description" content="Quacktory. Rubber ducks from 4 cm to 3 m. Solid rubber, no seams, no plastic.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400;1,500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Ambient background layer -->
+  <div class="ambient" aria-hidden="true">
+    <div class="ambient-glow ambient-glow--warm"></div>
+    <div class="ambient-glow ambient-glow--cool"></div>
+    <div class="ambient-grain"></div>
+  </div>
+
+  <!-- Top utility bar -->
+  <header class="topbar" role="banner">
+    <a href="#" class="brandmark" aria-label="Quacktory — home">
+      <span class="brandmark__disc"><span class="brandmark__glyph">Q.</span></span>
+      <span class="brandmark__name">Quacktory</span>
+    </a>
+    <nav class="topbar__nav" aria-label="primary">
+      <a href="#scale" class="topbar__link">Scale</a>
+      <a href="#lineup" class="topbar__link">Lineup</a>
+      <a href="#process" class="topbar__link">Process</a>
+      <a href="#bespoke" class="topbar__link">Bespoke</a>
+      <span class="topbar__divider" aria-hidden="true">/</span>
+      <a href="#contact" class="topbar__link topbar__link--accent">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- HERO — cinematic dark, circular focal, oversized serif overlapping -->
+    <section class="hero" aria-labelledby="hero-eyebrow">
+
+      <span class="hero__eyebrow" id="hero-eyebrow">№ 001 — The Manifesto</span>
+
+      <h1 class="hero__headline">
+        <span class="hero__line">Serious</span>
+        <span class="hero__line hero__line--italic">ducks</span>
+        <span class="hero__line">for not-so-serious</span>
+        <span class="hero__line">people.</span>
+      </h1>
+
+      <p class="hero__manifesto">
+        We make ducks you don't want to put in the bath — you want to put on a shelf. Small ones fit in a pocket. Big ones belong in the foyer. All of them belong in frame.
+      </p>
+
+      <figure class="hero__frame">
+        <div class="hero__orbit" aria-hidden="true"></div>
+        <div class="hero__ring" aria-hidden="true"></div>
+        <img class="hero__image" src="./assets/hero-lifestyle.jpg" alt="Macro shot of a Quacktory duck: copper on muted teal" />
+        <span class="hero__caption">macro · copper on teal · 1/1</span>
+      </figure>
+
+      <a href="#scale" class="hero__cta" aria-label="Step inside Quacktory">
+        <span class="hero__cta-disc">Step<br>inside</span>
+      </a>
+
+      <span class="hero__scroll" aria-hidden="true">scroll</span>
+    </section>
+
+    <!-- SCALE — horizontal axis timeline (crit's "hairline + markers" translated to brand's size taxonomy) -->
+    <section class="scale" id="scale" aria-labelledby="scale-title">
+      <header class="scale__head">
+        <span class="section__eyebrow">№ 002 — Scale</span>
+        <h2 class="section__title" id="scale-title">From thumb to lobby.</h2>
+        <p class="section__lede">One silhouette. Five scales. The same duck — but under different gravity. The Architect's body remains "the same" as Micro's; proportions don't scale linearly.</p>
+      </header>
+
+      <div class="scale__rail" role="list" aria-label="Five Quacktory size lines: from 4 cm to 3 m">
+        <div class="scale__rule" aria-hidden="true"></div>
+        <div class="scale__rule scale__rule--ghost" aria-hidden="true"></div>
+
+        <article class="scale__node scale__node--micro" role="listitem" data-sku="Micro">
+          <span class="scale__label">Micro</span>
+          <span class="scale__size">4–8<span class="scale__unit"> cm</span></span>
+          <span class="scale__meta">like a thumb</span>
+          <span class="scale__dot" aria-hidden="true"></span>
+          <span class="scale__hint">keychain</span>
+        </article>
+
+        <article class="scale__node scale__node--classic" role="listitem" data-sku="Classic">
+          <span class="scale__label">Classic</span>
+          <span class="scale__size">10–25<span class="scale__unit"> cm</span></span>
+          <span class="scale__meta">like a bread loaf</span>
+          <span class="scale__dot" aria-hidden="true"></span>
+          <span class="scale__hint">bath, office</span>
+        </article>
+
+        <article class="scale__node scale__node--designer" role="listitem" data-sku="Designer">
+          <span class="scale__label">Designer</span>
+          <span class="scale__size">15–30<span class="scale__unit"> cm</span></span>
+          <span class="scale__meta">like a cat</span>
+          <span class="scale__dot" aria-hidden="true"></span>
+          <span class="scale__hint">collabs, limited</span>
+        </article>
+
+        <article class="scale__node scale__node--mega" role="listitem" data-sku="Mega">
+          <span class="scale__label">Mega</span>
+          <span class="scale__size">50–120<span class="scale__unit"> cm</span></span>
+          <span class="scale__meta">like a child</span>
+          <span class="scale__dot" aria-hidden="true"></span>
+          <span class="scale__hint">window, photo</span>
+        </article>
+
+        <article class="scale__node scale__node--architect" role="listitem" data-sku="Architect">
+          <span class="scale__label">Architect</span>
+          <span class="scale__size">1.5–3<span class="scale__unit"> m</span></span>
+          <span class="scale__meta">like a bear</span>
+          <span class="scale__dot" aria-hidden="true"></span>
+          <span class="scale__hint">installation</span>
+        </article>
+      </div>
+    </section>
+
+    <!-- LINEUP — scene-based presentation of the five SKUs -->
+    <section class="lineup" id="lineup" aria-labelledby="lineup-title">
+      <header class="lineup__head">
+        <div>
+          <span class="section__eyebrow">№ 003 — Lineup</span>
+          <h2 class="section__title" id="lineup-title">The five.</h2>
+        </div>
+        <p class="lineup__lede">Each line is its own technology, its own tooling, its own lead time. Open a card to see production, pricing, and age guidance.</p>
+      </header>
+
+      <div class="lineup__grid">
+
+        <article class="card card--micro" data-sku="Micro" data-modal="modal-micro">
+          <div class="card__photo">
+            <img src="./assets/product-micro.jpg" alt="Quacktory Micro — 4–8 cm, keychain" />
+            <span class="card__glow"></span>
+          </div>
+          <div class="card__meta">
+            <span class="card__tag">001 / Five</span>
+            <h3 class="card__title">Micro</h3>
+            <p class="card__size">4–8 cm · keychain, merch, gift</p>
+            <p class="card__price">from $7<span class="card__price-note">per piece · incl. domestic shipping</span></p>
+            <span class="card__age">6+ · small part</span>
+          </div>
+        </article>
+
+        <article class="card card--classic" data-sku="Classic" data-modal="modal-classic">
+          <div class="card__photo">
+            <img src="./assets/product-classic.jpg" alt="Quacktory Classic — 10–25 cm, bath and office" />
+            <span class="card__glow"></span>
+          </div>
+          <div class="card__meta">
+            <span class="card__tag">002 / Five</span>
+            <h3 class="card__title">Classic</h3>
+            <p class="card__size">10–25 cm · kids, bath, office</p>
+            <p class="card__price">from $18<span class="card__price-note">per piece · incl. domestic shipping</span></p>
+            <span class="card__age">3+</span>
+          </div>
+        </article>
+
+        <article class="card card--designer" data-sku="Designer" data-modal="modal-designer">
+          <div class="card__photo">
+            <img src="./assets/product-designer.jpg" alt="Quacktory Designer — 15–30 cm, limited collaboration" />
+            <span class="card__glow"></span>
+          </div>
+          <div class="card__meta">
+            <span class="card__tag">003 / Five</span>
+            <h3 class="card__title">Designer</h3>
+            <p class="card__size">15–30 cm · collabs with illustrators</p>
+            <p class="card__price">from $55<span class="card__price-note">per piece · incl. domestic shipping</span></p>
+            <span class="card__age">6+ · collectible</span>
+          </div>
+        </article>
+
+        <article class="card card--mega" data-sku="Mega" data-modal="modal-mega">
+          <div class="card__photo">
+            <img src="./assets/product-mega.jpg" alt="Quacktory Mega — 50–120 cm, photo object" />
+            <span class="card__glow"></span>
+          </div>
+          <div class="card__meta">
+            <span class="card__tag">004 / Five</span>
+            <h3 class="card__title">Mega</h3>
+            <p class="card__size">50–120 cm · window, photo, gift</p>
+            <p class="card__price">from $350<span class="card__price-note">per piece · pallet delivery</span></p>
+            <span class="card__age">art object, not a toy</span>
+          </div>
+        </article>
+
+        <article class="card card--architect" data-sku="Architect" data-modal="modal-architect">
+          <div class="card__photo">
+            <img src="./assets/product-architect.jpg" alt="Quacktory Architect — 1.5–3 m, installation" />
+            <span class="card__glow"></span>
+          </div>
+          <div class="card__meta">
+            <span class="card__tag">005 / Five</span>
+            <h3 class="card__title">Architect</h3>
+            <p class="card__size">1.5–3 m · installation, events</p>
+            <p class="card__price">on request<span class="card__price-note">product passport · 12 weeks</span></p>
+            <span class="card__age">installation · adult</span>
+          </div>
+        </article>
+
+      </div>
+    </section>
+
+    <!-- MODALS — one per SKU -->
+    <div class="modal" id="modal-micro" hidden aria-hidden="true">
+      <div class="modal__backdrop" data-close></div>
+      <div class="modal__panel" role="dialog" aria-modal="true" aria-labelledby="modal-micro-title">
+        <button class="modal__close" data-close aria-label="Close">×</button>
+        <span class="modal__tag">№ 001 / Micro</span>
+        <h3 class="modal__title" id="modal-micro-title">An everyday keychain.</h3>
+        <p class="modal__copy">Single-piece cast from a food-grade silicone compound. Injection molding under pressure, steel mold, 8 cavities, 45 seconds per cycle. Drop test: 5 times from 1 m onto concrete, no cracks. Not for children under 3 — small part.</p>
+        <dl class="modal__spec">
+          <div><dt>Size</dt><dd>4–8 cm · like a thumb</dd></div>
+          <div><dt>Price</dt><dd>from $7 · incl. shipping</dd></div>
+          <div><dt>Lead time</dt><dd>today</dd></div>
+          <div><dt>Age</dt><dd>6+</dd></div>
+        </dl>
+      </div>
+    </div>
+
+    <div class="modal" id="modal-classic" hidden aria-hidden="true">
+      <div class="modal__backdrop" data-close></div>
+      <div class="modal__panel" role="dialog" aria-modal="true" aria-labelledby="modal-classic-title">
+        <button class="modal__close" data-close aria-label="Close">×</button>
+        <span class="modal__tag">№ 002 / Classic</span>
+        <h3 class="modal__title" id="modal-classic-title">The duck that lives on a shelf.</h3>
+        <p class="modal__copy">Food-grade silicone, compression molding. Aluminum mold, 1–2 cavities, ~3 minutes per cycle. Five control stages: visual, geometry ±2%, five drops from 1 m, odor test, gravimetry ±3% of the reference. No "rubber" smell.</p>
+        <dl class="modal__spec">
+          <div><dt>Size</dt><dd>10–25 cm · like a bread loaf</dd></div>
+          <div><dt>Price</dt><dd>from $18 · incl. shipping</dd></div>
+          <div><dt>Lead time</dt><dd>3 weeks</dd></div>
+          <div><dt>Age</dt><dd>3+</dd></div>
+        </dl>
+      </div>
+    </div>
+
+    <div class="modal" id="modal-designer" hidden aria-hidden="true">
+      <div class="modal__backdrop" data-close></div>
+      <div class="modal__panel" role="dialog" aria-modal="true" aria-labelledby="modal-designer-title">
+        <button class="modal__close" data-close aria-label="Close">×</button>
+        <span class="modal__tag">№ 003 / Designer</span>
+        <h3 class="modal__title" id="modal-designer-title">Collaboration. Limited. Story.</h3>
+        <p class="modal__copy">Natural rubber with EPDM additives. Hand-poured in a silicone mold (runs ≤300 pcs) or compression (above 300). One cycle per day per mold. Each batch is design-approved with the collab's author. Packaging: embossed cardboard and a paper certificate.</p>
+        <dl class="modal__spec">
+          <div><dt>Size</dt><dd>15–30 cm · like a cat</dd></div>
+          <div><dt>Price</dt><dd>from $55 · incl. shipping</dd></div>
+          <div><dt>Lead time</dt><dd>6 weeks</dd></div>
+          <div><dt>Age</dt><dd>6+ · collectible</dd></div>
+        </dl>
+      </div>
+    </div>
+
+    <div class="modal" id="modal-mega" hidden aria-hidden="true">
+      <div class="modal__backdrop" data-close></div>
+      <div class="modal__panel" role="dialog" aria-modal="true" aria-labelledby="modal-mega-title">
+        <button class="modal__close" data-close aria-label="Close">×</button>
+        <span class="modal__tag">№ 004 / Mega</span>
+        <h3 class="modal__title" id="modal-mega-title">An object, not a toy.</h3>
+        <p class="modal__copy">Rotational molding. Steel split mold, internal fiberglass reinforcing frame. Two hours per cycle, eight hours cooling. Pallet delivery, courier visit required. Corrugated box with foam insert. Not for direct UV — color degrades within 2+ years.</p>
+        <dl class="modal__spec">
+          <div><dt>Size</dt><dd>50–120 cm · like a child</dd></div>
+          <div><dt>Price</dt><dd>from $350 · pallet</dd></div>
+          <div><dt>Lead time</dt><dd>6 weeks</dd></div>
+          <div><dt>Age</dt><dd>art object, not a toy</dd></div>
+        </dl>
+      </div>
+    </div>
+
+    <div class="modal" id="modal-architect" hidden aria-hidden="true">
+      <div class="modal__backdrop" data-close></div>
+      <div class="modal__panel" role="dialog" aria-modal="true" aria-labelledby="modal-architect-title">
+        <button class="modal__close" data-close aria-label="Close">×</button>
+        <span class="modal__tag">№ 005 / Architect</span>
+        <h3 class="modal__title" id="modal-architect-title">A duck for the foyer.</h3>
+        <p class="modal__copy">Sculptural cast from a master model. CNC-milled polystyrene, fiberglass mold, internal steel frame with stiffening ribs. Ultrasonic inspection of frame welds, photo installation protocol. Wooden crate, climate control, installation by a certified crew.</p>
+        <dl class="modal__spec">
+          <div><dt>Size</dt><dd>1.5–3 m · like a bear</dd></div>
+          <div><dt>Price</dt><dd>on request · passport</dd></div>
+          <div><dt>Lead time</dt><dd>12 weeks · including survey</dd></div>
+          <div><dt>Age</dt><dd>installation · adult</dd></div>
+        </dl>
+      </div>
+    </div>
+
+    <!-- PROCESS — How we make -->
+    <section class="process" id="process" aria-labelledby="process-title">
+      <header class="process__head">
+        <span class="section__eyebrow">№ 004 — Process</span>
+        <h2 class="section__title" id="process-title">Solid rubber. No seams.</h2>
+        <p class="section__lede">The duck's body is a single cast. The eyes are pigment, hand-applied after vulcanization. No plastic inserts, no metal inside, no glued seams. The shape and placement of the eyes are invariant; we don't add eye decor because the editorial register doesn't call for it.</p>
+      </header>
+
+      <div class="process__grid">
+        <article class="step">
+          <span class="step__num">01 — Material</span>
+          <h3 class="step__title">What's inside.</h3>
+          <p class="step__copy">Food-grade silicone compound for Micro and Classic. Natural rubber with EPDM additives for Designer, Mega, and Architect. Certifications: GOST 25779-83, EN 71-3 (chemical migration), REACH — free of phthalates and bisphenol A.</p>
+        </article>
+        <article class="step">
+          <span class="step__num">02 — Mold</span>
+          <h3 class="step__title">Tooling.</h3>
+          <p class="step__copy">Steel for serial runs, aluminum for small runs, silicone flask for limited editions, fiberglass and steel frame for Architect. The Architect's master model is CNC-milled polystyrene.</p>
+        </article>
+        <article class="step">
+          <span class="step__num">03 — Cast</span>
+          <h3 class="step__title">Cycle.</h3>
+          <p class="step__copy">Injection — 45 seconds. Compression — 3 minutes. Flask — one cycle per day. Rotational — 2 hours plus 8 hours cooling. The Architect master model — 2–4 weeks per duck.</p>
+        </article>
+        <article class="step">
+          <span class="step__num">04 — Paint</span>
+          <h3 class="step__title">Eyes.</h3>
+          <p class="step__copy">Black pupil, white sclera. Pigment is applied by hand after vulcanization, using food-grade silicone dye that's UV- and water-resistant. One base mold relief across all SKUs.</p>
+        </article>
+        <article class="step">
+          <span class="step__num">05 — QC</span>
+          <h3 class="step__title">Five checks.</h3>
+          <p class="step__copy">Visual, geometry ±2%, five drops from 1 m onto concrete, odor test (no "rubber" smell), gravimetry ±3%. For Architect additionally: ultrasonic inspection of frame welds, photo installation protocol.</p>
+        </article>
+        <article class="step">
+          <span class="step__num">06 — Pack</span>
+          <h3 class="step__title">Packaging.</h3>
+          <p class="step__copy">Recycled cardboard without polyethylene. Paper pulp insert. Corrugated box for Mega, wooden crate with climate control for Architect. Every box includes a care card and a QR to this page.</p>
+        </article>
+      </div>
+
+      <aside class="process__care">
+        <h3 class="care__title">Care.</h3>
+        <p class="care__copy">Warm water and mild soap. No abrasives, alcohols, or bleach. Operating range: −20 °C … +60 °C. Above +70 °C — deformation, below −25 °C — embrittlement (especially for Mega and Architect). Indoor only. No direct UV and no oils or solvents.</p>
+      </aside>
+    </section>
+
+    <!-- BESPOKE / B2B -->
+    <section class="bespoke" id="bespoke" aria-labelledby="bespoke-title">
+      <div class="bespoke__inner">
+        <span class="section__eyebrow">№ 005 — Bespoke</span>
+        <h2 class="section__title" id="bespoke-title">Custom color — from the palette.</h2>
+        <p class="bespoke__copy">B2B segment gets 12 signature Pantone equivalents — the Quacktory Pigment Menu. Pigment in the mass, before casting. Not surface paint. Fully custom color (third-party Pantone) is a separate new-formula development: +2 weeks to lead time, +15% to price. Custom geometry is a separate project with its own master model.</p>
+
+        <ul class="bespoke__palette" aria-label="TPM — Quacktory Pigment Menu (sample)">
+          <li><span style="--c:#B86A3A"></span>TPM 01</li>
+          <li><span style="--c:#7FA0A8"></span>TPM 02</li>
+          <li><span style="--c:#D9B384"></span>TPM 03</li>
+          <li><span style="--c:#5C4742"></span>TPM 04</li>
+          <li><span style="--c:#3E5258"></span>TPM 05</li>
+          <li><span style="--c:#A85A2C"></span>TPM 06</li>
+        </ul>
+
+        <a href="#contact" class="bespoke__cta">Request a quote <span aria-hidden="true">→</span></a>
+      </div>
+    </section>
+
+    <!-- FOOTER / CONTACT -->
+    <footer class="foot" id="contact" role="contentinfo">
+      <div class="foot__top">
+        <div class="foot__brand">
+          <span class="brandmark__disc brandmark__disc--lg"><span class="brandmark__glyph">Q.</span></span>
+          <h2 class="foot__claim">Serious ducks<br>for not-so-serious people.</h2>
+        </div>
+        <div class="foot__cols">
+          <div>
+            <span class="foot__heading">Studio</span>
+            <a href="mailto:hello@quacktory.space">hello@quacktory.space</a>
+            <a href="tel:+74950000000">+7 495 000 00 00</a>
+            <p>Moscow, Bolshaya Novodmitrovskaya, 36/4</p>
+          </div>
+          <div>
+            <span class="foot__heading">Bespoke / B2B</span>
+            <a href="mailto:b2b@quacktory.space">b2b@quacktory.space</a>
+            <p>Lead time: 3–12 weeks</p>
+            <p>Min. order — on request</p>
+          </div>
+          <div>
+            <span class="foot__heading">Compliance</span>
+            <a href="#">GOST 25779-83</a>
+            <a href="#">EN 71-3</a>
+            <a href="#">REACH</a>
+          </div>
+          <div>
+            <span class="foot__heading">Follow</span>
+            <a href="#">Instagram</a>
+            <a href="#">Telegram</a>
+            <a href="#">YouTube</a>
+          </div>
+        </div>
+      </div>
+      <div class="foot__bottom">
+        <span>© 2026 Quacktory. All ducks are accounted for.</span>
+        <span>Palette: copper + teal · Register: editorial</span>
+      </div>
+    </footer>
+
+  </main>
+<script src="main.js" defer></script>
+</body>
+</html>

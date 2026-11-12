@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A monumental classic rubber duck as the singular editorial centrepiece in a high-contrast black studio. The duck is rendered in a saturated red-orange warm vermillion matte porcelain finish (#E5341A), identical in silhouette to the standard SKU: rounded teardrop body, small spherical head, short upturned beak, two small webbed feet, classic tail tuft. The seamless backdrop is a deep near-black #0A0A0A tone, with no warm amber finish tint, no warm wash, no colour cast. The duck is shot from a slightly low three-quarter angle to read as monumental sculpture, with hero_pattern A: duck-as-monumental-centrepiece. Lighting is a single soft window-style key from upper left, gently modelling the matte porcelain surface, with a faint rim light separating the red-orange body from the black field. Plain oval pupils, no decorative glint, no catchlight. Anton-style oversized display typography bleeds off the top and bottom edges of the frame as graphic black-and-white horizontal bands, treating the duck as a typographic counter-form. Editorial mood, restrained, contemporary, fashion-magazine on black."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A micro 5cm classic rubber duck, keychain scale, photographed in a clean editorial product shot. Same silhouette as all SKUs across the lineup: rounded teardrop body, small spherical head, short upturned beak, two small webbed feet, classic tail tuft. Finish is matte porcelain in a saturated red-orange warm vermillion tone (#E5341A), never warm amber finish, never amber-warmed. Seamless backdrop in deep near-black #0A0A0A, completely neutral with no tint, no cast, no gradient, no colour bleed. Front-facing camera angle, slightly elevated 30°, with soft diffused three-point studio lighting that wraps evenly around the small form: gentle key, low fill, controlled rim. Plain oval pupils, no sparkle, no catchlight, no decorative glint. The duck reads as a small sculptural object, matte and quiet, with subtle red-orange warmth against the black field. Editorial restraint, fashion-magazine sensibility on a dark studio sweep, no props, no surface noise, no clutter."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The classic 18cm rubber duck, the workhorse SKU and most-photographed form. Identical silhouette to the rest of the lineup: rounded teardrop body, small spherical head, short upturned beak, two small webbed feet, classic tail tuft. Matte porcelain surface in saturated red-orange warm vermillion (#E5341A), not warm amber finish, not amber-warmed, not tinted. Seamless backdrop in deep near-black #0A0A0A studio sweep, no colour cast, no gradient. Front-facing, slightly elevated 30° product camera angle. Soft diffused three-point studio lighting with a gentle key from upper left, low-contrast fill, soft back rim to separate the warm body from the black field. Plain oval pupils, no decorative glint, no catchlight, no sparkle. The duck reads as a quiet, restrained object — porcelain sculpture rather than toy — set against editorial darkness, with the Anton display type system implied in the surrounding negative space."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The 22cm designer collaboration edition rubber duck. Silhouette is identical to every other SKU: rounded teardrop body, small spherical head, short upturned beak, two small webbed feet, classic tail tuft. The body is a saturated red-orange warm vermillion matte porcelain (#E5341A), with a fine moiré-style curved line screen subtly etched into the surface as a graphic treatment — a quiet nod to editorial print systems. Seamless backdrop in deep near-black #0A0A0A, no tint, no warm amber finish wash, no warm cast. Front-facing, slightly elevated 30° product camera. Soft diffused three-point studio lighting, even and editorial, with a delicate rim separating the warm body from the black void. Plain oval pupils, no sparkle, no catchlight, no decorative glint. A small red-orange (#E5341A) square mark is debossed on the duck's flank as a designer signature. Restrained, contemporary, fashion-magazine on black, never loud."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The 80cm mega rubber duck, a photo-object at architectural-adjacent scale. Identical silhouette across the lineup: rounded teardrop body, small spherical head, short upturned beak, two small webbed feet, classic tail tuft. Saturated red-orange warm vermillion matte porcelain finish (#E5341A), no warm amber finish cast, no amber warming, no tint. Seamless backdrop in deep near-black #0A0A0A studio sweep, completely neutral, no gradient, no colour cast. Front-facing, slightly elevated 30° product camera angle, the form filling the frame at this scale. Soft diffused three-point studio lighting: a broad soft key from upper left, gentle fill, a clean controlled white rim to separate the warm body from the black void. Plain oval pupils, no decorative glint, no catchlight, no sparkle. The duck reads as a single sculptural object — large but quiet, matte, editorial, fashion-magazine on black. No props, no surface texture, no distractions, no clutter."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The 2m architect-scale rubber duck, a statement installation object reading as monumental sculpture. Silhouette is identical to every other SKU in the lineup: rounded teardrop body, small spherical head, short upturned beak, two small webbed feet, classic tail tuft — only the apparent scale shifts. Saturated red-orange warm vermillion matte porcelain (#E5341A), never warm amber finish, never amber-warmed. Seamless backdrop in deep near-black #0A0A0A studio void, no colour cast, no tint, no warm wash, no gradient. Front-facing, slightly elevated 30° camera angle, reading the duck as monumental sculpture at human-installation scale. Soft diffused three-point studio lighting with a broad soft key, even fill, and a controlled rim that picks out the silhouette against the black field. Plain oval pupils, no sparkle, no catchlight, no decorative glint. The duck feels like a fashion-week installation piece — quiet, restrained, editorial, set in a black gallery. Anton display typography is implied in the negative space. No props, no clutter."
+  }
+]

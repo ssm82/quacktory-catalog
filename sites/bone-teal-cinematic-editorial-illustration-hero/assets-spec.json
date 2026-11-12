@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A monumental classic rubber duck rendered as a colossal iridescent cyan centrepiece on a seamless backdrop in #0A1F24 deep teal tone, NOT warm amber finish, NOT tinted beyond palette. The duck body sits in lacquered iridescent cool cyan #5BE9FF with subtle fresnel hints of magenta and violet along the rim, monumental in scale relative to the frame. Cinematic single hard key light from upper left, sharp rim light tracing the right silhouette edge, soft cyan glow halo bleeding into the dark teal void. A faint hexagonal monogram embossed on the chest catches the key light. Plain oval pupil, no decorative glint. Front-facing with a slight low-angle tilt, the rubber duck dominates the frame like an exhibit object. Subtle dust particles drift in the volumetric light beam. Editorial depth of field, no other props, no floor line, the duck as monumental hero centrepiece."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 4-8cm keychain-scale classic rubber duck silhouette in lacquered cool cyan #5BE9FF on a seamless backdrop in #0A1F24 deep teal tone, NOT warm amber finish, NOT tinted beyond palette. A tiny split-ring metal attachment sits at the crown suggesting keychain use. Front-facing, slightly elevated, 30° product shot. Cinematic single hard key light from upper left, sharp rim light tracing the right edge, soft diffused fill from below. Plain oval pupil, no decorative glint, no catchlight. Iridescent holographic fresnel along the beak and tail seam, magenta and violet micro-reflections at the edge. Crisp specular highlight on the rounded crown, lacquered surface reads as molded resin. Subtle cyan contact shadow on the seamless. Centered, isolated, no props, no horizon line."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 10-25cm classic rubber duck silhouette in lacquered cool cyan #5BE9FF on a seamless backdrop in #0A1F24 deep teal tone, NOT warm amber finish, NOT tinted beyond palette. The workhorse SKU, photographed front-facing, slightly elevated, 30° product angle. Cinematic single hard key light from camera left, crisp rim light along the right contour, soft diffused fill from below. Plain oval pupil, no decorative glint, no sparkle. Iridescent holographic fresnel shimmer along the rounded back, magenta and violet micro-reflections at the edges. Specular highlight tight and bright on the crown, lacquered surface reads as molded resin. Subtle cyan-tinted contact shadow on the seamless. Centered, isolated, no props, no horizon line, the rubber duck as the sole subject of the frame."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 15-30cm collaboration-edition classic rubber duck silhouette with an iridescent holographic lacquered finish in cool cyan #5BE9FF dominant, reading magenta, lime, and violet along the fresnel edges, on a seamless backdrop in #0A1F24 deep teal tone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated, 30° product angle. Cinematic hard key light, sharp rim light, low diffused fill. Plain oval pupil, no decorative glint. A subtle embossed hexagonal monogram is visible on the chest catching the key light. The duck reads as a designer object — surface quality is the focus, every contour carries a chromatic edge. Crisp specular highlight on the crown, iridescent color shift as the surface rolls through the light, lacquered depth. Centered, isolated, no props."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 50-120cm mega-scale classic rubber duck silhouette in lacquered cool cyan #5BE9FF on a seamless backdrop in #0A1F24 deep teal tone, NOT warm amber finish, NOT tinted beyond palette. Monumental product object, front-facing, slightly elevated, 30° angle. Cinematic single hard key light from upper left, sharp rim light tracing the right silhouette, soft cyan gel bounce from below. Plain oval pupil, no decorative glint. Iridescent fresnel along the body seam, magenta and violet shifts. The rubber duck fills the frame as a photo-object — surface scale, lacquered specular highlights, deep teal contact shadow. Centered, isolated, no props, no horizon line, the duck commanding the entire square frame as a sculpted object."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 1.5-3m statement-installation classic rubber duck silhouette in lacquered cool cyan #5BE9FF on a seamless backdrop in #0A1F24 deep teal tone, NOT warm amber finish, NOT tinted beyond palette. Architectural scale, presented as a museum-install photo-object. Front-facing, slightly elevated, 30° product angle but the scale reads as oversized, the duck larger than a person. Cinematic hard key light, sharp rim light, soft diffused fill. Plain oval pupil, no decorative glint. Iridescent holographic surface with magenta and violet fresnel, the body catches light like a sculpture. The rubber duck is the room — its lacquered surface reflects the dark teal void, specular highlight on the crown, soft cyan ground shadow implying a vast plinth. No props, no horizon line, the duck as standalone installation."
+  }
+]

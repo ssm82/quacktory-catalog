@@ -1,0 +1,20 @@
+{
+  "slug": "oryzo-ai",
+  "palette": {
+    "bg": "#2E4A36",
+    "fg": "#F4E5C6",
+    "accent": "#D8742A",
+    "muted": "#B07A3E",
+    "ink": "#1F3325",
+    "surface": "#B6B89A"
+  },
+  "fonts": {
+    "display": "Anton",
+    "body": "Playfair Display",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Scroll to continue"
+}

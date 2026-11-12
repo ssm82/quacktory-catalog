@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck in a warm amber-red matte porcelain finish, centered as a towering sculptural centrepiece against a seamless backdrop in deep charcoal #1B1B1B tone, NOT warm amber finish, NOT tinted beyond palette. Editorial register: matte porcelain surface, no gloss, soft window light raking from the upper left and casting a long, gentle shadow across the floor. The duck is rendered at heroic scale, occupying roughly 70% of the frame height, viewed from a low cinematic angle to amplify monumentality. Plain oval pupils with no decorative glint. A subtle red duotone wash pools at the duck's base, echoing the brand's saturated red accent. Background fades to deep charcoal, no horizon line, no props, no surface texture. Silhouette identical to the product line: rounded body, upturned tail, flat paddle feet, conical beak. Single soft key light from above-left, no rim. 16:9 aspect ratio.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A miniature classic rubber duck approximately 5 cm tall in a warm amber-red matte porcelain finish, photographed front-facing, slightly elevated at 30° against a seamless backdrop in deep charcoal #1B1B1B tone, NOT warm amber finish, NOT tinted beyond palette. Editorial register: matte porcelain surface, no gloss. Soft diffused studio three-point lighting with even illumination and no hard shadows. Plain oval pupils with no decorative glint. A small keychain eyelet is visible through the top of the head, signaling micro SKU scale. The duck occupies roughly 60% of frame width, centered, with generous negative space. No props, no horizon line, no surface texture. Silhouette identical across the line: rounded body, upturned tail, flat paddle feet, conical beak. Seamless charcoal field, 1:1 aspect ratio.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "A classic rubber duck approximately 15 cm tall in a warm amber-red matte porcelain finish, photographed front-facing, slightly elevated at 30° against a seamless backdrop in deep charcoal #1B1B1B tone, NOT warm amber finish, NOT tinted beyond palette. Editorial register: matte porcelain surface on warm paper-like ground, no gloss, no resin sheen. Soft diffused studio three-point lighting with even, quiet illumination and no hard shadows. Plain oval pupils with no decorative glint. The duck occupies roughly 65% of frame width, centered, with comfortable breathing room on all sides. No props, no horizon line, no surface texture. Silhouette identical across the line: rounded body, upturned tail, flat paddle feet, conical beak. Seamless charcoal field, 1:1 aspect ratio.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A classic rubber duck approximately 20 cm tall in a warm amber-red matte porcelain finish, treated as a collaboration edition with editorial refinement, photographed front-facing, slightly elevated at 30° against a seamless backdrop in deep charcoal #1B1B1B tone, NOT warm amber finish, NOT tinted beyond palette. Editorial register: matte porcelain surface, no gloss, no resin sheen. Soft diffused studio three-point lighting. Plain oval pupils with no decorative glint. A subtle embossed geometric line motif — squared counters and equal-stroke hairlines — runs along the duck's flank, echoing the brand's geometric display type. The duck occupies roughly 65% of frame width, centered, isolated. No props, no horizon, no surface texture. Silhouette identical across the line: rounded body, upturned tail, flat paddle feet, conical beak. Seamless charcoal field, 1:1 aspect ratio.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A large classic rubber duck approximately 80 cm tall in a warm amber-red matte porcelain finish, photographed as a photo-object, front-facing, slightly elevated at 30° against a seamless backdrop in deep charcoal #1B1B1B tone, NOT warm amber finish, NOT tinted beyond palette. Editorial register: matte porcelain surface, no gloss, no resin sheen. Soft diffused studio three-point lighting with a slight warm hot spot on the duck's crown, suggesting an off-camera softbox. Plain oval pupils with no decorative glint. The duck fills most of the frame, occupying roughly 80% of frame width, edges sitting close to crop to convey mega scale. No props, no horizon, no surface texture. Silhouette identical across the line: rounded body, upturned tail, flat paddle feet, conical beak. Seamless charcoal field, 1:1 aspect ratio.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A monumental classic rubber duck approximately 2 m tall in a warm amber-red matte porcelain finish, photographed as a statement installation, front-facing, slightly elevated at 30° against a seamless backdrop in deep charcoal #1B1B1B tone, NOT warm amber finish, NOT tinted beyond palette. Editorial register: matte porcelain surface, no gloss, no resin sheen. Soft diffused studio three-point lighting with a single overhead spot creating a soft halo on the duck's head and a faint floor reflection at the base. Plain oval pupils with no decorative glint. The duck dominates the frame at roughly 85% width, towering, edges of feet and crown nearly brushing the crop. No props, no horizon, no surface texture. Silhouette identical across the line: rounded body, upturned tail, flat paddle feet, conical beak. Seamless charcoal field, 1:1 aspect ratio.",
+    "aspect_ratio": "1:1"
+  }
+]

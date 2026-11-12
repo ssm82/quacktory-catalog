@@ -1,0 +1,20 @@
+{
+  "slug": "active-theory-v4",
+  "palette": {
+    "bg": "#050711",
+    "fg": "#E2E3EC",
+    "accent": "#A8B8FF",
+    "muted": "#A8ABB8",
+    "ink": "#050711",
+    "surface": "#0B0D20"
+  },
+  "fonts": {
+    "display": "Space Grotesk",
+    "body": "Space Grotesk",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Enter the unknown"
+}

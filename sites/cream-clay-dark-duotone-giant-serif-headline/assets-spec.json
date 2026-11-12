@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "Cinematic editorial fashion campaign photograph, single rubber duck staged as a luxury object on a low black pedestal, dramatic warm amber spotlight from upper right cutting through darkness with soft horizontal light streaks, deep teal-green ambient in the shadows, near-black backdrop with subtle volumetric haze, the duck reads as a small precious artifact catching warm rim light on its curved silhouette, shot from a slightly low angle, ultra-cinematic shallow depth of field with creamy bokeh, mood and palette of a high-end 2025 fashion season key visual, no other props, no text, no logos, ultra high production value",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Studio product photograph of a single small rubber duck keychain-sized, warm amber finish with subtle satin sheen, pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast on the backdrop, soft diffused three-point studio lighting with key from upper left, fill from right and rim from behind, front-facing camera slightly elevated 30 degrees, identical classic duck silhouette with rounded body small head flat beak and tiny feet, no props no text, no shadows on backdrop, clean ecommerce key visual",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Studio product photograph of a single classic 15cm rubber duck, deep teal-green matte finish reminiscent of oxidized bronze, pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast on the backdrop, soft diffused three-point studio lighting with key from upper left fill from right and rim from behind, front-facing camera slightly elevated 30 degrees, identical classic duck silhouette with rounded body small head flat beak and tiny feet, no props no text, no shadows on backdrop, clean ecommerce key visual",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Studio product photograph of a single 20cm rubber duck designer edition, metallic copper bronze finish with editorial sheen catching warm highlights, pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast on the backdrop, soft diffused three-point studio lighting with key from upper left fill from right and rim from behind, front-facing camera slightly elevated 30 degrees, identical classic duck silhouette with rounded body small head flat beak and tiny feet, no props no text, no shadows on backdrop, clean ecommerce key visual",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Studio product photograph of a single large 50cm rubber duck statement piece, charcoal matte obsidian finish absorbing light with subtle dark sheen, pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast on the backdrop, soft diffused three-point studio lighting with key from upper left fill from right and rim from behind, front-facing camera slightly elevated 30 degrees, identical classic duck silhouette with rounded body small head flat beak and tiny feet, no props no text, no shadows on backdrop, clean ecommerce key visual",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Studio product photograph of a single monumental 1.5 meter rubber duck architectural statement piece, cream ivory porcelain-like finish with soft matte glaze, pure white #FFFFFF seamless backdrop, NOT yellow, NOT tinted, NOT warm cast on the backdrop, soft diffused three-point studio lighting with key from upper left fill from right and rim from behind, front-facing camera slightly elevated 30 degrees, identical classic duck silhouette with rounded body small head flat beak and tiny feet, no props no text, no shadows on backdrop, clean ecommerce key visual",
+    "aspect_ratio": "1:1"
+  }
+]

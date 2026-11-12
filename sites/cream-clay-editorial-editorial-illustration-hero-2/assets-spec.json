@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck sculpture in deep forest green (#2C3A2A) with a warm amber undertone, matte porcelain finish, standing as the central centrepiece against a seamless backdrop in warm sienna brown (#8B5A3C) tone, NOT warm amber finish, NOT tinted beyond palette. Editorial mood, vintage travel-poster atmosphere. Soft window light from the upper left, gentle falloff, painterly warmth. The duck faces forward in a slightly elevated 30° angle, reading as a monumental sculptural object. Behind the duck, a soft-focus Tuscan-inspired scene: distant terracotta rooftops, olive foliage in muted sage (#7A8B5A), pale warm peach sky (#E8C9A8), brushy and atmospheric. The duck has a plain oval pupil, no decorative glint, no sparkle. Surface reads like hand-painted ceramic or fired clay, with a warm paper-grain texture and no glossy highlights. Two cream corner ornaments hint at vintage ticket-stub framing. Composition emphasises the duck as a quiet hero of a journey, contemplative and storied.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Product shot of a tiny classic rubber duck, approximately 6cm, in deep forest green (#2C3A2A) with a matte porcelain finish, identical silhouette to the larger SKUs. Seamless backdrop in warm sienna brown (#8B5A3C) tone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated 30° camera angle. Soft diffused studio three-point lighting, editorial register — the duck reads as a hand-painted ceramic keepsake rather than glossy resin. A faint keychain ring and short twine suggest the micro scale without dominating. Plain oval pupil, no decorative glint, no sparkle. Warm paper-grain atmosphere, no hard shadow, no lacquered highlight. The tiny duck sits quietly in the frame, a travel-charm object, the smallest artifact of a long journey.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Product shot of a classic rubber duck, approximately 18cm, the workhorse SKU, in deep forest green (#2C3A2A) with a matte porcelain finish, identical silhouette across the range. Seamless backdrop in warm sienna brown (#8B5A3C) tone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated 30° camera angle. Soft diffused studio three-point lighting, editorial mood — the duck reads as a still-life on warm paper, quiet and tactile. Plain oval pupil, no decorative glint, no sparkle. No props, no surface texture beyond a soft cast shadow grounding the form. Warm paper-grain atmosphere throughout, no glossy highlights, no lacquered resin look. The classic SKU is presented as a ceramic object of craft, the dependable companion of the Tuscan journey.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Product shot of a designer collaboration rubber duck, approximately 22cm, in a deep forest green (#2C3A2A) base with a matte porcelain finish and a hand-painted decorative treatment inspired by the Tuscan travel-poster language: small cream (#F2E8D5) geometric corner-ornament motifs and fine olive (#7A8B5A) diagonal stripe accents applied as delicate painted detail on the duck's flank, head, and tail. Identical silhouette to the rest of the range. Seamless backdrop in warm sienna brown (#8B5A3C) tone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated 30° camera angle. Soft diffused studio three-point lighting, editorial register. Plain oval pupil, no decorative glint, no sparkle. The painted surface reads like a fired ceramic art object, not glossy resin, with warm paper-grain atmosphere.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Product shot of a mega rubber duck, approximately 80cm, a photo-object, in deep forest green (#2C3A2A) with a matte porcelain finish, identical silhouette. Seamless backdrop in warm sienna brown (#8B5A3C) tone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated 30° camera angle to capture the imposing scale without distortion. Soft diffused studio three-point lighting, editorial register — the duck reads as a hand-fired ceramic sculpture, monumental but quiet. Plain oval pupil, no decorative glint, no sparkle. Warm paper-grain atmosphere, no lacquer, no glossy highlights. The duck dominates the frame as a single contemplative form, the photographic centrepiece of a journey, grounded only by a soft cast shadow on the seamless sienna floor.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Product shot of an architect-scale rubber duck installation, approximately 2m, in deep forest green (#2C3A2A) with a matte porcelain finish, identical silhouette to every other SKU in the range. Seamless backdrop in warm sienna brown (#8B5A3C) tone, NOT warm amber finish, NOT tinted beyond palette. Front-facing, slightly elevated 30° camera angle to convey the monumental scale. Soft diffused studio three-point lighting, editorial register, warm paper-grain atmosphere throughout. Plain oval pupil, no decorative glint, no sparkle. The duck reads as a sculptural art installation — a fired-clay object of contemplation, a piece of journey-architecture placed in a quiet gallery-like void. No props, no contextual furniture, no lacquered highlights. The form alone, monumental and stoic, anchors the frame.",
+    "aspect_ratio": "1:1"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "slug": "53198839343862115",
+  "palette": {
+    "bg": "#F2C9B4",
+    "fg": "#1A1A1A",
+    "accent": "#E8553D",
+    "muted": "#9A9A9A",
+    "ink": "#0A0A0A",
+    "surface": "#FFFFFF"
+  },
+  "fonts": {
+    "display": "Archivo",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "P",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Read now"
+}

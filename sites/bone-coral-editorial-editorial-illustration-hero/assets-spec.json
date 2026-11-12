@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck dominating a seamless studio backdrop in #16132A deep indigo tone, strictly within the KPR palette. Editorial mood with matte porcelain surface finish, treated as a fashion editorial subject. Soft window light from camera-left, cool fill from camera-right, mirroring the cool-warm split of the brand. The duck body wears a deep neon green (#6EEA6E) matte lacquer with plum undertones pooling in the shadows, the same silhouette as the workhorse SKU, scaled up to fill the frame as a sculptural centrepiece. Plain oval pupils, no decorative glint. A whisper of hot pink (#E84A8A) traces the beak edge as a single thin highlight line. Low cinematic camera angle looking slightly up at the duck to amplify monumentality, f/4 depth of field softening the seamless backdrop into a deep navy gradient. No props, no text, just the duck as the brand's quiet thesis.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A tiny classic rubber duck, keychain scale, photographed front-facing, slightly elevated 30°, on a seamless backdrop in #16132A deep indigo tone, strictly within the KPR palette. Editorial register: matte porcelain surface finish, soft diffused studio, three-point lighting. The duck body is a clean neon green (#6EEA6E) matte lacquer with plum undertone shadows that echo the surface tone #2A1F47. The same silhouette as the classic SKU, reduced to a 4–8cm pocket-sized form, propped on an invisible surface. Plain oval pupils, no decorative glint. A small silver split ring with a short chain is threaded through a molded loop on the duck's crown, catching a single specular highlight. Tight 1:1 frame, the duck centered, generous negative space around it. The aesthetic is fashion-editorial product photography — restrained, graphic, cool-warm split. Soft falloff into the deep navy backdrop. No text, no props beyond the keychain hardware.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "A classic rubber duck, the workhorse 10–25cm SKU, photographed front-facing, slightly elevated 30°, on a seamless backdrop in #16132A deep indigo tone, strictly within the KPR palette. Editorial register: matte porcelain surface finish that reads like unglazed ceramic, soft diffused studio, three-point lighting with a gentle key from upper-left. The duck body wears a clean neon green (#6EEA6E) matte lacquer, plum undertone in the shadows echoing the surface tone #2A1F47. Plain oval pupils, no decorative glint. A thin hot-pink (#E84A8A) painted racing stripe runs from the forehead down the back, a single graphic accent. Tight 1:1 frame, the duck centered, generous negative space. The aesthetic is fashion-editorial product photography — restrained, graphic, the cool-warm split of the KPR palette. No props, no text, the most-photographed SKU shown in its purest form.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A designer collaboration edition classic rubber duck, 15–30cm, photographed front-facing, slightly elevated 30°, on a seamless backdrop in #16132A deep indigo tone, strictly within the KPR palette. Editorial register: matte porcelain surface finish, soft diffused studio, three-point lighting. The duck body is two-tone — neon green (#6EEA6E) on the right half, deep plum (#2A1640) on the left, divided by a single sharp vertical seam that runs crown to tail. The same silhouette as the classic SKU. Plain oval pupils, no decorative glint. A small hot-pink (#E84A8A) crosshair glyph is screened onto the left flank as a flat graphic mark. The other flank carries a hand-painted KPR wordmark in white (#FFFFFF) extended grotesque at small scale. Tight 1:1 frame, the duck centered, generous negative space. Editorial fashion-product register — restrained, graphic, the cool-warm split of the KPR palette made literal. No props.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A mega classic rubber duck, 50–120cm photo-object, photographed front-facing, slightly elevated 30°, on a seamless backdrop in #16132A deep indigo tone, strictly within the KPR palette. Editorial register: matte porcelain surface finish, soft diffused studio, three-point lighting scaled up to the larger subject. The duck body is a clean neon green (#6EEA6E) matte lacquer, plum undertone in the deep shadows, the same silhouette as the classic SKU amplified. Plain oval pupils, no decorative glint. A thin band of hot-pink (#E84A8A) wraps the base of the neck like a collar, the only graphic accent. Tight 1:1 frame, the duck fills the composition with only a small margin of backdrop. Editorial product photography at photo-object scale — the duck as a sculptural subject, the cool-warm palette made monumental. A single overhead key casts a soft pool of light onto the duck's crown. No props, no text.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "An architect-scale classic rubber duck, 1.5–3m statement installation, photographed front-facing, slightly elevated 30°, on a seamless backdrop in #16132A deep indigo tone, strictly within the KPR palette. Editorial register: matte porcelain surface finish, soft diffused studio, three-point lighting scaled to a monument. The duck body is a deep neon green (#6EEA6E) matte lacquer with a faint surface texture of fine vertical brushstrokes, plum undertone in the deep shadows, the same silhouette as the classic SKU at architectural scale. Plain oval pupils, no decorative glint, though the eye area catches a single soft window-light reflection. A thin hot-pink (#E84A8A) line runs along the floor seam where the duck meets the backdrop, like a horizon mark. Tight 1:1 frame, the duck fills the composition. The duck reads as a public sculpture on a dark stage, editorial fashion-product register at monument scale, the cool-warm palette given physical volume. No props, no text.",
+    "aspect_ratio": "1:1"
+  }
+]

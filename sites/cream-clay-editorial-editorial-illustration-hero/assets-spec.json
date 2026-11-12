@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck rendered as an editorial centerpiece on a seamless pale peach backdrop in #FBE9D6 tone — warm cream paper, NOT warm amber finish, NOT tinted beyond palette. The duck is matte porcelain finish with a hot magenta-pink body in #E63A82, the dominant accent color, with subtle warm undertones that read against the cream like a magazine still life. The duck faces front with a slight three-quarter turn, camera slightly elevated, occupying the central vertical axis like a hero subject. Behind it, a flat warm amber stage shape in #F2B632 is partially cropped at the right and bottom edges, suggesting a layered editorial spread. Soft window light from upper left, gentle paper-grain texture, no harsh shadows. Plain oval pupils, no decorative glint, no sparkle. Composition feels like a book-club magazine cover — warm, playful, typographically disciplined. Generous negative space above with the duck as the singular focal point. 16:9 editorial frame.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A tiny classic rubber duck, keychain scale, photographed front-facing, slightly elevated 30°. Seamless pale peach backdrop in #FBE9D6 tone, warm cream paper texture, NOT warm amber finish, NOT tinted beyond palette. The duck is matte porcelain finish in hot magenta-pink #E63A82 — same silhouette as the workhorse SKU, just miniaturized to roughly 4–8 cm in apparent scale. Soft diffused studio, three-point lighting, gentle paper-grain texture in the backdrop, no harsh shadows. Plain oval pupils, no decorative glint, no sparkle. The duck sits centered on the cream field with generous breathing room, the body color reading saturated and warm against the soft peach. Editorial mood — feels like a small accessory photographed for a magazine product page with book-club warmth. Square 1:1 frame, clean, restrained, no props. A subtle warm amber surface reflection in #F2B632 hints at the staging plane beneath.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The workhorse classic rubber duck, photographed front-facing, slightly elevated 30°. Seamless pale peach backdrop in #FBE9D6 tone, warm cream paper, NOT warm amber finish, NOT tinted beyond palette. The duck is matte porcelain finish in hot magenta-pink #E63A82, the dominant accent color of the site, at the standard 10–25 cm scale. Soft diffused studio, three-point lighting with a soft key from upper left, gentle paper-grain texture in the backdrop, no harsh shadows. Plain oval pupils, no decorative glint, no sparkle. The duck sits centered on the cream field with the silhouette crisp and recognizable — same outline as the rest of the line. A subtle warm amber cast in #F2B632 reflects on the staging surface beneath. Editorial mood — clean, magazine product photography with a book-club warmth, the most-photographed SKU. Square 1:1 frame, generous negative space, no props, no overlays.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "The designer collaboration classic rubber duck, photographed front-facing, slightly elevated 30°. Seamless pale peach backdrop in #FBE9D6 tone, warm cream paper texture, NOT warm amber finish, NOT tinted beyond palette. Same silhouette as the workhorse, but the matte porcelain finish carries a hand-illustrated curatorial surface treatment — a flat vector-style halftone dot pattern in muted plum #C84B8E over the magenta-pink #E63A82 base, evoking the book-club print/zine aesthetic. Soft diffused studio, three-point lighting, gentle paper-grain texture, no harsh shadows. Plain oval pupils, no decorative glint, no sparkle. The duck sits centered on the cream field at 15–30 cm scale, the body color and pattern reading as a collector's edition collaboration. A subtle warm amber staging plane in #F2B632 anchors the bottom of the frame. Editorial mood — the duck as a small typographic-art object, illustrated rather than glossed. Square 1:1 frame, no props.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A large-format photo-object classic rubber duck at 50–120 cm scale, photographed front-facing, slightly elevated 30°. Seamless pale peach backdrop in #FBE9D6 tone, warm cream paper, NOT warm amber finish, NOT tinted beyond palette. The duck is matte porcelain finish in hot magenta-pink #E63A82 — same silhouette as the rest of the line, monumentally scaled so the body curves fill the frame. Soft diffused studio, three-point lighting with a broad soft key, gentle paper-grain texture, no harsh shadows. Plain oval pupils, no decorative glint, no sparkle. The duck dominates the square 1:1 frame, the curvature of the body and beak rendered at near-monumental scale, the surface reading as a satin-porcelain editorial object. A subtle warm amber stage reflection in #F2B632 suggests the staging plane beneath. Editorial mood — the duck as a gallery photo-object, warm, saturated, magazine-still-life energy with book-club warmth. Generous cream field around the duck, no props, no overlays.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A monumental statement-installation classic rubber duck at 1.5–3 m scale, photographed front-facing, slightly elevated 30°. Seamless pale peach backdrop in #FBE9D6 tone — warm cream paper, NOT warm amber finish, NOT tinted beyond palette. The duck is matte porcelain finish in hot magenta-pink #E63A82, the dominant accent color, rendered at architectural scale so it fills most of the frame. Soft diffused studio lighting with a soft key from upper left, paper-grain texture, no harsh shadows. Plain oval pupils, no decorative glint, no sparkle. The duck dominates the square 1:1 frame, monumental in apparent scale, like a curated public installation photographed for an editorial spread. A subtle warm amber ground in #F2B632 anchors the base. Editorial mood — the duck as a typographic-art object on a cream stage, the surface and color of a children's-book-meets-modern-magazine layout, oversized and statement-making.",
+    "aspect_ratio": "1:1"
+  }
+]

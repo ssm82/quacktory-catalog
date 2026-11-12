@@ -1,0 +1,20 @@
+{
+  "slug": "gleec-chat",
+  "palette": {
+    "bg": "#090A1B",
+    "fg": "#F5F3F3",
+    "accent": "#F10A12",
+    "muted": "#777985",
+    "ink": "#111126",
+    "surface": "#2B2038"
+  },
+  "fonts": {
+    "display": "Bebas Neue",
+    "body": "Archivo",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "D",
+  "register": "technical",
+  "duck_eye_decor": "none",
+  "cta_register": "Enter the system"
+}

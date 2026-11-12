@@ -1,0 +1,20 @@
+{
+  "slug": "couro-azul",
+  "palette": {
+    "bg": "#151A18",
+    "fg": "#E9E6DE",
+    "accent": "#AE8F81",
+    "muted": "#668374",
+    "ink": "#151A18",
+    "surface": "#2F3C34"
+  },
+  "fonts": {
+    "display": "Space Grotesk",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "C",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Explore the collection"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "nike-reactor",
+  "palette": {
+    "bg": "#2F3E4B",
+    "fg": "#F7F8FA",
+    "accent": "#0047AB",
+    "muted": "#B08D57",
+    "ink": "#111820",
+    "surface": "#BFD7EA"
+  },
+  "fonts": {
+    "display": "Bebas Neue",
+    "body": "Archivo",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Enter the reactor"
+}

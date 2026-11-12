@@ -1,0 +1,20 @@
+{
+  "slug": "the-hall-of-zero-limits",
+  "palette": {
+    "bg": "#1f1812",
+    "fg": "#f4e9d0",
+    "accent": "#00ff88",
+    "muted": "#cfc9bf",
+    "ink": "#0a0a0c",
+    "surface": "#2c2218"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Step Inside"
+}

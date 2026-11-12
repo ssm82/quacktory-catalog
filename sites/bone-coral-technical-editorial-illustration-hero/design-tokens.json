@@ -1,0 +1,20 @@
+{
+  "slug": "anime-js",
+  "palette": {
+    "bg": "#0B0B0B",
+    "fg": "#FFFFFF",
+    "accent": "#E63946",
+    "muted": "#8C8C8C",
+    "ink": "#0A0A0A",
+    "surface": "#141414"
+  },
+  "fonts": {
+    "display": "Archivo",
+    "body": "Archivo",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "D",
+  "register": "technical",
+  "duck_eye_decor": "none",
+  "cta_register": "Read the docs"
+}

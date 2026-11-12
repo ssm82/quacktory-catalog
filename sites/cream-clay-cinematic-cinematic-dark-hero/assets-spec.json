@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "aspect_ratio": "16:9",
+    "prompt": "A classic rubber duck sitting as the sole subject in a dark cinematic space, the kind of empty void you'd see behind a film title card. Seamless backdrop in deep midnight navy tone #0E1530, NOT warm amber finish, NOT tinted beyond palette. The duck has a warm amber finish #E2A93B with a lacquered surface that reads as polished resin. A single hard key light from camera-right sculpts the cheek, neck, and bill, while a sharp warm rim from behind traces the head, wing, and tail edge against the navy void. A subtle cool fill from camera-left keeps the shadow side legible without flattening the form. The duck sits centered, slightly below frame center, with the horizon implied by a faint floor shadow. Plain oval pupil, no decorative glint, no sparkle, no heart, no star. The eye is a clean black oval. The composition reads as an album-cover plate: one warm object suspended in a cool dark field, with all the weight carried by the gold-on-navy contrast."
+  },
+  {
+    "filename": "product-micro.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A miniature classic rubber duck, 4–8cm scale, sized for a keychain. Front-facing, slightly elevated, 30° camera angle. Seamless backdrop in deep midnight navy tone #0E1530, NOT warm amber finish, NOT tinted beyond palette. The duck has a warm amber finish #E2A93B with a smooth lacquered surface typical of small molded rubber ducks. Soft diffused studio, three-point lighting: warm key from upper camera-left, cool fill from camera-right, and a soft hair-light from behind to define the head and beak edge. A small silver split-ring keychain hardware sits attached to a discreet loop molded into the duck's head or back, catching a clean specular highlight. The duck fills roughly 60% of the frame, with comfortable negative space around it. Plain oval pupil, no decorative glint, no sparkle, no heart, no star. The eye is a simple flat black oval flush with the surface. Subtle floor shadow anchors the duck. Mood is product-clean and cinematic — the same duck, just at keychain scale, against the brand's signature navy field."
+  },
+  {
+    "filename": "product-classic.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "The classic rubber duck, the workhorse 10–25cm scale, the most-photographed SKU. Front-facing, slightly elevated, 30° camera angle. Seamless backdrop in deep midnight navy tone #0E1530, NOT warm amber finish, NOT tinted beyond palette. The duck has a warm amber finish #E2A93B with a polished lacquered surface that picks up clean highlights along the crown of the head, the back of the neck, and the curve of the bill. Soft diffused studio, three-point lighting: a warm key light from upper camera-left at roughly 45°, a softer cool fill from camera-right at lower intensity, and a tight rim light from behind to separate the silhouette from the dark backdrop. The duck occupies about 70% of the frame, centered, with even breathing room on all sides. Plain oval pupil, no decorative glint, no sparkle, no heart, no star — just a clean black oval eye. A soft contact shadow grounds the duck on an invisible surface. Confident, minimal, with the warm amber duck glowing against the deep midnight navy field."
+  },
+  {
+    "filename": "product-designer.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A collaboration-edition classic rubber duck at 15–30cm scale, the designer SKU. Front-facing, slightly elevated, 30° camera angle. Seamless backdrop in deep midnight navy tone #0E1530, NOT warm amber finish, NOT tinted beyond palette. The duck retains the canonical rubber-duck silhouette but is rendered in a deeper, more saturated warm amber finish #E2A93B with a high-gloss lacquered surface that reads almost like a porcelain music-box figure. A thin etched hairline band — suggesting a single rule of typographic ornament — wraps the duck's neck and meets at the back. Soft diffused studio, three-point lighting: warm key from upper camera-left, cool fill from camera-right, hair-light from behind to define the wing and tail. Subtle warm amber bounce lifts the underside. Plain oval pupil, no decorative glint, no sparkle, no heart, no star. The eye is a single uninterrupted black oval. Composition is centered, with the duck filling roughly 65% of the frame, presented as a collector's object rather than a bath toy."
+  },
+  {
+    "filename": "product-mega.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A mega-scale classic rubber duck at 50–120cm, presented as a photo-object. Front-facing, slightly elevated, 30° camera angle but framed tightly enough that the duck nearly fills the composition. Seamless backdrop in deep midnight navy tone #0E1530, NOT warm amber finish, NOT tinted beyond palette. The duck has a deep warm amber finish #E2A93B with a heavy lacquered surface — the kind of polished resin sheen that reads more as sculpture than as bath toy. A single hard key light from camera-right rakes across the body, sculpting the cheek, the wing, and the bill into a clear value range; a softer fill from camera-left lifts the shadow side just enough to keep detail. A thin warm rim catches the back of the head and the tail. Plain oval pupil, no decorative glint, no sparkle, no heart, no star. The eye remains a simple black oval. No props, no context, no furniture — the duck is the entire subject, monumental in its scale against the dark navy void."
+  },
+  {
+    "filename": "product-architect.jpg",
+    "aspect_ratio": "1:1",
+    "prompt": "A 1.5 to 3-meter statement-installation classic rubber duck, sized as public art. Front-facing, slightly elevated, 30° camera angle, with the duck occupying roughly 80% of the frame to convey monumental scale. Seamless backdrop in deep midnight navy tone #0E1530, NOT warm amber finish, NOT tinted beyond palette. The duck has the same warm amber finish #E2A93B as the rest of the line, but the lacquered surface here reads as a polished cast-resin monolith — the kind of surface you might see in a museum atrium. Hard cinematic key light from upper camera-left, soft cool fill from camera-right, and a defined warm rim from behind that traces the head, beak, and back. A faint amber bounce lights the underside of the bill. Plain oval pupil, no decorative glint, no sparkle, no heart, no star. The eye is a flat black oval. The image feels like a press photograph of a sculpture: confident, quiet, and ceremonial, with the brand's gold-on-navy palette presented at architectural scale."
+  }
+]

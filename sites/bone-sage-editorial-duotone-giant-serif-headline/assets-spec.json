@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A monumental classic rubber duck sculpture, scaled to roughly 1.8 metres, standing as the sole centrepiece in a near-black archival vault. Backdrop is a seamless dark studio in #0A0B0D tone, NOT tinted, with a faint vignette falling to ink at the corners — like a museum plinth photographed after hours. The duck wears a matte porcelain chartreuse finish (acid lime-chartreuse, referencing #D8E94A), the surface reading as fine bisque-fired ceramic with a soft powdery sheen, never glossy. Single soft window-style key light from upper-left, gentle fill from camera-right, no harsh shadow, no rim — the mood is hushed and editorial, like a museum acquisition photograph in a quarterly review. The duck is front-facing with a slight three-quarter turn, monumental but contemplative. Plain oval black pupil, no decorative glint, no sparkle. Composed in the lower-third with massive negative space above to honour the site's typographic restraint. Editorial mood, archival gravitas, no props, no horizon, no surface.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "A small classic rubber duck at keychain scale, approximately 6cm tall, photographed front-facing, slightly elevated at 30°, on a seamless dark studio backdrop in #0A0B0D tone — NOT tinted, NOT warm. The duck wears a matte porcelain chartreuse finish (acid lime-chartreuse, #D8E94A), reading as fine bisque-fired ceramic with a soft powdery sheen, never glossy resin. Soft diffused three-point studio lighting: gentle key from upper-left, soft fill from camera-right, low ambient wrap. A small matte metal split ring attaches at the head crown via a short dark cord. Plain oval black pupil, no glint, no sparkle, no decoration. The duck occupies about 55% of the frame, centred. No props, no surface, no horizon line. Quiet, archival, museum-catalog mood — like a curatorial plate rather than a product photo.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "The workhorse classic rubber duck, approximately 18cm tall, front-facing slightly elevated at 30°, on a seamless dark studio backdrop in #0A0B0D tone, NOT tinted, with a faint radial vignette pulling to ink at the corners. The duck wears a matte porcelain chartreuse finish (acid lime-chartreuse, #D8E94A), surface reading as bisque-fired ceramic with a soft powdery sheen, never glossy. Soft diffused three-point studio lighting: key from upper-left, fill from camera-right, low ambient wrap. Plain oval black pupil, no glint, no sparkle, no decoration. The duck is centred, occupying roughly 55% of the frame. Editorial museum-catalog mood, archival restraint, no props, no surface, no horizon. This is the most-photographed SKU — composed for clarity, gravity, and quiet authority.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "A collaboration-edition classic rubber duck, approximately 22cm tall, front-facing slightly elevated at 30°, on a seamless dark studio backdrop in #0A0B0D tone, NOT tinted. The duck wears a matte porcelain chartreuse base finish (acid lime-chartreuse, #D8E94A) with a single editorial design treatment: a thin hand-drawn line in muted cream (#B5B395) traces the silhouette of an Anton-weight typographic glyph across the body, like an outline only, no fill. Surface remains matte bisque-fired porcelain, never glossy. Soft diffused three-point studio lighting. Plain oval black pupil, no glint, no sparkle, no decoration. Centred, occupying about 55% of frame. Editorial museum-catalog mood, restrained, archival, no props, no surface, no horizon. The signature silhouette is identical to the classic SKU; variation lives only in finish, graphic overlay, and scale.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "A photo-object classic rubber duck, approximately 90cm tall, front-facing slightly elevated at 30°, on a seamless dark studio backdrop in #0A0B0D tone, NOT tinted, with a soft vignette falling to ink at the edges. The duck wears a matte porcelain chartreuse finish (acid lime-chartreuse, #D8E94A), surface reading as fine bisque-fired ceramic with a soft powdery sheen, never glossy resin. Soft diffused three-point studio lighting, scaled up so the key light grazes the body and reveals the soft powdery texture — like a museum object under raked gallery light. Plain oval black pupil, no glint, no sparkle, no decoration. The duck fills about 70% of the frame, monumental but quiet. No props, no surface, no horizon. Editorial archival gravitas, museum acquisition mood, hushed and contemplative.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "A statement-installation classic rubber duck, approximately 2.4 metres tall, front-facing slightly elevated at 30°, on a seamless dark studio backdrop in #0A0B0D tone, NOT tinted, with a deep vignette pulling to ink at the corners — the void of an empty gallery hall. The duck wears a matte porcelain chartreuse finish (acid lime-chartreuse, #D8E94A), surface reading as a monumental bisque-fired ceramic sculpture with a soft powdery sheen, never glossy. Soft diffused three-point studio lighting, the key light raking from upper-left to graze the full form and reveal texture across the scale. Plain oval black pupil, no glint, no sparkle, no decoration. The duck fills about 75% of the frame, towering but contemplative, like a museum-scale acquisition photographed for the archive. No props, no surface, no horizon. Editorial archival gravitas, hushed, monumental, restrained.",
+    "aspect_ratio": "1:1"
+  }
+]

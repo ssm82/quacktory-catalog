@@ -1,0 +1,20 @@
+{
+  "slug": "the-harmonic-state",
+  "palette": {
+    "bg": "#0A0E14",
+    "fg": "#FFFFFF",
+    "accent": "#0F62FE",
+    "muted": "#C9CCD1",
+    "ink": "#000000",
+    "surface": "#0A1A33"
+  },
+  "fonts": {
+    "display": "Cormorant Garamond",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "E",
+  "register": "cinematic",
+  "duck_eye_decor": "none",
+  "cta_register": "Read the brief"
+}

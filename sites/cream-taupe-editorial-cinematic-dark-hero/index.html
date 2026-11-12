@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Quacktory × AP — Extraordinary Lab</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body class="dark">
+  <!-- TOP MARKS -->
+  <header class="h-marks" role="banner">
+    <div class="brand-marks">
+      <span class="ap"><em>Quacktory</em></span>
+      <span class="x">×</span>
+      <span class="ap"><em>Quacktory</em></span>
+    </div>
+    <button class="sound-toggle" aria-label="Sound">
+      <span class="sound-dot"></span>
+      <span class="sound-label">SOUND ON</span>
+    </button>
+  </header>
+
+  <!-- HERO — cinematic dark stage -->
+  <main>
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="stage">
+      <div class="floor" aria-hidden="true">
+        <span class="streak s1"></span>
+        <span class="streak s2"></span>
+      </div>
+      <div class="prop-left" aria-hidden="true">
+        <div class="rock"></div>
+        <div class="rock-shadow"></div>
+      </div>
+      <div class="prop-right" aria-hidden="true">
+        <div class="cylinder"></div>
+        <div class="cylinder-shadow"></div>
+      </div>
+
+      <div class="plinth" aria-hidden="true"></div>
+
+      <figure class="object">
+        <img src="./assets/product-mega.jpg" alt="Mega duck on a pedestal">
+        <figcaption class="visually-hidden">Mega duck — 80 cm</figcaption>
+      </figure>
+
+      <div class="caption-block">
+        <p class="eyebrow">QUACKTORY WORKSHOP · EDITOR-IN-CHIEF</p>
+        <p class="body">
+          "We make ducks you don't want to put in water — you want to put on a shelf. Small ones go in your pocket. Big ones go in the lobby. All of them end up in the shot."
+        </p>
+      </div>
+
+      <nav class="chapter-strip" aria-label="Chapters">
+        <a href="#scale" class="prev">◀</a>
+        <a href="#scale" data-sku="micro">MICRO</a>
+        <a href="#scale" data-sku="classic">CLASSIC</a>
+        <a href="#scale" data-sku="designer">DESIGNER</a>
+        <a href="#scale" data-sku="mega" class="current">MEGA</a>
+        <a href="#scale" data-sku="architect">ARCHITECT</a>
+        <a href="#lab" class="next">▶</a>
+      </nav>
+
+      <button class="enter" type="button">Enter the lab <span aria-hidden="true">→</span></button>
+    </div>
+  </section>
+
+  <!-- MANIFESTO -->
+  <section id="lab" class="manifesto">
+    <header class="sec-head">
+      <span class="eyebrow">Manifesto</span>
+      <h2>"Serious ducks for not-so-serious people."</h2>
+      <p>Turning the most banal bathroom object into a piece of design, a collectible, and an architectural gesture.</p>
+    </header>
+  </section>
+
+  <!-- SCALE -->
+  <section id="scale" class="scale">
+    <header class="sec-head">
+      <span class="eyebrow">Lineup · 04 cm → 03 m</span>
+      <h2>Five sizes, one silhouette</h2>
+      <p>Tap a silhouette to open its duck passport.</p>
+    </header>
+
+    <ol class="lineup" role="list">
+      <li class="obj" data-sku="micro" tabindex="0">
+        <img src="./assets/product-micro.jpg" alt="">
+        <div><b>Micro</b><span>4 cm · keychain · from $7</span></div>
+      </li>
+      <li class="obj" data-sku="classic" tabindex="0">
+        <img src="./assets/product-classic.jpg" alt="">
+        <div><b>Classic</b><span>18 cm · bathroom · from $18</span></div>
+      </li>
+      <li class="obj" data-sku="designer" tabindex="0">
+        <img src="./assets/product-designer.jpg" alt="">
+        <div><b>Designer</b><span>25 cm · limited · from $70</span></div>
+      </li>
+      <li class="obj" data-sku="mega" tabindex="0">
+        <img src="./assets/product-mega.jpg" alt="">
+        <div><b>Mega</b><span>80 cm · display · from $550</span></div>
+      </li>
+      <li class="obj" data-sku="architect" tabindex="0">
+        <img src="./assets/product-architect.jpg" alt="">
+        <div><b>Architect</b><span>3 m · installation · on request</span></div>
+      </li>
+    </ol>
+  </section>
+
+  <!-- PRODUCTION -->
+  <section class="production">
+    <header class="sec-head">
+      <span class="eyebrow">Production</span>
+      <h2>How we make it</h2>
+    </header>
+    <div class="prod-grid">
+      <article><h3>Solid rubber</h3><p>Silicone or natural rubber with EPDM. No inserts, no glued seams.</p></article>
+      <article><h3>Eyes — pigment</h3><p>Black pupil + white sclera. Food-grade silicone pigment applied after vulcanization.</p></article>
+      <article><h3>Five checks</h3><p>Visual, geometry, 1 m drop test, smell test, gravimetry ±3%.</p></article>
+      <article><h3>Casting by line</h3><p>Micro — injection. Classic — compression. Designer — hand-flask. Mega — rotational. Architect — sculptural.</p></article>
+      <article><h3>Temperature</h3><p>−20 °C … +60 °C. Indoor only. Protection from direct UV.</p></article>
+      <article><h3>Care</h3><p>Warm water and mild soap. No abrasives, alcohols, or bleach.</p></article>
+    </div>
+  </section>
+
+  <!-- B2B -->
+  <section id="b2b" class="b2b">
+    <header class="sec-head">
+      <span class="eyebrow">B2B · Custom</span>
+      <h2>12 signature TPM colors</h2>
+      <p>Pigment goes into the mass before casting — not a surface coat.</p>
+    </header>
+    <ul class="b2b-list">
+      <li><span>Micro · Classic</span><b>3 weeks · wholesale from 200 pcs</b></li>
+      <li><span>Designer</span><b>6 weeks · artist sign-off</b></li>
+      <li><span>Mega</span><b>6 weeks · pallet delivery</b></li>
+      <li><span>Architect</span><b>12 weeks · survey and install</b></li>
+    </ul>
+  </section>
+
+  <!-- CARE -->
+  <section id="care" class="care">
+    <header class="sec-head">
+      <span class="eyebrow">Care and compliance</span>
+      <h2>Certificates and passports</h2>
+    </header>
+    <div class="prod-grid">
+      <article><h3>GOST 25779-83</h3><p>Rubber toys.</p></article>
+      <article><h3>EN 71-3</h3><p>Chemical migration — within limits for ages 3+.</p></article>
+      <article><h3>REACH</h3><p>Free of phthalates and bisphenol A.</p></article>
+      <article><h3>Age</h3><p>Micro 4 cm — 6+; Classic — 3+; Designer — 6+; Mega — not a toy; Architect — installation by certified crew.</p></article>
+      <article><h3>Environment</h3><p>Indoor only. Protection from UV and oils/solvents.</p></article>
+      <article><h3>Packaging</h3><p>Recycled cardboard, no polyethylene. Architect — wooden crate and climate control.</p></article>
+    </div>
+  </section>
+  </main>
+
+  <footer class="foot">
+    <div class="foot-row">
+      <span class="brand-foot"><em>Quacktory</em> × AP · Extraordinary Lab</span>
+      <span class="share-pill">
+        <button id="shareBtn">Share</button>
+        <span><b id="shareCount">0</b> / 132</span>
+      </span>
+      <span>© Quacktory</span>
+    </div>
+  </footer>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle" hidden>
+    <div class="modal-overlay" data-close></div>
+    <article class="modal-card">
+      <button class="modal-close" data-close aria-label="Close">×</button>
+      <div class="modal-img"><img id="modalImg" src="" alt=""></div>
+      <div class="modal-body">
+        <span class="modal-eyebrow" id="modalEyebrow"></span>
+        <h3 id="modalTitle"></h3>
+        <p id="modalDesc"></p>
+        <dl class="modal-spec">
+          <div><dt>Size</dt><dd id="modalSize"></dd></div>
+          <div><dt>Compared to</dt><dd id="modalCompare"></dd></div>
+          <div><dt>Price</dt><dd id="modalPrice"></dd></div>
+          <div><dt>Lead time</dt><dd id="modalLead"></dd></div>
+        </dl>
+        <button class="enter" data-close>Close <span aria-hidden="true">×</span></button>
+      </div>
+    </article>
+  </div>
+<script src="main.js" defer></script>
+</body>
+</html>

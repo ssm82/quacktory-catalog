@@ -1,0 +1,427 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Quacktory — Serious ducks for un-serious people</title>
+  <meta name="description" content="Quacktory makes rubber ducks you put on a shelf, not in the water. From 4 cm keychains to 3 m lobby installations. One silhouette, five production lines.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600&family=Inter:wght@300;400;500;600&display=swap">
+  <link rel="stylesheet" href="./styles.css">
+
+</head>
+<body>
+
+  <header class="topbar" role="banner">
+    <a class="brand" href="#top" aria-label="Quacktory — home">
+      <span class="brand__bar" aria-hidden="true"></span>
+      <span class="brand__mark">QUACKTORY</span>
+      <span class="brand__sub">/ 2003 — ∞</span>
+    </a>
+
+    <nav class="nav" aria-label="Primary">
+      <div class="nav__step" aria-label="Section 01 of 05">
+        <span>01</span><i aria-hidden="true"></i><span>05</span>
+      </div>
+      <ul class="nav__links">
+        <li><a href="#ladder">Ladder</a></li>
+        <li><a href="#lineup">Lineup</a></li>
+        <li><a href="#production">Production</a></li>
+        <li><a href="#b2b">B2B</a></li>
+      </ul>
+      <button class="nav__menu" aria-label="Open menu">
+        <span></span><span></span>
+      </button>
+    </nav>
+  </header>
+
+  <main id="top">
+
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero__wireframe" aria-hidden="true">
+        <svg viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+          <defs>
+            <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+              <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1F1F22" stroke-width="0.5"/>
+            </pattern>
+            <radialGradient id="floorGlow" cx="50%" cy="100%" r="60%">
+              <stop offset="0%" stop-color="#F5E020" stop-opacity="0.10"/>
+              <stop offset="100%" stop-color="#F5E020" stop-opacity="0"/>
+            </radialGradient>
+          </defs>
+          <rect width="1600" height="900" fill="url(#grid)"/>
+          <rect width="1600" height="900" fill="url(#floorGlow)"/>
+          <g stroke="#2A2A2E" stroke-width="0.7" fill="none">
+            <line x1="0" y1="500" x2="1600" y2="500"/>
+            <line x1="0" y1="560" x2="1600" y2="560"/>
+            <line x1="0" y1="630" x2="1600" y2="630"/>
+            <line x1="0" y1="720" x2="1600" y2="720"/>
+            <line x1="0" y1="830" x2="1600" y2="830"/>
+          </g>
+          <g stroke="#2A2A2E" stroke-width="0.5" fill="none" opacity="0.65">
+            <line x1="800" y1="500" x2="-300" y2="900"/>
+            <line x1="800" y1="500" x2="1900" y2="900"/>
+            <line x1="800" y1="500" x2="0" y2="900"/>
+            <line x1="800" y1="500" x2="1600" y2="900"/>
+            <line x1="800" y1="500" x2="200" y2="900"/>
+            <line x1="800" y1="500" x2="1400" y2="900"/>
+            <line x1="800" y1="500" x2="400" y2="900"/>
+            <line x1="800" y1="500" x2="1200" y2="900"/>
+            <line x1="800" y1="500" x2="600" y2="900"/>
+            <line x1="800" y1="500" x2="1000" y2="900"/>
+          </g>
+          <g stroke="#2A2A2E" stroke-width="0.8" fill="none">
+            <ellipse cx="180" cy="780" rx="35" ry="25"/>
+            <circle cx="160" cy="765" r="4"/>
+            <path d="M 140 778 L 130 776 L 140 784 Z"/>
+            <ellipse cx="380" cy="770" rx="50" ry="35"/>
+            <circle cx="355" cy="750" r="5"/>
+            <path d="M 325 766 L 312 763 L 325 774 Z"/>
+            <ellipse cx="800" cy="730" rx="140" ry="100"/>
+            <circle cx="725" cy="695" r="13"/>
+            <path d="M 660 720 L 625 710 L 660 738 Z"/>
+            <ellipse cx="1180" cy="770" rx="60" ry="42"/>
+            <circle cx="1150" cy="752" r="6"/>
+            <path d="M 1115 768 L 1100 765 L 1115 777 Z"/>
+            <ellipse cx="1420" cy="780" rx="40" ry="28"/>
+            <circle cx="1395" cy="764" r="4.5"/>
+            <path d="M 1365 776 L 1352 773 L 1365 783 Z"/>
+          </g>
+          <circle cx="725" cy="695" r="2.5" fill="#F5E020" opacity="0.85"/>
+          <ellipse cx="800" cy="855" rx="240" ry="14" fill="#F5E020" opacity="0.04"/>
+        </svg>
+      </div>
+
+      <div class="hero__inner">
+        <p class="hero__eyebrow">
+          <span class="hero__eyebrow-dot" aria-hidden="true"></span>
+          Serious ducks for un-serious people
+        </p>
+        <h1 class="hero__title" id="hero-title">QUACKTORY</h1>
+        <p class="hero__copy">
+          We make ducks you don't want to drop in the water — you want to put them on a shelf.
+          The small ones go in a pocket. The large ones go in a lobby.
+          All of them go on camera.
+        </p>
+        <a class="hero__cta" href="#lineup">
+          <span>Listen now</span>
+          <span class="hero__cta-arrow" aria-hidden="true">→</span>
+        </a>
+      </div>
+
+      <button class="hero__next" aria-label="Scroll to lineup">
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="0.9">
+          <circle cx="12" cy="12" r="10.5"/>
+          <path d="M 8 12 L 16 12 M 12 8 L 16 12 L 12 16"/>
+        </svg>
+      </button>
+    </section>
+
+    <section class="ladder" id="ladder" aria-labelledby="ladder-title">
+      <header class="section-head">
+        <span class="section-head__index">02 / 05</span>
+        <h2 class="section-head__title" id="ladder-title">From thumb-sized to bear-sized</h2>
+        <p class="section-head__lede">One silhouette, five production lines. From a 4 cm keychain to a 3 m installation — the same duck, scaled without losing its proportions.</p>
+      </header>
+
+      <div class="ladder__rail" role="tablist" aria-label="Size ladder">
+        <button class="ladder__node" data-sku="micro" role="tab" aria-selected="true">
+          <span class="ladder__size">4 cm</span>
+          <span class="ladder__cmp">thumb-sized</span>
+          <span class="ladder__name">Micro</span>
+          <span class="ladder__price">from $8 · today</span>
+          <span class="ladder__glow ladder__glow--micro" aria-hidden="true"></span>
+        </button>
+        <button class="ladder__node" data-sku="classic" role="tab" aria-selected="false">
+          <span class="ladder__size">18 cm</span>
+          <span class="ladder__cmp">palm-sized</span>
+          <span class="ladder__name">Classic</span>
+          <span class="ladder__price">from $24 · 3 wks</span>
+          <span class="ladder__glow ladder__glow--classic" aria-hidden="true"></span>
+        </button>
+        <button class="ladder__node" data-sku="designer" role="tab" aria-selected="false">
+          <span class="ladder__size">24 cm</span>
+          <span class="ladder__cmp">cat-sized</span>
+          <span class="ladder__name">Designer</span>
+          <span class="ladder__price">from $68 · 6 wks</span>
+          <span class="ladder__glow ladder__glow--designer" aria-hidden="true"></span>
+        </button>
+        <button class="ladder__node" data-sku="mega" role="tab" aria-selected="false">
+          <span class="ladder__size">85 cm</span>
+          <span class="ladder__cmp">child-sized</span>
+          <span class="ladder__name">Mega</span>
+          <span class="ladder__price">from $440 · 6 wks</span>
+          <span class="ladder__glow ladder__glow--mega" aria-hidden="true"></span>
+        </button>
+        <button class="ladder__node" data-sku="architect" role="tab" aria-selected="false">
+          <span class="ladder__size">3 m</span>
+          <span class="ladder__cmp">bear-sized</span>
+          <span class="ladder__name">Architect</span>
+          <span class="ladder__price">on request · 12 wks</span>
+          <span class="ladder__glow ladder__glow--architect" aria-hidden="true"></span>
+        </button>
+        <div class="ladder__track" aria-hidden="true">
+          <span></span><span></span><span></span><span></span><span></span>
+        </div>
+      </div>
+    </section>
+
+    <section class="lineup" id="lineup" aria-labelledby="lineup-title">
+      <header class="section-head">
+        <span class="section-head__index">03 / 05</span>
+        <h2 class="section-head__title" id="lineup-title">The lineup</h2>
+        <p class="section-head__lede">Each line is its own object — same silhouette, different material, different scale, different audience. Click any card for the spec sheet.</p>
+      </header>
+
+      <div class="lineup__grid">
+
+        <article class="card" data-sku="micro" data-modal="micro" tabindex="0" aria-label="Open Micro spec sheet">
+          <div class="card__media">
+            <img src="./assets/product-micro.jpg" alt="Quacktory Micro 4 cm rubber duck keychain, white silicone" loading="lazy">
+            <span class="card__glow" aria-hidden="true"></span>
+            <span class="card__step">01 / 05</span>
+          </div>
+          <div class="card__body">
+            <div class="card__head">
+              <span class="card__size">4 cm</span>
+              <span class="card__age">6+ · not &lt;3</span>
+            </div>
+            <h3 class="card__name">Micro</h3>
+            <p class="card__desc">Keychain, gift, impulse. The pocket duck. Injection-moulded, eight cavities per cycle, food-grade silicone compound.</p>
+            <div class="card__meta">
+              <span class="card__lead"><b>Today</b> · lead time</span>
+              <span class="card__price">$8<small>per unit</small><small class="card__ship">incl. shipping</small></span>
+            </div>
+          </div>
+        </article>
+
+        <article class="card" data-sku="classic" data-modal="classic" tabindex="0" aria-label="Open Classic spec sheet">
+          <div class="card__media">
+            <img src="./assets/product-classic.jpg" alt="Quacktory Classic 18 cm rubber duck, matte finish" loading="lazy">
+            <span class="card__glow" aria-hidden="true"></span>
+            <span class="card__step">02 / 05</span>
+          </div>
+          <div class="card__body">
+            <div class="card__head">
+              <span class="card__size">18 cm</span>
+              <span class="card__age">3+</span>
+            </div>
+            <h3 class="card__name">Classic</h3>
+            <p class="card__desc">Bathroom, office, kids. The duck you remember from childhood, in vulcanised food-grade silicone with hand-painted eyes.</p>
+            <div class="card__meta">
+              <span class="card__lead"><b>3 weeks</b> · lead time</span>
+              <span class="card__price">$24<small>per unit</small><small class="card__ship">incl. shipping</small></span>
+            </div>
+          </div>
+        </article>
+
+        <article class="card" data-sku="designer" data-modal="designer" tabindex="0" aria-label="Open Designer spec sheet">
+          <div class="card__media">
+            <img src="./assets/product-designer.jpg" alt="Quacktory Designer 24 cm limited-edition rubber duck, signed" loading="lazy">
+            <span class="card__glow" aria-hidden="true"></span>
+            <span class="card__step">03 / 05</span>
+          </div>
+          <div class="card__body">
+            <div class="card__head">
+              <span class="card__size">24 cm</span>
+              <span class="card__age">6+ · collector</span>
+            </div>
+            <h3 class="card__name">Designer</h3>
+            <p class="card__desc">Limited illustrator collabs, hand-cast in silicone moulds. Signed and numbered, ≤300 per run, with embossed certificate.</p>
+            <div class="card__meta">
+              <span class="card__lead"><b>6 weeks</b> · lead time</span>
+              <span class="card__price">$68<small>per unit</small><small class="card__ship">incl. shipping</small></span>
+            </div>
+          </div>
+        </article>
+
+        <article class="card" data-sku="mega" data-modal="mega" tabindex="0" aria-label="Open Mega spec sheet">
+          <div class="card__media">
+            <img src="./assets/product-mega.jpg" alt="Quacktory Mega 85 cm rubber duck, statement photo object" loading="lazy">
+            <span class="card__glow" aria-hidden="true"></span>
+            <span class="card__step">04 / 05</span>
+          </div>
+          <div class="card__body">
+            <div class="card__head">
+              <span class="card__size">85 cm</span>
+              <span class="card__age">decorative</span>
+            </div>
+            <h3 class="card__name">Mega</h3>
+            <p class="card__desc">Shop window, photo object, statement gift. Rotational-moulded with an internal fibreglass reinforcing frame for storage strength.</p>
+            <div class="card__meta">
+              <span class="card__lead"><b>6 weeks</b> · lead time</span>
+              <span class="card__price">$440<small>per unit</small><small class="card__ship">incl. shipping</small></span>
+            </div>
+          </div>
+        </article>
+
+        <article class="card card--wide" data-sku="architect" data-modal="architect" tabindex="0" aria-label="Open Architect spec sheet">
+          <div class="card__media">
+            <img src="./assets/product-architect.jpg" alt="Quacktory Architect 3 m rubber duck installation in a hotel lobby" loading="lazy">
+            <span class="card__glow" aria-hidden="true"></span>
+            <span class="card__step">05 / 05</span>
+            <span class="card__badge">Installation</span>
+          </div>
+          <div class="card__body">
+            <div class="card__head">
+              <span class="card__size">1.5 — 3 m</span>
+              <span class="card__age">adult-scale</span>
+            </div>
+            <h3 class="card__name">Architect</h3>
+            <p class="card__desc">Lobbies, weddings, branded spaces. Sculptural casting against a CNC-milled polystyrene master, fibreglass mould, internal steel frame with stiffening ribs. On-site installation by certified crew.</p>
+            <ul class="card__spec">
+              <li><b>Survey</b><span>on-site</span></li>
+              <li><b>Master</b><span>CNC-milled</span></li>
+              <li><b>Frame</b><span>welded steel</span></li>
+              <li><b>Install</b><span>certified crew</span></li>
+            </ul>
+            <div class="card__meta">
+              <span class="card__lead"><b>12 weeks</b> · incl. survey &amp; install</span>
+              <span class="card__price">on request<small>spec sheet</small></span>
+            </div>
+          </div>
+        </article>
+
+      </div>
+    </section>
+
+    <section class="production" id="production" aria-labelledby="production-title">
+      <header class="section-head">
+        <span class="section-head__index">04 / 05</span>
+        <h2 class="section-head__title" id="production-title">How we make it</h2>
+        <p class="section-head__lede">No plastic inserts. No glued seams. No metal inside. One single piece of vulcanised rubber, moulded or cast, then hand-painted with food-grade silicone dye.</p>
+      </header>
+
+      <div class="production__grid">
+        <article class="fact">
+          <span class="fact__index">M.01</span>
+          <h3 class="fact__title">Material</h3>
+          <p>Single-piece moulding. Food-grade silicone compound for Micro and Classic; natural rubber with EPDM additives for Designer, Mega and Architect.</p>
+        </article>
+        <article class="fact">
+          <span class="fact__index">M.02</span>
+          <h3 class="fact__title">Eyes</h3>
+          <p>Painted, not inserted. Black pupil, white sclera, applied post-vulcanisation by hand with UV- and water-resistant food-grade silicone dye. Same base shape across every SKU.</p>
+        </article>
+        <article class="fact">
+          <span class="fact__index">M.03</span>
+          <h3 class="fact__title">Technology</h3>
+          <p>Injection (Micro, 45 s/cycle) · Compression (Classic, 3 min/cycle) · Hand-cast (Designer, 1/day) · Rotational (Mega, 2 h + 8 h cooling) · Sculptural (Architect, 2–4 weeks per piece).</p>
+        </article>
+        <article class="fact">
+          <span class="fact__index">M.04</span>
+          <h3 class="fact__title">Quality control</h3>
+          <p>Five checks per duck: visual, geometry (±2%), drop test, smell test, gravimetry (±3%). Architect additionally receives ultrasonic inspection of the welded frame.</p>
+        </article>
+        <article class="fact">
+          <span class="fact__index">M.05</span>
+          <h3 class="fact__title">Compliance</h3>
+          <p>EN 71-3 (chemical migration). REACH (no phthalates, no bisphenol A). Age-marked packaging. Operating range −20 °C … +60 °C, indoor use only.</p>
+        </article>
+        <article class="fact">
+          <span class="fact__index">M.06</span>
+          <h3 class="fact__title">Care</h3>
+          <p>Warm water and mild soap. No abrasives, no alcohol, no bleach. Protect from direct UV — colour degrades after 2+ years. Every SKU ships with a care card and a QR code to the full spec sheet.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="b2b" id="b2b" aria-labelledby="b2b-title">
+      <div class="b2b__inner">
+        <header class="section-head section-head--inline">
+          <span class="section-head__index">05 / 05</span>
+          <h2 class="section-head__title" id="b2b-title">Custom development &amp; wholesale</h2>
+        </header>
+
+        <div class="b2b__layout">
+          <div class="b2b__copy">
+            <p>Custom colour is body-through pigment — the mass is tinted into the rubber <em>before moulding</em>, not painted on top. Twelve branded pigments in the Quacktory Pigment Menu (TPM) for standard custom runs, with predictable lead times and pricing.</p>
+            <p>Fully arbitrary third-party colour is a separate formula development: +2 weeks to lead time, +15% to the price. Custom geometry — a new duck shape or a brand mascot — is a separate project with a master model, discussed individually.</p>
+            <ul class="b2b__list">
+              <li><span>Micro / Classic</span><b>3 weeks</b></li>
+              <li><span>Designer</span><b>6 weeks</b></li>
+              <li><span>Mega</span><b>6 weeks</b></li>
+              <li><span>Architect</span><b>12 weeks</b><small>incl. survey &amp; install</small></li>
+            </ul>
+            <a class="hero__cta hero__cta--ghost" href="mailto:b2b@quacktory.space">
+              <span>Request a quote</span>
+              <span class="hero__cta-arrow" aria-hidden="true">→</span>
+            </a>
+          </div>
+
+          <div class="b2b__palette" aria-label="Quacktory Pigment Menu — 12 branded colours">
+            <span class="b2b__sw" style="--c:#F5E020"><b>TPM 01</b><i>Lumen</i></span>
+            <span class="b2b__sw" style="--c:#0A0A0A"><b>TPM 02</b><i>Ink</i></span>
+            <span class="b2b__sw" style="--c:#E8E8EC"><b>TPM 03</b><i>Bone</i></span>
+            <span class="b2b__sw" style="--c:#B8B8BD"><b>TPM 04</b><i>Ash</i></span>
+            <span class="b2b__sw" style="--c:#1F1F22"><b>TPM 05</b><i>Slate</i></span>
+            <span class="b2b__sw" style="--c:#FF6B35"><b>TPM 06</b><i>Ember</i></span>
+            <span class="b2b__sw" style="--c:#4ECDC4"><b>TPM 07</b><i>Pool</i></span>
+            <span class="b2b__sw" style="--c:#C73E1D"><b>TPM 08</b><i>Clinker</i></span>
+            <span class="b2b__sw" style="--c:#2E86AB"><b>TPM 09</b><i>Drift</i></span>
+            <span class="b2b__sw" style="--c:#A23B72"><b>TPM 10</b><i>Velvet</i></span>
+            <span class="b2b__sw" style="--c:#F18F01"><b>TPM 11</b><i>Amber</i></span>
+            <span class="b2b__sw" style="--c:#6A994E"><b>TPM 12</b><i>Moss</i></span>
+            <p class="b2b__note">Custom = pigment in the mass, never paint on the surface. Request a TPM swatch book →</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer" role="contentinfo">
+    <div class="footer__top">
+      <div class="footer__brand">
+        <span class="brand__bar" aria-hidden="true"></span>
+        <span class="footer__mark">QUACKTORY</span>
+        <p class="footer__credo">Serious ducks for un-serious people.</p>
+        <p class="footer__addr">quacktory.space<br>b2b@quacktory.space</p>
+      </div>
+      <div class="footer__col">
+        <h4>Lineup</h4>
+        <ul>
+          <li><a href="#ladder">Micro — 4 cm</a></li>
+          <li><a href="#ladder">Classic — 18 cm</a></li>
+          <li><a href="#ladder">Designer — 24 cm</a></li>
+          <li><a href="#ladder">Mega — 85 cm</a></li>
+          <li><a href="#ladder">Architect — 3 m</a></li>
+        </ul>
+      </div>
+      <div class="footer__col">
+        <h4>Spec</h4>
+        <ul>
+          <li><a href="#production">Production</a></li>
+          <li><a href="#production">Compliance</a></li>
+          <li><a href="#production">Care guide</a></li>
+          <li><a href="#b2b">Pigment menu</a></li>
+        </ul>
+      </div>
+      <div class="footer__col">
+        <h4>Studio</h4>
+        <ul>
+          <li><a href="#">Collaborations</a></li>
+          <li><a href="#">Press</a></li>
+          <li><a href="#">Stockists</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer__bot">
+      <span>© 2003 — 2026 Quacktory Studio. All ducks reserved.</span>
+      <ul class="footer__legal">
+        <li><a href="#">Terms</a></li>
+        <li><a href="#">Privacy</a></li>
+        <li><a href="#">Imprint</a></li>
+      </ul>
+      <ul class="footer__social" aria-label="Social channels">
+        <li><a href="#" aria-label="Instagram">IG</a></li>
+        <li><a href="#" aria-label="TikTok">TT</a></li>
+        <li><a href="#" aria-label="YouTube">YT</a></li>
+      </ul>
+    </div>
+  </footer>
+<script src="main.js" defer></script>
+</body>
+</html>

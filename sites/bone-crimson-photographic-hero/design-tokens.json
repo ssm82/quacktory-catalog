@@ -1,0 +1,20 @@
+{
+  "slug": "lama-lama-2",
+  "palette": {
+    "bg": "#B5001F",
+    "fg": "#FFFFFF",
+    "accent": "#D9254E",
+    "muted": "#E8DCE6",
+    "ink": "#4A0014",
+    "surface": "#1A0008"
+  },
+  "fonts": {
+    "display": "Archivo",
+    "body": "Inter",
+    "mono": "JetBrains Mono"
+  },
+  "hero_pattern": "F",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": ""
+}

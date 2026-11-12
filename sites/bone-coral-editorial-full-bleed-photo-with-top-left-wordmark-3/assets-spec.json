@@ -1,0 +1,37 @@
+[
+  {
+    "filename": "hero-painting.jpg",
+    "prompt": "Classical Renaissance oil painting, Botticelli meets Romantic academic landscape: two glossy hot-pink (#FF2A8C) rubber ducks floating through a peach-lit cumulus sky, one in a white tunic with a yellow-and-coral sash riding a hot-pink graffiti skateboard and holding a hot-pink takeaway cup, one in a coral robe over a white underskirt with a wing stretched outward; Tuscan valley, cypress trees, hydrangea blooms, painterly brush texture, muted vintage canvas, empty left half for typography.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "hero-lifestyle.jpg",
+    "prompt": "A classic rubber duck in a hot-pink (#FF2A8C) matte porcelain finish, positioned on a low weathered stone plinth at the edge of a cypress grove within a romantic Renaissance-painting environment. The duck sits in a profile-three-quarter view, occupying roughly a quarter of the frame width, hero_pattern C: duck on location within the natural landscape. Distant olive hills, hydrangea-like blooms in the lower foreground, and a cumulus sky in muted blue-grey (#5E89A6) and pale peach complete the Botticelli-meets-Romantic atmosphere. Editorial register: matte porcelain with no lacquered highlights, soft window light from the upper left creating gentle chiaroscuro on the foliage. Foliage reads in deep forest teal (#1F3A2E) and ink green (#2C4A3D); a small draped fabric swatch in cream surface tone (#EFE6D5) anchors the lower left corner. Seamless backdrop in #1F3A2E tone, NOT warm amber finish, NOT tinted beyond palette. Plain oval pupils, no decorative glint. Painterly brush texture preserved throughout, warm paper feel, full-bleed editorial composition with generous breathing room at the top for typography.",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "filename": "product-micro.jpg",
+    "prompt": "Classic rubber duck miniature at approximately six centimetres apparent, finished in a hot-pink (#FF2A8C) matte porcelain body, identical silhouette to the workhorse SKU. Front-facing, slightly elevated 30° camera angle. Seamless backdrop in #1F3A2E dark forest green tone, NOT warm amber finish, NOT tinted beyond palette. Plain oval pupils, no decorative glint. Soft diffused studio three-point lighting, editorial register: matte porcelain surface with no gloss, no specular reflection, warm paper feel. A small gilded keychain ring crowns the duck's head, identifying it as the keychain edition. The duck sits centered, isolated, on the dark forest studio sweep with generous negative space, as if pinned into a Renaissance still-life folio. Subtle painterly edge on the backdrop, no other props, the single isolated subject photographed like a small treasure on a cream page, an editorial miniature.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-classic.jpg",
+    "prompt": "Classic rubber duck at approximately fifteen centimetres apparent, finished in a hot-pink (#FF2A8C) matte porcelain body, the canonical workhorse SKU, identical silhouette to all other ducks in the line. Front-facing, slightly elevated 30° camera angle. Seamless backdrop in #1F3A2E dark forest green tone, NOT warm amber finish, NOT tinted beyond palette. Plain oval pupils, no decorative glint. Soft diffused studio three-point lighting, editorial register: matte porcelain surface with no gloss, no specular highlight, warm paper feel. A flat cream surface card (#EFE6D5) sits beneath the duck as a typographic plinth, anchoring the composition. The duck is centered, isolated, lit like a Renaissance studio portrait — quiet, matte, considered. No competing props, no other accent colour, the most-photographed SKU rendered in a manner suitable for an editorial catalogue spread, painterly atmosphere, the duck as the hero of a single folio page.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-designer.jpg",
+    "prompt": "Classic rubber duck at approximately twenty centimetres apparent, finished in a hot-pink (#FF2A8C) matte porcelain body, identical silhouette to the rest of the line. The body is overlaid with a hand-painted Renaissance-inspired design treatment: gilded cypress and laurel motifs in cream surface (#EFE6D5) and ink green (#2C4A3D), a single coral robe flourish at the flank, classical scrollwork at the wings. Front-facing, slightly elevated 30° camera angle. Seamless backdrop in #1F3A2E dark forest green tone, NOT warm amber finish, NOT tinted beyond palette. Plain oval pupils, no decorative glint. Soft diffused studio three-point lighting, editorial register: matte porcelain surface preserved beneath the painted decoration, no gloss, no lacquered finish. The duck sits on a small gilded plinth, framed like a collaboration-edition object, painterly brush texture visible on the ornament, the duck reading as a unique collaboration piece with museum-object gravitas.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-mega.jpg",
+    "prompt": "Classic rubber duck at approximately eighty centimetres apparent, finished in a hot-pink (#FF2A8C) matte porcelain body, identical silhouette but at photographic-object scale. Front-facing, slightly elevated 30° camera angle to emphasize the duck's monumental volume against the dark backdrop. Seamless backdrop in #1F3A2E dark forest green tone, NOT warm amber finish, NOT tinted beyond palette. Plain oval pupils, no decorative glint. Soft diffused studio three-point lighting, editorial register: matte porcelain with no gloss, no specular highlight, warm paper feel. The duck dominates the frame as a photo-object, isolated in a vast dark forest studio sweep, the curve of the body catching a soft window light from the upper left. No props, no surface — the duck as its own landscape, a sculptural presence in the editorial frame, photographed like a Romantic-era still life scaled up to wall-piece dimensions.",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "filename": "product-architect.jpg",
+    "prompt": "Classic rubber duck at approximately two metres apparent, finished in a hot-pink (#FF2A8C) matte porcelain body, identical silhouette at monumental installation scale. Front-facing, slightly elevated 30° camera angle to underline the duck's grand scale relative to the receding studio space. Seamless backdrop in #1F3A2E dark forest green tone, NOT warm amber finish, NOT tinted beyond palette. Plain oval pupils, no decorative glint. Soft diffused studio three-point lighting, editorial register: matte porcelain with no gloss, no specular highlight, warm paper feel. The duck stands on a low plinth in cream surface tone (#EFE6D5), the floor receding into deep forest shadow around it. The room itself is barely visible — a single statement installation, painterly atmosphere, the duck as a Romantic-era folly occupying a darkened gallery, the silhouette monumental yet identical to the keychain miniature, a single design repeated across a 2.5m scale.",
+    "aspect_ratio": "1:1"
+  }
+]

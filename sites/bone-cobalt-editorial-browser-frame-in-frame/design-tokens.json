@@ -1,0 +1,20 @@
+{
+  "slug": "lusion-v3",
+  "palette": {
+    "bg": "#ECECEC",
+    "fg": "#111111",
+    "accent": "#2A52E8",
+    "muted": "#0C1626",
+    "ink": "#0B0B0B",
+    "surface": "#FFFFFF"
+  },
+  "fonts": {
+    "display": "Space Grotesk",
+    "body": "Inter",
+    "mono": ""
+  },
+  "hero_pattern": "B",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Let's talk"
+}

@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quacktory · Heritage Apothecary</title>
+<meta name="description" content="Quacktory Heritage Apothecary — a five-piece size ladder of rubber ducks cast in aged ivory and brass, finished in the manner of a classical perfumer's atelier.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./styles.css">
+
+</head>
+<body>
+
+<!-- Ghost-pill nav (fixed top, frosted) -->
+<nav class="ghost-pill" aria-label="Primary">
+  <a href="#hero" class="gp-link">Quacktory</a>
+  <span class="gp-sep"></span>
+  <a href="#timeline" class="gp-link">Sizes</a>
+  <a href="#cartouche" class="gp-link">Cartouche</a>
+  <a href="#collection" class="gp-link">Collection</a>
+  <a href="#atelier" class="gp-link">Atelier</a>
+</nav>
+
+<main>
+
+  <!-- 01 HERO -->
+  <section class="section hero" id="hero">
+    <div class="hero-veil"></div>
+    <div class="hero-frame">
+      <div class="cartouche" id="heroCartouche">
+        <svg viewBox="0 0 400 520" class="cartouche-svg" aria-hidden="true">
+          <defs>
+            <path id="cartRingTop" d="M 60,260 A 140,200 0 0,1 340,260"/>
+            <path id="cartRingBottom" d="M 60,260 A 140,200 0 0,0 340,260"/>
+          </defs>
+          <ellipse cx="200" cy="260" rx="170" ry="240" fill="var(--cream)" stroke="var(--ink)" stroke-width="2"/>
+          <ellipse cx="200" cy="260" rx="160" ry="230" fill="none" stroke="var(--ink)" stroke-width="0.5" opacity="0.4"/>
+          <text class="ring-text" font-family="Cormorant Garamond" font-style="italic" font-size="16" fill="var(--ink)">
+            <textPath href="#cartRingTop" startOffset="50%" text-anchor="middle">· EST · MMXXV · ATELIER · QUACKTORVM ·</textPath>
+          </text>
+          <text class="ring-text" font-family="Cormorant Garamond" font-style="italic" font-size="14" fill="var(--ink)" opacity="0.7">
+            <textPath href="#cartRingBottom" startOffset="50%" text-anchor="middle">· HERITAGE APOTHECARY ·</textPath>
+          </text>
+        </svg>
+        <div class="cartouche-inner">
+          <div class="wordmark">
+            <span class="wm-q">QUACK</span>
+            <span class="wm-t">TORY</span>
+          </div>
+          <div class="cartouche-rule"></div>
+          <div class="cartouche-tagline">Rubber Ducks · Five Sizes</div>
+          <div class="cartouche-mark">— a cabinet of curiosities —</div>
+        </div>
+      </div>
+    </div>
+    <div class="hero-credits">
+      <span class="hcr">N°&nbsp;I</span>
+      <span class="hcr-line"></span>
+      <span class="hcr">Heritage Apothecary</span>
+    </div>
+    <a href="#timeline" class="scroll-cue" aria-label="Scroll to size timeline">
+      <span>SCROLL</span>
+      <svg viewBox="0 0 12 24" width="10" height="20" aria-hidden="true"><path d="M1 1 L6 8 L11 1 M6 8 L6 23" stroke="currentColor" fill="none" stroke-width="1"/></svg>
+    </a>
+  </section>
+
+  <!-- 02 SIZE TIMELINE (Size lineup) -->
+  <section class="section timeline-section" id="timeline">
+    <header class="sec-head">
+      <span class="kicker">§ 02</span>
+      <h2 class="sec-title">Size&nbsp;lineup</h2>
+      <p class="sec-sub">A five-piece ladder, 4 centimetres to 3 metres — cast in the same ivory-cream body, scaled at the wheel, sealed with a brass cartouche.</p>
+    </header>
+
+    <div class="vitrine" role="list">
+      <button class="duck-node" data-size="Micro" role="listitem">
+        <span class="duck-edge duck-edge-left">4&nbsp;cm</span>
+        <span class="duck-img-wrap"><img src="./assets/product-micro.jpg" alt="Quacktory Micro, 4 cm keychain duck in aged ivory with brass cartouche"></span>
+        <span class="duck-label"><span class="dl-num">I</span><span class="dl-name">Micro</span></span>
+      </button>
+      <button class="duck-node" data-size="Classic" role="listitem">
+        <span class="duck-img-wrap"><img src="./assets/product-classic.jpg" alt="Quacktory Classic, 15 cm duck in aged ivory with brass cartouche"></span>
+        <span class="duck-label"><span class="dl-num">II</span><span class="dl-name">Classic</span></span>
+      </button>
+      <button class="duck-node" data-size="Designer" role="listitem">
+        <span class="duck-img-wrap"><img src="./assets/product-designer.jpg" alt="Quacktory Designer, 20 cm duck with engraved brass cartouche and classical scrollwork"></span>
+        <span class="duck-label"><span class="dl-num">III</span><span class="dl-name">Designer</span></span>
+      </button>
+      <button class="duck-node" data-size="Mega" role="listitem">
+        <span class="duck-img-wrap"><img src="./assets/product-mega.jpg" alt="Quacktory Mega, 50 cm duck in aged ivory with prominent brass cartouche"></span>
+        <span class="duck-label"><span class="dl-num">IV</span><span class="dl-name">Mega</span></span>
+      </button>
+      <button class="duck-node" data-size="Architect" role="listitem">
+        <span class="duck-img-wrap"><img src="./assets/product-architect.jpg" alt="Quacktory Architect, 1.5 m monumental duck in aged ivory with giant brass cartouche"></span>
+        <span class="duck-label"><span class="dl-num">V</span><span class="dl-name">Architect</span></span>
+        <span class="duck-edge duck-edge-right">3&nbsp;m</span>
+      </button>
+    </div>
+
+    <div class="rail" aria-hidden="true">
+      <div class="rail-track"></div>
+      <div class="rail-mark rm-1">4 cm</div>
+      <div class="rail-mark rm-2">15 cm</div>
+      <div class="rail-mark rm-3">20 cm</div>
+      <div class="rail-mark rm-4">50 cm</div>
+      <div class="rail-mark rm-5">1.5 — 3 m</div>
+    </div>
+  </section>
+
+  <!-- 03 THE CARTOUCHE (story) -->
+  <section class="section cartouche-section" id="cartouche">
+    <div class="card cream-card">
+      <div class="card-kicker">§ 03 · The Cartouche</div>
+      <h3 class="card-h">A shape that carries the house.</h3>
+      <p>The oval cartouche is older than any of the rooms it has hung in. We borrowed its frame from the perfumer's cabinet — a vessel whose every label is meant to outlast its maker — and pressed it into brass for the chest of every Quacktory duck.</p>
+      <p>It survives every change of scale, every finish, every edition. It is the only constant.</p>
+      <div class="card-meta">
+        <span>Cast · Antwerp</span>
+        <span>Edition · Open</span>
+        <span>Body · Ivory Resin</span>
+      </div>
+    </div>
+    <div class="card ink-card">
+      <div class="card-kicker dark">§ 03 · Two-Tone</div>
+      <p class="card-quote">"We reduced the palette to a single argument: ink against cream. The forest outside the cabinet is borrowed; the cabinet itself is only two values."</p>
+      <div class="card-rule"></div>
+      <p>No third colour. No third voice. The same restraint that lets a Latin inscription hold a perfume label for a century.</p>
+    </div>
+  </section>
+
+  <!-- 04 THE APOTHECARY (lifestyle) -->
+  <section class="section apothecary-section" id="apothecary">
+    <div class="apoth-img">
+      <img src="./assets/hero-lifestyle.jpg" alt="A heritage rubber duck standing on a dark walnut apothecary shelf among glass bottles and dried botanicals, lit by candlelight">
+      <div class="apoth-frame">
+        <span class="af-corner af-tl"></span>
+        <span class="af-corner af-tr"></span>
+        <span class="af-corner af-bl"></span>
+        <span class="af-corner af-br"></span>
+      </div>
+    </div>
+    <div class="apoth-copy">
+      <div class="card-kicker dark">§ 04 · The Apothecary</div>
+      <h3 class="card-h light">A cabinet, lit by one candle.</h3>
+      <p class="light">The Apothecary is the direction our ducks arrive from: walnut shelves, glass stoppers, dried lavender tied with kitchen twine. The light in this room is not studio light. It is candlelight that has learned where the duck should sit.</p>
+      <div class="apoth-cite">
+        <span>Plate I</span>
+        <span class="apoth-cite-line"></span>
+        <span>Apothecary, evening</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- 05 THE COLLECTION (catalog) -->
+  <section class="section collection-section" id="collection">
+    <header class="sec-head">
+      <span class="kicker">§ 05</span>
+      <h2 class="sec-title">The Collection</h2>
+      <p class="sec-sub">Six pieces, one cabinet. Each carries the cartouche; each is meant to be set on a different shelf.</p>
+    </header>
+    <div class="catalog">
+      <article class="cat-card" data-name="Micro">
+        <div class="cat-img-wrap"><img src="./assets/product-micro.jpg" alt="Micro · 4 cm"></div>
+        <div class="cat-meta">
+          <span class="cat-num">N° 01</span>
+          <h4 class="cat-name">Micro</h4>
+          <p class="cat-desc">4 cm · keychain · polished ivory, brass cartouche medallion.</p>
+          <span class="cat-price">€ 24</span>
+        </div>
+      </article>
+      <article class="cat-card" data-name="Classic">
+        <div class="cat-img-wrap"><img src="./assets/product-classic.jpg" alt="Classic · 15 cm"></div>
+        <div class="cat-meta">
+          <span class="cat-num">N° 02</span>
+          <h4 class="cat-name">Classic</h4>
+          <p class="cat-desc">15 cm · the house duck · aged ivory, brass cartouche on chest.</p>
+          <span class="cat-price">€ 58</span>
+        </div>
+      </article>
+      <article class="cat-card" data-name="Designer">
+        <div class="cat-img-wrap"><img src="./assets/product-designer.jpg" alt="Designer · 20 cm"></div>
+        <div class="cat-meta">
+          <span class="cat-num">N° 03</span>
+          <h4 class="cat-name">Designer</h4>
+          <p class="cat-desc">20 cm · engraved brass cartouche with classical scrollwork.</p>
+          <span class="cat-price">€ 96</span>
+        </div>
+      </article>
+      <article class="cat-card" data-name="Mega">
+        <div class="cat-img-wrap"><img src="./assets/product-mega.jpg" alt="Mega · 50 cm"></div>
+        <div class="cat-meta">
+          <span class="cat-num">N° 04</span>
+          <h4 class="cat-name">Mega</h4>
+          <p class="cat-desc">50 cm · apothecary showpiece · prominent cartouche label.</p>
+          <span class="cat-price">€ 280</span>
+        </div>
+      </article>
+      <article class="cat-card" data-name="Architect">
+        <div class="cat-img-wrap"><img src="./assets/product-architect.jpg" alt="Architect · 1.5 m"></div>
+        <div class="cat-meta">
+          <span class="cat-num">N° 05</span>
+          <h4 class="cat-name">Architect</h4>
+          <p class="cat-desc">1.5 m · museum piece · giant brass cartouche, polished antique.</p>
+          <span class="cat-price">€ 4 800</span>
+        </div>
+      </article>
+      <article class="cat-card cta-card">
+        <div class="cta-inner">
+          <span class="cta-kicker">Order the cabinet</span>
+          <h4 class="cta-h">A complete apothecary of five.</h4>
+          <p>The five pieces, in matched ivory, hand-numbered, in a walnut display tray.</p>
+          <a class="cta-btn" href="#atelier">Enquire · Atelier</a>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <!-- 06 THE ATELIER (B2B / custom Architect) -->
+  <section class="section atelier-section" id="atelier">
+    <div class="atelier-bg">
+      <img src="./assets/product-architect.jpg" alt="Quacktory Architect, monumental duck">
+    </div>
+    <div class="atelier-content">
+      <div class="card-kicker light">§ 06 · The Atelier</div>
+      <h3 class="card-h display">Bespoke · Architect · 1.5 — 3&nbsp;m</h3>
+      <p class="light">The Atelier commissions single-piece monumental ducks for atria, lobbies and galleries. Each Architect duck is cast to a measured footprint, finished by hand, and shipped in a custom walnut crate.</p>
+      <ul class="atelier-list">
+        <li><span>I.</span> Measured footprint · 2 — 12 m²</li>
+        <li><span>II.</span> Aged ivory resin · brass cartouche</li>
+        <li><span>III.</span> Inscription · house or patron</li>
+        <li><span>IV.</span> Lead time · 14 — 22 weeks</li>
+      </ul>
+      <a class="cta-btn ghost" href="mailto:atelier@quacktory.space">Request a brief →</a>
+    </div>
+  </section>
+
+  <footer class="foot">
+    <div class="foot-inner">
+      <span class="foot-mark">QUACKTORY · HERITAGE APOTHECARY</span>
+      <span class="foot-meta">Cast in Antwerp · Edition MMXXV · Two-tone · Ink · Cream</span>
+    </div>
+  </footer>
+</main>
+
+<!-- Modal -->
+<div class="modal" id="modal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+  <div class="modal-backdrop" data-close></div>
+  <div class="modal-panel" role="document">
+    <div class="modal-bar"></div>
+    <button class="modal-close" data-close aria-label="Close">×</button>
+    <div class="modal-size" id="modalSize">CLASSIC</div>
+    <h3 class="modal-title" id="modalTitle">A duck, by the centimetre.</h3>
+    <p class="modal-desc" id="modalDesc"></p>
+    <div class="modal-meta" id="modalMeta"></div>
+  </div>
+</div>
+
+<script type="module" src="./main.js"></script>
+
+</body>
+</html>

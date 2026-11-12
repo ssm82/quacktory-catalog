@@ -1,0 +1,20 @@
+{
+  "slug": "53198839343862123",
+  "palette": {
+    "bg": "#2c2d34",
+    "fg": "#ffffff",
+    "accent": "#bcbcbc",
+    "muted": "#3a3b42",
+    "ink": "#1f2024",
+    "surface": "#1f2024"
+  },
+  "fonts": {
+    "display": "Manrope",
+    "body": "Manrope",
+    "mono": ""
+  },
+  "hero_pattern": "B",
+  "register": "editorial",
+  "duck_eye_decor": "none",
+  "cta_register": "Read the journal"
+}

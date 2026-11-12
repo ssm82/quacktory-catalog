@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quacktory — Serious ducks for not-so-serious people.</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="main.js" defer></script>
+</head>
+<body>
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <img class="hero-image" src="./assets/hero-lifestyle.jpg" alt="Scale from 4 cm to 3 m">
+      <div class="hero-copy">
+        <p class="hero-eyebrow">Quacktory</p>
+        <h1 class="hero-title" id="hero-title">Serious<br>ducks</h1>
+        <p class="hero-credo">for not-so-serious people.</p>
+        <p class="hero-manifest">We make ducks you don't want to drop in water but want to put on a shelf. Small ones go in your pocket. Big ones go in the lobby. All of them go on camera.</p>
+      </div>
+      <a class="portal-link" href="#lineup"><span class="portal-ring" aria-hidden="true"></span><span class="portal-text">Open</span></a>
+      <span class="scene-stencil" aria-hidden="true">4—300</span>
+    </section>
+
+    <section class="lineup" id="lineup" aria-labelledby="lineup-title">
+      <header class="lineup-heading">
+        <p class="section-label">Product range</p>
+        <h2 class="lineup-title" id="lineup-title">Size lineup</h2>
+        <p class="lineup-copy">One vector duck silhouette: body outline, beak, feet, eye placement.</p>
+      </header>
+      <div class="corridor">
+        <button class="door door-micro" type="button" data-product="micro">
+          <img class="door-image" src="./assets/product-micro.jpg" alt="Micro 4–8 cm"><span class="door-shade"></span><span class="door-number">01</span><span class="door-name">Micro</span><span class="door-size">4–8 cm</span><span class="tooltip-pill">Open</span>
+        </button>
+        <button class="door door-classic" type="button" data-product="classic">
+          <img class="door-image" src="./assets/product-classic.jpg" alt="Classic 10–25 cm"><span class="door-shade"></span><span class="door-number">02</span><span class="door-name">Classic</span><span class="door-size">10–25 cm</span><span class="tooltip-pill">Open</span>
+        </button>
+        <button class="door door-designer" type="button" data-product="designer">
+          <img class="door-image" src="./assets/product-designer.jpg" alt="Designer 15–30 cm"><span class="door-shade"></span><span class="door-number">03</span><span class="door-name">Designer</span><span class="door-size">15–30 cm</span><span class="tooltip-pill">Open</span>
+        </button>
+        <button class="door door-mega" type="button" data-product="mega">
+          <img class="door-image" src="./assets/product-mega.jpg" alt="Mega 50–120 cm"><span class="door-shade"></span><span class="door-number">04</span><span class="door-name">Mega</span><span class="door-size">50–120 cm</span><span class="tooltip-pill">Open</span>
+        </button>
+        <button class="door door-architect" type="button" data-product="architect">
+          <img class="door-image" src="./assets/product-architect.jpg" alt="Architect 1.5–3 m"><span class="door-shade"></span><span class="door-number">05</span><span class="door-name">Architect</span><span class="door-size">1.5–3 m</span><span class="tooltip-pill">Open</span>
+        </button>
+      </div>
+      <nav class="timeline" aria-label="Size lineup">
+        <span class="timeline-edge">4 cm</span>
+        <div class="timeline-track">
+          <button class="timeline-node" type="button" data-product="micro"><span class="node-dot"></span><span class="node-label">Micro</span></button>
+          <button class="timeline-node" type="button" data-product="classic"><span class="node-dot"></span><span class="node-label">Classic</span></button>
+          <button class="timeline-node" type="button" data-product="designer"><span class="node-dot"></span><span class="node-label">Designer</span></button>
+          <button class="timeline-node" type="button" data-product="mega"><span class="node-dot"></span><span class="node-label">Mega</span></button>
+          <button class="timeline-node" type="button" data-product="architect"><span class="node-dot"></span><span class="node-label">Architect</span></button>
+        </div>
+        <span class="timeline-edge">3 m</span>
+      </nav>
+    </section>
+
+    <section class="production" aria-labelledby="production-title">
+      <span class="production-stencil" aria-hidden="true">5</span>
+      <div class="production-copy">
+        <p class="section-label">How we make ducks — production</p>
+        <h2 class="production-title" id="production-title">Every duck passes 5 checks</h2>
+        <div class="production-list"><span class="production-item">Visual inspection</span><span class="production-item">Geometry</span><span class="production-item">Drop test</span><span class="production-item">Smell test</span><span class="production-item">Gravimetry</span></div>
+      </div>
+      <div class="production-fact"><strong class="fact-title">Eyes — paint, not inserts.</strong><p class="fact-text">Black pupil + white sclera. Pigment is applied by hand after vulcanization.</p></div>
+    </section>
+
+    <section class="b2b" aria-labelledby="b2b-title">
+      <div class="b2b-copy">
+        <p class="section-label">B2B / Custom development</p>
+        <h2 class="b2b-title" id="b2b-title">Custom = choose from a branded palette.</h2>
+        <p class="b2b-text">12 signature Pantone equivalents, blended into the mass BEFORE molding. Pigment throughout the body.</p>
+      </div>
+      <a class="b2b-portal" href="#footer"><span class="b2b-ring" aria-hidden="true"></span><span class="b2b-action">Request a quote</span></a>
+    </section>
+  </main>
+
+  <footer class="footer" id="footer">
+    <span class="footer-brand">Quacktory</span><span class="footer-item">contacts</span><span class="footer-item">payment</span><span class="footer-item">social</span><span class="footer-item">legal</span>
+  </footer>
+
+  <div class="modal" aria-hidden="true">
+      <button class="modal-overlay" type="button" aria-label="Close"></button>
+      <section class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+        <button class="modal-close" type="button" aria-label="Close">×</button><span class="modal-ring" aria-hidden="true"></span>
+        <p class="modal-size"></p><h2 class="modal-title" id="modal-title"></h2><p class="modal-description"></p>
+        <dl class="modal-facts"><div class="modal-fact"><dt>Audience</dt><dd class="modal-audience"></dd></div><div class="modal-fact"><dt>Price positioning</dt><dd class="modal-price"></dd></div><div class="modal-fact"><dt>Age</dt><dd class="modal-age"></dd></div></dl>
+    </section>
+  </div>
+</body>
+</html>

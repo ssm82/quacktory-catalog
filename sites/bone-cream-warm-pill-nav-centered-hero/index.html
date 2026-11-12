@@ -1,0 +1,266 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Quacktory — Sculptural Rubber Ducks, Scaled 4cm to 3m</title>
+  <meta name="description" content="Quacktory sizes rubber ducks as a ladder: Micro 4cm, Classic 15cm, Designer 20cm, Mega 50cm, Architect 1.5m. An editorial catalog in warm amber porcelain." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Italiana&family=Inter:wght@300;400;500;600&display=swap" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="chrome">
+    <nav class="pill" aria-label="Primary">
+      <a class="pill__brand" href="#top">QUACKTORY</a>
+      <ul>
+        <li><a href="#story">Story</a></li>
+        <li><a href="#ladder">Ladder</a></li>
+        <li><a href="#process">Process</a></li>
+        <li><a href="#acquire">Acquire</a></li>
+      </ul>
+      <span class="pill__meta" aria-label="Catalog number">№ 047</span>
+    </nav>
+  </header>
+
+  <main id="top">
+    <!-- HERO: full-bleed lifestyle image + headline bisected by inset square (Crit→Quacktory translation of the NUDE DIGITAL layout) -->
+    <section class="hero section">
+      <img class="hero__photo" src="./assets/hero-lifestyle.jpg" alt="Five Quacktory ducks arranged as a museum still life" />
+      <div class="hero__scrim" aria-hidden="true"></div>
+
+      <div class="hero__overlay">
+        <h1 class="hero__headline">
+          <span class="hero__headline--left">ICONIC NEVER GETS OLD,</span>
+          <span class="hero__headline--slot">
+            <img class="hero__inset" src="./assets/product-classic.jpg" alt="" aria-hidden="true" />
+          </span>
+          <span class="hero__headline--right">IT GETS REINFLATED.</span>
+        </h1>
+
+        <p class="hero__wordmark">QUACKTORY&nbsp;&middot;&nbsp;EST.&nbsp;2019</p>
+
+        <div class="hero__cta">
+          <a class="btn btn--solid" href="#ladder">View the ladder</a>
+          <a class="btn btn--ghost" href="#acquire">Acquire</a>
+        </div>
+      </div>
+
+      <a class="hero__scroll" href="#story" aria-label="Scroll to the story">
+        <span>scroll</span>
+        <svg viewBox="0 0 24 36" width="14" height="22" aria-hidden="true"><path d="M12 2v30M4 24l8 8 8-8" fill="none" stroke="currentColor" stroke-width="1.4"/></svg>
+      </a>
+    </section>
+
+    <!-- STORY -->
+    <section id="story" class="section story">
+      <div class="story__grid">
+        <div class="story__label">
+          <span class="eyebrow">01 &mdash; The brief</span>
+        </div>
+        <div class="story__body">
+          <p class="lede">
+            A rubber duck is the smallest monument we will ever own. Quacktory treats it as one.
+          </p>
+          <p>
+            Five sizes, one silhouette. Warm amber porcelain, hand-finished in a small workshop outside Porto, then signed and numbered. The smallest hangs from a keychain; the largest stands taller than a child. Every size carries the same eye, the same posture, the same dimpled base &mdash; only the scale changes.
+          </p>
+          <p>
+            The collection was photographed in a single afternoon against one warm backdrop. No retouching, no composites, no second tries. The grain is the grain.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- SIZE LADDER (translation of the crit's structural pattern: year timeline → size timeline) -->
+    <section id="ladder" class="section ladder">
+      <header class="ladder__header">
+        <span class="eyebrow">02 &mdash; The ladder</span>
+        <h2 class="ladder__title">Five sizes, one silhouette.</h2>
+        <p class="ladder__sub">Each rung is a separate edition. Click a node to open the spec sheet.</p>
+      </header>
+
+      <ol class="ladder__rail" aria-label="Size ladder">
+        <li class="ladder__node" data-size="micro">
+          <button class="node" data-target="micro" aria-haspopup="dialog">
+            <span class="node__tick">4&ndash;8 cm</span>
+            <span class="node__dot"></span>
+            <span class="node__label">Micro</span>
+          </button>
+        </li>
+        <li class="ladder__node" data-size="classic">
+          <button class="node" data-target="classic" aria-haspopup="dialog">
+            <span class="node__tick">10&ndash;25 cm</span>
+            <span class="node__dot"></span>
+            <span class="node__label">Classic</span>
+          </button>
+        </li>
+        <li class="ladder__node" data-size="designer">
+          <button class="node" data-target="designer" aria-haspopup="dialog">
+            <span class="node__tick">15&ndash;30 cm</span>
+            <span class="node__dot"></span>
+            <span class="node__label">Designer</span>
+          </button>
+        </li>
+        <li class="ladder__node" data-size="mega">
+          <button class="node" data-target="mega" aria-haspopup="dialog">
+            <span class="node__tick">50&ndash;120 cm</span>
+            <span class="node__dot"></span>
+            <span class="node__label">Mega</span>
+          </button>
+        </li>
+        <li class="ladder__node" data-size="architect">
+          <button class="node" data-target="architect" aria-haspopup="dialog">
+            <span class="node__tick">1.5&ndash;3 m</span>
+            <span class="node__dot"></span>
+            <span class="node__label">Architect</span>
+          </button>
+        </li>
+      </ol>
+
+      <ul class="ladder__cards">
+        <li class="card" data-card="micro">
+          <img src="./assets/product-micro.jpg" alt="Quacktory Micro duck" />
+          <div class="card__meta"><span>Micro</span><span>4&ndash;8 cm</span></div>
+          <button class="card__open" data-target="micro">Open spec sheet</button>
+        </li>
+        <li class="card" data-card="classic">
+          <img src="./assets/product-classic.jpg" alt="Quacktory Classic duck" />
+          <div class="card__meta"><span>Classic</span><span>10&ndash;25 cm</span></div>
+          <button class="card__open" data-target="classic">Open spec sheet</button>
+        </li>
+        <li class="card" data-card="designer">
+          <img src="./assets/product-designer.jpg" alt="Quacktory Designer duck" />
+          <div class="card__meta"><span>Designer</span><span>15&ndash;30 cm</span></div>
+          <button class="card__open" data-target="designer">Open spec sheet</button>
+        </li>
+        <li class="card" data-card="mega">
+          <img src="./assets/product-mega.jpg" alt="Quacktory Mega duck" />
+          <div class="card__meta"><span>Mega</span><span>50&ndash;120 cm</span></div>
+          <button class="card__open" data-target="mega">Open spec sheet</button>
+        </li>
+        <li class="card" data-card="architect">
+          <img src="./assets/product-architect.jpg" alt="Quacktory Architect duck" />
+          <div class="card__meta"><span>Architect</span><span>1.5&ndash;3 m</span></div>
+          <button class="card__open" data-target="architect">Open spec sheet</button>
+        </li>
+      </ul>
+    </section>
+
+    <!-- PROCESS / WATCH-OUT REPAIR: standing CTA bar above the footer -->
+    <section id="process" class="section process">
+      <div class="process__grid">
+        <div>
+          <span class="eyebrow">03 &mdash; The process</span>
+          <h2>Cast in warm amber porcelain. Signed and numbered.</h2>
+        </div>
+        <ol class="process__steps">
+          <li><strong>01.</strong> Slip-cast in matte porcelain, fired at 1240&deg;C.</li>
+          <li><strong>02.</strong> Hand-painted in warm amber, sealed with a satin ivory coat.</li>
+          <li><strong>03.</strong> Signed under the base with edition number and date.</li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- ACQUIRE (closes the watch-out: every Quacktory page ends with an actual next step) -->
+    <section id="acquire" class="section acquire">
+      <span class="eyebrow">04 &mdash; Acquire</span>
+      <h2 class="acquire__title">Take one home.</h2>
+      <p class="acquire__sub">The Micro and Classic ship worldwide. Designer, Mega, and Architect editions are made to order.</p>
+      <a class="btn btn--solid btn--large" href="mailto:hello@quacktory.space">Start a conversation</a>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer__row">
+      <span class="footer__mark">QUACKTORY</span>
+      <span>Est. 2019 &middot; Porto &middot; Warm amber porcelain</span>
+      <span class="footer__num">№ 047</span>
+    </div>
+  </footer>
+
+  <!-- MODAL (one per SKU) -->
+  <div class="modal" id="modal-micro" hidden role="dialog" aria-modal="true" aria-labelledby="modal-micro-title">
+    <div class="modal__overlay" data-close></div>
+    <article class="modal__panel">
+      <button class="modal__close" data-close aria-label="Close">&times;</button>
+      <div class="modal__accent"></div>
+      <span class="modal__size">4&ndash;8 cm</span>
+      <h3 id="modal-micro-title" class="modal__title">Micro</h3>
+      <p class="modal__copy">A keychain duck. Cast in matte porcelain, warm amber. Goes on a bag, a zipper, a car mirror. The smallest rung on the ladder.</p>
+      <dl class="modal__specs">
+        <div><dt>Edition</dt><dd>Open</dd></div>
+        <div><dt>Material</dt><dd>Matte porcelain, amber glaze</dd></div>
+        <div><dt>Weight</dt><dd>~30 g</dd></div>
+      </dl>
+    </article>
+  </div>
+
+  <div class="modal" id="modal-classic" hidden role="dialog" aria-modal="true" aria-labelledby="modal-classic-title">
+    <div class="modal__overlay" data-close></div>
+    <article class="modal__panel">
+      <button class="modal__close" data-close aria-label="Close">&times;</button>
+      <div class="modal__accent"></div>
+      <span class="modal__size">10&ndash;25 cm</span>
+      <h3 id="modal-classic-title" class="modal__title">Classic</h3>
+      <p class="modal__copy">The 15 cm workhorse. The most-photographed Quacktory, and the one we use in every catalog image. Sits on a shelf, a desk, a windowsill.</p>
+      <dl class="modal__specs">
+        <div><dt>Edition</dt><dd>Open</dd></div>
+        <div><dt>Material</dt><dd>Matte porcelain, amber glaze</dd></div>
+        <div><dt>Weight</dt><dd>~340 g</dd></div>
+      </dl>
+    </article>
+  </div>
+
+  <div class="modal" id="modal-designer" hidden role="dialog" aria-modal="true" aria-labelledby="modal-designer-title">
+    <div class="modal__overlay" data-close></div>
+    <article class="modal__panel">
+      <button class="modal__close" data-close aria-label="Close">&times;</button>
+      <div class="modal__accent"></div>
+      <span class="modal__size">15&ndash;30 cm</span>
+      <h3 id="modal-designer-title" class="modal__title">Designer</h3>
+      <p class="modal__copy">A 20 cm edition with a hand-painted cool grey stone accent stripe along the back. One per collaborator, signed under the base.</p>
+      <dl class="modal__specs">
+        <div><dt>Edition</dt><dd>Limited, per collaborator</dd></div>
+        <div><dt>Material</dt><dd>Matte porcelain, amber + stone-grey accent</dd></div>
+        <div><dt>Weight</dt><dd>~620 g</dd></div>
+      </dl>
+    </article>
+  </div>
+
+  <div class="modal" id="modal-mega" hidden role="dialog" aria-modal="true" aria-labelledby="modal-mega-title">
+    <div class="modal__overlay" data-close></div>
+    <article class="modal__panel">
+      <button class="modal__close" data-close aria-label="Close">&times;</button>
+      <div class="modal__accent"></div>
+      <span class="modal__size">50&ndash;120 cm</span>
+      <h3 id="modal-mega-title" class="modal__title">Mega</h3>
+      <p class="modal__copy">A 50 cm large-format duck. Lives in a lobby, a stairwell, a corner that needed something. Cast in three sections, joined, sealed.</p>
+      <dl class="modal__specs">
+        <div><dt>Edition</dt><dd>Made to order</dd></div>
+        <div><dt>Material</dt><dd>Matte porcelain, amber glaze</dd></div>
+        <div><dt>Weight</dt><dd>~11 kg</dd></div>
+      </dl>
+    </article>
+  </div>
+
+  <div class="modal" id="modal-architect" hidden role="dialog" aria-modal="true" aria-labelledby="modal-architect-title">
+    <div class="modal__overlay" data-close></div>
+    <article class="modal__panel">
+      <button class="modal__close" data-close aria-label="Close">&times;</button>
+      <div class="modal__accent"></div>
+      <span class="modal__size">1.5&ndash;3 m</span>
+      <h3 id="modal-architect-title" class="modal__title">Architect</h3>
+      <p class="modal__copy">A 1.5 m statement piece. Made to commission, shipped in a custom crate, installed by two people with a hand truck. Stands taller than a child.</p>
+      <dl class="modal__specs">
+        <div><dt>Edition</dt><dd>Made to commission</dd></div>
+        <div><dt>Material</dt><dd>Matte porcelain, amber glaze</dd></div>
+        <div><dt>Weight</dt><dd>~180 kg</dd></div>
+      </dl>
+    </article>
+  </div>
+
+  <script src="./main.js" defer></script>
+</body>
+</html>

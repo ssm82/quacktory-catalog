@@ -1,0 +1,20 @@
+{
+  "slug": "thefwa_reanimated-i-move-u",
+  "palette": {
+    "bg": "#EEF2DD",
+    "fg": "#2B2A29",
+    "accent": "#E60012",
+    "muted": "#888888",
+    "ink": "#1F1F1F",
+    "surface": "#F5F5F4"
+  },
+  "fonts": {
+    "display": "Fredoka",
+    "body": "Quicksand",
+    "mono": ""
+  },
+  "hero_pattern": "D",
+  "register": "kawaii",
+  "duck_eye_decor": "heart",
+  "cta_register": "Move with us"
+}

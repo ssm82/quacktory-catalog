@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quacktory — Serious ducks for not-so-serious people.</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="main.js" defer></script>
+</head>
+<body>
+  <header class="utility">
+    <a class="wordmark" href="#top" aria-label="Quacktory">Quacktory</a>
+    <div class="utility-pill">
+      <button class="share-button" type="button">Share <span class="share-count">0 / 132</span></button>
+      <span class="utility-divider" aria-hidden="true"></span>
+      <button class="gear-button" type="button" aria-label="Gallery settings">⚙</button>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="museum-hero" aria-labelledby="hero-title">
+      <h1 class="wall-mark" id="hero-title">4—300</h1>
+      <div class="vitrine" aria-label="Size lineup">
+        <span class="pedestal pedestal--classic" aria-hidden="true"></span>
+        <span class="plinth plinth--mega" aria-hidden="true"></span>
+
+        <button class="duck duck-designer" type="button" data-product="designer">
+          <span class="duck-halo" aria-hidden="true"></span>
+          <span class="duck-ring" aria-hidden="true"></span>
+          <img class="duck-image" src="./assets/product-designer.jpg" alt="Designer 15–30 cm">
+          <span class="duck-reflect" aria-hidden="true"></span>
+          <span class="duck-label">Designer · 15–30 cm</span>
+          <span class="tooltip-pill">Open</span>
+        </button>
+
+        <button class="duck duck-architect" type="button" data-product="architect">
+          <span class="duck-halo" aria-hidden="true"></span>
+          <span class="duck-ring" aria-hidden="true"></span>
+          <img class="duck-image" src="./assets/product-architect.jpg" alt="Architect 1.5–3 m">
+          <span class="duck-reflect" aria-hidden="true"></span>
+          <span class="duck-label">Architect · 1.5–3 m</span>
+          <span class="tooltip-pill">Open</span>
+        </button>
+
+        <button class="duck duck-classic" type="button" data-product="classic">
+          <span class="duck-halo" aria-hidden="true"></span>
+          <span class="duck-ring" aria-hidden="true"></span>
+          <img class="duck-image" src="./assets/product-classic.jpg" alt="Classic 10–25 cm">
+          <span class="duck-reflect" aria-hidden="true"></span>
+          <span class="duck-label">Classic · 10–25 cm</span>
+          <span class="tooltip-pill">Open</span>
+          <span class="duck-callout duck-callout--green">Try it</span>
+        </button>
+
+        <button class="duck duck-micro" type="button" data-product="micro">
+          <span class="duck-halo" aria-hidden="true"></span>
+          <span class="duck-ring" aria-hidden="true"></span>
+          <img class="duck-image" src="./assets/product-micro.jpg" alt="Micro 4–8 cm">
+          <span class="duck-reflect" aria-hidden="true"></span>
+          <span class="duck-label">Micro · 4–8 cm</span>
+          <span class="tooltip-pill">Open</span>
+        </button>
+
+        <button class="duck duck-mega" type="button" data-product="mega">
+          <span class="duck-halo" aria-hidden="true"></span>
+          <span class="duck-ring" aria-hidden="true"></span>
+          <img class="duck-image" src="./assets/product-mega.jpg" alt="Mega 50–120 cm">
+          <span class="duck-reflect" aria-hidden="true"></span>
+          <span class="duck-label">Mega · 50–120 cm</span>
+          <span class="tooltip-pill">Open</span>
+          <span class="duck-callout duck-callout--amber">Tap here</span>
+        </button>
+      </div>
+      <div class="scene-floor" aria-hidden="true"></div>
+    </section>
+
+    <nav class="timeline" aria-label="Size lineup">
+      <span class="timeline-edge">4 cm</span>
+      <div class="timeline-track">
+        <button class="timeline-node" type="button" data-product="micro"><span class="node-dot"></span><span class="node-label">Micro</span></button>
+        <button class="timeline-node" type="button" data-product="classic"><span class="node-dot"></span><span class="node-label">Classic</span></button>
+        <button class="timeline-node" type="button" data-product="designer"><span class="node-dot"></span><span class="node-label">Designer</span></button>
+        <button class="timeline-node" type="button" data-product="mega"><span class="node-dot"></span><span class="node-label">Mega</span></button>
+        <button class="timeline-node" type="button" data-product="architect"><span class="node-dot"></span><span class="node-label">Architect</span></button>
+      </div>
+      <span class="timeline-edge">3 m</span>
+    </nav>
+  </main>
+
+  <div class="modal" aria-hidden="true">
+      <button class="modal-overlay" type="button" aria-label="Close"></button>
+      <section class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+        <button class="modal-close" type="button" aria-label="Close">×</button>
+        <span class="modal-accent" aria-hidden="true"></span>
+        <p class="modal-size"></p>
+        <h2 class="modal-title" id="modal-title"></h2>
+        <p class="modal-description"></p>
+        <dl class="modal-facts">
+          <div class="modal-fact"><dt>Audience</dt><dd class="modal-audience"></dd></div>
+          <div class="modal-fact"><dt>Price positioning</dt><dd class="modal-price"></dd></div>
+          <div class="modal-fact"><dt>Age</dt><dd class="modal-age"></dd></div>
+        </dl>
+      </section>
+  </div>
+</body>
+</html>

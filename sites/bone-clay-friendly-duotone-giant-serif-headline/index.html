@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Quacktory — a journey from 4 cm to 3 m</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main>
+  <!-- HERO — friendly pastel sky world -->
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="sky" aria-hidden="true"></div>
+    <div class="water" aria-hidden="true"></div>
+
+    <div class="island" aria-hidden="true">
+      <span class="sand"></span>
+      <span class="rock"></span>
+      <span class="rock r2"></span>
+      <span class="palm p1"></span>
+      <span class="palm p2"></span>
+      <span class="palm p3"></span>
+      <span class="tree t1"></span>
+      <span class="tree t2"></span>
+      <span class="umbrella u1"></span>
+      <span class="chair c1"></span>
+      <span class="chair c2"></span>
+      <span class="hut"></span>
+    </div>
+
+    <div class="lighthouse" aria-hidden="true">
+      <span class="lh-tower"></span>
+      <span class="lh-lantern"></span>
+      <span class="lh-rock"></span>
+    </div>
+
+    <div class="boat" aria-hidden="true">
+      <span class="b-cabin"></span>
+      <span class="b-roof"></span>
+      <span class="b-mast"></span>
+      <span class="b-flag"></span>
+      <span class="b-hull"></span>
+      <div class="mascot">
+        <span class="m-arm l"></span>
+        <span class="m-arm r"></span>
+        <span class="m-leg l"></span>
+        <span class="m-leg r"></span>
+        <span class="m-body"></span>
+        <span class="m-head"></span>
+        <span class="m-face"></span>
+        <span class="m-hat"></span>
+      </div>
+      <span class="b-rail"></span>
+    </div>
+
+    <div class="head-stack">
+      <p class="welcome">Welcome to</p>
+      <h1 id="hero-title" class="big">QUACK<br>WORLD</h1>
+    </div>
+
+    <div class="cta-stack">
+      <a href="#scale" class="pill">
+        <span class="cta-mark" aria-hidden="true"></span>
+        <span>Start the journey</span>
+      </a>
+      <p class="secondary">Already with us? <a href="#contact" class="link">sign in to continue</a></p>
+    </div>
+  </section>
+
+  <!-- SCALE: round bubbles like islands -->
+  <section id="scale" class="scale" aria-labelledby="scale-title">
+    <header class="sec-head">
+      <span class="eyebrow">Lineup</span>
+      <h2 id="scale-title">Five islands on the map</h2>
+      <p>Click an island to open the duck's passport.</p>
+    </header>
+
+    <div class="bubbles">
+      <button class="bubble b-micro" data-sku="micro" aria-label="Micro 4 cm">
+        <img src="./assets/product-micro.jpg" alt="">
+        <span class="lbl"><b>Micro</b><i>4 cm</i></span>
+      </button>
+      <button class="bubble b-classic" data-sku="classic" aria-label="Classic 18 cm">
+        <img src="./assets/product-classic.jpg" alt="">
+        <span class="lbl"><b>Classic</b><i>18 cm</i></span>
+      </button>
+      <button class="bubble b-designer" data-sku="designer" aria-label="Designer 25 cm">
+        <img src="./assets/product-designer.jpg" alt="">
+        <span class="lbl"><b>Designer</b><i>25 cm</i></span>
+      </button>
+      <button class="bubble b-mega" data-sku="mega" aria-label="Mega 80 cm">
+        <img src="./assets/product-mega.jpg" alt="">
+        <span class="lbl"><b>Mega</b><i>80 cm</i></span>
+      </button>
+      <button class="bubble b-architect" data-sku="architect" aria-label="Architect 3 m">
+        <img src="./assets/product-architect.jpg" alt="">
+        <span class="lbl"><b>Architect</b><i>3 m</i></span>
+      </button>
+    </div>
+  </section>
+
+  <!-- LAB -->
+  <section id="lab" class="lab">
+    <header class="sec-head">
+      <span class="eyebrow">Workshop</span>
+      <h2>How we make our ducks</h2>
+    </header>
+    <div class="cards">
+      <article><h3>Solid rubber</h3><p>Silicone or natural EPDM rubber. No inserts or glued seams.</p></article>
+      <article><h3>Eyes — pigment</h3><p>Black pupil + white sclera. Food-grade silicone dye applied post-vulcanization.</p></article>
+      <article><h3>Five inspections</h3><p>Visual, geometry, 1 m drop test, odor test, gravimetry ±3%.</p></article>
+      <article><h3>Casting by size</h3><p>Micro — injection. Classic — compression. Designer — hand-poured flask. Mega — rotational. Architect — sculptural.</p></article>
+      <article><h3>Temperature</h3><p>−20 °C … +60 °C. Indoor use only. Protected from direct UV.</p></article>
+      <article><h3>Care</h3><p>Warm water and mild soap. No abrasives, alcohols, or bleach.</p></article>
+    </div>
+  </section>
+
+  <!-- B2B -->
+  <section id="b2b" class="b2b">
+    <header class="sec-head">
+      <span class="eyebrow">B2B · Custom</span>
+      <h2>12 signature TPM colors</h2>
+      <p>Pigment is mixed into the mass before casting — not a surface paint.</p>
+    </header>
+    <ul class="b2b-list">
+      <li><b>Micro · Classic</b><span>3 weeks · wholesale from 200 pcs</span></li>
+      <li><b>Designer</b><span>6 weeks · artist approval</span></li>
+      <li><b>Mega</b><span>6 weeks · pallet delivery</span></li>
+      <li><b>Architect</b><span>12 weeks · survey and installation</span></li>
+    </ul>
+  </section>
+
+  <!-- CARE -->
+  <section id="care" class="care">
+    <header class="sec-head">
+      <span class="eyebrow">Care & compliance</span>
+      <h2>Certificates & passports</h2>
+    </header>
+    <div class="cards">
+      <article><h3>GOST 25779-83</h3><p>Rubber toys.</p></article>
+      <article><h3>EN 71-3</h3><p>Chemical migration within limits for ages 3+.</p></article>
+      <article><h3>REACH</h3><p>Free of phthalates and bisphenol A.</p></article>
+      <article><h3>Age</h3><p>Micro 4 cm — 6+; Classic — 3+; Designer — 6+; Mega — not a toy; Architect — installation by certified crew.</p></article>
+      <article><h3>Environment</h3><p>Indoor use only. Protected from UV and oils/solvents.</p></article>
+      <article><h3>Packaging</h3><p>Recycled cardboard, no polyethylene. Architect — wooden crate with climate control.</p></article>
+    </div>
+  </section>
+</main>
+
+<footer id="contact" class="foot">
+  <div class="foot-row">
+    <span class="brand-small">QUACKTORY</span>
+    <span>Serious ducks for not-so-serious people.</span>
+    <span class="share-pill">
+      <button id="shareBtn">Share</button>
+      <span><b id="shareCount">0</b> / 132</span>
+    </span>
+    <span>© Quacktory</span>
+  </div>
+</footer>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle" hidden>
+  <div class="modal-overlay" data-close></div>
+  <article class="modal-card">
+    <button class="modal-close" data-close aria-label="Close">×</button>
+    <div class="modal-img"><img id="modalImg" src="" alt=""></div>
+    <div class="modal-body">
+      <span class="modal-eyebrow" id="modalEyebrow"></span>
+      <h3 id="modalTitle"></h3>
+      <p id="modalDesc"></p>
+      <dl class="modal-spec">
+        <div><dt>Size</dt><dd id="modalSize"></dd></div>
+        <div><dt>Comparison</dt><dd id="modalCompare"></dd></div>
+        <div><dt>Price</dt><dd id="modalPrice"></dd></div>
+        <div><dt>Lead time</dt><dd id="modalLead"></dd></div>
+      </dl>
+      <button class="pill" data-close><span>Close</span><span class="x-mark" aria-hidden="true">×</span></button>
+    </div>
+  </article>
+</div>
+<script src="main.js" defer></script>
+</body>
+</html>
